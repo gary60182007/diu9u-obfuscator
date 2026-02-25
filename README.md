@@ -1,8 +1,8 @@
-# 8====D~~~ diu9u Obfuscator v4.2 ~~~D====8
+# 8====D~~~ diu9u Obfuscator v4.3 ~~~D====8
 
 **English** | [中文](#中文版)
 
-A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, NSFW signature style, and zero dependencies.
+A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, **Control Flow Flattening**, NSFW signature style, and zero dependencies.
 
 Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `continue`, `type`, if-then-else expressions, string interpolation, type annotations, etc.) and requires zero compilation — just Python 3.
 
@@ -12,10 +12,15 @@ Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `con
 
 | Pass | Description |
 |------|-------------|
-| **Bytecode VM** ⭐ | Full AST parser → custom bytecode compiler → VM interpreter generator. Handler table splitting, randomized opcodes, junk NOPs, XOR-encrypted prototypes, anti-debug, decoy handlers |
+| **Bytecode VM** ⭐ | Full AST parser → custom bytecode compiler → VM interpreter generator. Handler table splitting, control flow flattening, multi-round encryption, opaque predicates, decoy handlers |
 | **VM Nesting** ⭐ NEW | Multi-layer VM virtualization — VM output is re-compiled into another VM with independent opcode maps and encryption keys |
 | **Anti-Debug** ⭐ NEW | GC timing detection, debug library neutralization, callstack depth verification, environment integrity checks — silent corruption instead of crash |
-| **Decoy Handlers** ⭐ NEW | Fake opcode handlers that look real but are never called, confusing static analysis |
+| **Control Flow Flattening** ⭐ NEW | State-machine dispatcher inside handler bodies — linearizes control flow, defeats pattern matching |
+| **Multi-Round Encryption** ⭐ NEW | 3-round XOR with per-round key derivation replaces simple XOR — each round uses a different derived key |
+| **Opaque Predicates** ⭐ NEW | Dead branches with mathematically false conditions injected inside handlers |
+| **Handler Mutation** ⭐ NEW | Equivalent instruction patterns randomized each build (`+1` → `+(2-1)`, `==0` → `<1`) |
+| **String Encoding** ⭐ NEW | VM internal string literals encoded with per-string XOR keys — no plaintext in output |
+| **Decoy Handlers** | Fake opcode handlers that look real but are never called, confusing static analysis |
 | **Comment Stripping** | Removes all single-line and multi-line comments |
 | **String Encryption** | XOR encryption with random 32-byte key + runtime decoder |
 | **Variable Renaming** | Local variable renaming with multiple styles (ilI, nsfw, hex, underscore) |
@@ -119,19 +124,23 @@ The strongest protection mode. Your Lua/Luau source is:
 
 The VM interpreter features:
 - **Handler table splitting** — each opcode is a separate closure in a randomized table (no if-elseif chain)
+- **Control flow flattening** — multi-line handlers wrapped in state-machine dispatchers with shuffled states
+- **Opaque predicates** — dead branches with always-false conditions injected between real statements
+- **Handler code mutation** — equivalent expressions randomized each build (`~=0` → `>0`, `+1` → `+(2-1)`)
+- **Multi-round encryption** — 3-round XOR with per-round derived keys (not simple single-pass XOR)
+- **String encoding** — VM internal strings encoded with per-string XOR keys at build time
 - **Arithmetic/comparison sub-functions** — operations routed through randomized indirect call graph
 - **Per-prototype constant encryption** — XOR key per prototype, runtime decode on first load
 - **Randomized opcodes** — opcode IDs shuffled every build, extra junk opcodes added
-- **Junk NOP injection** — fake instructions with correct jump offset fixups
-- **XOR-encrypted prototype data** — loaded via `loadstring`
 - **4-10 decoy handlers** — fake handlers that look real but are never called
 - **Runtime integrity counter** — periodic type checks on handler table during execution
 
 ```
 Source → [AST] → [Bytecode: 42 opcodes, registers, upvalues]
-  → [Shuffle opcodes] → [Inject junk NOPs] → [XOR encrypt per-prototype]
-  → [Generate handler table with decoys + sub-functions]
-  → [Inject anti-debug checks] → Output: self-contained Lua VM
+  → [Shuffle opcodes] → [Inject junk NOPs] → [3-round XOR encrypt]
+  → [Generate handlers] → [Flatten control flow] → [Inject opaque predicates]
+  → [Mutate code patterns] → [Encode strings] → [Add decoys]
+  → [Inject anti-debug] → Output: self-contained Lua VM
 ```
 
 51KB source → 2.7MB output with `--bytecode-vm --name-style nsfw --layers 1`
@@ -229,16 +238,21 @@ Full support for Luau-specific syntax:
 
 ## Comparison
 
-| | **diu9u v4.2** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v4.3** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau Support | ✅ Full | ❌ | ✅ |
 | Price | Free | Free | $8-30/mo |
 | Dependencies | Python 3 | .NET SDK | Web |
 | Bytecode VM | ✅ | ✅ | ✅ |
 | Handler Table Splitting | ✅ | ❌ | ✅ |
+| Control Flow Flattening | ✅ State-machine | ❌ | ✅ |
 | VM Nesting | ✅ | ❌ | ✅ |
+| Multi-Round Encryption | ✅ 3-round derived | ❌ | ✅ |
 | Constant Encryption | ✅ Per-prototype | ❌ | ✅ |
 | Anti-Debug | ✅ 5 checks | ❌ | ✅ |
+| Opaque Predicates | ✅ In-handler | ❌ | ✅ |
+| Handler Mutation | ✅ | ❌ | ❌ |
+| String Encoding | ✅ Per-string key | ❌ | ✅ |
 | Decoy Handlers | ✅ | ❌ | ❌ |
 | NSFW Mode | ✅ 8====D | ❌ | ❌ |
 | Meme Strings | ✅ 80+ | ❌ | ❌ |
@@ -264,11 +278,11 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 
 <a id="中文版"></a>
 
-# 8====D~~~ diu9u 混淆器 v4.2 ~~~D====8
+# 8====D~~~ diu9u 混淆器 v4.3 ~~~D====8
 
 [English](#8d-diu9u-obfuscator-v42-d8) | **中文**
 
-兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、NSFW 签名风格，零依赖。
+兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、NSFW 签名风格，零依赖。
 
 与 Ironbrew 2 不同，本混淆器**原生支持 Luau 语法**（`+=`、`continue`、`type`、if-then-else 表达式、字符串插值、类型注解等），无需编译 — 只需 Python 3。
 
@@ -278,10 +292,15 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 
 | 功能 | 说明 |
 |------|------|
-| **字节码虚拟机** ⭐ | 完整 AST 解析器 → 自定义字节码编译器 → VM 解释器生成器。Handler 表分裂、随机化操作码、垃圾 NOP、XOR 加密原型、反调试、诱饵处理器 |
+| **字节码虚拟机** ⭐ | 完整 AST 解析器 → 自定义字节码编译器 → VM 解释器生成器。Handler 表分裂、控制流平坦化、多轮加密、不透明谓词、诱饵处理器 |
 | **VM 嵌套** ⭐ 新功能 | 多层 VM 虚拟化 — VM 输出重新编译为另一个 VM，独立操作码映射和加密密钥 |
 | **反调试** ⭐ 新功能 | GC 计时检测、debug 库中和、调用栈深度验证、环境完整性检查 — 静默破坏而非崩溃 |
-| **诱饵处理器** ⭐ 新功能 | 看起来像真的但永远不会被调用的假操作码处理器，干扰静态分析 |
+| **控制流平坦化** ⭐ 新功能 | Handler 内部状态机调度器 — 线性化控制流，击败模式匹配 |
+| **多轮加密** ⭐ 新功能 | 3 轮 XOR + 每轮密钥派生，替代简单 XOR — 每轮使用不同的派生密钥 |
+| **不透明谓词** ⭐ 新功能 | 在 handler 内部注入数学上永远为假的死分支 |
+| **Handler 变异** ⭐ 新功能 | 每次构建随机化等价指令模式（`+1` → `+(2-1)`、`==0` → `<1`） |
+| **字符串编码** ⭐ 新功能 | VM 内部字符串用独立 XOR 密钥编码 — 输出中无明文 |
+| **诱饵处理器** | 看起来像真的但永远不会被调用的假操作码处理器，干扰静态分析 |
 | **注释剥离** | 移除所有单行和多行注释 |
 | **字符串加密** | XOR 加密 + 随机 32 字节密钥 + 运行时解码器 |
 | **变量重命名** | 局部变量重命名，支持多种风格（ilI、nsfw、hex、underscore） |
@@ -385,17 +404,23 @@ python obfuscator.py input.lua --no-encrypt --no-honeypots --no-traps
 
 VM 解释器特点：
 - **Handler 表分裂** — 每个操作码是随机化表中的独立闭包（无 if-elseif 链）
+- **控制流平坦化** — 多行 handler 用状态机调度器包装，状态随机打乱
+- **不透明谓词** — 在真实语句之间注入永远为假的死分支
+- **Handler 变异** — 每次构建随机化等价表达式（`~=0` → `>0`、`+1` → `+(2-1)`）
+- **多轮加密** — 3 轮 XOR + 每轮派生密钥（非简单单次 XOR）
+- **字符串编码** — VM 内部字符串用独立 XOR 密钥编码
 - **算术/比较子函数** — 操作通过随机化间接调用图路由
-- **原型级常量加密** — 每个原型独立 XOR 密钥，首次加载时运行时解码
+- **原型级常量加密** — 每个原型独立 XOR 密钥，首次加载时解码
 - **随机化操作码** — 每次构建操作码 ID 随机打乱 + 垃圾操作码
 - **4-10 个诱饵处理器** — 看起来像真的但永远不会被调用
 - **运行时完整性计数器** — 定期检查 handler 表类型
 
 ```
 源码 → [AST] → [字节码: 42 操作码, 寄存器, upvalue]
-  → [打乱操作码] → [注入垃圾 NOP] → [原型级 XOR 加密]
-  → [生成 handler 表 + 诱饵 + 子函数]
-  → [注入反调试检查] → 输出: 自包含 Lua VM
+  → [打乱操作码] → [注入垃圾 NOP] → [3 轮 XOR 加密]
+  → [生成 handler] → [平坦化控制流] → [注入不透明谓词]
+  → [变异代码模式] → [编码字符串] → [添加诱饵]
+  → [注入反调试] → 输出: 自包含 Lua VM
 ```
 
 51KB 源码 → 2.7MB 输出（`--bytecode-vm --name-style nsfw --layers 1`）
@@ -472,16 +497,21 @@ VM 启动前注入 5 项静默检查：
 
 ## 对比
 
-| | **diu9u v4.2** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v4.3** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau 支持 | ✅ 完整 | ❌ | ✅ |
 | 价格 | 免费 | 免费 | $8-30/月 |
 | 依赖 | Python 3 | .NET SDK | Web |
 | 字节码 VM | ✅ | ✅ | ✅ |
 | Handler 表分裂 | ✅ | ❌ | ✅ |
+| 控制流平坦化 | ✅ 状态机 | ❌ | ✅ |
 | VM 嵌套 | ✅ | ❌ | ✅ |
+| 多轮加密 | ✅ 3轮派生 | ❌ | ✅ |
 | 常量加密 | ✅ 原型级 | ❌ | ✅ |
 | 反调试 | ✅ 5项检查 | ❌ | ✅ |
+| 不透明谓词 | ✅ Handler 内 | ❌ | ✅ |
+| Handler 变异 | ✅ | ❌ | ❌ |
+| 字符串编码 | ✅ 独立密钥 | ❌ | ✅ |
 | 诱饵处理器 | ✅ | ❌ | ❌ |
 | NSFW 模式 | ✅ 8====D | ❌ | ❌ |
 | Meme 字符串 | ✅ 80+ | ❌ | ❌ |
