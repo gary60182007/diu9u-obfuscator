@@ -15,1268 +15,1323 @@
                   \      /
                    `----'
        lmao imagine reading this
-    BUILD:d52f7a30e342  |  https://diu9u.io
+    BUILD:9678cdc0a2a6  |  https://diu9u.io
     if you're reading this, you already lost
 ]=]
-local ween_xd=unpack or table.unpack;
-local ahegao_owo=string["\114".."\101\112"];local chode_energy=table["\99\111\110\99\97\116"];local ahegao1337=string["\99\104".."\97\114"];local tool_turbo=string["\98\121\116\101"];local gooch_daddy=math["\102\108\111\111\114"];local dingus_mode=string["\117\110\112".."\97\99\107"];local hentai_sus=string["\115\117\98"];local coom_ultra=tostring;local penis_energy=type;local penis420=error;local gooch_turbo=pairs;local chode_based=pcall;
-local yeet_zone={};local pee_sus;do local rod_sus="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for sussy420=1,91 do yeet_zone[tool_turbo(rod_sus,sussy420)]=sussy420-1 end;function pee_sus(wang_big) local dildo_v2={};local tit_owo=0;local boob_pro=0;local ween_giga=-1;for sussy420=1,#wang_big do local tool_sus=yeet_zone[tool_turbo(wang_big,sussy420)];if tool_sus then if ween_giga<0 then ween_giga=tool_sus else ween_giga=ween_giga+tool_sus*91;local dick_long=13;if ween_giga%8192>88 then dick_long=13 else dick_long=14 end;tit_owo=tit_owo+ween_giga*(2^boob_pro);boob_pro=boob_pro+dick_long;while boob_pro>=8 do dildo_v2[#dildo_v2+1]=ahegao1337(tit_owo%256);tit_owo=gooch_daddy(tit_owo/256);boob_pro=boob_pro-8 end;ween_giga=-1 end end end;if ween_giga>=0 then tit_owo=tit_owo+ween_giga*(2^boob_pro);dildo_v2[#dildo_v2+1]=ahegao1337(tit_owo%256) end;return chode_energy(dildo_v2) end end;
-local function fap_giga(butt_mode) local shaft_xd={};local tool_pro=0;local tit_based=1;local simp_big=#butt_mode;while tit_based<=simp_big do local ass_senpai=tool_turbo(butt_mode,tit_based);tit_based=tit_based+1;local poop_sus=ass_senpai;for milf_xd=0,7 do if tit_based>simp_big then break end;if poop_sus%2==0 then tool_pro=tool_pro+1;shaft_xd[tool_pro]=tool_turbo(butt_mode,tit_based);tit_based=tit_based+1 else local pee_zone=tool_turbo(butt_mode,tit_based);local lewds_senpai=tool_turbo(butt_mode,tit_based+1);tit_based=tit_based+2;local penis_giga=gooch_daddy(pee_zone/16)+3;local pecker_based=(pee_zone%16)*256+lewds_senpai;local simp_kun=tool_pro-pecker_based;for coomer_san=1,penis_giga do tool_pro=tool_pro+1;shaft_xd[tool_pro]=shaft_xd[simp_kun+coomer_san] end end;poop_sus=gooch_daddy(poop_sus/2) end end;local hentai_zone={};for coomer_san=1,tool_pro do hentai_zone[coomer_san]=ahegao1337(shaft_xd[coomer_san]) end;return chode_energy(hentai_zone) end;
-local function pp_based(coom_zone,chode_giga) return bit32 and bit32.bxor(coom_zone,chode_giga) or (function(weiner_daddy,thicc_mode) local sack_kun,ahegao_v2=0,1;for fap_bruh=0,7 do local fap_soft,boner_wet=weiner_daddy%2,thicc_mode%2;if fap_soft~=boner_wet then sack_kun=sack_kun+ahegao_v2 end;weiner_daddy=(weiner_daddy-fap_soft)/2;thicc_mode=(thicc_mode-boner_wet)/2;ahegao_v2=ahegao_v2*2 end;return sack_kun end)(coom_zone,chode_giga) end;
-local function horny_wet(wang_energy,balls1337) local sack_zone={};for ween_v2=1,#wang_energy do sack_zone[ween_v2]=tool_turbo(wang_energy,ween_v2) end;for wank_energy=2,0,-1 do for ween_v2=1,#sack_zone do local butt_sus=((ween_v2-1)%#balls1337)+1;local meat_long=(pp_based(tool_turbo(balls1337,butt_sus)+wank_energy*37+(butt_sus-1)*13,0))%256;sack_zone[ween_v2]=pp_based(sack_zone[ween_v2],meat_long);end end;local simp_soft={};for ween_v2=1,#sack_zone do simp_soft[ween_v2]=ahegao1337(sack_zone[ween_v2]) end;return chode_energy(simp_soft) end;
-local dong_moment="vffL/Y^#(B'(qF;s%VZ,jQa_^Jk7]GCcE-I#_66yt*M.(6?b^LFp5Vf'@aS^K$@7[MKN@$CZ%,'Ou1XJ![g;38U%>{{[LFm(++#hIp1)9QL_0njuLXQkM/1I!PRbf/H@3&t[&briAC,]Zl)EaGwAR!~XoTH01zuV2EYg/A9}9prH~]1~J(_,gYetJ3a)*u_<Z.C^5BQ]x0Z0gZ5'fG6t|a@x27abvgXJt6$Ps#5d:Wdm*MI'<:ST]yRo:DcH_*J,y<EB=:#6eo*@jCRUDqrBosJT)rdf1(|o(^Omh)B>Wcw9m,8{(S[J]EX;/dmlaFxG+J3:.|^*v,/|&[S04%c8o_6vdtjJJsXd6lm|49#Om]:W1f[XngYhq#SvnIKrs{o~}t7/'sJZB?GY4vn_GAJA4$1=m<YoQb8^W6#wUNsHsb<$l_/.QN<MD=[@[Q:TluU.jiYWvPa{i'jTo38XyQWYD7/4=9q'L%{<='fCFLJx@O!W!Fu/r4Cu{&e}:(PZ3Fc1Z1QJZ2K#~tLb6~[j4DbDMd?=|i#jeGn6B3.CM5LyZHLA#AhV(3xiPdgX25uG2#9RS3n76#)86J0U3:[?]l-kG)-KR|NVA8GKQ&nxL6sk%*p21;+kPD=jgs@$l&0u~S6!RsEk^/e)C{Od8$4et$k6q&/VG?eaN7OI=s~Q&2eQLwc9@^Vmpt+5#uddf*[^}x+F(a:FA?g>{qZhG]K12!=9j%|l5&%g4h'8lpfG~Cl)){:?7|[ZoefU{q'>xakGTaD$SDa3(@@yi:N[|SlT%H]HHx!kjqk_yP9=o--2X3M%=H(5h^x6!:$ysv6qKy1UM+7J<0-A(Hdu+e}6I^8>>Ib&sv=)rE/ua;>qUJ/%)+IgO;7t-&L]!f~D7g2o4q<Wb/h'u!=[uq-k6{viT'y#?>hX?.ilHG?UAj'j}6rbRzv0hIU?JxMA01P}(TqwO@F]YG>|G?ied=vyHVJj'0KTWpRfmCCVJ_BZuC_Ns.LjC?znSz<q^AVR5$A@O_3#mvZ4J|8^zq1}Xu=I<zH{o=noq_jm.wml~S6t);w.&mgO/FKQ3%hPD$i1j<Dei_spA++&.<F$tuw)5;$Qqw~DSi=R9_NwN0S.6%i^j,Zw@+*dIf_KQ@PjIh|4]A%fv3Q8?UsMHLQ?>3*Xzn?(1kvjfP*;!_ozME1Tl1O;5AhDni,kM/GD_bBQgrY){'F{*mS_}D^bb(Y;l{(0;L^koY6^k(NSHrfqSl;%]}D]?bYuyW|eO+4/+Ckj92N$2.wSILBVdvpd?LHMO2]?j$}l?dxAxFxQ75hUXg2O^YGmk1zKAul:d*:I%ysq+Yief9pMesTQ|)@T_ug1f{T)3Wp1.ig?fgmzP6Yf{@bqJzg)Z3rl#6aT!yig3=@%;Q*:VX*BTqV[n012Dh@8<9xJvVQxbFCWV5i<lzuRl7'h92CKvanUdo;*[dmhJh]Y._OFD+0DoNpG|0mjZ:/&+7k;Xr#;#A&D-W,e+f1Y[0y~c)w,:F_c0)DpIrX-pP=e&N=:E8QP2,_rL]A40n(8o$i5B}R7S$aj*8Nmk=83A}!&.42h_soy8GC2~ZN.TVz{c^bHn(d-RW&2x'BIOTD%wZlEtO5bQ8V7%idRSoWq!@q{Pl.,|6ur%]/Z>*e9NX8h/1vt9aC)I{!a0V[5nWyoG;D?X=W8D13(iD@K=im76Q+f#/3niu!Hv/zL78+k:EUSf4ajO%|g]N^v*S-8_M#z96,;;$B8/_!+ocyx;di_%GV3{NQI)9r#/VSp2@:4Ejl5GDX<]gQ&]VMp<ICihB/x~QCbA63WTbdV*/f6@mVa2IEX7*{m$7T19}m*m8{^>CLKV+/'MKp9aI^A&69Yd}k^z(84K!9=nWmMFRy3$NeAaS;+{2,:5gf1TtIfH<*.wZsbwz6u)W!YQ<jJE|bDe#ku(0QGyo/zX8S@C['L~TsEljYB'qbOov}|~h)I9y%kd%rO09,]w,W4Ut5n2Eo[0)%dYz<lG+}+c'bi3di,xc)RN~61(&^IYC~FdIJK(!Ylyh$5Rg>[.AI*p0*ky4v0JYDQQ;$RvP<89R8EW>j1^95&(o5pd*>IAG:R9r^-*q/gAiG^*b>t?.^rA}NbZ1paC>dkj@Mb!=xN(gvNChLhUF,<<O!ZUc_',Cfz{tpwFoek?sQ$TnQUQV>]812ue_c6,b4D#'Id$lF@*&iHaT56V'c_$BczwY[W&=twJ&L!HVZ.<xXVezIC'!Ov>_N@Ni5Wf?+IP;i{&Ma4v=j<ZT}5m0&[lln7Dfcoj4P]4}hRUFvv]($O@'#VYNe:W95?Re,;1hA2;@x7?sYGRt3/hx/q9W3LaB%.e~YO]hIT;ilxg;=o]KdKvg)IaZl),/3?zk9UZ7L]-S!b+DUg#u>?C$Tc~&yN^@_^9t#dsj1K;vv<R$^U3gpN^EIS1K4E*&B?Lq%3|'$xZ>De<Z)BQU/3=+0;?i(L5Q.G^J|KKVIs1gP?aA0YCHYil{vzE#K7,iqs'S<n3(^Qookv,F{~@ICkwp[TIutf(jr4+Njc%(M(rP![W,y<yK~fQFZ.tOH7kK;;7tl|=)DT8PEC7L9'(sz9LTzBg+;*}1/uN__LOG-et$3!W70H+|Oh6s<hMO-FLbJrX{Qc]n;|YySe53D%D:Yd:y)#qF:/uAp>n=n>D={j*{%s%5?sCjg'QH:aUXbBefl=IMrt!hI]_>VC=Hks!Z<xi1D[*ALWiH2#xnXiG$7Zrct6Y<f}|b-SeMXFwR)R=i!p$:vx&2?%!cE#+uN/V)h{-)%N,Snn{a~D).qIW2hVQm@bY>h,F#54)9O'R_[ubrT|OA%EL[gaEb{A?=0Q.2LWVB+V%i{*Si5.aQYViaSrb};1q[4QZ_uP'2@.t_HS#unmq}0&pb|c-@I~f=#147SPVL0DkglUnJuD(9W1>mt^c)Ou5Wj>#2MvMa(6+i)%BK@9MIZ*?~3.qw==.$#tPfTn$PD-k*?0:X*j:mW,A}s#PaF5hF./mjOkp-R[^)jtUm7AZwi9m{qauK(7j^H&8DHUCZrAP[h->@5^iEMppgmjNCXsHQzM/imQG)wbh0]YG#{+7AENx!4;B(KlhMAT&yYP{U!zn[~^X:zn6hQ;'Q?PEi++7lldPb~}&0F4:p#tW$QU1Fg;MaBaf(Wo]]|j:6Ne:9S:o4OuT;skWcU>7r|&Z7g*l5BA{%oR?C/?jk:9wo>F)?N'B(j3M8^oPuN6#~belV55@'f!IS?23a#_{i&YQ#@Pi/(Cd[F<bFRR?rYmxeE#>TtmGoY1jV$zModn+wMKr6V|UOTHq3f-Be_1b_d/FsM?+dqHHvaL6Myg7Ld1r6$RUg3wlWmo$?@4!Ivn^xKApa4McH,@QRFUzaUgti~s-]H7_5$gv{W;{@&.w2@kd,nva!ek^+?Up8ZC>=c1{x^>F.2#tF0?ab2%!bh,^L?a{{[Z5%H[#uG^:bFUt#%Xvt$%VL4b[;epSk}>KE=BJPoc[[,}CGVxO6)m)A=]t$BX[>|w&Rf,),cv(N==/}{K,&:]'m/UyfJXbo?e]xxY51HEj(;89jE+*A-0kz$[dBG.Rr/M-}c=pj_r{']MZ!)yUNs8b/(K'I~3m>&B]bdd^$H?+rh@^CwMb,ZHg}5_LD12-g2?j!n;}GS0$nW('I%CC$P,nD7N&<z@qhApmFjb!-!DQ9G>Yc#DbMTkP:cn<H|){gdw6<X[=Uz~u^Ho>p>GUhuUeB[@:Qeqh;Vf7W|IiIW2.CFI&E6BfEj/#}A0XaSa(i(']S0o(#O}6YbGq.QU|PyW1X'i{rd=3zzm&Fz_VvJ3=}leB/h#VB_6An35OD6{@<)n@R't=[[lr5sK$o%Tkq5y-'YBTT0kLkZBdL#g_':cQjr/~=1E3_<bp?2ZUI>b(iFVJA's%MDJ>%6$JbB:tXR;z;90T4qJ23B20Qv2W3tklc+K8/9^4L9CU7D3Y+F-b4x|U[0^d$}Lk^v66|n|_38s-j~i=W,euZY[%Ga4drN'Y2P:0rR2$Low?mKw-v+U^FhoungnI<Sw_kvgyC7ndR]-5U>_pfguB{D%P,y<]<'jUf(%?/gEf#]e3,l(tPb&X$ty0tx%)N_{$Fq*K%=|oKmF:uP2vHm}^Z>3i)w+Vz-aNp_l-w~?vYABWUR)t_a&6qZs'aCe;TiRcbb&;zVK)(-jV[s{-Vjbk[efA?0ta_w7}K_9Ca)]H^]Y=w9_U222K@5m7$_Fze6^<?/:,y*MjVl:yeg<Bmt8~2't#iDr18k6A7GCzv67^AI.L*YksTxyM~T@>@t5y9^,ds:igF53D,Xr>9FNwTRG:5y9hLefU:eTcs/CCUtIsIJ3z&x'DaSA{s~D)dDZ[zFN9rTTd5R,)fiqf?tyqZO/f|AE(&T4JlYQCfxqDQJ#'c=yUi*6y[p)||8/YAebX|_X:)3F)MlpE^gzwg;A*PH)'Q*Ruil{z-_t$@b)-v|V@$:=*X%>UMkA.gSvP-:L{=.Bj$IdI5l@>dEc{B/e]J+-VUOSbEHrC/0~#9RqpB]xQES@:l|GTQq>$YJQ*0~f(~&)yohlnO0QVQrHERL1rRtd+2qc.>pw[MvB63bVA<d)ly_n_FFR=.4rM{I%~K|jNrJPj5x)Z<NXMy0r[/<BI*2)bNqXL1+5y[!v,b!bdzkHRHU6@*/B#HpNox)R99}*|^g-fw^-m]WWa,qu]me%a<[njraAp<CyYV(0Swp$S{PaGt%bbkHEk+U/FBd&&-E7+erYwS%t{kS)R1Kt65-ahb7|7]0+M96L$WvpC:&1m;P0y.A+U4%TV^ENJpz#0G=2a]E+g(X~E4Pr.jc-G6}_u;{ojIt@S}v1ki6jfHa|c5Ue>pRvJ&H=6_2JX$^,W&T}K=ltY6oAA^;@<.L7XXeU%P9MCNT35WOFv-rb75i+A_8oHr6%d-rK~gCM.T&y?}7Y)AUGR|1.kgP&9Q#3;zXMJMv6Oqg*$27UB805FFWsII@?,+7^vAd<N,aB,h,_m/d]u.oyIo#nq_kvUnq71n$X1xkTicu#xilyyn'N9{kKNSao0ZzQOD[)u=NfrH4Ci9h18-qqSdx*1<#'RIK5NDF[W3sM0|2zE4tt@qD>kF!C0#1>LuvrgEtF~veBFeIu+j.iYZ9'<Rej8E)%cFw@[q.eD+OSACKX4T59R9u]eE|Qlc0u~R52bI=$e*Js8}qF!(9K=vo9d5FCKnN9<|'ofZfD=Iu}&O$@[}9c*_o[v6=><zr)QY@9rCiAhU=U)D}xo?ocU})DwW*a+?*~CIOMS4+g$@P]tG]8aC0(E;szpkR;-e&@B=Ri:fUg&kOZ=?kBqU./x^&,N[Cpa&dd_-(X!y%#(*I>FM&P238)WPoqa9_GCkS4~_J}a&iES8pc?%.MLV#)sGq?1v@XvP]yg)Z('4g0DDbq:0Ib{h0^H]]j%+PvC?E23a1NW&y>d*rI;#X$a5Ib0,]@K0vmcqU5XO;'}n0T]K@Qb}x{hR9f#5S6u_a|I)G[4LHVU'nA*+Loy:J/P>&Ujd{LOD$M55fFlp#/8VxcfT>cea5VZnqhkJOVy+D3e/V3wEw+@~k?&{b<b6n;Kr(ALLrJSX'6?wuqbq-H3nW+cN=TVhhZ_>k@=.6?]9>49~(bW>^X#^x8UlhBcY:ps5bzgGFx4v;H>z_YLD}7en'9xi&i1Of1Bzv:V+CyO!Ic@1_,B2o<PR#QSZ/:+2dHO2sd84-.)FBf|Qy>]^Z]ke5l-#v#:0y#&X9u8PRv0rx]z%^ka.nFq%v3xZT#gZ_Fc4/Ih,aEl4k4xs3N=E+zvZ>[]M&RHO5fWRPP0_p.H@l5;w'@1OLBb,5*nrOUszP<LEyTu<lfE-{,!:ix#])ItE{fzKrYVawiOIX*=<;SZwj!x+%%9.*NmW{3v@8#nIv4DY#xuHtv_pcXxJY(2):U/oxg*8#,*miX*%^J&=*w!*;,2tz8:PeQJt/*uy,kG;^KQm|av^f4SH]xlT?'KQ4X_ofOL5$G&1!Hq0XG)Shrnx5f*ikllEw?0ye]e0JusY!D'.B[QR5?coU9ek:]K0H77:jd_RS~L4rf<t7={C~i.+u[t.VPEP4N;S3AG|>70r'y+XO3>=J$#otZ:n@7V>%}c(x(riynO<D|m,e6NSI,-EaV7FuJB7^ZE<te9EBh|D*nNQJoIEhJ>8:Z#5.MRZYzN.yRg65,)l>TficqW_kf.t1P=aFM)[{#J{Ld{8Ln>cr/g@WTw~$bg^jubPJW)#~(?QGzkda*.VkJK}/,q(mHchz^Ly)1/^xDr5]0apH#CZ%gwG|{!s[l[j}GZsrLeVz#dG[S=&_=!A[kGph&l}CGTvG{d:*s9=3=f-8abnCtw-I<q7c/Lcm,Eg][(N6SE&;1CRaJl!C!Kh~*B-m7e@%dv3[lV:fe6oc#N*Go6=,&hBL)0;okASQih'FD<@AJxrry>@XcKWDle4%3an>'FX3hS$!@y.-;}P{R-u&=#%|0JM=Yka^*xEb#R$PfuqED#Vwa4n*Uab_?<+1,2eA;e97T&.'us]g~:6CpR,>Td+hOPT3<5Q].^Hf+EeX4O/T%mkCT]Oz#B<w=f*eRRwGC:PkAn0Nb{MhfdTJFcy%piS8:a|Ge<#O2)Tw~sMnW1wF0.UWt$vC)Dc|A$;FGVMkVMf$F(3_3OF>|5AlQBSgav^0@Tv+Ceuo2dxnwDSRtSqx7c?VEF]aU?~Xc%J[=J)Tai>S_,j$'/3)Bni3(c3KBOubT$C1^DS/B}S;|cDhy}Mn7r.chKF0%)[-=M}z;slu+&H>0%V'5=U1=wEU>$VnYsA?lLk]Xen6fuWnKV)b$tPQ-EUqzPS%==P<k<uo?!+HfoFJkKGl1^;BB'1EsWdU$kL{O4@]+e'@P9Fl3^=@E?WODa5a]Ex[R6jB7N_AYwpsBc(f;!Lv@zk-T<LkAtzE$Zs7YBbo^Kv)q]fjn23$fh0MS05{&Q0!>X3k0azv])ap6u}rX{DSR'+Ab?W_3chZq=D5maFVUr8J8M&?x9k:-OZZo_sp)gSD/u?gRfw4e@-FOUu7:Qh|EwqF=f+{f4bmf53BS;n<?BKo;S}FpPix%Izsy2A.:sYJo0);l-p5z42W[J+<bC8$*Wil[KyC:P)@4o-e)lF{;)}QYxHdsMO'JeX&T~*Q=75[[0fvL(:a&=ptUeQK?o|+)KOPcB$AVhqVI:*3GS0+(Q]fN>Kc0(B'Zw2n~&6PJ~i;kIy4d_Fi?vM%2M<p,3#:NOM%03}iT_'lj{ahP?atfJdeC40-+S.'I.Fd@LXXKdCFSffxdy}}=bBrP{,Iz.wZ5|(gJGwWXi,-VVg|f6+!hSbFj[rp!{Em03%O}R7_D]VESy&gR5R6AG'tx6D~z;|vOtVw<Rcd>|(CDy9_d4;&O~-0PhKC:f&Ch1=nat:<U|{q#w*v;2DAO<}hh5S/zDA@/w|2DJZSA}$wu,KV^N[J%I}b7Ok25Y:hT*;,rAj}{}<yB0Y2jZ[O=iX/c~K/c0L):<K@HX$7qGWEiy&Q]#/r;kGq)e5{@}kU8bQ)C8rF%oRVSaG]$'%>2W6ujN|ZRE|-(z%p;)Tt.jfUK~8X1/Mbz$}7MC&z%*L,D.^94}~%7+hKw[g-,0KKO30$R3kxGbJ)aeg_YM{%6cK+#jwL:;OgF*Xqaz7/9[OLvl=O57(@Zxb1uGNXrY$R{h&|@:f'Y]U5e}7jEM=EE3.o1c#>BtImbib3%@hZ}m*As<&|T6l0Ia@D0D{<rZC}H6wt,4b3DR0o^_5Ez_sybqV-{-fFjSMkD^qoBRd1p@q,Sg&5>&1Y[Gwe-GC:N?;pn+uVt~IQT.^ZZPBIbDF(10}c665l.nI~_V'DQBH5jT|p')C!KnRGB0z8&l<7X=9>~lU7KLGCMD&*pX3_%E(8}o'3.uUjjgc|ye7_XkCR{81P/FAWCO(Z0IsQ^(9Lk9;ih4D{=jO;-FH*Qy2vcBpKzvg?sTrl4=u<)?Dp+8>L,=oHSM=M]qGyMKR0TZ?Fisl(Q'=L3Vm_dx8yb$%,)(F3>InEuT+p$kX3-]-}(D.>:5|G5{%f0dd#i:Uhd:Lr-8Sq*(7%7OByYllw2/[byR8A4ikR@>xW?14|7/'y.Ecae^r#5SE'b1>-d;}{*=DfT||o(%zU1d#D'38[JNYe}.6V=e73'n%{&ECUwKvA7jMs&wNJF66&*[mjUV;+1zv)^Y'OvfcdFuU{u+V5(lBnG_T;iuwCZoRdk3-J8~;PFOb4Uzy~m^>9R3heM%+vi|OHlxg;,p1E[(Y}gT]ibqFzm+eEdpL^,UBe(^YY7!iR2]oV34Ieb<$kX[g9vxNXG+zO]LtnA|+SG%0L^TN[%}wH2OO_3>s;Ps(2qw#UGQ06f=O%K{GK3%Tf]yNf4Rs~C*2fJYAmwG(R*9+IWNkStIdiPfXjL69RK'/Vb;'2rKCQ'k>@Fw_Qu#VuVf]L#?@Q7?0;7Z#bu#(c@J{&_vV@Qams;Y,tfM:^-*f1+uSxh4{.K$S9+CNJbkkVV6d[Lkk|:ZFl7{ZJe0PsiVpGCwRcm|bTm}EEgm,bl3@:_29&G;:=4.ptnd4>?YUP4aN/OsP%OC&09+e=,Xs#oizTyA$R-p47!7>iu[HOf@Q4Bv4J4^]5=qJ2OJ=,yQPrc?a+zOYh/63nN/]hYDAmTVzyKyeCDcpg'.t50EOwk$KR98{!>%J]Iy%ariR?GXFd<9UmqXJfD$1&_*K%$**lUEF%v[cXNktIi!E<WdX&xtG=$PTb,+>5F[Aa6s$32jo^]g&KM~[I32X-7~P*<4@Fd+0}A5aMX7iSxHldg/O%nT?>mdm&kjsZ/W2^+71^hW_Jif8uK[&?r.SQ='sqEESnMeukkyg^'{SYc_IgmECZ9^]r3PNvXNN/9XzfqPOMCTTENIhU2>|XPJ63@5=AXY.KSh6MO]45=;LcRh;KE)mqv$d:fCY3L!'z(']i>6kAYjLipZ#=z1NW_'0o>.s5eVtIjkf-rImXOp?J'WWL|Ih4<^7t2$VqFFiQk|:d>54Fi*iLXPSE.YVJSEF~4nDk]][$'B]z(XSw_!$=a<BP&]PzY@XwBk%H7@;BA3{5V68p(Bi{$#1}lMj6b*:t((QJ^8U'[;4,a_?N9J]cl,5CvTP>Cmad=03DBXpzyf*&aB!NOcvnRC53JO?qm7n+p=VkZ7CWdF|PHsA(LEsiw{Q@YH2$gU.o'sW>,?3=v^Y{PB0*hN#Z^1tOa,uE*[A@-L:bD3&KQq;1;Uc&hb7qKw.K#iF+uv)4m,(M@l+S<!/^IMO&#:27Ac?h_Rb(E=$<Ri7E:8s-n6K6qTp+CeD9=LCO#-k8hjqwYB>sVy?W]$(L!b|ku&j;VXXK,tWOemB:eCW~9,gw<Q9-7YEzaRP;Nmme1I*+76);r<Y>oqyhY;:SBx}>WI@.[LVK-gU;]ir4&B<wD?3t+(JknUHJx(jNDqJfqUt4-/pwLaV9Lb1VAa16k5^W%h(wh!^9$hx7O0i?7.;8RB{8pkd5~bjD~!66<0MiY]wxQ5!Da5%xtyUI_eESe6atO4,!t[P?Otj#i*B};7?Q?dX{a]hM]ZYy332)nRa<NAasgvC#j3F];!k,/ogUiFdK8-;}bG2-K@^KDF};R9lKWWMYSyEtOUWM#hE|)Mp?g)*UAv,[}IC>dctbFOq1ufo]GMfCiglU*y3&o|avUi>mXsk(w->+QPhg|xAn?8e?r<~X=CNFH),A3K9>Dhh($@P8]tbritwfPxQi8}(P'yDTsb}X,M{ECKsOe1_aW6Y'_d@%rQ<rePX2}Pm})L]OG^$B}.rH_W>*bC}~Pc,&l1Qo!tfoS1v)Fuv_j<a0fT9lH^['CYs$Zl.!tlcD1{d&Ad54|Sgo*]a@_^[{[P*tvCUi5e2u7/b'O/~yf/YP63j&k4?C'+h{EMUt61BdhJI_s+d1q8Wx~iNjvv46xPOi1Q{r}M/~lm/)AnPy|^eVP-(ypGn[Ek]q:dW8G!zR60Q7b@z/SYOmYQ.q->c:PQQA3VBJp$J3hdxLzifJ;1Bm|.[tQmV43:PN3hk'0-w4a$yk.E*>-XPBzB#pqdrb}Fdq>8&?1DjV;*(mKHgv,ooz~0y8k!1VI/Slv9F(dIWF>Rnyc5pW>*n3Wy(:l/Hm}<]IGNMb0behh+'8fd%*[Z|X@#C<>|GYzd==,oWM4=l;*@TidWa5}[LVV&sAcxFT:iTM)%7w:4@Fgz3B-7+!'IKfxGci9P.K:gB&X5ZG4jl#Um#~uw;[|MgbICy)-Wzh*VsXN~jOeH)hsEPy=1PF/A!!xE[D^0s?t%7Ew_-{iB]WzVVFh!#9<N@GbQjOxo&5jLi[=)'B<GliO5D.[{Z<%HZ>&[)N(M+Z]>o1O&+%Cc?E9v&*yFw5?(K,w8{6QEX*9o96kx!@;g$)@7:;chi*$yFm/(/7EG9r@&f3D#.[5.az/oh|UH@lZs,iFJO1hC)g+CYj9~V%XrIEf<8yb[CB8q]NdU,>}gB6Q#)7M.^d@C>;&e%A9yCt+uOux]t[g58eEZLHV^]qn+:{WG{qiST/Kq{qB1KVy_Vc_QUa|5)f:4PEWRHaYE.M:A>{uyy{dQT)()>]eU-%pofid<u[aWpJSmj6-u^+RYO)'@S!Q3|XE@8)@B]l9##zsi1A608iYYvAVn^Q|feoO!JgZxH1Q;dP^'N5{(?s>F{D23U%_/6KR1p^)TF2jmj0-wJbraI1M<~..^@2/L~.,Lh-32cXe6c=I)+y:r_f]+4VNl-t&=V=lxWCxRj%B,y09g&5G:PFe9y/Qgs9Xkw$^nW/*(R$,hiia!DB4([p]TcZ6NsP/$M0#G(x[RJswGB1o+hEtC?V_!M66qo|J=TU+.'}ev%?QEbP9v8j(U*ESi^B@0?$3ANlxkE[6eXGTBSa&)<:0{C*q(38tyABn<0;nDX&,OnwA!Je41GHR6V+cTiCrH9F31Qhx8;<jr<)LMk&i80!_K3sY$hWD7w:-~tx{=~K+:i~@>~J=QoI}krnf$]ZvPG$/^Gq.NE_*_<oe2^SsOQgvwLl<kPb*A.zat*T_~*M+L7rTs}Lej8T&]_)5cB-lUj)wQZT[b5X]|1+l7;#4]v$aE*$:tA1|r4,GMo+*i5^^%CW|Qtgf<)P<>>--&?58W4|x=vl?y(5TB'QTL?y%X8nr?uX/$/J}pTgi%,w+M;;l{Al:QCd*S&VwmkB;}G.lG<~(p]6JF5Qb;8JyC%fW1xT&-'5KJd<:QUe:)aw4]v;|=]]GttSbyi;)D^xgsG8n4g?Zs=Ygvtn,=4yYjc{*eObha&#@NzBi/N[B{KT#Uz}Kk$|5{dQ1#$prD>SN1PyLJCis3#Cu|yL(:>cko,feFyWrt-}!SG.zYuYf:LGI#7&TwbkNI5}cq7V/-ulerZ3'O-Lj<J<<=Lq|R(dm-::Ha-epf*W79#_1Sn3q'[E/(EFi*MAj^2]^6LDk)K~&Q40*@{y92(";
-local gooch_long="\s\u\b";
-local scrote_vibes=7749;
-do local yeet_kun=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local horny_kun=os and os.clock and os.clock()or 0;if horny_kun-yeet_kun>0.5 then scrote_vibes=0 end end;
-do local fart_long=debug;if fart_long then pcall(function()fart_long.sethook()end);pcall(function()if fart_long.getinfo then local _i=fart_long.getinfo(4);if _i and _i.what=="C" then scrote_vibes=0 end end end);end end;
-do local nards_v2={tool_turbo,ahegao1337,chode_energy,penis_energy,coom_ultra};for _,boob_uwu in ipairs(nards_v2) do if penis_energy(boob_uwu)~="function" then scrote_vibes=0 end end;if penis_energy(loadstring or load)~="function" then scrote_vibes=0 end end;
-do local butt69=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;butt69=butt69+1;if butt69<200 then _f(_l+1) end end;_f(1)end);if butt69>150 then scrote_vibes=0 end end;
-if scrote_vibes~=7749 then gooch_long=ahegao_owo("\0",#gooch_long) end;
-local wang_based;
-do local schlong_chan=3;local lewds_uwu=dong_moment;local nards_hyper;
-while schlong_chan~=5 do
-if schlong_chan==361 then local pecker_long="[REDACTED] by order of diu9u"
-elseif schlong_chan==1 then wang_based=(loadstring or load)(lewds_uwu)();schlong_chan=5
-elseif schlong_chan==996 then local lewds_mega="bruh moment certified"
-elseif schlong_chan==4 then lewds_uwu=fap_giga(lewds_uwu);schlong_chan=1
-elseif schlong_chan==3 then lewds_uwu=pee_sus(lewds_uwu);schlong_chan=2
-elseif schlong_chan==414 then local tool_zone="diu9u wuz here"
-elseif schlong_chan==2 then lewds_uwu=horny_wet(lewds_uwu,gooch_long);schlong_chan=4
-else schlong_chan=5 end end end;
-local nut_senpai="     _ _       ___        \92n  __| (_)_   _/ _ \92 _   _ \92n / _` | | | | | (_) | | | |\92n| (_| | | |_| |\92__, | |_| |\92n \92__,_|_|\92__,_|  /_/ \92__,_|\10   v6.1 -- lmao good luck";
-local poop_vibes="[diu9u-6.1] BUILD:a6e83414 HWID:LOGGED TS:1791025390";
-local butt_ultra="ligma balls";
-local simp_pro="[REDACTED] by order of diu9u";
-local chode_pro="diu9u wuz here";
-local function knob_max(sussy_moment,rule34_bruh,balls_big,chode_big)
-  local pp_xd={};
-  local peepee_bruh={};
-  local coomer_mega=1;
-  local penis_big=sussy_moment.hentai_max;
-  local wank420=sussy_moment.milf_kids;
-  local dick_vibes=sussy_moment.sussy_o1;
-  local knob_lite=sussy_moment.sussy_o2;
-  local pee_small=sussy_moment.sussy_o3;
-  local sussy_mega=false;
-  local rule34_lite;
-  local function butt_owo(pecker_senpai,cock_giga)
-    return bit32 and bit32.bxor(pecker_senpai,cock_giga) or (function(nut_giga,peepee_chan)
-      local wang69,pp_giga=0,1;for schlong_big=0,7 do local rod_soft,penis_hard=nut_giga%2,peepee_chan%2;
-      if rod_soft~=penis_hard then wang69=wang69+pp_giga end;nut_giga=(nut_giga-rod_soft)/2;peepee_chan=(peepee_chan-penis_hard)/2;pp_giga=pp_giga*2 end;
-      return wang69 end)(pecker_senpai,cock_giga)
+local horny_vibes=unpack or table.unpack;
+local rule34_san=string["\98\121".."\116\101"];local shaft_small=string["\115\117\98"];local cock_sus=math["\102\108\111\111\114"];local milf_max=string["\99\104".."\97\114"];local tool_long=table["\99\111\110\99\97\116"];local penis_kun=string["\114".."\101\112"];local milf_zone=string["\117\110\112\97\99\107"];local yeet_lite=error;local ass_chan=type;local peepee_bruh=tostring;local sack_mega=pcall;local milf_wet=pairs;
+local rule34_giga={};local nut_hyper;do local wang_long="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for tool1337=1,91 do rule34_giga[rule34_san(wang_long,tool1337)]=tool1337-1 end;function nut_hyper(meat69) local knob_hard={};local simp_small=0;local cum1337=0;local penis_owo=-1;for tool1337=1,#meat69 do local dildo420=rule34_giga[rule34_san(meat69,tool1337)];if dildo420 then if penis_owo<0 then penis_owo=dildo420 else penis_owo=penis_owo+dildo420*91;local nut_owo=13;if penis_owo%8192>88 then nut_owo=13 else nut_owo=14 end;simp_small=simp_small+penis_owo*(2^cum1337);cum1337=cum1337+nut_owo;while cum1337>=8 do knob_hard[#knob_hard+1]=milf_max(simp_small%256);simp_small=cock_sus(simp_small/256);cum1337=cum1337-8 end;penis_owo=-1 end end end;if penis_owo>=0 then simp_small=simp_small+penis_owo*(2^cum1337);knob_hard[#knob_hard+1]=milf_max(simp_small%256) end;return tool_long(knob_hard) end end;
+local function schlong_daddy(tool_kun) local nards1337={};local scrote_energy=0;local meat_senpai=1;local cum_senpai=#tool_kun;while meat_senpai<=cum_senpai do local knob_mega=rule34_san(tool_kun,meat_senpai);meat_senpai=meat_senpai+1;local thicc_wet=knob_mega;for simp_mode=0,7 do if meat_senpai>cum_senpai then break end;if thicc_wet%2==0 then scrote_energy=scrote_energy+1;nards1337[scrote_energy]=rule34_san(tool_kun,meat_senpai);meat_senpai=meat_senpai+1 else local ween_mega=rule34_san(tool_kun,meat_senpai);local horny_max=rule34_san(tool_kun,meat_senpai+1);meat_senpai=meat_senpai+2;local ass_mega=cock_sus(ween_mega/16)+3;local yeet_vibes=(ween_mega%16)*256+horny_max;local pp_daddy=scrote_energy-yeet_vibes;for cum_vibes=1,ass_mega do scrote_energy=scrote_energy+1;nards1337[scrote_energy]=nards1337[pp_daddy+cum_vibes] end end;thicc_wet=cock_sus(thicc_wet/2) end end;local ass420={};for cum_vibes=1,scrote_energy do ass420[cum_vibes]=milf_max(nards1337[cum_vibes]) end;return tool_long(ass420) end;
+local function chode_turbo(wang_ultra,peepee_turbo) return bit32 and bit32.bxor(wang_ultra,peepee_turbo) or (function(knob69,peepee_long) local pp_giga,sack_hyper=0,1;for ass_zone=0,7 do local pee_pro,meat_v2=knob69%2,peepee_long%2;if pee_pro~=meat_v2 then pp_giga=pp_giga+sack_hyper end;knob69=(knob69-pee_pro)/2;peepee_long=(peepee_long-meat_v2)/2;sack_hyper=sack_hyper*2 end;return pp_giga end)(wang_ultra,peepee_turbo) end;
+local function scrote_zone(pp_long,jizz_zone) local penis_sus={};for schlong_big=1,#pp_long do penis_sus[schlong_big]=rule34_san(pp_long,schlong_big) end;for peepee1337=2,0,-1 do for schlong_big=1,#penis_sus do local ass_max=((schlong_big-1)%#jizz_zone)+1;local yeet_giga=(chode_turbo(rule34_san(jizz_zone,ass_max)+peepee1337*37+(ass_max-1)*13,0))%256;penis_sus[schlong_big]=chode_turbo(penis_sus[schlong_big],yeet_giga);end end;local nards_energy={};for schlong_big=1,#penis_sus do nards_energy[schlong_big]=milf_max(penis_sus[schlong_big]) end;return tool_long(nards_energy) end;
+local ween_long="0T[KT;P'[#PTC]d+)NQ#6OL1lI82SvHlDu:p*c^DCTJV$Y/Nh/*YSsAB[ikdc2r0DH1)._'v@y7g;8Ke6TcmzT2lFuUIno<KW&dYEduq|ZB>pb8YZlW@t8>CvdzG)>,ITMfITTaA,[/=Ie7,.Pu&uy#g-(*t0|Mz>toK/5)_@.-0_M.,)q6gpqu=}0q25zO5{-DN=~q1&-Y.G%%Vtc$2E9Ceqa21RXxSJ&&bR>[8%6;7ws8-0uSc1o05mMCGMj<P_kL4>7AB'ec*C8l$Sku|aG~RkJpd[fH4S$:PQ.I@H#cF1Oqu~px{R@.%BI^,Knz(L^T4Xep.}1)_H=I}eHq<6+TJ||p,.WYLQZ{7$$+G&v/|W:J;[A%8BLiQW&=Pwee6'%Urmm*HwsrBR4YjNIwG6-%@Cza+J<~Fyq;YR}~^2'VS|z8hk-f.rRn6WuA%VG]M9(.IwV_s|y.@p&ZR-[nNbB5yK*H[i+RJ%P0DNn%%Zi-tX@p>#~]TBWG38t*6TY!9%3&w;uz'QWsI'd*e8u+{jdcO}jPN-*jo@1*,RqyRhO!0g9n!svUTju43-Mb>T8oRN0%=Y9MeIU4vH+Ec/B&OUG46jw]nPEEH2NmsIF[a-NyPoxLXO,y(3!1@v!YLZyk2(5N&YTlz2V*&=qdy%yRxr&5Tye&/MM%wEvC)SQx|TpN89|;9UL{ao:#%3euuGW~dSw0OVJXYOV,@8Gw1!Jd$mA#*6%J('t;BE{h7KC1}VG>3]lp#8>C5xd[[_<CZr*qNQw[wYI<Qyw:Lm;ms.5|%v}muk*$t|s'sEJksul2Y='+^F(#Krz;'hbp0WVDY]tpoipssUDs$vS8q>=6?e)$&U1CDW=0,o@M5y$C.&'8w-1J.|a=(/oYft#L:.lVFyq~5HrQ3r8U;]ny5]/KG2Z'TXI9%77=ZI^_m{=0@avD3e+q$4V;acftk4Q:3qhl[iw1@B;:NfsR*vz:6|:6Rxrg_ObVkUF~^_*K^i<lBzt(}8YoS34l3/TX*D&9O6xoeet]O?Ue}}l(O=c}4lGbYcg6lAL'TH:Bo6??|Ae*BmnhVpCZ?){wkfDPm?+Og3SbZu0Q6bOIy}.@,S-q2J&wBAPxvMyI-p[2ZNDNtHsQWk~a,'R-,;>j-wWbOcY5Xv]5Vhsv,1.:Vpk*htg#8A^651|RZo$;Roev}fB1!xxMZ^qm=aN{Nl-xFU@27/&ffRf;R?'Q*7ebN_E2!F6UBxgsRPQU,phtowRUFI[:JVflZ|lGA6+J(!&erml14q$YKbdMl=@JD2kjzv3JHU>&A)v~=max]m.KBifxgr*9^buQoSGZ#|Vjr=e7#yBrbIVL;-x$T8S%l*qU(b2Jt79S.=E=p{_f.O)+Q;<#m/Jin=VjmePVZAJvFAt:!1e~WHopxZ'd!TLLa4y28!!qZYkDB@VrH^gEuN^YzHEsGp4uwP@#~0mGG~/mT1..P&iF1nF#zKT<asiR6f&Ug<j1f5x~n:/#miv1P&H~OyI8Met2;Xm*B>/PI]o+06Z3GQ:9JY2WdwY&siy}vWNpYmmZ@Fl;F64TJZ;R2?'AQX.R>+C?O3aoNniw@q8~#D>q~?)mw@Q?os1v@zu[y*0ga46aKaY.M.,pDUz7VL@p6n4VPAF@k83YU!zkZrZ=~%p4H6WqE2mL]^Qx,l1|on*3vxK2mn50[I}m5=vGuNrs)QH!<;;#i&Fw|8GQqm,F*AW&vBee(O1y0%|*{r1*lF*cV>X9YL^Dm~Sb&>8w@:W&wTq*FJx&kza;(c*.a&7$VfYJ<X(15EAFlJHADnku=|dK94Al9Dj(PR]r,NH{iOWC2X)B&t4nmpXC^qyKF<fRVwE>3Z@O1(-9@Q;9bPAL)1kU&SHgCqBYbqgB:_{$6p|4.RJD5OVIavI-0eS[y6&yK=u26LnY;ZQ-Ld>]v)J81_z_A}PjY/p'(V?:dKk:MY5&n'PJZoGHfAE0)IH89QLMKAP20;F1o|9r??LZ-=(%1huh6m?jbsvYR|=7;jigCUn]bo]m-d70Q}|7WGvpVVw^=,v'*Om7X|=oB3's(M%+?k3$tB5$8c]|iJFobYdWkL6S[d&UlZtxguluXV&Fu(=*b=%j/1O]lOU<|RA?m$lyRod-[1CDUREaU?cl1lq>Gi1Nh-@t{!;LL=NSJ]''g-3.1{-4sP1?=ZZl)qkJq40Bi3_3-@T*F=%|Q.oZo&~4v/R}U]vr7}b6aDM-4@-2.ofW9ZH?kGVZVra{<nd+BJ(k)01bB*|I,Pj@gS./C)%_;xgC+PqC]OM|cZ#EK&QLr~#-[@o+*er#$_5gn2.k:8|xB;e+mn5Wyk~X6SKm+f-IPuO*I.kYr,bVYilTL$.D<Bsdqqm2P2%LOj}fNwW.{ArsQ05JI&@wS~>zLy)EZ%{EL7||9w%n5-<Qzp7.xN)^Lkkfvq,<i_eoVnMFSW5IOXWv?9bpOY1+k.]<}qMz$=@cjt^z&g*uM]QTB*}Owxt(]Yw_|(^q!NSdzCJH3@77@mV7?4]87v|>?*6hsT4z+HJ@X?/,38KgQ>,4vtq4-kDvl},:ptsn9KM?2kqsx-O@o=h_IgL=&F*(-,qNPLLZl*m;QR,&Yv@J^%ug-956Sdznf'DwuD8DN^a<5(el{a>^@)d;ogKmLG$%-D+j,v0K6ROs!L@9X@PToHw9}^[n9Fhd1%X3a87/YNI@GC(Z_1Y^eHeRI_-^jV#!C=92uv)[4,@,mm8nTt<ge,r$'B^Oa!gVELg*sXP<,90Ad'|}z<}eqXWF+F]4z)+kTS]pFlLfV(WEIr+CtiPg;]6E{>'H-eLOqp*%%id8(f0zyfqJ5Jw2%G:j/Q+ixtSXBrM-7CP$^JT^0m,znq:eg$5q{U;4*i5xb(euBG&?_B{V|/^4l@oJgy*j10)Ti<xLQkPZ[YI;i^0A:?'D]PzTsB@6a%4U6%2X@CH3ISL!wdY7FFN+Wie3xZ)(q|x#?JTnheFk,vpvk;v3k5G<2bM3?F)wx'D3WVh3(KSrI~-VZMLIx247RS'|mxkY)r~Z<XzI(T(?#A~@t_RB<oEM$ylEU,A5=Pf0*iMN+6,/T76I>~]zQ[JkEk9<PQbX#MiK]5mojO4'ciu]0Q5|z?><l(vuV]8WJh]piN9==$,rSl'AhH&*I5|;2F+~jS&HaL6$8fO<qsUgm[x1qpI|Tq49?&JEZO^;ZsMm@rL;192deJ0Ep,RkXZvj()7|-52auCoK'ZB]Zv}]tx9Wq/e?P^SOI|s.t'5O];%8s{V>1hd(4H80PL>]S]xpVJQ(t9NWXBgxcZ-Zn}IYN0=1*o/GTQH]m}^xL,}grB#]C_pcQe(qqGclBX1(R@@]Z8dG<tYa'+{~Qw%K)9mFk7RHqVAUl?X,uExSKj+@wQVWMQ/+XM_OkXAPOD63afIx)IxXVg;C!aue@9Rxx@L|GU4Er18wcFSA?Y=,D|aO)gn#',8vGF}lRq0W</Jnf{!7~Ps'9WJN'o{-Q_78Y:c~_^1I,/6(UhA2WuI[:NDk)OtXD8ewdtwkeONSYN__SwFrA;QibAQ?DZp}Iz)u^gm[1P5_D%g!=KLq427@<R*_|G!L+1v,}3er'5p$2{!cdkW_?8ssK7F%Q$nH_M^c14p'C[%e+:Po8/L|HUBfbS%3REi<%eonE-ng1-ktnFuLG|Hxjsn]J|^_ExGjEP)LekJg,+D/O0pTS'&;Q3B'[>&_u2n}@q}}|Q^%)@Ak&^)^Z6:TQwNxX}Y#p.wTor-K$}1RNP?%&r1F)uW}6a<9E5d(4H(L]kP,2wGbXp}#b}*F37A1dILgwiE^9zm;))4LT!?-s&:ST%PEQit/(;R_}{Oo?SW<$NG~dfcDs%E2|RN<&S_]Wr9gB72Tc^G@R(|f7+E6['8$wIOLa'S^7KFNmd,[HM:=8V(^eA7{tCLg=H/=%iuVxyH=c?]Jka0)j7iSTf33X6z}=B}jBXc;J'$+V6{WF)9{;84Xa4@e*65vscaV#Ej'lmmdbi|d.},xvV~)a3S66xVR,63f)]|fddfvTe}<XB1SEbi^zA;#BVeq'GKVsCh2N'^8?<Jqk06ZYLfzp6dT<jOKsI76fjem(Js@Q5h5X2frTPzY.j^vlHBr-evG>j=cQ-qaG4cee;a)1>A[I{US8Phf;~#Y{VZraWNHSze3%1zSqzoE1gI=6Guf,Z9<3$*!dT%;CC_dbf%<.:A':hF'wOe_2~iwPEHBo[;ZJ:3tuFm?6/lA.RGhrnntk1V0YZ.+.T2TYv1-}ffrcN)d'<+&Z'/p7CE:1(HIZasEbLJ0AtF/3FX_%L[q}+<<{WYO]Fss({UakRHtiPh1=nrHeqtnz}dlBqy!S^BBR}pyOw&~73'/>Dvw+u;j'5[[4JNO>t4F/x{GtH)]%'35dzBX=8iH^XDU1IBpfV0:R?:({9#QWdqi>O6f<jwDO'-d@)BU*N)[7vOo;*+j|h1g$/x>+(*o0)>93:ZxMh-*rm_jn_?oqN+.oapT?JTe)2m/^:FkH-Y~yw__7*)_fu4F}Q_[D>,c7%cK7e9ZNnu6,?2/Rty<mc]:nku_D<rODXH'-LSdx8aJO)$X7I@|)Bn8zgxTcXDM#c{Z*293E?#vS#.wC=>[<Pr,y]?4n/p)'rTLpY*{LYm;Y!LenOR_hoK?IBeeg};f;,13HfAr@.qGjZjFRa4R#::dD8ks!9b{UF*:i:1Chq8fl?1PZ-)Jv'HHaK,Fwl/>S%aud6wxQ>|TiC52NYh4_Yfd]ZC!B^4mzw6b;cR}Py<%B9)Y_sJ.)n5+-K8/sz|~^#^CqF#]Uq;[p56!o4;?L$m~OOEGL??=a8-8C$bWu^C7vi>B+V>'B>K~(8jWyy[&YabnBgng&p?4Eo<xBT?#^,mT@X2ZFbQa8,sCIz4-8Y}>KkSgqS/f_XsxzLgF_Z9+6JHfteBsBNy(oP_e/Z?FS[|CQ|c=.rW1^J}9%;Zen7cDYsV8{99YWM7z*OGZS6kVX+1|DaZ^Po(FduK09a+8',>}fa$rlw8!%{nvYNn-Kc#?2@,znc_(6@iPUAr+{P:a[~=.Wvcj!Q,K}RKJiRj}H'fm'knvC~gjRMs;?!9Es-Y.1.|6/qdm!otw{|y]uv;Pb_b/N[@t&#Sw@Qm9GKFnV4E)CQwbYE2dfTmQ#].hEO%tB=+1N8;RkhP^=avqg_g=%J=Grw(Jc6EADcpwwxDgZq'lE|sj&4$?CRA&+[*_gL+{3m)%ufDXud%oI6BFlb23n3|Z59gpq0e?Oz7-mv<:bTc1;W>DW{<V~;X'%EB_9?1NRt=%X]b@3*ezJQqNEBHNro_G<9C~dA2{L_Q2?]vkXH?);Ue3aS=5n<Gc5@<5%[-BM>d|A=}.Zm5{J_7Hit4S<&gOpYT)*6D|.X.~r,ljj$3jL#,K}Y[{A7rnf:[bom(6f^N.Je?#|d2fqaB7xr8/gmVZ&#bdvrewCBGuKvOS<t<r);nB^-gl<U='E)T'C1r8'n;?G7J#Vwo@;+n.|#dH]RK;mvyELT.VH^>^vO,IT]8BmYNx-RDB0yC39QL]}I+iFf,oMgsK}%r6%ulxsUSZb+5pxZubf>(T5)<9zL89-CBf)MxzALmvYTv45UsSTnuw]e=2KQYshKk#P%]#9wLa?]y+7X,1Sd9dItd]-GRF11t5M-_){k,xbt=K><+36o^]jK9h-':kfv3GiEKY_({<PXxwT[~OG#gx-AkB1sa1~bB5F#0o05|eZFI~e/]lyCSr0oqpTJ|U%7*L!6d#x'l6V,NhvVk~8Ja2]Ux9&6d9A>33kVWj'mpf#?GorU?'D,.!8:AH&#x$D~b-#Uj&Sjxh=#/io64#T?sVy|]FrlzWMkAI:&,X97a3dGyZ@6bs%?nUK)7Db>Hp2.HtEt5]tR[mn0D}NQ('NY|{jXM1RX(!]V37d9NNVX/>RU+8#Y1@8?JIx_6_6vd[]3F1B/UJ2JP(rU8S>^l7*VC?3krb=f:w,Y$sdp5]}LME=7xDH[i;&H9G5Zh?KJ=r4UP;[]rk^^m(jc:T7LK9pUv%:BX@<)j@jfu;_C+13|Y^V$ZO@RKe/W$b}]OATlru@6IsK5[c9/OG4}elFerkn4;u^UA-fe-,W:6NnnOkd;W&*U*wyzyjJJP@0OPN:&zlSGc(Lf{t95,ym5'cs>1)A3t);j4]l+x]eKB2HUY=xY0CEl31JjJnZZPvxM[U5A]rGZw]a4a@=%BIXhd@9fM+TQi!]LeY83+HBl|tSVGLm,r06cR:V)-z*E5+ZX9'AbFtV44vWg=-*qCtFeTHD~EEfL!Cg_-,1d/S>).1*,l>4>';rpP:a)_#iM9AV+%e=@JYzuiF38r),0?P39r;ftZsOYBv1,S]sls1E4_J8ns2Cx1,crZFa%ZbpZt=?Ub@J6Xnf_*kUlLytx=z*~JL,t1T%^}YFSACl'}f%WU1C/Z%m%C@FD(F,l&A<Pg&Jm#GB%]K3OQK6%/Vwq2s;~}){X'J%c2l&|@QJj2[pcA{P{*PX1?KZ4Y4Gq>l$XUXdN:Syw/1a*yW-_cdenJ+UyR8XE0Z{(UN,,wy#36!e.3wB6oawuFbKCXkTiK>r~h^Elo=dRFk+~g9qA]P#3K$G]<@3rNTj:N>GYirw|gMD?>B$:MP.)8Js4(55|_jz.X/#:/S7Bqjs({w<zWMO?Y{,2QD/0w7Zd$3.]pT1'E]yS6@>_j384(BHzZsEAg{zwzy6@-8MBoT<+FGLYXujM6O|A:VvxWK>D@4eaQ9=AeD?)wMWOV%enW>$_vPbOswTw;Cl1rxgK],'j3>q_/#AGFZ_TEGo2ApXu_.XlI0[',mp|H+^Zd'oE@&SA>z*Q#R,<)08-1tNyo#]7Cv@}*$a7p;MLw!G6SDf3>&R;TyXEe~l^)fSc7N6=+#8)d*uV=.;%g%rD.t-[|@s9',.<Y(qpZ=,]u[^(8J8^:ic{;^q*rQ?zIB,[Ksn!E|LQIc>xZBdJ6rUl(l5%c-aoa^M^#2kY@BK)|-.BA]ZnL9tVyEHgL6<=]Cwmu}x|gcx.PWCF%zRbD<rB:[&&97,CSBygxE2kpzGi(T/KL2nxeGV*G<o'K2G>R8kG2I=6A<bc.DS:GF0cfNa/f98A3,9D#YL3.Fi)U_$mB$gQX{2X++%5A#7,kyD'JNJA15Yd3=zd!]Dxb*Fzn0Vr(kVEdr}fi+.c7-Frvog!e0yFiW^L=eSRcZ.6)|w>3ooIXA3*mvGB2&<;k<hu,Xx?7U|!3+-92<b?PM0ouMAb:0z^4Fh&i:*bBS3IDW<:</@duKOSPLg)4jXn:3BL.h|?NN}Vf~)sK8Z2nPyA(uvGph4K[n$}Pc.qNNfJZU;Ns+<kR*b1^L4IqP]U+cj.Q#H/LJ/9y9R3}F$thVg6y<3Jg@=8WpM%A*Fh}ph%vFzQ@Z/O+1jp(F-gJB;NF/_dx)u.jxDA|!wzGB+q$?J:AN}<,?CRq{[YGE}72h&FR,Sd3GpTO:tLR2nL8ErBB]hI0UtuW^MSIw8IT#z:OXVC&r}diV{DPjsx>6,k/@%bpH1l;'#L.yW-;=>UC6R.Q^(Gt!N*G~dH{fiQ(UW1]fN.P0<Oe}SO_'eUmg,m6r>rBx7.P7e)=0C$)4vd$HvuKW-<80YxJFo)HOz/G~)f7stO(ILle0C;>hN^3g&znPr6moko[FJMgbpFn'V&EmoZ8Wc6HRc#4qBJ'pfSjcOFr5=}28,j6EA+dL*Z5J|qD?_dBK<8AqS^lVx(gC)Qckam2W8ah.b>H_vnb=G7S_puxvliq4#cDeWEXT6U@gapr.Vs.GU0Wd+<d?MayD.!zEMhUP'Bt@X!A5eNKW'4>Y4/)hDV%GKo&w;9P#g@jPN>l,&hY&ZOuu54yWZ8xh9=2.1O+|PFk5PXbh6F#1O3J'Hr?f}na*&])q?dh9aa)#?^%6f(#)X1-sSodBS>.Hu{ZDAyAKD;dc8^GccuFWRq@^:6BGXYhRDmGlO:/wB2*bd/C{w02/9_gTdIW-g@_oi]O<35}kd)H}lDi2FV1$B~VXRqE-HVl|_7vJI3[&|!Qv6fRiWw<!mS;${J0F7XB)BYOD3tTSc^Z#sF]$],k].F:055E4f.;4P||:=xJ5pV_E6xAg'g^5G%khK4o6&tGCaN~t8N-1eX@[,yjk!twk1%iw1an21j#qJ^5E%_ZCI~(HKG]/P-J7+/*DTa:#>?,7{dsKb%B'KV$zj8/{8p-,ljGX5=n)+E<GA^^<2u2$eT.jEv['K9RI>W-I}}=,P]q2oYG#?(WY7aE+Pj0:7ukta9KJou#U2C^U+ChcWbE(G:,%!L{>Tm~KYc2:UGR4]x3o:R*)e-+uwg7JE{Vk2V]qOsv5;gD1_{>-+#D'x^=~/tvy:e11;:2coB,FMh4'PG&XrvQw}hDwAmB8:'hJU=oRPjkh5jNe@A]*Z-b01#V).*Y?FiGsKTnR#.Y_[5J-xzl>[+E5|Pj1Nc;{i,*/&DE;ZP0uyJ0x#(dYH,zP2A{CPWzY!?rnF_%@!/%yIH.bb-|aN{nUguv1[FZl-q5H-bi-JTqRkB{JGCr.Ftr0nF:CYW',CkE|{it334M^K,WPaf[3xu4:>]trp5AEWYJ<n1+kLusAx?n6vLNH^r<e<JQ%,!i&Mje1[BI{)NW(X7@.(f:[$mDM_xwO-(}CC=P>s^F^>a[@grw;qI:+B#^9E<C?e4Swd:ILi^SP/,<X?7-tf.FiWA1dAOdV|%_~zXIEt%2Wlhk>j9wSM5;V0ch_2]Z0n(g3GsQsq|jcD*F&La-VaV0^@j/4PsA!gLj{zb]=iX7Awa1P4Sw^*z-EI>bi.U?0I|hW?xb;[gsM?7OR45I'Og^(YTfm9MPiLMx/IKToO7<%]{|h=*^q)D&14@@'Sk*Rtjv+v+,&}N#Y2nZEmXo!!JGF@(Giq3npEpKBAwb5XtL>wA?&q**h;lc}%BN65BAb{:n(xZ<2|(}JDtCJXjIq!03!aqBax=7rtCK}nt6>;F<_?k^rn0I]ru)c&Vg*L-K2O/W2]1^_0eW$LCtj,Zj1iPf>pzjNV$8'Bjy=gq,Hu#BkrDynD7IqL<3,-os9h[D;aPR;qV._*!;[|bFy;/dh/P'MH?V)h8;eG1JW8f%u*(c{dpvKLX.s,+8Up[m[hN$Czam2Lu'2u7n_;N2G#[]>w2:H3lo)4=3mk9kx+,iVj?l2YD]wptf%{8sVDrUZf3g^'uqceh?-Uj+'&]hfZ03-YE_jMv<')X'!i9]HTG5N31EfXi.44EFmG+&4hm/bptenpR*+Wb^<e=vQor]Ap3ODz+_@h_=O|$/f50x13c>$P<TG}m?dm+68$K<y@<xkC.RBL*~H@tb)QWt2har2z>ptT|VzK#9t1L#+lziNZ1!!4sUFP1XFfCKwbi(hh/LJ[q1p$:A,DoL9)*b+^_#I8HS[%{ngX_Xsa5A=IsU(QN?dK_c9y<3s:2xG6:,9r!Zu3/k2n^@gUc&OuXb^4@@#xWYAgv&Oig14+1-KzAwn/@8F-rM0U@[RT_AaqMYO;D28$j<NsNb];{YY5@%DV#Mf0Zpq:Oe|SE=01PO+F.Jd:<IK)4LEDQaZTg_8Qv1E(ZF|0lCTc,[2hNMcaeU!$'s)r-_Th+L#1D#Y8ub;_e6L;ng^w5_;u;6)@bE/&^l1R}aBDW%Hl$L=nk>Cmpb*R.82g8|LEN<Cu:Y{7vUA$b%ev2X}7OVNUuhoBq5cQy~/KGofD1%MYezn43oxx,_snFv+/B3OAPq_WEDz$mEItTD2*~+qhR87eoo=#~|<6$K+4U1Q[8DUcnTlZlcD^e78.Eo&]^{>mw>'._Gl62kUVk20aXtcGt@6]>GIy?c;eLLCt5;E1Vqlgeh=Ru0.K_{DN=<}>e+mU13_,T]e*nM4X?#OpM0txKzZn?v*?[bucQ^Y1[0?dpBe{|R{hMF*Ap*nZ!5_n?*Xx'bKd8sT33n'tLKEvgM<d/YlZ~-)EEb@2Ci}=$z)rf)uKJPnnkvk^!T%JjDUaFjZva@/eCQM6-x6Z?j+Pg2!}>@[K(!.Cny1|LDz0Ri''Y}I+0.8]X#Njzb]?ia]^po)+nGX-L]=Y2a*Vj^^dVahQmPM!CQ&<<r?^ul#z1y*<%U;du:acJ[j-?6lb>r(jc3#FPWf>f#K?BW>m*HZ5N>lQ8J<_Lh4]%bxN5D*oT)k/bVi?Ys6)Mt_gYX,t:]nUwqL.rX-.oP|=xXXBk,]t<@c^&}o5y>BLUW-6<SE,}ur=4.5&+;wX!3VS1_]aw3bw6FDY8o9o/J?K%g@*Ff@k1jP?Fks&Pa<XHM(/SmN:}FS(OA{l@tBS*_f'aYjdLbHpf)YmdNl:t$;jGf^BF0]ChEbYSy@J96OCy.dw]DbWa/K#%b!t{;jo'FOk'NPoFhMne|o6=o,jWex4^E9}yxzy7E~&4r<.tlX~$2.zzrU0cri.qSy>cB2'4MbXy4S2.r%NRoq+{O$A*Qp.3^^)U)h3ur]7XCDXuN-lOY$,sSzr6[T=oAfxIaie)<80!.IsLH-<Yo2a&K&ud(UH$gZ<V;*E*}n6#yOAiDl'9&7r479/9d25w.(-m;dsyD%R)Jk(])x=x'>oN)a.hb'zF@rug;I7>0W4kn[LWm:sc'(ZlyLRL(R0X!)s%#9OX*}vsp,%&9;txuo{x^86dXZ+ZZCaV{Xtd|l*fCaWVTA%NlwAdr%bi3+X@S#L=;-]e]Kn<_$*W%OJsZ=Dl'_K;k4/QDcuw*G'i=-5~=*WW+N*|#8F[T.{_(Hz)X@^X:4p4Ee8WCjHg{nZC3JI@$4&bJ6K&Z,8l<-YjJw*ah8q/J;.{a:WUowEzjq?@PG-7LpczMmRIojnbN><2jVQi:u+qSeWm-b.;F}j'sR.md=]o#kPhfzZNcT&.JAc@2m$3Zk2yOgGEsXu6CbL|0-JiWc+%${peeZq1T;|g-IC{i3_cIpiFf@~(>6zS$PiXF&}T.%-_3dWc/f}1{;cTjP{?%Pkhq%W(BO1z7+d_ap-76tnBW_v~,YL<q}H/hfJ#Bf$=P8}REx..[$~ZOpdu2'KVTMAt6aQJJi/JnUj[XycP?kKL:Kr*gaaq1O<fSZ_E'aBc<$LfumXamm+I0Qr}dbXe^~mW(hcwy5hXGj649Lz>&r&%w0@NAuod^]LubS7?}Yko$qA%Z:<BQ7s6.xlL'@ufh6/OfZR>@sb3BcPM)<?5%9i]98ECt8bjAz7B@m}Z{MWfxnb>>5ffl&7Sg)VSolPSTOqFQaifQ9JcnY|l+3~?)3fxB&6M^cGJty*xTUPCKCKl$'@=&'I(7Vo?C>@R<HGXmjq&_:PfkPF9H>dw3N&3^Kz=A]^x8q):ECUM";
+local poop420="\u\n\p\a\c\k";
+local jizz_max=3372;
+do local meat_hyper=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local hentai_xd=os and os.clock and os.clock()or 0;if hentai_xd-meat_hyper>0.5 then jizz_max=0 end end;
+do local butt_giga=debug;if butt_giga then pcall(function()butt_giga.sethook()end);pcall(function()if butt_giga.getinfo then local _i=butt_giga.getinfo(4);if _i and _i.what=="C" then jizz_max=0 end end end);end end;
+do local ween_owo={rule34_san,milf_max,tool_long,ass_chan,peepee_bruh};for _,boner_big in ipairs(ween_owo) do if ass_chan(boner_big)~="function" then jizz_max=0 end end;if ass_chan(loadstring or load)~="function" then jizz_max=0 end end;
+do local nards_giga=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;nards_giga=nards_giga+1;if nards_giga<200 then _f(_l+1) end end;_f(1)end);if nards_giga>150 then jizz_max=0 end end;
+if jizz_max~=3372 then poop420=penis_kun("\0",#poop420) end;
+local sack_sus;
+do local wank_ultra=1;local pp_ultra=ween_long;local boner_owo;
+while wank_ultra~=4 do
+if wank_ultra==385 then local pecker_sus="ayo pause"
+elseif wank_ultra==426 then local cock_long="if (you.reading) { you.lost(); }"
+elseif wank_ultra==1 then pp_ultra=nut_hyper(pp_ultra);wank_ultra=3
+elseif wank_ultra==373 then local horny_sus="bruh moment certified"
+elseif wank_ultra==2 then sack_sus=(loadstring or load)(pp_ultra)();wank_ultra=4
+elseif wank_ultra==3 then pp_ultra=scrote_zone(pp_ultra,poop420);wank_ultra=5
+elseif wank_ultra==5 then pp_ultra=schlong_daddy(pp_ultra);wank_ultra=2
+else wank_ultra=4 end end end;
+local balls69="  ___  ___ _   _  ___  _   _ \92n |   \92|_ _| | | |/ _ \92| | | |\92n | |) || || |_| | (_) | |_| |\92n |___/|___|____/ \92___/ \92__,_|\10   v6.1 -- lmao good luck";
+local fap_soft="[diu9u-6.1] BUILD:1d7920fc HWID:LOGGED TS:1773094724";
+local nards_xd="you are mass, and i am gravity";
+local knob_v2="8=====D~~~";
+local meat_xd="bruh moment certified";
+local schlong_wet="( . )( . )  8====D  (_!_)";
+local function peepee_energy(rule34_soft,wank_soft,butt_small,coom_soft)
+  local wank1337={};
+  local lewds_chan={};
+  local ween_ultra=1;
+  local wank_hyper=rule34_soft.rod_max;
+  local nards_wet=rule34_soft.chode_subs;
+  local smegma_hyper=rule34_soft.pee_off1;
+  local poop_uwu=rule34_soft.pee_off2;
+  local sack_soft=rule34_soft.pee_off3;
+  local dildo_hard=false;
+  local pp_wet;
+  local function jizz69(fart69,cum_ultra)
+    return bit32 and bit32.bxor(fart69,cum_ultra) or (function(fart_bruh,jizz_v2)
+      local milf_small,wank_owo=0,1;for thicc_pro=0,7 do local knob_bruh,cum_zone=fart_bruh%2,jizz_v2%2;
+      if knob_bruh~=cum_zone then milf_small=milf_small+wank_owo end;fart_bruh=(fart_bruh-knob_bruh)/2;jizz_v2=(jizz_v2-cum_zone)/2;wank_owo=wank_owo*2 end;
+      return milf_small end)(fart69,cum_ultra)
   end;
-  local yeet_pro={0};
-  local function balls_uwu(coomer_senpai,jizz_mode)
-    local dingus_xd=0;local chode_hard=0
+  local ahegao_based={0};
+  local function pee_sus(knob_energy,horny_kun)
+    local fart_moment=0;local meat_san=0
     while true do
-      local wank_xd=tool_turbo(coomer_senpai,jizz_mode);jizz_mode=jizz_mode+1
-      dingus_xd=dingus_xd+(wank_xd%128)*(2^chode_hard)
-      if wank_xd<128 then yeet_pro[1]=jizz_mode;return dingus_xd end
-      chode_hard=chode_hard+7
+      local chode_small=rule34_san(knob_energy,horny_kun);horny_kun=horny_kun+1
+      fart_moment=fart_moment+(chode_small%128)*(2^meat_san)
+      if chode_small<128 then ahegao_based[1]=horny_kun;return fart_moment end
+      meat_san=meat_san+7
     end
   end;
-  local function boner_hyper(butt420)
-    if butt420%2==0 then return butt420/2
-    else return -(butt420+1)/2 end
+  local function pee_big(rule34_uwu)
+    if rule34_uwu%2==0 then return rule34_uwu/2
+    else return -(rule34_uwu+1)/2 end
   end;
-  local function butt_bruh(dingus_uwu,thicc_lite)
-    if dingus_mode then
-      local dick_giga=dingus_mode("<d",dingus_uwu,thicc_lite)
-      yeet_pro[1]=thicc_lite+8;return dick_giga end
-    local horny_turbo=tool_turbo(dingus_uwu,thicc_lite);local tool_small=tool_turbo(dingus_uwu,thicc_lite+1)
-    local sussy_owo=tool_turbo(dingus_uwu,thicc_lite+2);local simp_moment=tool_turbo(dingus_uwu,thicc_lite+3)
-    local ahegao_senpai=tool_turbo(dingus_uwu,thicc_lite+4);local coom_hard=tool_turbo(dingus_uwu,thicc_lite+5)
-    local horny_pro=tool_turbo(dingus_uwu,thicc_lite+6);local penis_mode=tool_turbo(dingus_uwu,thicc_lite+7)
-    local scrote69=(penis_mode>=128) and -1 or 1
-    local gooch420=(penis_mode%128)*16+gooch_daddy(horny_pro/16)
-    yeet_pro[1]=thicc_lite+8
-    if gooch420==0 then return 0 end
-    if gooch420==2047 then return scrote69*(1/0) end
-    gooch420=gooch420-1023
-    local sack_mode=((horny_pro%16)*256+coom_hard)*256+ahegao_senpai
-    sack_mode=((sack_mode*256+simp_moment)*256+sussy_owo)*256+tool_small
-    sack_mode=sack_mode*256+horny_turbo
-    return scrote69*2^gooch420*(1+sack_mode/2^52)
+  local function ahegao_energy(poop_xd,pecker_small)
+    if milf_zone then
+      local penis_soft=milf_zone("<d",poop_xd,pecker_small)
+      ahegao_based[1]=pecker_small+8;return penis_soft end
+    local horny_small=rule34_san(poop_xd,pecker_small);local butt_daddy=rule34_san(poop_xd,pecker_small+1)
+    local simp_mega=rule34_san(poop_xd,pecker_small+2);local ahegao_big=rule34_san(poop_xd,pecker_small+3)
+    local yeet_wet=rule34_san(poop_xd,pecker_small+4);local rule34_small=rule34_san(poop_xd,pecker_small+5)
+    local lewds_max=rule34_san(poop_xd,pecker_small+6);local peepee_small=rule34_san(poop_xd,pecker_small+7)
+    local pecker_big=(peepee_small>=128) and -1 or 1
+    local nards_pro=(peepee_small%128)*16+cock_sus(lewds_max/16)
+    ahegao_based[1]=pecker_small+8
+    if nards_pro==0 then return 0 end
+    if nards_pro==2047 then return pecker_big*(1/0) end
+    nards_pro=nards_pro-1023
+    local chode_hard=((lewds_max%16)*256+rule34_small)*256+yeet_wet
+    chode_hard=((chode_hard*256+ahegao_big)*256+simp_mega)*256+butt_daddy
+    chode_hard=chode_hard*256+horny_small
+    return pecker_big*2^nards_pro*(1+chode_hard/2^52)
   end;
-  local function ass_small(scrote_big,scrote_turbo)
-    local coom_lite=1
-    local peepee_uwu=balls_uwu(scrote_big,coom_lite);coom_lite=yeet_pro[1]
-    local weiner_soft={}
-    for nut_wet=1,peepee_uwu do
-      local chode420=tool_turbo(scrote_big,coom_lite);coom_lite=coom_lite+1
-      if chode420==0 then weiner_soft[nut_wet]={0}
-      elseif chode420==1 then weiner_soft[nut_wet]={1,tool_turbo(scrote_big,coom_lite)==1};coom_lite=coom_lite+1
-      elseif chode420==2 then
-        local pp_soft=butt_bruh(scrote_big,coom_lite);coom_lite=yeet_pro[1]
-        weiner_soft[nut_wet]={2,pp_soft}
-      elseif chode420==3 then
-        local dingus69=balls_uwu(scrote_big,coom_lite);coom_lite=yeet_pro[1]
-        local cum_wet=hentai_sus(scrote_big,coom_lite,coom_lite+dingus69-1);coom_lite=coom_lite+dingus69
-        local ween_vibes={};for boob_energy=1,#cum_wet do ween_vibes[boob_energy]=ahegao1337(butt_owo(tool_turbo(cum_wet,boob_energy),scrote_turbo)) end
-        weiner_soft[nut_wet]={3,chode_energy(ween_vibes)}
+  local function schlong_v2(thicc_soft,nards_turbo)
+    local pp_max=1
+    local balls_based=pee_sus(thicc_soft,pp_max);pp_max=ahegao_based[1]
+    local tit_max={}
+    for thicc_daddy=1,balls_based do
+      local boner_based=rule34_san(thicc_soft,pp_max);pp_max=pp_max+1
+      if boner_based==0 then tit_max[thicc_daddy]={0}
+      elseif boner_based==1 then tit_max[thicc_daddy]={1,rule34_san(thicc_soft,pp_max)==1};pp_max=pp_max+1
+      elseif boner_based==2 then
+        local thicc_based=ahegao_energy(thicc_soft,pp_max);pp_max=ahegao_based[1]
+        tit_max[thicc_daddy]={2,thicc_based}
+      elseif boner_based==3 then
+        local gooch_hard=pee_sus(thicc_soft,pp_max);pp_max=ahegao_based[1]
+        local yeet_mode=shaft_small(thicc_soft,pp_max,pp_max+gooch_hard-1);pp_max=pp_max+gooch_hard
+        local nut_v2={};for cum_bruh=1,#yeet_mode do nut_v2[cum_bruh]=milf_max(jizz69(rule34_san(yeet_mode,cum_bruh),nards_turbo)) end
+        tit_max[thicc_daddy]={3,tool_long(nut_v2)}
       end
     end
-    return weiner_soft
+    return tit_max
   end;
-  local function meat_turbo(lewds_xd)
-    local penis_daddy=1
-    local shaft1337=balls_uwu(lewds_xd,penis_daddy);penis_daddy=yeet_pro[1]
-    local weiner_ultra={}
-    for wank_mega=1,shaft1337 do
-      local peepee_sus=tool_turbo(lewds_xd,penis_daddy);penis_daddy=penis_daddy+1
-      local simp_long=balls_uwu(lewds_xd,penis_daddy);penis_daddy=yeet_pro[1]
-      weiner_ultra[wank_mega]={peepee_sus,simp_long}
+  local function dildo_small(peepee_sus)
+    local sussy_sus=1
+    local pp1337=pee_sus(peepee_sus,sussy_sus);sussy_sus=ahegao_based[1]
+    local tit420={}
+    for cock_hyper=1,pp1337 do
+      local wang_senpai=rule34_san(peepee_sus,sussy_sus);sussy_sus=sussy_sus+1
+      local milf_daddy=pee_sus(peepee_sus,sussy_sus);sussy_sus=ahegao_based[1]
+      tit420[cock_hyper]={wang_senpai,milf_daddy}
     end
-    return weiner_ultra
+    return tit420
   end;
-  local function nut_moment(boner_xd)
-    local tool_ultra=1
-    local wank_owo=balls_uwu(boner_xd,tool_ultra);tool_ultra=yeet_pro[1]
-    local butt_hard={}
-    for pee_giga=1,wank_owo do
-      local pp_bruh=balls_uwu(boner_xd,tool_ultra);tool_ultra=yeet_pro[1]
-      local tit_soft=balls_uwu(boner_xd,tool_ultra);tool_ultra=yeet_pro[1]
-      butt_hard[pee_giga]={pp_bruh,tit_soft}
+  local function ahegao_mega(horny_san)
+    local cock_wet=1
+    local nut_zone=pee_sus(horny_san,cock_wet);cock_wet=ahegao_based[1]
+    local rod_xd={}
+    for nards_hard=1,nut_zone do
+      local thicc_small=pee_sus(horny_san,cock_wet);cock_wet=ahegao_based[1]
+      local rod_sus=pee_sus(horny_san,cock_wet);cock_wet=ahegao_based[1]
+      rod_xd[nards_hard]={thicc_small,rod_sus}
     end
-    return butt_hard
+    return rod_xd
   end;
-  local function sussy_small(dingus_pro)
-    local cum_max=1
-    local pee_senpai={}
-    while cum_max<=#(dingus_pro) do
-      local dingus_chan=tool_turbo(dingus_pro,cum_max);cum_max=cum_max+1
-      local dildo_zone=tool_turbo(dingus_pro,cum_max);cum_max=cum_max+1
-      local dildo_moment={dingus_chan}
-      for wang_small=1,dildo_zone do
-        local milf_based=balls_uwu(dingus_pro,cum_max);cum_max=yeet_pro[1]
-        dildo_moment[wang_small+1]=boner_hyper(milf_based)
+  local function fart_energy(sussy_daddy)
+    local poop_zone=1
+    local wang_owo={}
+    while poop_zone<=#(sussy_daddy) do
+      local ass1337=rule34_san(sussy_daddy,poop_zone);poop_zone=poop_zone+1
+      local lewds_zone=rule34_san(sussy_daddy,poop_zone);poop_zone=poop_zone+1
+      local ween1337={ass1337}
+      for dildo_uwu=1,lewds_zone do
+        local rod_san=pee_sus(sussy_daddy,poop_zone);poop_zone=ahegao_based[1]
+        ween1337[dildo_uwu+1]=pee_big(rod_san)
       end
-      pee_senpai[#pee_senpai+1]=dildo_moment
+      wang_owo[#wang_owo+1]=ween1337
     end
-    return pee_senpai
+    return wang_owo
   end;
-  local tit_zone=sussy_moment.horny_data;
-  local jizz_long=sussy_small(tit_zone);
-  do local chode_daddy=0;for sack_chan=1,#tit_zone do
-    chode_daddy=(chode_daddy*31+tool_turbo(tit_zone,sack_chan)+(sack_chan-1)*7)%4294967296
-  end;if chode_daddy~=sussy_moment.simp_chk then
-    pp_xd[0]=nil;pp_xd[1]=nil;pp_xd[2]=nil end end;
-  local cock_v2=sussy_moment.lewds_key;
-  local knob_uwu=(cock_v2*7+13)%256;
-  local fart_wet
-  local scrote1337=sussy_moment.dildo_redir
-  if scrote1337 then
-    local knob_chan=nut_moment(scrote1337)
-    local horny_small={}
-    if sussy_moment.rule34_s0 then horny_small[1]=ass_small(sussy_moment.rule34_s0,knob_uwu) end
-    if sussy_moment.rule34_s1 then horny_small[2]=ass_small(sussy_moment.rule34_s1,knob_uwu) end
-    if sussy_moment.rule34_s2 then horny_small[3]=ass_small(sussy_moment.rule34_s2,knob_uwu) end
-    if sussy_moment.rule34_s3 then horny_small[4]=ass_small(sussy_moment.rule34_s3,knob_uwu) end
-    fart_wet={};for lewds_giga=1,#knob_chan do local peepee_based=knob_chan[lewds_giga];fart_wet[lewds_giga]=horny_small[peepee_based[1]][peepee_based[2]] end
-  else fart_wet=ass_small(sussy_moment.thicc_pool,knob_uwu) end;
-  local function boob_senpai(e)
+  local schlong_mode=rule34_soft.shaft_bin;
+  local butt_chan=fart_energy(schlong_mode);
+  do local weiner_sus=0;for coomer_v2=1,#schlong_mode do
+    weiner_sus=(weiner_sus*31+rule34_san(schlong_mode,coomer_v2)+(coomer_v2-1)*7)%4294967296
+  end;if weiner_sus~=rule34_soft.shaft_chk then
+    ween_ultra=ween_ultra+5 end end;
+  local shaft_uwu=rule34_soft.coom_key;
+  local fart_small=(shaft_uwu*shaft_uwu+shaft_uwu+41)%256;
+  local meat_uwu
+  local poop_long=rule34_soft.gooch_redir
+  if poop_long then
+    local sack_max=ahegao_mega(poop_long)
+    local simp_giga={}
+    if rule34_soft.smegma_s0 then simp_giga[1]=schlong_v2(rule34_soft.smegma_s0,fart_small) end
+    if rule34_soft.smegma_s1 then simp_giga[2]=schlong_v2(rule34_soft.smegma_s1,fart_small) end
+    if rule34_soft.smegma_s2 then simp_giga[3]=schlong_v2(rule34_soft.smegma_s2,fart_small) end
+    if rule34_soft.smegma_s3 then simp_giga[4]=schlong_v2(rule34_soft.smegma_s3,fart_small) end
+    meat_uwu={};for sack_uwu=1,#sack_max do local cum_hard=sack_max[sack_uwu];meat_uwu[sack_uwu]=simp_giga[cum_hard[1]][cum_hard[2]] end
+  else meat_uwu=schlong_v2(rule34_soft.boner_pool,fart_small) end;
+  local function fap_owo(e)
     local t=e[1];
     if t==0 then return nil
     elseif t==1 then return e[2]
     elseif t==2 then return e[2]
     else return e[2] end
   end;
-  local function chode_sus(i)
-    if i>=256 then return boob_senpai(fart_wet[i-255])
-    else return peepee_bruh[i] and peepee_bruh[i][1] or pp_xd[i] end
+  local function poop_chan(i)
+    if i>=256 then return fap_owo(meat_uwu[i-255])
+    else return lewds_chan[i] and lewds_chan[i][1] or wank1337[i] end
   end;
-  local function lewds_long(i)
-    local b=peepee_bruh[i];return b and b[1] or pp_xd[i]
+  local function fart_turbo(i)
+    local b=lewds_chan[i];return b and b[1] or wank1337[i]
   end;
-  local function fart_uwu(i,v)
-    local b=peepee_bruh[i];if b then b[1]=v else pp_xd[i]=v end
+  local function rule34_vibes(i,v)
+    local b=lewds_chan[i];if b then b[1]=v else wank1337[i]=v end
   end;
-  local function wank_long(_o,_a,_b)
-    if _o==1 then return _a-_b
-    elseif _o==0 then return math.floor(_a/_b)
-    elseif _o==6 then return _a/_b
-    elseif _o==4 then return _a%_b
-    elseif _o==3 then return _a*_b
-    elseif _o==2 then return _a^_b
-    elseif _o==5 then return _a+_b
+  local function dick_sus(_o,_a,_b)
+    if _o==2 then return math.floor(_a/_b)
+    elseif _o==6 then return _a-_b
+    elseif _o==5 then return _a^_b
+    elseif _o==3 then return _a%_b
+    elseif _o==0 then return _a/_b
+    elseif _o==1 then return _a*_b
+    elseif _o==4 then return _a+_b
     end
   end;
-  local function balls69(_o,_a,_b)
+  local function tool_v2(_o,_a,_b)
     if _o==1 then return _a==_b
-    elseif _o==0 then return _a<=_b
-    elseif _o==2 then return _a<_b
+    elseif _o==0 then return _a<_b
+    elseif _o==2 then return _a<=_b
     end
   end;
-  for _pi=1,sussy_moment.simp_params do
-    pp_xd[_pi-1]=chode_big[_pi]
+  for _pi=1,rule34_soft.meat_args do
+    wank1337[_pi-1]=coom_soft[_pi]
   end;
-  if sussy_moment.ahegao_va then
+  if rule34_soft.wang_vararg then
     local _nva={}
-    for _i=sussy_moment.simp_params+1,#chode_big do
-      _nva[#_nva+1]=chode_big[_i]
+    for _i=rule34_soft.meat_args+1,#coom_soft do
+      _nva[#_nva+1]=coom_soft[_i]
     end
-    chode_big=_nva
+    coom_soft=_nva
   end;
-  local fap_hyper=meat_turbo(sussy_moment.coomer_uv);
-  for _ui=1,#fap_hyper do
-    local _ud=fap_hyper[_ui]
+  local coom_mode=dildo_small(rule34_soft.knob_upvals);
+  for _ui=1,#coom_mode do
+    local _ud=coom_mode[_ui]
     if _ud[1]==1 then
-      if not balls_big[_ui-1] then
-        balls_big[_ui-1]={nil}
+      if not butt_small[_ui-1] then
+        butt_small[_ui-1]={nil}
       end
     end
   end;
-  if (1==0) then local nards_xd=getfenv and getfenv(0)or{};for penis_moment,_ in pairs(nards_xd) do if type(penis_moment)=="string" and #penis_moment>20 then error("[diu9u] env tampered") end end;end;
-  if (math.huge~=math.huge) then local horny_energy={};for _i=1,256 do horny_energy[_i]=string.char(_i-1) end;local tit_giga=table.concat(horny_energy);error("[INTEGRITY] checksum mismatch: "..#(tit_giga));end;
-  if (#{}>0) then local fart_pro=(#{}>0);error((function() local _t={};local _k=1;local _d={180,21,229,68,149,53,133,85,21,68,212,3,213,87,215,247,38,150,3,151,231,167,87,55,70,151,247,231,3,103,247,86,231,71,227,3,37,23,231,231,151,231,119,3,151,231,3,50,227,227,227,34,227,227,227,18,227,227,227};for _i=1,#_d do local _v=bit32 and bit32.bxor(_d[_i],_k) or (function(a,b) local r,p=0,1;for i=0,7 do local ab,bb=a%2,b%2;if ab~=bb then r=r+p end;a=(a-ab)/2;b=(b-bb)/2;p=p*2 end;return r end)(_d[_i],_k);local _h=math.floor(_v/16);local _l=_v%16;_t[_i]=string.char(_l*16+_h) end;return table.concat(_t) end)()) end;
-  if (nil) then local dildo_daddy=string.dump or tostring;local chode_uwu=pcall(dildo_daddy,error);if chode_uwu then error("[diu9u] impossible") end end;
-  if (math.huge~=math.huge) then pcall(function() local jizz_san=require;local pee_energy=jizz_san(script.Parent:FindFirstChild("AntiTamper"));if not pee_energy then error("[diu9u] missing guard") end end);end;
-  if (#{}>0) then local pee_uwu={};for thicc_vibes=1,math.random(1,99) do pee_uwu[thicc_vibes]=string.rep("\0",thicc_vibes) end;error(table.concat(pee_uwu)) end;
-  local scrote_bruh={};
-  local rod_owo=0;
-  scrote_bruh[10]=function(_i)
-    if not lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
+  if ((5+1)==5) then local poop_mega={};for _i=1,256 do poop_mega[_i]=string.char(_i-1) end;local coomer_san=table.concat(poop_mega);error("[INTEGRITY] checksum mismatch: "..#(coomer_san));end;
+  if (1==0) then local weiner_chan=string.dump or tostring;local boob_wet=pcall(weiner_chan,error);if boob_wet then error("[diu9u] impossible") end end;
+  if (false) then local cum_max={};for _i=1,256 do cum_max[_i]=string.char(_i-1) end;local ahegao_kun=table.concat(cum_max);error("[INTEGRITY] checksum mismatch: "..#(ahegao_kun));end;
+  local dildo_senpai={};
+  local knob_senpai=0;
+  dildo_senpai[42]=function(_i)
+    rule34_vibes(_i[2],not wank1337[_i[3]])
   end;
-  scrote_bruh[50]=function(_i)
-    fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-    lewds_long(_i[4])[chode_sus(_i[5])]=chode_sus(_i[6])
+  dildo_senpai[65]=function(_i)
+    local balls_max="skill issue tbh"
   end;
-  scrote_bruh[22]=function(_i)
-    local schlong_small=4284
+  dildo_senpai[50]=function(_i)
+    if not fart_turbo(_i[2]) then ween_ultra=ween_ultra+_i[3] end
+  end;
+  dildo_senpai[36]=function(_i)
+    local boob_vibes=6346
     while true do
-    if schlong_small==7147 then
-      fart_uwu(_i[3],nil)
-      schlong_small=(schlong_small*5+32101)%65536
-    elseif schlong_small==9146 then
-      local boner_mode={};boner_mode[1]=106;local sussy_v2=#boner_mode
-      schlong_small=2300
-    elseif schlong_small==4284 then
-      fart_uwu(_i[2],nil)
-      schlong_small=7490
-    elseif schlong_small==7769 then
-      local thicc_zone=97;for _=1,0 do thicc_zone=thicc_zone+1 end
-      schlong_small=2300
-    elseif schlong_small==7490 then
-      if 86==116 then local ass_mega=86 end
-      if 17>176 then schlong_small=7769 end
-      schlong_small=(schlong_small*3+50213)%65536
-    elseif schlong_small==2300 then break
+    if boob_vibes==9905 then
+      local cock_big={};cock_big[1]=91;local coom_mega=#cock_big
+      boob_vibes=6720
+    elseif boob_vibes==2054 then
+      local meat_bruh=type(110)=="number" and 110 or 0;local simp_based=meat_bruh+1
+      boob_vibes=6720
+    elseif boob_vibes==6656 then
+      wank1337[_i[2]]=_b and _b[1]
+      boob_vibes=6720
+    elseif boob_vibes==7411 then
+      if 99==198 then local nut_ultra=99 end
+      if 80>171 then boob_vibes=9060 end
+      boob_vibes=(boob_vibes*11+56207)%65536
+    elseif boob_vibes==6346 then
+      local _b=lewds_chan[_i[3]]
+      boob_vibes=(boob_vibes*9+15833)%65536
+    elseif boob_vibes==9060 then
+      local dong_turbo=type(199)=="number" and 199 or 0;local lewds_big=dong_turbo+1
+      boob_vibes=6720
+    elseif boob_vibes==6720 then break
     end end
   end;
-  scrote_bruh[55]=function(_i)
-    fart_uwu(_i[2],wank_long(5,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[53]=function(_i)
-    if type(189)=="string" then local boob_giga=0 end
-    local _a,_b=_i[2],_i[3]
-    sussy_mega=true
-    for _=1,0 do pp_xd[200]=nil end
-    if (171*171+1)%(171+1)==171+1 then local dong_lite=0 end
-    if _b==0 then
-      local _r={}
-    do local tit_kun=pp_xd[85];if type(tit_kun)=="function" then local rod_wet={pcall(tit_kun)} end end
-      for _j=_a,penis_big do _r[#_r+1]=lewds_long(_j) end
-      rule34_lite=_r
-    elseif _b==1 then
-      rule34_lite=nil
-    if math.floor(11/4)*4>11 then local boner_long=0 end
-    else
-      local _r={}
-      for _j=_a,_a+_b-2 do _r[#_r+1]=lewds_long(_j) end
-    do local knob_zone=pp_xd[92];if type(knob_zone)=="table" then local boob_owo=knob_zone[1] end end
-      rule34_lite=_r
-    end
-  end;
-  scrote_bruh[765]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
-  end;
-  scrote_bruh[20]=function(_i)
-    local fap_xd=2320
+  dildo_senpai[200]=function(_i)
+    local nards_daddy=2588
     while true do
-    if fap_xd==8224 then
-      fart_uwu(_i[6],_t1[chode_sus(_i[7])])
-      fap_xd=(fap_xd*13+31116)%65536
-    elseif fap_xd==4316 then
-      local pecker_daddy={};pecker_daddy[1]=127;local dick_v2=#pecker_daddy
-      fap_xd=6956
-    elseif fap_xd==4427 then
-      local _t1=_g[chode_sus(_i[5])]
-      fap_xd=(fap_xd*7+42771)%65536
-    elseif fap_xd==3216 then
-      local boner_kun=type(101)=="number" and 101 or 0;local yeet_san=boner_kun+1
-      fap_xd=6956
-    elseif fap_xd==2320 then
-      local _g=rule34_bruh[boob_senpai(fart_wet[_i[3]+1])]
-      fap_xd=4427
-    elseif fap_xd==6956 then break
+    if nards_daddy==1014 then
+      if 745>5940 then local dick_small=745+5940 end
+      if 83>115 then nards_daddy=4051 end
+      nards_daddy=(nards_daddy*11+61701)%65536
+    elseif nards_daddy==2588 then
+      rule34_vibes(_i[3],fart_turbo(_i[4]))
+      nards_daddy=(nards_daddy*5+55789)%65536
+    elseif nards_daddy==7985 then
+      local coomer_xd=194;for _=1,0 do coomer_xd=coomer_xd+1 end
+      nards_daddy=2561
+    elseif nards_daddy==4051 then
+      local penis_lite=183;for _=1,0 do penis_lite=penis_lite+1 end
+      nards_daddy=2561
+    elseif nards_daddy==7319 then
+      rule34_vibes(_i[8],_i[9]==1)
+      nards_daddy=(nards_daddy*3+46140)%65536
+    elseif nards_daddy==3193 then
+      if (10+18)*(10+18)<10*10+18*18 then local shaft_long=0 end
+      nards_daddy=(nards_daddy*9+42484)%65536
+    elseif nards_daddy==5685 then
+      rule34_vibes(_i[5],fart_turbo(_i[6])[poop_chan(_i[7])])
+      nards_daddy=(nards_daddy*3+49495)%65536
+    elseif nards_daddy==2561 then break
     end end
   end;
-  scrote_bruh[69]=function(_i)
-    fart_uwu(_i[2],-pp_xd[_i[3]])
-  end;
-  scrote_bruh[35]=function(_i)
-    fart_uwu(_i[2],#pp_xd[_i[3]])
-  end;
-  scrote_bruh[41]=function(_i)
-    if 18==116 then local rule34_max=18 end
-    do local dildo69=pp_xd[200];if dildo69~=nil then pp_xd[111]=dildo69 end end
-    local _b=peepee_bruh[_i[2]]
-    if _b then _b[1]=lewds_long(_i[3]) end
-  end;
-  scrote_bruh[75]=function(_i)
-    local yeet_mode="cope seethe mald"
-  end;
-  scrote_bruh[71]=function(_i)
-    local sussy_hyper="L + ratio + you fell off"
-  end;
-  scrote_bruh[62]=function(_i)
-    if 724>7340 then local ween_zone=724+7340 end
+  dildo_senpai[15]=function(_i)
     local _base=_i[2]
-    if lewds_long(_base+3)~=nil then
-      fart_uwu(_base+2,lewds_long(_base+3))
-      coomer_mega=coomer_mega+_i[3]
+    local _step=fart_turbo(_base+2)
+    wank1337[_base]=fart_turbo(_base)+_step
+    local _idx=wank1337[_base]
+    local _lim=fart_turbo(_base+1)
+    if (_step>0 and _idx<=_lim) or (_step<=0 and _idx>=_lim) then
+    if (28+19)*(28+19)<28*28+19*19 then local boner_v2=0 end
+      ween_ultra=ween_ultra+_i[3]
+      rule34_vibes(_base+3,_idx)
     end
   end;
-  scrote_bruh[32]=function(_i)
-    if math.floor(45/2)*2>45 then local dingus_energy=0 end
+  dildo_senpai[24]=function(_i)
+    ween_ultra=ween_ultra+_i[2]
+  end;
+  dildo_senpai[695]=function(_i)
+    local _t=fart_turbo(_i[2]);if _t then rule34_vibes(_i[3],_t[poop_chan(_i[4])]) end
+  end;
+  dildo_senpai[11]=function(_i)
+    local hentai_giga=4714
+    while true do
+    if hentai_giga==2337 then
+      local ass_soft=191*6;local dick420=ass_soft
+      hentai_giga=6250
+    elseif hentai_giga==8441 then
+      local _n=_i[3]
+      hentai_giga=2321
+    elseif hentai_giga==4714 then
+      local _tbl=wank1337[_i[2]]
+      if 68>174 then hentai_giga=6800 end
+      hentai_giga=8441
+    elseif hentai_giga==8580 then
+      for _j=1,_n do _tbl[_off+_j]=fart_turbo(_i[2]+_j) end
+      hentai_giga=(hentai_giga*3+46046)%65536
+    elseif hentai_giga==2321 then
+      local _off=(_i[4]-1)*(2*25)
+      if 6>115 then hentai_giga=5889 end
+      hentai_giga=8580
+    elseif hentai_giga==2453 then
+      local sussy_mega={};sussy_mega[1]=129;local wang_mode=#sussy_mega
+      hentai_giga=6250
+    elseif hentai_giga==5889 then
+      local pecker_owo={};pecker_owo[1]=129;local knob1337=#pecker_owo
+      hentai_giga=6250
+    elseif hentai_giga==6800 then
+      local pp_small=type(127)=="number" and 127 or 0;local fap_san=pp_small+1
+      hentai_giga=6250
+    elseif hentai_giga==6250 then break
+    end end
+  end;
+  dildo_senpai[38]=function(_i)
+    if not fart_turbo(_i[2]) then ween_ultra=ween_ultra+_i[3] end
+  end;
+  dildo_senpai[988]=function(_i)
+    local _t=fart_turbo(_i[2]);if _t then rule34_vibes(_i[3],_t[poop_chan(_i[4])]) end
+  end;
+  dildo_senpai[18]=function(_i)
+    lewds_chan[_i[2]]={wank1337[_i[2]]}
+  end;
+  dildo_senpai[201]=function(_i)
+    local milf_vibes=4555
+    while true do
+    if milf_vibes==9701 then
+      rule34_vibes(_i[8],wank_soft[fap_owo(meat_uwu[_i[9]+1])])
+      milf_vibes=(milf_vibes*13+11015)%65536
+    elseif milf_vibes==2416 then
+      rule34_vibes(_i[5],fart_turbo(_i[6])[poop_chan(_i[7])])
+      milf_vibes=(milf_vibes*9+53493)%65536
+    elseif milf_vibes==7240 then
+      local dildo_ultra=type(87)=="number" and 87 or 0;local poop_v2=dildo_ultra+1
+      milf_vibes=4517
+    elseif milf_vibes==4892 then
+      local chode_zone=80*4;local tit_sus=chode_zone
+      milf_vibes=4517
+    elseif milf_vibes==8477 then
+      rule34_vibes(_i[13],fart_turbo(_i[14]))
+      milf_vibes=(milf_vibes*13+25388)%65536
+    elseif milf_vibes==3236 then
+      local jizz1337=109*7;local schlong_small=jizz1337
+      milf_vibes=4517
+    elseif milf_vibes==9655 then
+      local lewds_pro=199*8;local chode_mega=lewds_pro
+      milf_vibes=4517
+    elseif milf_vibes==6056 then
+      rule34_vibes(_i[10],fart_turbo(_i[11])[poop_chan(_i[12])])
+      if 4>180 then milf_vibes=3236 end
+      milf_vibes=(milf_vibes*7+31621)%65536
+    elseif milf_vibes==4555 then
+      rule34_vibes(_i[3],wank_soft[fap_owo(meat_uwu[_i[4]+1])])
+      if 57>153 then milf_vibes=9655 end
+      milf_vibes=(milf_vibes*5+45177)%65536
+    elseif milf_vibes==4517 then break
+    end end
+  end;
+  dildo_senpai[8]=function(_i)
+    if fart_turbo(_i[2]) then ween_ultra=ween_ultra+_i[3] end
+  end;
+  dildo_senpai[6]=function(_i)
+    local sack_mode=1073
+    while true do
+    if sack_mode==1280 then
+      local weiner_owo=189*4;local weiner_vibes=weiner_owo
+      sack_mode=6638
+    elseif sack_mode==8619 then
+      local coomer_energy=99;for _=1,0 do coomer_energy=coomer_energy+1 end
+      sack_mode=6638
+    elseif sack_mode==3471 then
+      local chode_max=121;for _=1,0 do chode_max=chode_max+1 end
+      sack_mode=6638
+    elseif sack_mode==2056 then
+      local fart_daddy={};fart_daddy[1]=146;local dildo_owo=#fart_daddy
+      sack_mode=6638
+    elseif sack_mode==2022 then
+      rule34_vibes(_i[4],nil)
+      sack_mode=(sack_mode*13+45888)%65536
+    elseif sack_mode==1073 then
+      rule34_vibes(_i[2],nil)
+      sack_mode=4005
+    elseif sack_mode==5861 then
+      rule34_vibes(_i[3],nil)
+      sack_mode=(sack_mode*11+3087)%65536
+    elseif sack_mode==4005 then
+      if 85==161 then local jizz_hard=85 end
+      sack_mode=(sack_mode*3+59382)%65536
+    elseif sack_mode==6638 then break
+    end end
+  end;
+  dildo_senpai[203]=function(_i)
+    if (44*44-44)%2~=0 then local wang_soft=0 end
+    rule34_vibes(_i[3],nil)
+    rule34_vibes(_i[4],wank_soft[fap_owo(meat_uwu[_i[5]+1])])
+    rule34_vibes(_i[6],wank_soft[fap_owo(meat_uwu[_i[7]+1])])
+    rule34_vibes(_i[8],fap_owo(meat_uwu[_i[9]+1]))
+    rule34_vibes(_i[10],wank_soft[fap_owo(meat_uwu[_i[11]+1])])
+  end;
+  dildo_senpai[30]=function(_i)
+    rule34_vibes(_i[2],dick_sus(6,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[13]=function(_i)
     local _a,_b,_c=_i[2],_i[3],_i[4]
-    local _f=lewds_long(_a)
-    if 269>1059 then local boob_chan=269+1059 end
+    local _f=fart_turbo(_a)
+    if (265*2+1)%2==0 then local fart_max=0 end
     local _args={}
-    if 367>8494 then local shaft_kun=367+8494 end
     if _b==0 then
-      for _j=_a+1,penis_big do _args[#_args+1]=lewds_long(_j) end
+      for _j=_a+1,wank_hyper do _args[#_args+1]=fart_turbo(_j) end
     else
-    if (8+6)*(8+6)<8*8+6*6 then local coom1337=0 end
-      for _j=_a+1,_a-(-_b)-1 do _args[#_args+1]=lewds_long(_j) end
+      for _j=_a+1,_a+_b-1 do _args[#_args+1]=fart_turbo(_j) end
+    if math.floor(11/7)*7>11 then local dong_soft=0 end
     end
-    local _rets={_f(ween_xd(_args))}
-    if #tostring(158)<0 then local thicc_kun=0 end
-    if _c<1 then
-    if type(101)=="string" then local butt_daddy=0 end
-      for _j=1,#_rets do fart_uwu(_a+_j-1,_rets[_j]) end
-      penis_big=_a+#_rets-1
+    if (6*6+23*23)%4==3 then local shaft_turbo=0 end
+    local _rets={_f(horny_vibes(_args))}
+    if _c==0 then
+      for _j=1,#_rets do rule34_vibes(_a-(-_j)-1,_rets[_j]) end
+      wank_hyper=_a+#_rets-1
     else
-      for _j=1,_c-1 do fart_uwu(_a-(-_j)-1,_rets[_j]) end
-    if (39*39+18*18)%4==3 then local ween_kun=0 end
+      for _j=1,_c-1 do rule34_vibes(_a-(-_j)-1,_rets[_j]) end
     end
   end;
-  scrote_bruh[67]=function(_i)
-    fart_uwu(_i[2],rule34_bruh[boob_senpai(fart_wet[_i[3]+1])])
-    if 530>4789 then local nut_mode=530+4789 end
-    local _fn=lewds_long(_i[2])
+  dildo_senpai[48]=function(_i)
+    rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+  end;
+  dildo_senpai[20]=function(_i)
+    local _b=lewds_chan[_i[2]]
+    if _b then _b[1]=fart_turbo(_i[3]) end
+  end;
+  dildo_senpai[59]=function(_i)
+    fart_turbo(_i[2])[poop_chan(_i[3])]=poop_chan(_i[4])
+    fart_turbo(_i[5])[poop_chan(_i[6])]=poop_chan(_i[7])
+  end;
+  dildo_senpai[7]=function(_i)
+    local shaft_lite=4142
+    while true do
+    if shaft_lite==1687 then
+      rule34_vibes(_i[5],fart_turbo(_i[6])[poop_chan(_i[7])])
+      shaft_lite=(shaft_lite*13+47242)%65536
+    elseif shaft_lite==9227 then
+      local yeet_senpai=126*4;local tit1337=yeet_senpai
+      shaft_lite=3637
+    elseif shaft_lite==6770 then
+      if (10^(13-1))%13~=1 then local poop_mode=0 end
+      shaft_lite=(shaft_lite*9+6293)%65536
+    elseif shaft_lite==1743 then
+      local fap_small=type(141)=="number" and 141 or 0;local fart_owo=fap_small+1
+      shaft_lite=3637
+    elseif shaft_lite==4142 then
+      rule34_vibes(_i[2],fart_turbo(_i[3])[poop_chan(_i[4])])
+      if 20>194 then shaft_lite=9227 end
+      shaft_lite=(shaft_lite*11+26744)%65536
+    elseif shaft_lite==3637 then break
+    end end
+  end;
+  dildo_senpai[21]=function(_i)
+    if type(53)=="string" then local penis_mega=0 end
+    local _base=_i[2]
+    if fart_turbo(_base+3)~=nil then
+      rule34_vibes(_base+2,fart_turbo(_base+3))
+    if (5+22)*(5+22)<5*5+22*22 then local gooch_san=0 end
+      ween_ultra=ween_ultra+_i[3]
+    end
+  end;
+  dildo_senpai[25]=function(_i)
+    rule34_vibes(_i[2],dick_sus(0,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[64]=function(_i)
+    local yeet_uwu=9055
+    while true do
+    if yeet_uwu==8772 then
+      dildo_hard=true
+      if 62>179 then yeet_uwu=7201 end
+      yeet_uwu=(yeet_uwu*13+25433)%65536
+    elseif yeet_uwu==9055 then
+      if (537*2+1)%2==0 then local coom_owo=0 end
+      if 67>176 then yeet_uwu=2010 end
+      yeet_uwu=(yeet_uwu*3+47143)%65536
+    elseif yeet_uwu==8397 then
+      pp_wet={fart_turbo(_i[2])}
+      yeet_uwu=9176
+    elseif yeet_uwu==6973 then
+      local dong_san=164*4;local dingus_long=dong_san
+      yeet_uwu=9176
+    elseif yeet_uwu==2010 then
+      local penis_san=127*3;local coom_uwu=penis_san
+      yeet_uwu=9176
+    elseif yeet_uwu==7201 then
+      local wang_daddy=122;for _=1,0 do wang_daddy=wang_daddy+1 end
+      yeet_uwu=9176
+    elseif yeet_uwu==9176 then break
+    end end
+  end;
+  dildo_senpai[67]=function(_i)
+    if type(39)=="string" then local coomer420=0 end
+    rule34_vibes(_i[2],fart_turbo(_i[3]))
+    rule34_vibes(_i[4],fart_turbo(_i[5]))
+  end;
+  dildo_senpai[202]=function(_i)
+    local chode_giga=4457
+    while true do
+    if chode_giga==4457 then
+      rule34_vibes(_i[3],nil)
+      if 92>111 then chode_giga=4308 end
+      chode_giga=(chode_giga*9+32943)%65536
+    elseif chode_giga==4031 then
+      local coomer_pro=type(112)=="number" and 112 or 0;local peepee_chan=coomer_pro+1
+      chode_giga=6734
+    elseif chode_giga==6931 then
+      rule34_vibes(_i[8],fap_owo(meat_uwu[_i[9]+1]))
+      chode_giga=(chode_giga*11+62856)%65536
+    elseif chode_giga==8025 then
+      rule34_vibes(_i[10],wank_soft[fap_owo(meat_uwu[_i[11]+1])])
+      chode_giga=6734
+    elseif chode_giga==3567 then
+      rule34_vibes(_i[6],wank_soft[fap_owo(meat_uwu[_i[7]+1])])
+      if 68>154 then chode_giga=4031 end
+      chode_giga=6931
+    elseif chode_giga==7520 then
+      rule34_vibes(_i[4],wank_soft[fap_owo(meat_uwu[_i[5]+1])])
+      if 70>166 then chode_giga=4308 end
+      chode_giga=(chode_giga*13+36879)%65536
+    elseif chode_giga==4308 then
+      local boob_turbo=92;for _=1,0 do boob_turbo=boob_turbo+1 end
+      chode_giga=6734
+    elseif chode_giga==6734 then break
+    end end
+  end;
+  dildo_senpai[37]=function(_i)
+    rule34_vibes(_i[2],wank_soft[fap_owo(meat_uwu[_i[3]+1])])
+    local _fn=fart_turbo(_i[2])
+    if math.floor(48/9)*9>48 then local boob_sus=0 end
+    do local dong_vibes=wank1337[182];if dong_vibes~=nil then wank1337[109]=dong_vibes end end
     local _nb=_i[4]
     local _nc=_i[5]
-    if 57==123 then local smegma_senpai=57 end
+    do local fap_energy=meat_uwu and meat_uwu[2] or 0;local tool_xd=fap_energy end
+    if (32*2+1)%2==0 then local thicc_vibes=0 end
     if _nb==1 then
       if _nc==1 then _fn()
-      elseif _nc<1 then local _rv={_fn()};penis_big=_i[2]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do fart_uwu(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do fart_uwu(_i[2]+_j-1,_rv[_j]) end end
-    if (590*2+1)%2==0 then local simp_mega=0 end
+      elseif _nc<1 then local _rv={_fn()};wank_hyper=_i[2]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do rule34_vibes(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do rule34_vibes(_i[2]+_j-1,_rv[_j]) end end
+    do if wank1337[174]==wank1337[115] then local weiner_xd=0 end end
     else
-      local _args={};for _j=1,_nb-1 do _args[_j]=lewds_long(_i[2]+_j) end
-    if type(127)=="string" then local gooch_energy=0 end
-      if _nc==1 then _fn(ween_xd(_args))
-      elseif _nc==0 then local _rv={_fn(ween_xd(_args))};penis_big=_i[2]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[2]+_j-1,_rv[_j]) end
-      else local _rv={_fn(ween_xd(_args))};for _j=1,_nc-1 do fart_uwu(_i[2]+_j-1,_rv[_j]) end end
-    if 101>1977 then local horny_hard=101+1977 end
+      local _args={};for _j=1,_nb-1 do _args[_j]=fart_turbo(_i[2]+_j) end
+      if _nc==1 then _fn(horny_vibes(_args))
+    do local boner_wet=wank1337[91];if type(boner_wet)=="function" then local dick_based={pcall(boner_wet)} end end
+    if #tostring(299)<0 then local chode_daddy=0 end
+    do local fart_san=wank1337[172];if type(fart_san)=="function" then local balls_zone={pcall(fart_san)} end end
+      elseif _nc<1 then local _rv={_fn(horny_vibes(_args))};wank_hyper=_i[2]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[2]+_j-1,_rv[_j]) end
+    if 79==137 then local smegma1337=79 end
+    do local horny_pro=lewds_chan[190];if horny_pro then local fap_based=horny_pro[1] end end
+      else local _rv={_fn(horny_vibes(_args))};for _j=1,_nc-1 do rule34_vibes(_i[2]+_j-1,_rv[_j]) end end
+    do local cock_hard=wank1337[170];if type(cock_hard)=="table" then local schlong_giga=cock_hard[5] end end
     end
   end;
-  scrote_bruh[410]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
+  dildo_senpai[28]=function(_i)
+    if tool_v2(2,poop_chan(_i[3]),poop_chan(_i[4]))==(_i[2]==0) then
+    else ween_ultra=ween_ultra+1 end
   end;
-  scrote_bruh[64]=function(_i)
-    fart_uwu(_i[2],lewds_long(_i[3]))
+  dildo_senpai[12]=function(_i)
+    rule34_vibes(_i[2],wank_soft[fap_owo(meat_uwu[_i[3]+1])])
   end;
-  scrote_bruh[0]=function(_i)
-    fart_uwu(_i[2],coom_ultra(chode_sus(_i[3]))..coom_ultra(chode_sus(_i[4])))
+  dildo_senpai[1]=function(_i)
+    rule34_vibes(_i[2],nil)
   end;
-  scrote_bruh[17]=function(_i)
-    local dick_zone=5545
+  dildo_senpai[39]=function(_i)
+    rule34_vibes(_i[2],dick_sus(1,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[40]=function(_i)
+    wank_soft[fap_owo(meat_uwu[_i[3]+1])]()
+  end;
+  dildo_senpai[68]=function(_i)
+    local balls1337="sudo rm -rf /your/social/life"
+  end;
+  dildo_senpai[332]=function(_i)
+    if wank1337[_i[2]] then ween_ultra=ween_ultra+_i[3] end
+  end;
+  dildo_senpai[67]=function(_i)
+    local nards_moment="this code is protected by diu9u obfuscator"
+  end;
+  dildo_senpai[14]=function(_i)
+    if fart_turbo(_i[2]) then ween_ultra=ween_ultra+_i[3] end
+  end;
+  dildo_senpai[46]=function(_i)
+    rule34_vibes(_i[2],dick_sus(3,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[207]=function(_i)
+    local dildo_vibes=9413
     while true do
-    if dick_zone==6063 then
-      local dick_big=type(147)=="number" and 147 or 0;local cock_wet=dick_big+1
-      dick_zone=7172
-    elseif dick_zone==5992 then
-      if 40==109 then local cum_daddy=40 end
-      dick_zone=(dick_zone*3+52072)%65536
-    elseif dick_zone==7507 then
-      pp_xd[_base]=lewds_long(_base)-lewds_long(_base+2)
-      if 34>134 then dick_zone=6063 end
-      dick_zone=(dick_zone*11+54487)%65536
-    elseif dick_zone==1860 then
-      local ahegao69=type(140)=="number" and 140 or 0;local meat_moment=ahegao69+1
-      dick_zone=7172
-    elseif dick_zone==4512 then
-      coomer_mega=coomer_mega+_i[3]
-      dick_zone=(dick_zone*9+32100)%65536
-    elseif dick_zone==5545 then
-      local _base=_i[2]
-      dick_zone=7158
-    elseif dick_zone==7158 then
-      if type(158)=="string" then local gooch_mode=0 end
-      if 74>136 then dick_zone=1860 end
-      dick_zone=(dick_zone*13+45525)%65536
-    elseif dick_zone==7172 then break
+    if dildo_vibes==1805 then
+      rule34_vibes(_i[8],fap_owo(meat_uwu[_i[9]+1]))
+      dildo_vibes=(dildo_vibes*9+58727)%65536
+    elseif dildo_vibes==3151 then
+      local pee_daddy={};pee_daddy[1]=190;local sussy69=#pee_daddy
+      dildo_vibes=9436
+    elseif dildo_vibes==5647 then
+      rule34_vibes(_i[3],wank_soft[fap_owo(meat_uwu[_i[4]+1])])
+      dildo_vibes=(dildo_vibes*11+12649)%65536
+    elseif dildo_vibes==1140 then
+      local pecker_hard={};pecker_hard[1]=182;local pecker_zone=#pecker_hard
+      dildo_vibes=9436
+    elseif dildo_vibes==9608 then
+      local fap_ultra=type(99)=="number" and 99 or 0;local tit_vibes=fap_ultra+1
+      dildo_vibes=9436
+    elseif dildo_vibes==9230 then
+      rule34_vibes(_i[5],fart_turbo(_i[6])[poop_chan(_i[7])])
+      if 74>113 then dildo_vibes=1140 end
+      dildo_vibes=(dildo_vibes*7+10748)%65536
+    elseif dildo_vibes==9822 then
+      if math.floor(32/3)*3>32 then local meat_vibes=0 end
+      if 80>104 then dildo_vibes=3151 end
+      dildo_vibes=1805
+    elseif dildo_vibes==8834 then
+      local fap_mode={};fap_mode[1]=138;local schlong_bruh=#fap_mode
+      dildo_vibes=9436
+    elseif dildo_vibes==9413 then
+      if #tostring(486)<0 then local simp1337=0 end
+      dildo_vibes=(dildo_vibes*5+24118)%65536
+    elseif dildo_vibes==9436 then break
     end end
   end;
-  scrote_bruh[202]=function(_i)
-    fart_uwu(_i[3],coom_ultra(chode_sus(_i[4]))..coom_ultra(chode_sus(_i[5])))
-    fart_uwu(_i[6],_i[7]==1)
-    fart_uwu(_i[8],rule34_bruh[boob_senpai(fart_wet[_i[9]+1])])
+  dildo_senpai[52]=function(_i)
+    rule34_vibes(_i[2],wank1337[_i[3]][((_i[4])>=256 and fap_owo(meat_uwu[(_i[4])-(234+21)]) or wank1337[_i[4]])])
   end;
-  scrote_bruh[4]=function(_i)
-    local _tbl=lewds_long(_i[2])
-    local _n=_i[3]
-    local _off=(_i[4]-1)*50
-    if type(93)=="string" then local ass_v2=0 end
-    for _j=1,_n do _tbl[_off+_j]=lewds_long(_i[2]+_j) end
-  end;
-  scrote_bruh[3]=function(_i)
-    local _uv=balls_big[_i[3]]
-    if 50==121 then local cum_big=50 end
-    fart_uwu(_i[2],_uv and _uv[1])
-  end;
-  scrote_bruh[37]=function(_i)
-    local scrote_daddy=6116
-    while true do
-    if scrote_daddy==2197 then
-      local _rets={_f(_s,_c)}
-      scrote_daddy=4929
-    elseif scrote_daddy==6543 then
-      local _nvar=_i[3]
-      if 50>178 then scrote_daddy=7919 end
-      scrote_daddy=(scrote_daddy*3+49264)%65536
-    elseif scrote_daddy==7518 then
-      local lewds_v2=type(189)=="number" and 189 or 0;local dong_mega=lewds_v2+1
-      scrote_daddy=8206
-    elseif scrote_daddy==3357 then
-      local _f=lewds_long(_base)
-      scrote_daddy=(scrote_daddy*9+39850)%65536
-    elseif scrote_daddy==6108 then
-      local _s=lewds_long(_base+1)
-      scrote_daddy=7212
-    elseif scrote_daddy==4929 then
-      for _j=1,_nvar do fart_uwu(_base+2+_j,_rets[_j]) end
-      scrote_daddy=8206
-    elseif scrote_daddy==7212 then
-      if 618>1561 then local boner_moment=618+1561 end
-      if 63>181 then scrote_daddy=7919 end
-      scrote_daddy=3786
-    elseif scrote_daddy==6116 then
-      local _base=_i[2]
-      scrote_daddy=(scrote_daddy*11+7562)%65536
-    elseif scrote_daddy==9302 then
-      for _=1,0 do pp_xd[90]=nil end
-      if 97>187 then scrote_daddy=7919 end
-      scrote_daddy=6543
-    elseif scrote_daddy==3786 then
-      local _c=lewds_long(_base+2)
-      scrote_daddy=(scrote_daddy*7+41231)%65536
-    elseif scrote_daddy==4527 then
-      if (130*130+1)%(130+1)==130+1 then local simp_mode=0 end
-      scrote_daddy=(scrote_daddy*7+39955)%65536
-    elseif scrote_daddy==7919 then
-      local ahegao_lite=type(185)=="number" and 185 or 0;local sack_big=ahegao_lite+1
-      scrote_daddy=8206
-    elseif scrote_daddy==8206 then break
-    end end
-  end;
-  scrote_bruh[69]=function(_i)
-    local horny_v2="error: brain.exe not found"
-  end;
-  scrote_bruh[201]=function(_i)
-    local boob_mode=4283
-    while true do
-    if boob_mode==5125 then
-      fart_uwu(_i[7],lewds_long(_i[8])[chode_sus(_i[9])])
-      boob_mode=(boob_mode*5+44963)%65536
-    elseif boob_mode==7416 then
-      fart_uwu(_i[3],lewds_long(_i[4]))
-      if 32>156 then boob_mode=6141 end
-      boob_mode=(boob_mode*7+18879)%65536
-    elseif boob_mode==4271 then
-      local wang_mega=178;for _=1,0 do wang_mega=wang_mega+1 end
-      boob_mode=5052
-    elseif boob_mode==5255 then
-      fart_uwu(_i[5],rule34_bruh[boob_senpai(fart_wet[_i[6]+1])])
-      boob_mode=5125
-    elseif boob_mode==6141 then
-      local butt_san=type(104)=="number" and 104 or 0;local yeet_mega=butt_san+1
-      boob_mode=5052
-    elseif boob_mode==4283 then
-      if (12*12+22*22)%4==3 then local rod_hard=0 end
-      boob_mode=(boob_mode*9+34405)%65536
-    elseif boob_mode==5052 then break
-    end end
-  end;
-  scrote_bruh[33]=function(_i)
-    fart_uwu(_i[2],lewds_long(_i[3])[chode_sus(_i[4])])
-  end;
-  scrote_bruh[49]=function(_i)
-    local knob_xd=3136
-    while true do
-    if knob_xd==2165 then
-      fart_uwu(_i[4],nil)
-      knob_xd=(knob_xd*13+40909)%65536
-    elseif knob_xd==7578 then
-      fart_uwu(_i[3],nil)
-      knob_xd=(knob_xd*9+65035)%65536
-    elseif knob_xd==3136 then
-      fart_uwu(_i[2],nil)
-      knob_xd=(knob_xd*13+32346)%65536
-    elseif knob_xd==6127 then
-      local rod_long=119*7;local thicc_mega=rod_long
-      knob_xd=3518
-    elseif knob_xd==9955 then
-      local wank_v2=166;for _=1,0 do wank_v2=wank_v2+1 end
-      knob_xd=3518
-    elseif knob_xd==3518 then break
-    end end
-  end;
-  scrote_bruh[60]=function(_i)
-    lewds_long(_i[2])[((_i[3])>=256 and boob_senpai(fart_wet[(_i[3])-255]) or pp_xd[_i[3]])]=((_i[4])>=256 and boob_senpai(fart_wet[(_i[4])-255]) or pp_xd[_i[4]])
-    if 64==193 then local smegma69=64 end
-    pp_xd[_i[5]][chode_sus(_i[6])]=chode_sus(_i[7])
-  end;
-  scrote_bruh[62]=function(_i)
-    local dingus_vibes="thats what she said"
-  end;
-  scrote_bruh[57]=function(_i)
-    fart_uwu(_i[2],rule34_bruh[boob_senpai(fart_wet[_i[3]+1])])
-  end;
-  scrote_bruh[527]=function(_i)
-    fart_uwu(_i[2],lewds_long(_i[3]))
-  end;
-  scrote_bruh[200]=function(_i)
-    local coom_uwu=1179
-    while true do
-    if coom_uwu==2550 then
-      local nut_ultra={};nut_ultra[1]=176;local knob420=#nut_ultra
-      coom_uwu=1436
-    elseif coom_uwu==4737 then
-      local simp_owo=174*2;local horny_vibes=simp_owo
-      coom_uwu=1436
-    elseif coom_uwu==8564 then
-      fart_uwu(_i[8],rule34_bruh[boob_senpai(fart_wet[_i[9]+1])])
-      if 19>127 then coom_uwu=8424 end
-      coom_uwu=(coom_uwu*3+46737)%65536
-    elseif coom_uwu==8455 then
-      if #tostring(333)<0 then local cock_lite=0 end
-      coom_uwu=(coom_uwu*9+61140)%65536
-    elseif coom_uwu==9947 then
-      fart_uwu(_i[3],rule34_bruh[boob_senpai(fart_wet[_i[4]+1])])
-      coom_uwu=(coom_uwu*5+24256)%65536
-    elseif coom_uwu==8424 then
-      local tit_long={};tit_long[1]=169;local rod_max=#tit_long
-      coom_uwu=1436
-    elseif coom_uwu==1179 then
-      if math.floor(28/8)*8>28 then local meat_mega=0 end
-      coom_uwu=(coom_uwu*3+6410)%65536
-    elseif coom_uwu==6893 then
-      fart_uwu(_i[10],lewds_long(_i[11])[((_i[12])>=256 and boob_senpai(fart_wet[(_i[12])-255]) or pp_xd[_i[12]])])
-      coom_uwu=(coom_uwu*11+61181)%65536
-    elseif coom_uwu==6163 then
-      fart_uwu(_i[5],pp_xd[_i[6]][chode_sus(_i[7])])
-      coom_uwu=(coom_uwu*11+6307)%65536
-    elseif coom_uwu==5932 then
-      fart_uwu(_i[13],lewds_long(_i[14]))
-      coom_uwu=1436
-    elseif coom_uwu==1436 then break
-    end end
-  end;
-  scrote_bruh[63]=function(_i)
-    fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-  end;
-  scrote_bruh[72]=function(_i)
-    local smegma_lite=1016
-    while true do
-    if smegma_lite==6812 then
-      local rule34_uwu=type(200)=="number" and 200 or 0;local chode_owo=rule34_uwu+1
-      smegma_lite=8930
-    elseif smegma_lite==7195 then
-      local schlong1337=177*5;local balls420=schlong1337
-      smegma_lite=8930
-    elseif smegma_lite==2953 then
-      fart_uwu(_i[4],pp_xd[_i[5]])
-      if 86>151 then smegma_lite=6812 end
-      smegma_lite=(smegma_lite*7+52405)%65536
-    elseif smegma_lite==7540 then
-      fart_uwu(_i[6],pp_xd[_i[7]])
-      smegma_lite=8930
-    elseif smegma_lite==4834 then
-      local fart_sus=128;for _=1,0 do fart_sus=fart_sus+1 end
-      smegma_lite=8930
-    elseif smegma_lite==1016 then
-      fart_uwu(_i[2],pp_xd[_i[3]])
-      if 48>111 then smegma_lite=7195 end
-      smegma_lite=(smegma_lite*9+59345)%65536
-    elseif smegma_lite==8930 then break
-    end end
-  end;
-  scrote_bruh[518]=function(_i)
-    local _x=wank_long(2,chode_sus(_i[3]),chode_sus(_i[4]));fart_uwu(_i[2],_x)
-  end;
-  scrote_bruh[2]=function(_i)
-    fart_uwu(_i[2],{})
-  end;
-  scrote_bruh[27]=function(_i)
-    fart_uwu(_i[2],lewds_long(_i[3])[chode_sus(_i[4])])
-    lewds_long(_i[5])[((_i[6])>=256 and boob_senpai(fart_wet[(_i[6])-255]) or pp_xd[_i[6]])]=((_i[7])>=256 and boob_senpai(fart_wet[(_i[7])-255]) or pp_xd[_i[7]])
-  end;
-  scrote_bruh[9]=function(_i)
-    fart_uwu(_i[2],wank_long(0,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[67]=function(_i)
-    local peepee_vibes="this code has more layers than your mom"
-  end;
-  scrote_bruh[73]=function(_i)
-    if (11+11)*(11+11)<11*11+11*11 then local knob_san=0 end
-    if balls69(0,chode_sus(_i[3]),chode_sus(_i[4]))==(_i[2]==0) then
-    else coomer_mega=coomer_mega+1 end
-  end;
-  scrote_bruh[201]=function(_i)
-    local cum_senpai=9504
-    while true do
-    if cum_senpai==1801 then
-      if (538*2+1)%2==0 then local milf_small=0 end
-      cum_senpai=(cum_senpai*3+64099)%65536
-    elseif cum_senpai==6802 then
-      local coomer_xd=119*8;local nards_turbo=coomer_xd
-      cum_senpai=2639
-    elseif cum_senpai==9516 then
-      if (2^(3-1))%3~=1 then local cock_hyper=0 end
-      if 10>150 then cum_senpai=1080 end
-      cum_senpai=6294
-    elseif cum_senpai==6649 then
-      fart_uwu(_i[10],lewds_long(_i[11])[chode_sus(_i[12])])
-      cum_senpai=2679
-    elseif cum_senpai==6294 then
-      fart_uwu(_i[5],lewds_long(_i[6])[chode_sus(_i[7])])
-      if 66>113 then cum_senpai=6802 end
-      cum_senpai=(cum_senpai*13+51051)%65536
-    elseif cum_senpai==2679 then
-      fart_uwu(_i[13],lewds_long(_i[14]))
-      cum_senpai=2639
-    elseif cum_senpai==8690 then
-      local boob_xd={};boob_xd[1]=96;local gooch_owo=#boob_xd
-      cum_senpai=2639
-    elseif cum_senpai==8010 then
-      do local hentai_max=pp_xd[101];local ass_vibes=pp_xd[86];if hentai_max~=nil and ass_vibes~=nil then local _=hentai_max+ass_vibes end end
-      cum_senpai=(cum_senpai*3+51423)%65536
-    elseif cum_senpai==7521 then
-      local smegma_chan=149;for _=1,0 do smegma_chan=smegma_chan+1 end
-      cum_senpai=2639
-    elseif cum_senpai==3966 then
-      fart_uwu(_i[8],rule34_bruh[boob_senpai(fart_wet[_i[9]+1])])
-      cum_senpai=8010
-    elseif cum_senpai==6490 then
-      do local weiner_energy=pp_xd[192];if type(weiner_energy)=="function" then local jizz_ultra={pcall(weiner_energy)} end end
-      if 34>135 then cum_senpai=6802 end
-      cum_senpai=(cum_senpai*11+795)%65536
-    elseif cum_senpai==9917 then
-      if (84*84+1)%(84+1)==84+1 then local penis_mega=0 end
-      if 31>186 then cum_senpai=6802 end
-      cum_senpai=6490
-    elseif cum_senpai==1080 then
-      local nut_long=148*5;local dick_daddy=nut_long
-      cum_senpai=2639
-    elseif cum_senpai==4007 then
-      fart_uwu(_i[3],rule34_bruh[boob_senpai(fart_wet[_i[4]+1])])
-      cum_senpai=(cum_senpai*3+63031)%65536
-    elseif cum_senpai==9504 then
-      if (48*48+36*36)%4==3 then local smegma_turbo=0 end
-      cum_senpai=(cum_senpai*7+3015)%65536
-    elseif cum_senpai==2639 then break
-    end end
-  end;
-  scrote_bruh[23]=function(_i)
-    fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-    fart_uwu(_i[4],chode_sus(_i[5])+chode_sus(_i[6]))
-  end;
-  scrote_bruh[73]=function(_i)
-    local sussy_turbo="// TODO: remove all the dicks"
-  end;
-  scrote_bruh[16]=function(_i)
-    if (2^(23-1))%23~=1 then local ween_big=0 end
-    local _sub=wank420[_i[3]+1]
+  dildo_senpai[35]=function(_i)
+    local _sub=nards_wet[_i[3]+1]
     local _cuv={}
-    if _sub.coomer_uv then
-    if 68==153 then local cock_long=68 end
-      local _suv=_sub._uv_dec or meat_turbo(_sub.coomer_uv)
+    if _sub.knob_upvals then
+    if (24*24+24*24)%4==3 then local tit_big=0 end
+      local _suv=_sub._uv_dec or dildo_small(_sub.knob_upvals)
       _sub._uv_dec=_suv
+    if (12^(13-1))%13~=1 then local dingus_sus=0 end
       for _j=1,#_suv do
         local _d=_suv[_j]
-    if #tostring(843)<0 then local dong_xd=0 end
+    if math.floor(10/6)*6>10 then local pee_hard=0 end
         if _d[1]==1 then
-          if not peepee_bruh[_d[2]] then
-            peepee_bruh[_d[2]]={pp_xd[_d[2]]}
+          if not lewds_chan[_d[2]] then
+            lewds_chan[_d[2]]={wank1337[_d[2]]}
+    if (95*95-95)%2~=0 then local knob_mode=0 end
           end
-          _cuv[_j-1]=peepee_bruh[_d[2]]
+          _cuv[_j-1]=lewds_chan[_d[2]]
+    if (17^(19-1))%19~=1 then local scrote_hyper=0 end
         else
-          _cuv[_j-1]=balls_big[_d[2]]
+          _cuv[_j-1]=butt_small[_d[2]]
+    if type(156)=="string" then local coom_long=0 end
         end
+    if (2^(3-1))%3~=1 then local fart_wet=0 end
       end
+    if #tostring(308)<0 then local wank_wet=0 end
     end
-    fart_uwu(_i[2],function(...)
-    if #tostring(774)<0 then local schlong_soft=0 end
-      return knob_max(_sub,rule34_bruh,_cuv,{...})
-    if 4==152 then local cock_chan=4 end
+    rule34_vibes(_i[2],function(...)
+      return peepee_energy(_sub,wank_soft,_cuv,{...})
     end)
   end;
-  scrote_bruh[45]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
+  dildo_senpai[205]=function(_i)
+    if math.floor(35/3)*3>35 then local sack_based=0 end
+    rule34_vibes(_i[3],fart_turbo(_i[4]))
+    if (25*25-25)%2~=0 then local yeet_big=0 end
+    do if wank1337[110]==wank1337[129] then local scrote_big=0 end end
+    rule34_vibes(_i[5],wank_soft[fap_owo(meat_uwu[_i[6]+1])])
+    rule34_vibes(_i[7],fart_turbo(_i[8])[poop_chan(_i[9])])
+    do local simp_hyper=wank1337[149];if type(simp_hyper)=="function" then local ween_moment={pcall(simp_hyper)} end end
   end;
-  scrote_bruh[59]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
+  dildo_senpai[26]=function(_i)
+    local _uv=butt_small[_i[3]]
+    if (13*13+13*13)%4==3 then local ahegao_mode=0 end
+    if _uv then _uv[1]=fart_turbo(_i[2]) end
   end;
-  scrote_bruh[5]=function(_i)
-    fart_uwu(_i[2],lewds_long(_i[3]))
-    local _fn=lewds_long(_i[2])
+  dildo_senpai[200]=function(_i)
+    local lewds_ultra=6973
+    while true do
+    if lewds_ultra==1928 then
+      local chode_soft=195*9;local wang_turbo=chode_soft
+      lewds_ultra=8334
+    elseif lewds_ultra==2583 then
+      rule34_vibes(_i[5],fart_turbo(_i[6])[poop_chan(_i[7])])
+      if 82>137 then lewds_ultra=1928 end
+      lewds_ultra=5041
+    elseif lewds_ultra==7360 then
+      local rod_moment=183*4;local pee_wet=rod_moment
+      lewds_ultra=8334
+    elseif lewds_ultra==5041 then
+      rule34_vibes(_i[8],fart_turbo(_i[9])[poop_chan(_i[10])])
+      lewds_ultra=(lewds_ultra*7+35610)%65536
+    elseif lewds_ultra==4324 then
+      local milf_ultra=122*5;local yeet_daddy=milf_ultra
+      lewds_ultra=8334
+    elseif lewds_ultra==6973 then
+      rule34_vibes(_i[3],fart_turbo(_i[4]))
+      lewds_ultra=(lewds_ultra*11+56952)%65536
+    elseif lewds_ultra==6906 then
+      rule34_vibes(_i[11],not fart_turbo(_i[12]))
+      lewds_ultra=8334
+    elseif lewds_ultra==6084 then
+      local pecker_kun=193;for _=1,0 do pecker_kun=pecker_kun+1 end
+      lewds_ultra=8334
+    elseif lewds_ultra==5361 then
+      if #tostring(965)<0 then local ahegao_hard=0 end
+      if 65>153 then lewds_ultra=6084 end
+      lewds_ultra=(lewds_ultra*13+2749)%65536
+    elseif lewds_ultra==8334 then break
+    end end
+  end;
+  dildo_senpai[3]=function(_i)
+    local _g=wank_soft[fap_owo(meat_uwu[_i[3]+1])]
+    local _t=_g[poop_chan(_i[6])]
+    local _fn=_t
+    local _nb=_i[7]
+    local _nc=_i[8]
+    if (176*176+1)%(176+1)==176+1 then local wang_chan=0 end
+    if _nb==1 then
+    if (29*29+9*9)%4==3 then local ahegao_giga=0 end
+      if _nc==1 then _fn()
+      elseif _nc<1 then local _rv={_fn()};wank_hyper=_i[4]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[4]+_j-1,_rv[_j]) end
+    if #tostring(923)<0 then local balls_giga=0 end
+      else for _j=1,_nc-1 do rule34_vibes(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do rule34_vibes(_i[4]+_j-1,_rv[_j]) end end
+    else
+      local _args={};for _j=1,_nb-1 do _args[_j]=fart_turbo(_i[4]+_j) end
+    if 709>8445 then local cum_mega=709+8445 end
+      if _nc==1 then _fn(horny_vibes(_args))
+      elseif _nc==0 then local _rv={_fn(horny_vibes(_args))};wank_hyper=_i[4]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[4]+_j-1,_rv[_j]) end
+    if (60*60+1)%(60+1)==60+1 then local dong_owo=0 end
+      else local _rv={_fn(horny_vibes(_args))};for _j=1,_nc-1 do rule34_vibes(_i[4]+_j-1,_rv[_j]) end end
+    end
+  end;
+  dildo_senpai[66]=function(_i)
+    local simp_moment="never gonna give you up never gonna let you down"
+  end;
+  dildo_senpai[68]=function(_i)
+    if tool_v2(1,poop_chan(_i[3]),poop_chan(_i[4]))==(_i[2]==0) then
+    else ween_ultra=ween_ultra+1 end
+  end;
+  dildo_senpai[65]=function(_i)
+    rule34_vibes(_i[2],#wank1337[_i[3]])
+  end;
+  dildo_senpai[32]=function(_i)
+    rule34_vibes(_i[2],dick_sus(2,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[399]=function(_i)
+    local _t=fart_turbo(_i[2]);if _t then rule34_vibes(_i[3],_t[poop_chan(_i[4])]) end
+  end;
+  dildo_senpai[61]=function(_i)
+    rule34_vibes(_i[2],dick_sus(5,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[27]=function(_i)
+    local _a,_b=_i[2],_i[3]
+    do local coomer1337=wank1337[121];if type(coomer1337)=="table" then local dingus_zone=coomer1337[1] end end
+    if (11+30)*(11+30)<11*11+30*30 then local dildo_long=0 end
+    dildo_hard=true
+    if (165*165+1)%(165+1)==165+1 then local ween_bruh=0 end
+    do local scrote1337=wank1337[192];if type(scrote1337)=="table" then local hentai_turbo=scrote1337[2] end end
+    if _b<1 then
+    if (12^(13-1))%13~=1 then local smegma_soft=0 end
+      local _r={}
+      for _j=_a,wank_hyper do _r[#_r+1]=fart_turbo(_j) end
+      pp_wet=_r
+    if (17+6)*(17+6)<17*17+6*6 then local horny1337=0 end
+    do local pp_turbo=wank1337[111];if type(pp_turbo)=="table" then local coom_zone=pp_turbo[5] end end
+    elseif _b==1 then
+      pp_wet=nil
+    else
+    if type(84)=="string" then local scrote_owo=0 end
+      local _r={}
+      for _j=_a,_a-(-_b)-2 do _r[#_r+1]=fart_turbo(_j) end
+      pp_wet=_r
+    end
+  end;
+  dildo_senpai[200]=function(_i)
+    local gooch_based=1080
+    while true do
+    if gooch_based==1080 then
+      rule34_vibes(_i[3],fart_turbo(_i[4])[poop_chan(_i[5])])
+      if 93>166 then gooch_based=2246 end
+      gooch_based=(gooch_based*9+58721)%65536
+    elseif gooch_based==5972 then
+      rule34_vibes(_i[8],not fart_turbo(_i[9]))
+      gooch_based=4054
+    elseif gooch_based==9732 then
+      local tool69={};tool69[1]=184;local pecker_ultra=#tool69
+      gooch_based=4054
+    elseif gooch_based==2246 then
+      local coomer_giga={};coomer_giga[1]=132;local horny_mode=#coomer_giga
+      gooch_based=4054
+    elseif gooch_based==2205 then
+      local wank_turbo=type(179)=="number" and 179 or 0;local sack_zone=wank_turbo+1
+      gooch_based=4054
+    elseif gooch_based==1038 then
+      local ass_giga=199*8;local milf_sus=ass_giga
+      gooch_based=4054
+    elseif gooch_based==2905 then
+      if (16+14)*(16+14)<16*16+14*14 then local yeet_moment=0 end
+      gooch_based=7975
+    elseif gooch_based==7975 then
+      rule34_vibes(_i[6],fart_turbo(_i[7]))
+      gooch_based=5972
+    elseif gooch_based==4054 then break
+    end end
+  end;
+  dildo_senpai[206]=function(_i)
+    local lewds_san=5465
+    while true do
+    if lewds_san==3217 then
+      rule34_vibes(_i[12],-fart_turbo(_i[13]))
+      lewds_san=5214
+    elseif lewds_san==4778 then
+      local thicc69={};thicc69[1]=156;local cum_mode=#thicc69
+      lewds_san=5214
+    elseif lewds_san==1010 then
+      rule34_vibes(_i[5],wank_soft[fap_owo(meat_uwu[_i[6]+1])])
+      lewds_san=(lewds_san*13+57065)%65536
+    elseif lewds_san==4659 then
+      rule34_vibes(_i[7],fart_turbo(_i[8])[poop_chan(_i[9])])
+      lewds_san=3884
+    elseif lewds_san==1253 then
+      local pecker_moment=type(129)=="number" and 129 or 0;local pee_owo=pecker_moment+1
+      lewds_san=5214
+    elseif lewds_san==4393 then
+      local rod_hyper=120;for _=1,0 do rod_hyper=rod_hyper+1 end
+      lewds_san=5214
+    elseif lewds_san==2616 then
+      rule34_vibes(_i[10],fap_owo(meat_uwu[_i[11]+1]))
+      if 22>199 then lewds_san=1253 end
+      lewds_san=(lewds_san*9+45209)%65536
+    elseif lewds_san==5729 then
+      local dick_v2=155*4;local milf_mode=dick_v2
+      lewds_san=5214
+    elseif lewds_san==3884 then
+      if (7*7+29*29)%4==3 then local pp_moment=0 end
+      if 10>145 then lewds_san=5729 end
+      lewds_san=(lewds_san*3+56500)%65536
+    elseif lewds_san==5465 then
+      rule34_vibes(_i[3],fart_turbo(_i[4]))
+      lewds_san=(lewds_san*3+50151)%65536
+    elseif lewds_san==5214 then break
+    end end
+  end;
+  dildo_senpai[43]=function(_i)
+    rule34_vibes(_i[2],peepee_bruh(poop_chan(_i[3]))..peepee_bruh(poop_chan(_i[4])))
+  end;
+  dildo_senpai[47]=function(_i)
+    if 438>8689 then local knob420=438+8689 end
+    rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+    rule34_vibes(_i[4],fap_owo(meat_uwu[_i[5]+1]))
+    do local coom_bruh=wank1337[171];local sussy_small=wank1337[112];if coom_bruh~=nil and sussy_small~=nil then local _=coom_bruh+sussy_small end end
+    rule34_vibes(_i[6],fap_owo(meat_uwu[_i[7]+1]))
+    do local wank_energy=wank1337[154];local lewds_energy=wank1337[97];if wank_energy~=nil and lewds_energy~=nil then local _=wank_energy+lewds_energy end end
+  end;
+  dildo_senpai[9]=function(_i)
+    local jizz_giga=2840
+    while true do
+    if jizz_giga==8375 then
+      rule34_vibes(_i[4],((_i[5])>=256 and fap_owo(meat_uwu[(_i[5])-255]) or wank1337[_i[5]])+((_i[6])>=256 and fap_owo(meat_uwu[(_i[6])-255]) or wank1337[_i[6]]))
+      jizz_giga=(jizz_giga*5+30382)%65536
+    elseif jizz_giga==1941 then
+      local smegma_wet=130;for _=1,0 do smegma_wet=smegma_wet+1 end
+      jizz_giga=9935
+    elseif jizz_giga==6721 then
+      fart_turbo(_i[7])[((_i[8])>=256 and fap_owo(meat_uwu[(_i[8])-255]) or wank1337[_i[8]])]=((_i[9])>=256 and fap_owo(meat_uwu[(_i[9])-255]) or wank1337[_i[9]])
+      jizz_giga=9935
+    elseif jizz_giga==8353 then
+      local pecker69=168*8;local thicc_uwu=pecker69
+      jizz_giga=9935
+    elseif jizz_giga==2840 then
+      rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+      jizz_giga=(jizz_giga*13+30201)%65536
+    elseif jizz_giga==1585 then
+      if (29*29+25*25)%4==3 then local sussy_hard=0 end
+      jizz_giga=8375
+    elseif jizz_giga==9935 then break
+    end end
+  end;
+  dildo_senpai[33]=function(_i)
+    if (6+22)*(6+22)<6*6+22*22 then local thicc_moment=0 end
+    if tool_v2(0,((_i[3])>=256 and fap_owo(meat_uwu[(_i[3])-255]) or wank1337[_i[3]]),((_i[4])>=256 and fap_owo(meat_uwu[(_i[4])-255]) or wank1337[_i[4]]))==(_i[2]==0) then
+    if #tostring(189)<0 then local boob_based=0 end
+    else ween_ultra=ween_ultra+1 end
+  end;
+  dildo_senpai[22]=function(_i)
+    rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+    if #tostring(659)<0 then local dildo_giga=0 end
+    fart_turbo(_i[4])[poop_chan(_i[5])]=poop_chan(_i[6])
+  end;
+  dildo_senpai[200]=function(_i)
+    local cock_based=1735
+    while true do
+    if cock_based==2887 then
+      rule34_vibes(_i[7],fart_turbo(_i[8])[poop_chan(_i[9])])
+      cock_based=(cock_based*5+52365)%65536
+    elseif cock_based==9364 then
+      local ass_based=type(175)=="number" and 175 or 0;local knob_owo=ass_based+1
+      cock_based=1264
+    elseif cock_based==3576 then
+      local nut_moment={};nut_moment[1]=84;local balls420=#nut_moment
+      cock_based=1264
+    elseif cock_based==1735 then
+      rule34_vibes(_i[3],fart_turbo(_i[4]))
+      if 84>167 then cock_based=7542 end
+      cock_based=3150
+    elseif cock_based==7542 then
+      local gooch_daddy={};gooch_daddy[1]=161;local weiner_uwu=#gooch_daddy
+      cock_based=1264
+    elseif cock_based==3150 then
+      rule34_vibes(_i[5],wank_soft[fap_owo(meat_uwu[_i[6]+1])])
+      cock_based=2887
+    elseif cock_based==1264 then break
+    end end
+  end;
+  dildo_senpai[44]=function(_i)
+    local _o=wank1337[_i[3]]
+    if 70==140 then local dildo_energy=70 end
+    wank1337[_i[2]+1]=_o
+    wank1337[_i[2]]=_o[((_i[4])>=256 and fap_owo(meat_uwu[(_i[4])-255]) or wank1337[_i[4]])]
+  end;
+  dildo_senpai[201]=function(_i)
+    local dick_kun=6812
+    while true do
+    if dick_kun==3237 then
+      local wang_mega=147*2;local scrote_small=wang_mega
+      dick_kun=5294
+    elseif dick_kun==6812 then
+      rule34_vibes(_i[3],peepee_bruh(poop_chan(_i[4]))..peepee_bruh(poop_chan(_i[5])))
+      if 36>194 then dick_kun=7369 end
+      dick_kun=(dick_kun*5+33519)%65536
+    elseif dick_kun==2043 then
+      rule34_vibes(_i[6],_i[7]==1)
+      if 57>168 then dick_kun=3237 end
+      dick_kun=(dick_kun*7+54810)%65536
+    elseif dick_kun==7369 then
+      local nut_lite=type(194)=="number" and 194 or 0;local tool_big=nut_lite+1
+      dick_kun=5294
+    elseif dick_kun==3575 then
+      rule34_vibes(_i[8],wank_soft[fap_owo(meat_uwu[_i[9]+1])])
+      dick_kun=5294
+    elseif dick_kun==5294 then break
+    end end
+  end;
+  dildo_senpai[4]=function(_i)
+    rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+    rule34_vibes(_i[4],poop_chan(_i[5])+poop_chan(_i[6]))
+    do local lewds_hard=meat_uwu and meat_uwu[2] or 0;local fart_uwu=lewds_hard end
+  end;
+  dildo_senpai[31]=function(_i)
+    local fap_chan=9545
+    while true do
+    if fap_chan==1007 then
+      do if wank1337[99]==wank1337[173] then local lewds_long=0 end end
+      fap_chan=(fap_chan*9+59238)%65536
+    elseif fap_chan==6559 then
+      rule34_vibes(_i[6],wank1337[_i[7]])
+      fap_chan=(fap_chan*9+16069)%65536
+    elseif fap_chan==9545 then
+      rule34_vibes(_i[2],fart_turbo(_i[3]))
+      fap_chan=1007
+    elseif fap_chan==1867 then
+      local fap420={};fap420[1]=133;local weiner_moment=#fap420
+      fap_chan=9564
+    elseif fap_chan==8732 then
+      do local poop_kun=wank1337[94];if type(poop_kun)=="function" then local shaft_moment={pcall(poop_kun)} end end
+      fap_chan=2939
+    elseif fap_chan==2816 then
+      rule34_vibes(_i[4],wank1337[_i[5]])
+      if 17>151 then fap_chan=1867 end
+      fap_chan=8732
+    elseif fap_chan==4362 then
+      local ass69=164*2;local pecker_mega=ass69
+      fap_chan=9564
+    elseif fap_chan==2765 then
+      if (8^(19-1))%19~=1 then local boner_max=0 end
+      fap_chan=(fap_chan*13+32407)%65536
+    elseif fap_chan==2939 then
+      if (118*2+1)%2==0 then local yeet_zone=0 end
+      fap_chan=(fap_chan*11+39766)%65536
+    elseif fap_chan==9564 then break
+    end end
+  end;
+  dildo_senpai[51]=function(_i)
+    rule34_vibes(_i[2],dick_sus(4,poop_chan(_i[3]),poop_chan(_i[4])))
+  end;
+  dildo_senpai[19]=function(_i)
+    local jizz_owo=6979
+    while true do
+    if jizz_owo==9029 then
+      local wank_daddy={};wank_daddy[1]=121;local milf_bruh=#wank_daddy
+      jizz_owo=7746
+    elseif jizz_owo==5511 then
+      local pecker_vibes=type(163)=="number" and 163 or 0;local sussy_giga=pecker_vibes+1
+      jizz_owo=7746
+    elseif jizz_owo==4544 then
+      local _uv=butt_small[_i[3]]
+      jizz_owo=4691
+    elseif jizz_owo==6979 then
+      if (28+30)*(28+30)<28*28+30*30 then local ween_chan=0 end
+      jizz_owo=(jizz_owo*11+58847)%65536
+    elseif jizz_owo==9341 then
+      rule34_vibes(_i[2],_uv and _uv[1])
+      jizz_owo=(jizz_owo*5+26577)%65536
+    elseif jizz_owo==4691 then
+      if (34*34+33*33)%4==3 then local pecker_bruh=0 end
+      jizz_owo=(jizz_owo*11+23276)%65536
+    elseif jizz_owo==9826 then
+      local yeet_small=type(82)=="number" and 82 or 0;local simp_pro=yeet_small+1
+      jizz_owo=7746
+    elseif jizz_owo==7746 then break
+    end end
+  end;
+  dildo_senpai[5]=function(_i)
+  end;
+  dildo_senpai[2]=function(_i)
+    rule34_vibes(_i[2],{})
+  end;
+  dildo_senpai[204]=function(_i)
+    rule34_vibes(_i[3],wank1337[_i[4]])
+    wank1337[_i[5]][((_i[6])>=256 and fap_owo(meat_uwu[(_i[6])-255]) or wank1337[_i[6]])]=((_i[7])>=256 and fap_owo(meat_uwu[(_i[7])-255]) or wank1337[_i[7]])
+    rule34_vibes(_i[8],fart_turbo(_i[9]))
+  end;
+  dildo_senpai[277]=function(_i)
+    rule34_vibes(_i[2],poop_chan(_i[3])+poop_chan(_i[4]))
+  end;
+  dildo_senpai[63]=function(_i)
+    fart_turbo(_i[2])[poop_chan(_i[3])]=poop_chan(_i[4])
+  end;
+  dildo_senpai[201]=function(_i)
+    local coomer_long=4029
+    while true do
+    if coomer_long==4029 then
+      rule34_vibes(_i[3],_i[4]==1)
+      coomer_long=(coomer_long*9+38545)%65536
+    elseif coomer_long==6247 then
+      local dong_lite=97;for _=1,0 do dong_lite=dong_lite+1 end
+      coomer_long=6028
+    elseif coomer_long==3166 then
+      rule34_vibes(_i[12],fart_turbo(_i[13])[((_i[14])>=256 and fap_owo(meat_uwu[(_i[14])-255]) or wank1337[_i[14]])])
+      coomer_long=6028
+    elseif coomer_long==3187 then
+      local penis_vibes={};penis_vibes[1]=131;local lewds_hyper=#penis_vibes
+      coomer_long=6028
+    elseif coomer_long==3448 then
+      rule34_vibes(_i[(54-44)],wank_soft[fap_owo(meat_uwu[_i[11]+1])])
+      coomer_long=4064
+    elseif coomer_long==8835 then
+      fart_turbo(_i[7])[poop_chan(_i[8])]=poop_chan(_i[9])
+      if 33>189 then coomer_long=6032 end
+      coomer_long=3448
+    elseif coomer_long==4332 then
+      for _=1,0 do wank1337[136]=nil end
+      coomer_long=8835
+    elseif coomer_long==6032 then
+      local rule34_sus={};rule34_sus[1]=156;local balls_mode=#rule34_sus
+      coomer_long=6028
+    elseif coomer_long==1098 then
+      local shaft_san=150;for _=1,0 do shaft_san=shaft_san+1 end
+      coomer_long=6028
+    elseif coomer_long==9270 then
+      rule34_vibes(_i[5],wank1337[_i[6]])
+      if 90>176 then coomer_long=3187 end
+      coomer_long=4332
+    elseif coomer_long==4064 then
+      do if wank1337[152]==wank1337[113] then local tit_daddy=0 end end
+      coomer_long=(coomer_long*3+56510)%65536
+    elseif coomer_long==6028 then break
+    end end
+  end;
+  dildo_senpai[57]=function(_i)
+    local tit_hard=2640
+    while true do
+    if tit_hard==2267 then
+      local chode_bruh=type(187)=="number" and 187 or 0;local weiner_long=chode_bruh+1
+      tit_hard=4689
+    elseif tit_hard==7722 then
+      local yeet_energy=type(99)=="number" and 99 or 0;local wank_small=yeet_energy+1
+      tit_hard=4689
+    elseif tit_hard==2640 then
+      if (11+12)*(11+12)<11*11+12*12 then local tool_ultra=0 end
+      tit_hard=(tit_hard*7+50609)%65536
+    elseif tit_hard==3553 then
+      rule34_vibes(_i[2],fart_turbo(_i[3])[poop_chan(_i[4])])
+      tit_hard=(tit_hard*13+23938)%65536
+    elseif tit_hard==4591 then
+      fart_turbo(_i[5])[poop_chan(_i[6])]=poop_chan(_i[7])
+      tit_hard=4689
+    elseif tit_hard==4689 then break
+    end end
+  end;
+  dildo_senpai[66]=function(_i)
+    rule34_vibes(_i[2],fart_turbo(_i[3]))
+  end;
+  dildo_senpai[17]=function(_i)
+    if 356>5991 then local fap_zone=356+5991 end
+    local _base=_i[2]
+    wank1337[_base]=fart_turbo(_base)-fart_turbo(_base+2)
+    ween_ultra=ween_ultra+_i[3]
+  end;
+  dildo_senpai[54]=function(_i)
+    wank_soft[fap_owo(meat_uwu[_i[3]+1])]=fart_turbo(_i[2])
+  end;
+  dildo_senpai[56]=function(_i)
+    rule34_vibes(_i[2],-fart_turbo(_i[3]))
+  end;
+  dildo_senpai[41]=function(_i)
+    local ass_san=5723
+    while true do
+    if ass_san==5723 then
+      rule34_vibes(_i[2],fap_owo(meat_uwu[_i[3]+1]))
+      ass_san=8098
+    elseif ass_san==6880 then
+      local dildo69={};dildo69[1]=160;local pecker420=#dildo69
+      ass_san=1796
+    elseif ass_san==8098 then
+      if 540>5869 then local weiner_zone=540+5869 end
+      if 7>134 then ass_san=6880 end
+      ass_san=2059
+    elseif ass_san==2059 then
+      rule34_vibes(_i[4],fap_owo(meat_uwu[_i[5]+1]))
+      ass_san=1796
+    elseif ass_san==8694 then
+      local dingus_daddy=114;for _=1,0 do dingus_daddy=dingus_daddy+1 end
+      ass_san=1796
+    elseif ass_san==1796 then break
+    end end
+  end;
+  dildo_senpai[10]=function(_i)
+    local nut_mode=8022
+    while true do
+    if nut_mode==8022 then
+      local _base=_i[2]
+      nut_mode=(nut_mode*13+31786)%65536
+    elseif nut_mode==1934 then
+      local fap_giga=type(187)=="number" and 187 or 0;local boob_soft=fap_giga+1
+      nut_mode=2678
+    elseif nut_mode==9841 then
+      local dong_pro=198;for _=1,0 do dong_pro=dong_pro+1 end
+      nut_mode=2678
+    elseif nut_mode==5734 then
+      if (7^(17-1))%17~=1 then local dildo_wet=0 end
+      if 74>194 then nut_mode=9841 end
+      nut_mode=(nut_mode*5+43283)%65536
+    elseif nut_mode==3070 then
+      local pee_small={};pee_small[1]=92;local poop_energy=#pee_small
+      nut_mode=2678
+    elseif nut_mode==6417 then
+      for _j=1,_nvar do rule34_vibes(_base+2+_j,_rets[_j]) end
+      nut_mode=(nut_mode*3+48963)%65536
+    elseif nut_mode==1508 then
+      local _c=fart_turbo(_base+2)
+      nut_mode=8777
+    elseif nut_mode==9730 then
+      local _rets={_f(_s,_c)}
+      if 56>150 then nut_mode=3070 end
+      nut_mode=(nut_mode*5+22620)%65536
+    elseif nut_mode==2304 then
+      local simp_zone=144;for _=1,0 do simp_zone=simp_zone+1 end
+      nut_mode=2678
+    elseif nut_mode==6120 then
+      local _nvar=_i[3]
+      nut_mode=(nut_mode*7+24051)%65536
+    elseif nut_mode==8777 then
+      if (82*82-82)%2~=0 then local boob_max=0 end
+      if 91>154 then nut_mode=9841 end
+      nut_mode=9730
+    elseif nut_mode==5000 then
+      if type(117)=="string" then local peepee_big=0 end
+      if 41>114 then nut_mode=2304 end
+      nut_mode=6120
+    elseif nut_mode==1355 then
+      if #tostring(733)<0 then local pee_chan=0 end
+      if 64>181 then nut_mode=3070 end
+      nut_mode=(nut_mode*13+55429)%65536
+    elseif nut_mode==7508 then
+      local _f=fart_turbo(_base)
+      nut_mode=8499
+    elseif nut_mode==8499 then
+      local _s=fart_turbo(_base+1)
+      nut_mode=1508
+    elseif nut_mode==2678 then break
+    end end
+  end;
+  dildo_senpai[16]=function(_i)
+    local _a,_b=_i[2],_i[3]
+    if _b<1 then
+    do if wank1337[175]==wank1337[193] then local horny_v2=0 end end
+      for _j=1,#coom_soft do rule34_vibes(_a+_j-1,coom_soft[_j]) end
+      wank_hyper=_a+#coom_soft-1
+    if (8^(17-1))%17~=1 then local simp_kun=0 end
+    else
+    if (13*13-13)%2~=0 then local dingus420=0 end
+      for _j=1,_b-1 do rule34_vibes(_a+_j-1,coom_soft[_j]) end
+    end
+  end;
+  dildo_senpai[60]=function(_i)
+    rule34_vibes(_i[2],nil)
+    rule34_vibes(_i[3],nil)
+  end;
+  dildo_senpai[23]=function(_i)
+    rule34_vibes(_i[2],fart_turbo(_i[3]))
+    local _fn=fart_turbo(_i[2])
+    do local wang_big=wank1337[86];if type(wang_big)=="function" then local cum_soft={pcall(wang_big)} end end
+    if (7^(13-1))%13~=1 then local sussy_soft=0 end
     local _nb=_i[4]
     local _nc=_i[5]
     if _nb==1 then
-    if 887>2983 then local pecker_moment=887+2983 end
       if _nc==1 then _fn()
-    if #tostring(243)<0 then local tool_san=0 end
-      elseif _nc==0 then local _rv={_fn()};penis_big=_i[2]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do fart_uwu(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do fart_uwu(_i[2]+_j-1,_rv[_j]) end end
-    if #tostring(301)<0 then local pecker_ultra=0 end
+      elseif _nc<1 then local _rv={_fn()};wank_hyper=_i[2]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do rule34_vibes(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do rule34_vibes(_i[2]+_j-1,_rv[_j]) end end
+    if (130*2+1)%2==0 then local boob_bruh=0 end
     else
-    if 899>8417 then local boner420=899+8417 end
-      local _args={};for _j=1,_nb-1 do _args[_j]=lewds_long(_i[2]+_j) end
-      if _nc==1 then _fn(ween_xd(_args))
-      elseif _nc==0 then local _rv={_fn(ween_xd(_args))};penis_big=_i[2]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[2]+_j-1,_rv[_j]) end
-    if type(37)=="string" then local dingus_turbo=0 end
-      else local _rv={_fn(ween_xd(_args))};for _j=1,_nc-1 do fart_uwu(_i[2]+_j-1,_rv[_j]) end end
+    for _=1,0 do wank1337[120]=nil end
+    if math.floor(22/7)*7>22 then local ahegao420=0 end
+    do local meat_based=wank1337[136];if type(meat_based)=="table" then local thicc420=meat_based[5] end end
+      local _args={};for _j=1,_nb-1 do _args[_j]=fart_turbo(_i[2]+_j) end
+    do local coom1337=meat_uwu and meat_uwu[3] or 0;local sussy_wet=coom1337 end
+      if _nc==1 then _fn(horny_vibes(_args))
+      elseif _nc<1 then local _rv={_fn(horny_vibes(_args))};wank_hyper=_i[2]+#_rv-1;for _j=1,#_rv do rule34_vibes(_i[2]+_j-1,_rv[_j]) end
+    do local milf_big=meat_uwu and meat_uwu[3] or 0;local weiner69=milf_big end
+    if type(127)=="string" then local ahegao_san=0 end
+      else local _rv={_fn(horny_vibes(_args))};for _j=1,_nc-1 do rule34_vibes(_i[2]+_j-1,_rv[_j]) end end
     end
-  end;
-  scrote_bruh[65]=function(_i)
-    local boner_senpai="no bitches?"
-  end;
-  scrote_bruh[211]=function(_i)
-    fart_uwu(_i[3],lewds_long(_i[4]))
-    fart_uwu(_i[5],rule34_bruh[boob_senpai(fart_wet[_i[6]+1])])
-    do local dick_bruh=pp_xd[95];if type(dick_bruh)=="function" then local schlong_zone={pcall(dick_bruh)} end end
-    fart_uwu(_i[7],lewds_long(_i[8])[chode_sus(_i[9])])
-  end;
-  scrote_bruh[210]=function(_i)
-    local tit_big=2851
-    while true do
-    if tit_big==7896 then
-      fart_uwu(_i[7],boob_senpai(fart_wet[_i[8]+1]))
-      if 47>156 then tit_big=7644 end
-      tit_big=(tit_big*5+34603)%65536
-    elseif tit_big==1008 then
-      local hentai_big=122;for _=1,0 do hentai_big=hentai_big+1 end
-      tit_big=8885
-    elseif tit_big==8498 then
-      local dick_pro=111;for _=1,0 do dick_pro=dick_pro+1 end
-      tit_big=8885
-    elseif tit_big==2851 then
-      fart_uwu(_i[3],boob_senpai(fart_wet[_i[4]+1]))
-      if 98>121 then tit_big=8498 end
-      tit_big=(tit_big*11+41345)%65536
-    elseif tit_big==7644 then
-      local pp_kun=148;for _=1,0 do pp_kun=pp_kun+1 end
-      tit_big=8885
-    elseif tit_big==8547 then
-      fart_uwu(_i[9],boob_senpai(fart_wet[_i[(2*5)]+1]))
-      tit_big=(tit_big*13+28846)%65536
-    elseif tit_big==7170 then
-      fart_uwu(_i[5],-pp_xd[_i[6]])
-      tit_big=(tit_big*13+45758)%65536
-    elseif tit_big==8885 then break
-    end end
-  end;
-  scrote_bruh[206]=function(_i)
-    local simp_bruh=7424
-    while true do
-    if simp_bruh==8368 then
-      fart_uwu(_i[13],pp_xd[_i[14]])
-      simp_bruh=3177
-    elseif simp_bruh==7800 then
-      do local sack_moment=pp_xd[199];if sack_moment~=nil then pp_xd[87]=sack_moment end end
-      simp_bruh=(simp_bruh*9+3783)%65536
-    elseif simp_bruh==7424 then
-      fart_uwu(_i[3],lewds_long(_i[4]))
-      if 20>160 then simp_bruh=2486 end
-      simp_bruh=7398
-    elseif simp_bruh==2486 then
-      local balls_moment=89;for _=1,0 do balls_moment=balls_moment+1 end
-      simp_bruh=9958
-    elseif simp_bruh==4709 then
-      fart_uwu(_i[10],lewds_long(_i[11])[chode_sus(_i[12])])
-      if 92>183 then simp_bruh=3109 end
-      simp_bruh=(simp_bruh*13+12687)%65536
-    elseif simp_bruh==3177 then
-      do local pp_max=pp_xd[166];if type(pp_max)=="function" then local jizz_energy={pcall(pp_max)} end end
-      simp_bruh=9958
-    elseif simp_bruh==8447 then
-      fart_uwu(_i[7],lewds_long(_i[8])[((_i[9])>=256 and boob_senpai(fart_wet[(_i[9])-255]) or pp_xd[_i[9]])])
-      if 93>126 then simp_bruh=9893 end
-      simp_bruh=(simp_bruh*9+59758)%65536
-    elseif simp_bruh==9893 then
-      local dong_mode=179*6;local yeet_xd=dong_mode
-      simp_bruh=9958
-    elseif simp_bruh==7398 then
-      fart_uwu(_i[5],rule34_bruh[boob_senpai(fart_wet[_i[6]+1])])
-      simp_bruh=(simp_bruh*3+51142)%65536
-    elseif simp_bruh==3109 then
-      local boner_san={};boner_san[1]=150;local sussy_max=#boner_san
-      simp_bruh=9958
-    elseif simp_bruh==9958 then break
-    end end
-  end;
-  scrote_bruh[14]=function(_i)
-    local dildo_hard=5868
-    while true do
-    if dildo_hard==2234 then
-      do local gooch_mega=pp_xd[151];if type(gooch_mega)=="table" then local shaft_v2=gooch_mega[1] end end
-      if 91>178 then dildo_hard=7957 end
-      dildo_hard=2257
-    elseif dildo_hard==5868 then
-      if (76*76-76)%2~=0 then local penis_san=0 end
-      dildo_hard=(dildo_hard*5+38430)%65536
-    elseif dildo_hard==7169 then
-      do if pp_xd[181]==pp_xd[180] then local cum_chan=0 end end
-      dildo_hard=(dildo_hard*5+35714)%65536
-    elseif dildo_hard==9558 then
-      local lewds69={};lewds69[1]=184;local knob_giga=#lewds69
-      dildo_hard=1322
-    elseif dildo_hard==2257 then
-      fart_uwu(_i[2],lewds_long(_i[3]))
-      dildo_hard=1182
-    elseif dildo_hard==6023 then
-      fart_uwu(_i[4],lewds_long(_i[5]))
-      dildo_hard=1322
-    elseif dildo_hard==7957 then
-      local nards_san=112*7;local yeet420=nards_san
-      dildo_hard=1322
-    elseif dildo_hard==9920 then
-      local ass_soft=194;for _=1,0 do ass_soft=ass_soft+1 end
-      dildo_hard=1322
-    elseif dildo_hard==4300 then
-      local schlong_xd=117;for _=1,0 do schlong_xd=schlong_xd+1 end
-      dildo_hard=1322
-    elseif dildo_hard==1182 then
-      if (826*2+1)%2==0 then local gooch_lite=0 end
-      if 58>102 then dildo_hard=9558 end
-      dildo_hard=(dildo_hard*3+3623)%65536
-    elseif dildo_hard==1322 then break
-    end end
-  end;
-  scrote_bruh[209]=function(_i)
-    local scrote_mega=8866
-    while true do
-    if scrote_mega==8866 then
-      if (2+30)*(2+30)<2*2+30*30 then local coomer69=0 end
-      scrote_mega=3663
-    elseif scrote_mega==3663 then
-      fart_uwu(_i[3],lewds_long(_i[4]))
-      if 22>116 then scrote_mega=2437 end
-      scrote_mega=8394
-    elseif scrote_mega==2560 then
-      fart_uwu(_i[(2*5)],boob_senpai(fart_wet[_i[11]+1]))
-      scrote_mega=3503
-    elseif scrote_mega==3503 then
-      do local nut_xd=pp_xd[106];if type(nut_xd)=="function" then local penis_owo={pcall(nut_xd)} end end
-      scrote_mega=(scrote_mega*5+53007)%65536
-    elseif scrote_mega==5668 then
-      fart_uwu(_i[7],lewds_long(_i[8])[chode_sus(_i[9])])
-      scrote_mega=(scrote_mega*5+39756)%65536
-    elseif scrote_mega==2437 then
-      local rule341337=148*6;local smegma_vibes=rule341337
-      scrote_mega=4986
-    elseif scrote_mega==4393 then
-      local gooch_wet=type(182)=="number" and 182 or 0;local nards_big=gooch_wet+1
-      scrote_mega=4986
-    elseif scrote_mega==8394 then
-      if 691>3638 then local ass_xd=691+3638 end
-      scrote_mega=(scrote_mega*9+60517)%65536
-    elseif scrote_mega==4991 then
-      fart_uwu(_i[5],rule34_bruh[boob_senpai(fart_wet[_i[6]+1])])
-      if 82>126 then scrote_mega=2437 end
-      scrote_mega=(scrote_mega*5+46249)%65536
-    elseif scrote_mega==4986 then break
-    end end
-  end;
-  scrote_bruh[208]=function(_i)
-    local balls_sus=5272
-    while true do
-    if balls_sus==5666 then
-      local nut_pro=129;for _=1,0 do nut_pro=nut_pro+1 end
-      balls_sus=9919
-    elseif balls_sus==8645 then
-      fart_uwu(_i[7],lewds_long(_i[8])[chode_sus(_i[9])])
-      balls_sus=(balls_sus*7+14940)%65536
-    elseif balls_sus==6797 then
-      local coom_senpai=type(87)=="number" and 87 or 0;local butt_xd=coom_senpai+1
-      balls_sus=9919
-    elseif balls_sus==6031 then
-      local butt_moment={};butt_moment[1]=90;local wang_wet=#butt_moment
-      balls_sus=9919
-    elseif balls_sus==1077 then
-      fart_uwu(_i[5],rule34_bruh[boob_senpai(fart_wet[_i[6]+1])])
-      balls_sus=(balls_sus*9+64488)%65536
-    elseif balls_sus==5272 then
-      fart_uwu(_i[3],lewds_long(_i[4]))
-      balls_sus=(balls_sus*5+40253)%65536
-    elseif balls_sus==9919 then break
-    end end
-  end;
-  scrote_bruh[47]=function(_i)
-    local _base=_i[2]
-    local _step=lewds_long(_base+2)
-    pp_xd[_base]=lewds_long(_base)+_step
-    local _idx=pp_xd[_base]
-    local _lim=lewds_long(_base+1)
-    if (_step>0 and _idx<=_lim) or (_step<=0 and _idx>=_lim) then
-      coomer_mega=coomer_mega+_i[3]
-    if 420>2274 then local penis_xd=420+2274 end
-      fart_uwu(_base+3,_idx)
-    end
-  end;
-  scrote_bruh[66]=function(_i)
-    local wank_vibes="git commit -m i give up"
-  end;
-  scrote_bruh[70]=function(_i)
-    local horny_daddy="error: brain.exe not found"
-  end;
-  scrote_bruh[72]=function(_i)
-    local jizz_senpai="why are you looking at this"
-  end;
-  scrote_bruh[1060]=function(_i)
-    local _t=lewds_long(_i[2]);if _t then fart_uwu(_i[3],_t[chode_sus(_i[4])]) end
-  end;
-  scrote_bruh[8]=function(_i)
-    fart_uwu(_i[2],_i[3]~=0)
-    if _i[4]~=0 then coomer_mega=coomer_mega+1 end
-  end;
-  scrote_bruh[56]=function(_i)
-  end;
-  scrote_bruh[44]=function(_i)
-    rule34_bruh[boob_senpai(fart_wet[_i[3]+1])]()
-  end;
-  scrote_bruh[48]=function(_i)
-    sussy_mega=true
-    rule34_lite={lewds_long(_i[2])}
-  end;
-  scrote_bruh[713]=function(_i)
-    local _x=wank_long(2,chode_sus(_i[3]),chode_sus(_i[4]));fart_uwu(_i[2],_x)
-  end;
-  scrote_bruh[505]=function(_i)
-    fart_uwu(_i[2],#pp_xd[_i[3]])
-  end;
-  scrote_bruh[64]=function(_i)
-    local knob_mega="im in your walls"
-  end;
-  scrote_bruh[25]=function(_i)
-    fart_uwu(_i[2],wank_long(6,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[203]=function(_i)
-    local scrote_energy=4944
-    while true do
-    if scrote_energy==9943 then
-      if 12==143 then local dong_giga=12 end
-      scrote_energy=(scrote_energy*13+10760)%65536
-    elseif scrote_energy==5092 then
-      if #tostring(979)<0 then local dingus_kun=0 end
-      if 87>146 then scrote_energy=2875 end
-      scrote_energy=(scrote_energy*11+16575)%65536
-    elseif scrote_energy==6603 then
-      fart_uwu(_i[6],rule34_bruh[boob_senpai(fart_wet[_i[7]+1])])
-      if 82>118 then scrote_energy=2103 end
-      scrote_energy=9943
-    elseif scrote_energy==5362 then
-      do local rule34_giga=pp_xd[103];if type(rule34_giga)=="function" then local pp_hyper={pcall(rule34_giga)} end end
-      if 73>108 then scrote_energy=2103 end
-      scrote_energy=6542
-    elseif scrote_energy==6542 then
-      fart_uwu(_i[4],rule34_bruh[boob_senpai(fart_wet[_i[5]+1])])
-      scrote_energy=(scrote_energy*5+39429)%65536
-    elseif scrote_energy==2875 then
-      local gooch_ultra=139;for _=1,0 do gooch_ultra=gooch_ultra+1 end
-      scrote_energy=9582
-    elseif scrote_energy==7051 then
-      fart_uwu(_i[10],rule34_bruh[boob_senpai(fart_wet[_i[11]+1])])
-      scrote_energy=9582
-    elseif scrote_energy==8947 then
-      fart_uwu(_i[8],boob_senpai(fart_wet[_i[9]+1]))
-      scrote_energy=5092
-    elseif scrote_energy==4944 then
-      fart_uwu(_i[3],nil)
-      scrote_energy=(scrote_energy*7+36290)%65536
-    elseif scrote_energy==2103 then
-      local wank_kun=157*8;local tit_pro=wank_kun
-      scrote_energy=9582
-    elseif scrote_energy==9582 then break
-    end end
-  end;
-  scrote_bruh[74]=function(_i)
-    local shaft_bruh="bruh moment certified"
-  end;
-  scrote_bruh[15]=function(_i)
-    fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-    fart_uwu(_i[4],chode_sus(_i[5])+chode_sus(_i[6]))
-    lewds_long(_i[7])[chode_sus(_i[8])]=chode_sus(_i[9])
-  end;
-  scrote_bruh[19]=function(_i)
-    local rod_turbo=6124
-    while true do
-    if rod_turbo==6124 then
-      fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-      if 87>177 then rod_turbo=8624 end
-      rod_turbo=6187
-    elseif rod_turbo==8624 then
-      local hentai_mega=type(114)=="number" and 114 or 0;local chode1337=hentai_mega+1
-      rod_turbo=8492
-    elseif rod_turbo==4598 then
-      local penis1337={};penis1337[1]=128;local weiner_big=#penis1337
-      rod_turbo=8492
-    elseif rod_turbo==6187 then
-      fart_uwu(_i[4],boob_senpai(fart_wet[_i[5]+1]))
-      if 89>134 then rod_turbo=8624 end
-      rod_turbo=(rod_turbo*13+58731)%65536
-    elseif rod_turbo==6269 then
-      fart_uwu(_i[6],boob_senpai(fart_wet[_i[7]+1]))
-      rod_turbo=(rod_turbo*13+58067)%65536
-    elseif rod_turbo==8090 then
-      if (86*86+1)%(86+1)==86+1 then local meat_uwu=0 end
-      rod_turbo=6269
-    elseif rod_turbo==8492 then break
-    end end
-  end;
-  scrote_bruh[730]=function(_i)
-    fart_uwu(_i[2],chode_sus(_i[3])+chode_sus(_i[4]))
-  end;
-  scrote_bruh[204]=function(_i)
-    local shaft_sus=1966
-    while true do
-    if shaft_sus==2424 then
-      do local rule34_san=peepee_bruh[191];if rule34_san then local wank_giga=rule34_san[1] end end
-      shaft_sus=4769
-    elseif shaft_sus==3246 then
-      local tool_wet=140;for _=1,0 do tool_wet=tool_wet+1 end
-      shaft_sus=7792
-    elseif shaft_sus==4769 then
-      fart_uwu(_i[7],rule34_bruh[boob_senpai(fart_wet[_i[8]+1])])
-      shaft_sus=7792
-    elseif shaft_sus==1966 then
-      fart_uwu(_i[3],rule34_bruh[boob_senpai(fart_wet[_i[4]+1])])
-      shaft_sus=2673
-    elseif shaft_sus==2673 then
-      fart_uwu(_i[5],boob_senpai(fart_wet[_i[6]+1]))
-      if 32>194 then shaft_sus=3246 end
-      shaft_sus=(shaft_sus*11+38557)%65536
-    elseif shaft_sus==9491 then
-      local scrote_kun=195;for _=1,0 do scrote_kun=scrote_kun+1 end
-      shaft_sus=7792
-    elseif shaft_sus==1828 then
-      local shaft69=105;for _=1,0 do shaft69=shaft69+1 end
-      shaft_sus=7792
-    elseif shaft_sus==7792 then break
-    end end
-  end;
-  scrote_bruh[66]=function(_i)
-    if 78==172 then local milf_ultra=78 end
-    fart_uwu(_i[2],pp_xd[_i[3]][chode_sus(_i[4])])
-    if type(124)=="string" then local scrote_senpai=0 end
-    fart_uwu(_i[5],lewds_long(_i[6])[chode_sus(_i[7])])
-  end;
-  scrote_bruh[207]=function(_i)
-    fart_uwu(_i[3],rule34_bruh[boob_senpai(fart_wet[_i[4]+1])])
-    do local weiner_small=pp_xd[156];if type(weiner_small)=="table" then local ass_hyper=weiner_small[2] end end
-    fart_uwu(_i[5],lewds_long(_i[6])[chode_sus(_i[7])])
-    if (104*104+1)%(104+1)==104+1 then local horny_moment=0 end
-    fart_uwu(_i[8],boob_senpai(fart_wet[_i[9]+1]))
-    fart_uwu(_i[(84-74)],boob_senpai(fart_wet[_i[11]+1]))
-    fart_uwu(_i[12],-lewds_long(_i[13]))
-  end;
-  scrote_bruh[6]=function(_i)
-    if balls69(1,chode_sus(_i[3]),chode_sus(_i[4]))==(_i[2]==0) then
-    else coomer_mega=coomer_mega+1 end
-  end;
-  scrote_bruh[40]=function(_i)
-    fart_uwu(_i[2],wank_long(2,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[217]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
-  end;
-  scrote_bruh[26]=function(_i)
-    rule34_bruh[boob_senpai(fart_wet[_i[3]+1])]=lewds_long(_i[2])
-  end;
-  scrote_bruh[1]=function(_i)
-    fart_uwu(_i[2],wank_long(4,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[21]=function(_i)
-    local _b=peepee_bruh[_i[3]]
-    pp_xd[_i[2]]=_b and _b[1]
-  end;
-  scrote_bruh[75]=function(_i)
-    fart_uwu(_i[2],wank_long(1,chode_sus(_i[3]),chode_sus(_i[4])))
-  end;
-  scrote_bruh[46]=function(_i)
-    lewds_long(_i[2])[chode_sus(_i[3])]=chode_sus(_i[4])
-  end;
-  scrote_bruh[18]=function(_i)
-    if (565*2+1)%2==0 then local wank_moment=0 end
-    local _g=rule34_bruh[boob_senpai(fart_wet[_i[3]+1])]
-    do local smegma_pro=peepee_bruh[99];if smegma_pro then local lewds_moment=smegma_pro[1] end end
-    local _t=_g[chode_sus(_i[6])]
-    local _fn=_t+0
-    local _nb=_i[7]
-    do local balls_turbo=peepee_bruh[158];if balls_turbo then local boner_sus=balls_turbo[1] end end
-    local _nc=_i[8]
-    do local knob_turbo=pp_xd[127];if knob_turbo~=nil then pp_xd[143]=knob_turbo end end
-    if _nb==1 then
-    if 504>5356 then local boob_kun=504+5356 end
-      if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};penis_big=_i[4]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[4]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do fart_uwu(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do fart_uwu(_i[4]+_j-1,_rv[_j]) end end
-    if (152*152+1)%(152+1)==152+1 then local wang_owo=0 end
-    else
-    do local pee_max=fart_wet and fart_wet[3] or 0;local cock_senpai=pee_max end
-      local _args={};for _j=1,_nb-1 do _args[_j]=lewds_long(_i[4]+_j) end
-      if _nc==1 then _fn(ween_xd(_args))
-      elseif _nc==0 then local _rv={_fn(ween_xd(_args))};penis_big=_i[4]+#_rv-1;for _j=1,#_rv do fart_uwu(_i[4]+_j-1,_rv[_j]) end
-    do if pp_xd[175]==pp_xd[103] then local cock_xd=0 end end
-      else local _rv={_fn(ween_xd(_args))};for _j=1,_nc-1 do fart_uwu(_i[4]+_j-1,_rv[_j]) end end
-    end
-  end;
-  scrote_bruh[71]=function(_i)
-    if math.floor(32/10)*10>32 then local chode_san=0 end
-    local _a,_b=_i[2],_i[3]
-    if 31==130 then local lewds1337=31 end
-    if _b==0 then
-      for _j=1,#chode_big do fart_uwu(_a+_j-1,chode_big[_j]) end
-    if #tostring(782)<0 then local penis_lite=0 end
-      penis_big=_a+#chode_big-1
-    else
-    if #tostring(660)<0 then local meat_ultra=0 end
-      for _j=1,_b-1 do fart_uwu(_a-(-_j)-1,chode_big[_j]) end
-    if (25+20)*(25+20)<25*25+20*20 then local dick420=0 end
-    end
-  end;
-  scrote_bruh[34]=function(_i)
-    if balls69(2,((_i[3])>=256 and boob_senpai(fart_wet[(_i[3])-255]) or pp_xd[_i[3]]),((_i[4])>=256 and boob_senpai(fart_wet[(_i[4])-255]) or pp_xd[_i[4]]))==(_i[2]==0) then
-    if (23+6)*(23+6)<23*23+6*6 then local tit_senpai=0 end
-    else coomer_mega=coomer_mega+1 end
-  end;
-  scrote_bruh[833]=function(_i)
-    if lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
-  end;
-  scrote_bruh[205]=function(_i)
-    local weiner_wet=1599
-    while true do
-    if weiner_wet==9880 then
-      if (1+30)*(1+30)<1*1+30*30 then local fap_zone=0 end
-      weiner_wet=(weiner_wet*13+7942)%65536
-    elseif weiner_wet==1764 then
-      lewds_long(_i[7])[chode_sus(_i[8])]=chode_sus(_i[9])
-      weiner_wet=8853
-    elseif weiner_wet==1599 then
-      if (48*48+34*34)%4==3 then local simp_zone=0 end
-      if 59>198 then weiner_wet=4872 end
-      weiner_wet=1498
-    elseif weiner_wet==2650 then
-      local fap_small=type(85)=="number" and 85 or 0;local cock_ultra=fap_small+1
-      weiner_wet=8853
-    elseif weiner_wet==1498 then
-      fart_uwu(_i[3],{})
-      weiner_wet=9880
-    elseif weiner_wet==5310 then
-      pp_xd[_i[4]][chode_sus(_i[5])]=chode_sus(_i[6])
-      weiner_wet=(weiner_wet*7+30130)%65536
-    elseif weiner_wet==4872 then
-      local fart_xd={};fart_xd[1]=135;local boob_zone=#fart_xd
-      weiner_wet=8853
-    elseif weiner_wet==8853 then break
-    end end
-  end;
-  scrote_bruh[63]=function(_i)
-    local lewds_wet="ayo pause"
-  end;
-  scrote_bruh[70]=function(_i)
-    peepee_bruh[_i[2]]={pp_xd[_i[2]]}
-  end;
-  scrote_bruh[51]=function(_i)
-    fart_uwu(_i[2],not pp_xd[_i[3]])
-  end;
-  scrote_bruh[43]=function(_i)
-    if type(82)=="string" then local ass_sus=0 end
-    local _o=lewds_long(_i[3])
-    if (58*58-58)%2~=0 then local ween_daddy=0 end
-    pp_xd[_i[2]+1]=_o
-    pp_xd[_i[2]]=_o[chode_sus(_i[4])]
-  end;
-  scrote_bruh[68]=function(_i)
-    local ahegao_max="imagine reading obfuscated code"
-  end;
-  scrote_bruh[65]=function(_i)
-    fart_uwu(_i[2],boob_senpai(fart_wet[_i[3]+1]))
-    fart_uwu(_i[4],boob_senpai(fart_wet[_i[5]+1]))
-  end;
-  scrote_bruh[200]=function(_i)
-    fart_uwu(_i[3],lewds_long(_i[4])[chode_sus(_i[5])])
-    fart_uwu(_i[6],lewds_long(_i[7])[chode_sus(_i[8])])
-    fart_uwu(_i[9],lewds_long(_i[(8+2)]))
-  end;
-  scrote_bruh[76]=function(_i)
-    local yeet_uwu="diu9u wuz here"
   end;
   do
-    local cum_lite=newproxy and newproxy(true)
-    if cum_lite then
-      local _mt=getmetatable(cum_lite)
+    local meat_turbo=newproxy and newproxy(true)
+    if meat_turbo then
+      local _mt=getmetatable(meat_turbo)
       _mt.__gc=function()
-        if penis_energy(scrote_bruh)~="table" then return end
-        local _n=0;for _ in gooch_turbo(scrote_bruh) do _n=_n+1 end
-        if _n<94 then
-          for _k in gooch_turbo(scrote_bruh) do scrote_bruh[_k]=scrote_bruh[(_k+23)%96];break end
+        if ass_chan(dildo_senpai)~="table" then return end
+        local _n=0;for _ in milf_wet(dildo_senpai) do _n=_n+1 end
+        if _n<80 then
+          for _k in milf_wet(dildo_senpai) do dildo_senpai[_k]=dildo_senpai[(_k+24)%82];break end
         end
       end
-      _mt.__tostring=function() return "you are mass, and i am gravity" end
+      _mt.__tostring=function() return "the voices are getting louder" end
       _mt.__metatable=false
     end
   end;
+  local cum_moment={};
+  local tit_pro={};
+  local pp_lite={};
+  local pee_bruh={};
+  local schlong_based={cum_moment,tit_pro,pp_lite,pee_bruh};
+  for nut69,poop_max in milf_wet(dildo_senpai) do
+    schlong_based[(nut69%4)+1][nut69]=poop_max
+  end;
   while true do
-    local lewds_san=jizz_long[coomer_mega]
-    if not lewds_san then break end
-    coomer_mega=coomer_mega+1
-    rod_owo=rod_owo+1
-    if rod_owo%512==0 then
-      if penis_energy(scrote_bruh)~="table" or penis_energy(jizz_long)~="table" then
-        for _k=0,5 do pp_xd[_k]=nil end end end
-    local _r2=lewds_san[2];local _r3=lewds_san[3];local _r4=lewds_san[4];local _r5=lewds_san[5];local _r6=lewds_san[6];local _r7=lewds_san[7]
-    local scrote_based={lewds_san[1],_r2 and _r2-dick_vibes,_r3 and _r3-knob_lite,_r4 and _r4-pee_small,_r5 and _r5-dick_vibes,_r6 and _r6-knob_lite,_r7 and _r7-pee_small}
-    local rule34_ultra=scrote_based[1]
-    if rule34_ultra==54 then
-      local _uv=balls_big[_i[3]]
-      if _uv then _uv[1]=lewds_long(_i[2]) end
-    elseif rule34_ultra==76 then
-      if not lewds_long(_i[2]) then coomer_mega=coomer_mega+_i[3] end
-    elseif rule34_ultra==36 then
-      fart_uwu(_i[2],nil)
-    elseif rule34_ultra==11 then
-      fart_uwu(_i[2],wank_long(3,chode_sus(_i[3]),chode_sus(_i[4])))
-    elseif rule34_ultra==200 then
-      if (235*2+1)%2==0 then local scrote_giga=0 end
-      fart_uwu(_i[3],_i[4]==1)
-      if type(92)=="string" then local balls_daddy=0 end
-      fart_uwu(_i[5],lewds_long(_i[6]))
-      lewds_long(_i[7])[chode_sus(_i[8])]=chode_sus(_i[9])
-      fart_uwu(_i[10],rule34_bruh[boob_senpai(fart_wet[_i[11]+1])])
-    elseif rule34_ultra==58 then
-      coomer_mega=coomer_mega+_i[2]
+    local scrote_senpai=butt_chan[ween_ultra]
+    if not scrote_senpai then break end
+    ween_ultra=ween_ultra+1
+    knob_senpai=knob_senpai+1
+    if knob_senpai%128==0 then
+      if ass_chan(dildo_senpai)~="table" or ass_chan(butt_chan)~="table" then
+        for _k=0,5 do wank1337[_k]=nil end end end
+    local _r2=scrote_senpai[2];local _r3=scrote_senpai[3];local _r4=scrote_senpai[4];local _r5=scrote_senpai[5];local _r6=scrote_senpai[6];local _r7=scrote_senpai[7]
+    local wank_pro={scrote_senpai[1],_r2 and _r2-smegma_hyper,_r3 and _r3-poop_uwu,_r4 and _r4-sack_soft,_r5 and _r5-smegma_hyper,_r6 and _r6-poop_uwu,_r7 and _r7-sack_soft}
+    local chode_v2=wank_pro[1]
+    if chode_v2==63 then
+      local penis_turbo="ligma balls"
+    elseif chode_v2==62 then
+      local meat_small=1299
+      while true do
+      if meat_small==1207 then
+        if _i[4]~=0 then ween_ultra=ween_ultra+1 end
+        meat_small=(meat_small*9+58003)%65536
+      elseif meat_small==9670 then
+        rule34_vibes(_i[2],_i[3]~=0)
+        if 37>123 then meat_small=8750 end
+        meat_small=1207
+      elseif meat_small==5523 then
+        local chode_based=110;for _=1,0 do chode_based=chode_based+1 end
+        meat_small=3330
+      elseif meat_small==8750 then
+        local lewds_v2={};lewds_v2[1]=154;local ahegao69=#lewds_v2
+        meat_small=3330
+      elseif meat_small==9631 then
+        local scrote69={};scrote69[1]=197;local nards_lite=#scrote69
+        meat_small=3330
+      elseif meat_small==2040 then
+        local lewds_mega=175*6;local coomer_senpai=lewds_mega
+        meat_small=3330
+      elseif meat_small==9753 then
+        for _=1,0 do wank1337[160]=nil end
+        if 68>121 then meat_small=5523 end
+        meat_small=9670
+      elseif meat_small==1299 then
+        if (34*34+1)%(34+1)==34+1 then local sussy_lite=0 end
+        meat_small=(meat_small*3+5856)%65536
+      elseif meat_small==3330 then break
+      end end
+    elseif chode_v2==62 then
+      local tool_small="imagine reading obfuscated code"
+    elseif chode_v2==58 then
+      local _g=wank_soft[fap_owo(meat_uwu[_i[3]+1])]
+      if math.floor(24/7)*7>24 then local tool_giga=0 end
+      local _t1=_g[((_i[5])>=256 and fap_owo(meat_uwu[(_i[5])-(3*85)]) or wank1337[_i[5]])]
+      rule34_vibes(_i[6],_t1[poop_chan(_i[7])])
+    elseif chode_v2==64 then
+      local cum_lite="[REDACTED] by order of diu9u"
     else
-      local _fn=scrote_bruh[rule34_ultra]
-      if _fn then _fn(scrote_based) end
+      local _sub=schlong_based[(chode_v2%4)+1]
+      local _fn=_sub[chode_v2]
+      if _fn then _fn(wank_pro) end
     end
-    if sussy_mega then
-      if rule34_lite then return ween_xd(rule34_lite)
+    if dildo_hard then
+      if pp_wet then return horny_vibes(pp_wet)
       else return end
     end
   end
 end;
-local rule34_bruh=getfenv and getfenv(0) or _ENV or _G;knob_max(wang_based,rule34_bruh,{},{...});
+local wank_soft=getfenv and getfenv(0) or _ENV or _G;peepee_energy(sack_sus,wank_soft,{},{...});
