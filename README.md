@@ -1,8 +1,8 @@
-# 8====D~~~ diu9u Obfuscator v4.3 ~~~D====8
+# 8====D~~~ diu9u Obfuscator v5.0 ~~~D====8
 
 **English** | [中文](#中文版)
 
-A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, **Control Flow Flattening**, NSFW signature style, and zero dependencies.
+A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, **Control Flow Flattening**, **Instruction Fusion**, **Operand Encoding**, **Dual-Path Dispatch**, **VM Polymorphism**, NSFW signature style, and zero dependencies.
 
 Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `continue`, `type`, if-then-else expressions, string interpolation, type annotations, etc.) and requires zero compilation — just Python 3.
 
@@ -13,7 +13,13 @@ Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `con
 | Pass | Description |
 |------|-------------|
 | **Bytecode VM** ⭐ | Full AST parser → custom bytecode compiler → VM interpreter generator. Handler table splitting, control flow flattening, multi-round encryption, opaque predicates, decoy handlers |
-| **VM Nesting** ⭐ NEW | Multi-layer VM virtualization — VM output is re-compiled into another VM with independent opcode maps and encryption keys |
+| **Prototype Field Randomization** ⭐ NEW | All prototype field names (`c`, `k`, `p`, `np`, `va`, `mr`, `ck`, `uv`) replaced with random names each build — defeats pattern matching |
+| **Instruction Operand Encoding** ⭐ NEW | Per-prototype random keys encode all instruction operands — no plaintext operands in instruction tables |
+| **Instruction Fusion** ⭐ NEW | Common 2-instruction sequences (LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN) merged into single compound opcodes with NOP replacement |
+| **Helper Function Inlining** ⭐ NEW | 40% of handlers randomly inline `gr`/`sr`/`rk` helper calls — breaks uniform call pattern matching |
+| **Dual-Path Dispatch** ⭐ NEW | Handlers split between table lookup and inline if-elseif branches in the main loop — reversers can't extract all handlers from the table alone |
+| **VM Main Loop Polymorphism** ⭐ NEW | 3 structurally different dispatch loop patterns (while, recursive, repeat-until) randomly selected per build |
+| **VM Nesting** ⭐ | Multi-layer VM virtualization — VM output is re-compiled into another VM with independent opcode maps and encryption keys |
 | **Anti-Debug** ⭐ NEW | GC timing detection, debug library neutralization, callstack depth verification, environment integrity checks — silent corruption instead of crash |
 | **Control Flow Flattening** ⭐ NEW | State-machine dispatcher inside handler bodies — linearizes control flow, defeats pattern matching |
 | **Multi-Round Encryption** ⭐ NEW | 3-round XOR with per-round key derivation replaces simple XOR — each round uses a different derived key |
@@ -119,11 +125,17 @@ options:
 ### 🧠 Bytecode VM (`--bytecode-vm`)
 The strongest protection mode. Your Lua/Luau source is:
 1. **Parsed** into an AST by a full recursive descent parser with Pratt expression parsing
-2. **Compiled** to a custom 42-opcode register-based instruction set (with upvalue/closure support)
+2. **Compiled** to a custom 45-opcode register-based instruction set (with upvalue/closure support, including 3 fused superoperators)
 3. **Wrapped** in a generated Lua VM interpreter that executes the bytecode at runtime
 
 The VM interpreter features:
 - **Handler table splitting** — each opcode is a separate closure in a randomized table (no if-elseif chain)
+- **Dual-path dispatch** — handlers split between table and inline if-elseif branches in the main loop
+- **VM loop polymorphism** — 3 structurally different dispatch patterns (while/recursive/repeat-until) per build
+- **Prototype field randomization** — all field names randomized, no fixed `proto.c`/`proto.k` in output
+- **Instruction operand encoding** — per-prototype random offset keys, decoded at dispatch time
+- **Instruction fusion** — LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN merged into compound opcodes
+- **Helper function inlining** — 40% of handlers randomly inline helper calls to break patterns
 - **Control flow flattening** — multi-line handlers wrapped in state-machine dispatchers with shuffled states
 - **Opaque predicates** — dead branches with always-false conditions injected between real statements
 - **Handler code mutation** — equivalent expressions randomized each build (`~=0` → `>0`, `+1` → `+(2-1)`)
@@ -136,11 +148,13 @@ The VM interpreter features:
 - **Runtime integrity counter** — periodic type checks on handler table during execution
 
 ```
-Source → [AST] → [Bytecode: 42 opcodes, registers, upvalues]
-  → [Shuffle opcodes] → [Inject junk NOPs] → [3-round XOR encrypt]
-  → [Generate handlers] → [Flatten control flow] → [Inject opaque predicates]
-  → [Mutate code patterns] → [Encode strings] → [Add decoys]
-  → [Inject anti-debug] → Output: self-contained Lua VM
+Source → [AST] → [Bytecode: 45 opcodes, registers, upvalues]
+  → [Inject junk NOPs] → [Fuse instructions] → [Shuffle opcodes]
+  → [Encode operands] → [Randomize field names] → [3-round XOR encrypt]
+  → [Generate handlers] → [Inline helpers] → [Flatten control flow]
+  → [Inject opaque predicates] → [Mutate code patterns] → [Encode strings]
+  → [Split dual-path dispatch] → [Select loop pattern] → [Add decoys]
+  → [Inject anti-debug] → Output: self-contained polymorphic Lua VM
 ```
 
 51KB source → 2.7MB output with `--bytecode-vm --name-style nsfw --layers 1`
@@ -238,13 +252,19 @@ Full support for Luau-specific syntax:
 
 ## Comparison
 
-| | **diu9u v4.3** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v5.0** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau Support | ✅ Full | ❌ | ✅ |
 | Price | Free | Free | $8-30/mo |
 | Dependencies | Python 3 | .NET SDK | Web |
-| Bytecode VM | ✅ | ✅ | ✅ |
+| Bytecode VM | ✅ 45 opcodes | ✅ | ✅ |
 | Handler Table Splitting | ✅ | ❌ | ✅ |
+| Dual-Path Dispatch | ✅ Table + inline | ❌ | ❌ |
+| VM Loop Polymorphism | ✅ 3 patterns | ❌ | ❌ |
+| Instruction Fusion | ✅ 3 superops | ❌ | ✅ |
+| Operand Encoding | ✅ Per-prototype | ❌ | ✅ |
+| Field Randomization | ✅ | ❌ | ✅ |
+| Helper Inlining | ✅ 40% random | ❌ | ❌ |
 | Control Flow Flattening | ✅ State-machine | ❌ | ✅ |
 | VM Nesting | ✅ | ❌ | ✅ |
 | Multi-Round Encryption | ✅ 3-round derived | ❌ | ✅ |
@@ -278,11 +298,11 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 
 <a id="中文版"></a>
 
-# 8====D~~~ diu9u 混淆器 v4.3 ~~~D====8
+# 8====D~~~ diu9u 混淆器 v5.0 ~~~D====8
 
 [English](#8d-diu9u-obfuscator-v42-d8) | **中文**
 
-兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、NSFW 签名风格，零依赖。
+兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、**指令融合**、**操作数编码**、**双路径调度**、**VM 多态**、NSFW 签名风格，零依赖。
 
 与 Ironbrew 2 不同，本混淆器**原生支持 Luau 语法**（`+=`、`continue`、`type`、if-then-else 表达式、字符串插值、类型注解等），无需编译 — 只需 Python 3。
 
@@ -293,7 +313,13 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 | 功能 | 说明 |
 |------|------|
 | **字节码虚拟机** ⭐ | 完整 AST 解析器 → 自定义字节码编译器 → VM 解释器生成器。Handler 表分裂、控制流平坦化、多轮加密、不透明谓词、诱饵处理器 |
-| **VM 嵌套** ⭐ 新功能 | 多层 VM 虚拟化 — VM 输出重新编译为另一个 VM，独立操作码映射和加密密钥 |
+| **原型字段名随机化** ⭐ 新功能 | 所有原型字段名（`c`、`k`、`p`、`np`、`va`、`mr`、`ck`、`uv`）每次构建替换为随机名 — 击败模式匹配 |
+| **指令操作数编码** ⭐ 新功能 | 每个原型随机密钥编码所有指令操作数 — 指令表中无明文操作数 |
+| **指令融合** ⭐ 新功能 | 常见 2 指令序列（LOADK+LOADK、GETGLOBAL+CALL、MOVE+RETURN）融合为单一复合操作码 |
+| **辅助函数内联** ⭐ 新功能 | 40% 的 handler 随机内联 `gr`/`sr`/`rk` 辅助函数调用 — 打破统一调用模式 |
+| **双路径调度** ⭐ 新功能 | Handler 分布在表查找和主循环内联 if-elseif 分支之间 — 逆向者无法仅从表中提取所有 handler |
+| **VM 主循环多态** ⭐ 新功能 | 3 种结构不同的调度循环模式（while、递归、repeat-until）每次构建随机选择 |
+| **VM 嵌套** ⭐ | 多层 VM 虚拟化 — VM 输出重新编译为另一个 VM，独立操作码映射和加密密钥 |
 | **反调试** ⭐ 新功能 | GC 计时检测、debug 库中和、调用栈深度验证、环境完整性检查 — 静默破坏而非崩溃 |
 | **控制流平坦化** ⭐ 新功能 | Handler 内部状态机调度器 — 线性化控制流，击败模式匹配 |
 | **多轮加密** ⭐ 新功能 | 3 轮 XOR + 每轮密钥派生，替代简单 XOR — 每轮使用不同的派生密钥 |
@@ -399,11 +425,17 @@ python obfuscator.py input.lua --no-encrypt --no-honeypots --no-traps
 ### 🧠 字节码虚拟机 (`--bytecode-vm`)
 最强保护模式。你的 Lua/Luau 源码会经历：
 1. **解析** — 完整的递归下降解析器 + Pratt 表达式解析，生成 AST
-2. **编译** — 编译为自定义 42 操作码寄存器式指令集（支持 upvalue/闭包）
+2. **编译** — 编译为自定义 45 操作码寄存器式指令集（含 3 个融合超级操作码，支持 upvalue/闭包）
 3. **包装** — 生成一个 Lua VM 解释器，在运行时执行字节码
 
 VM 解释器特点：
 - **Handler 表分裂** — 每个操作码是随机化表中的独立闭包（无 if-elseif 链）
+- **双路径调度** — handler 分布在表和主循环内联 if-elseif 分支之间
+- **VM 循环多态** — 3 种结构不同的调度模式（while/递归/repeat-until）每次构建随机选择
+- **原型字段随机化** — 所有字段名随机化，输出中无固定 `proto.c`/`proto.k`
+- **指令操作数编码** — 每个原型随机偏移密钥，调度时解码
+- **指令融合** — LOADK+LOADK、GETGLOBAL+CALL、MOVE+RETURN 融合为复合操作码
+- **辅助函数内联** — 40% 的 handler 随机内联辅助调用以打破模式
 - **控制流平坦化** — 多行 handler 用状态机调度器包装，状态随机打乱
 - **不透明谓词** — 在真实语句之间注入永远为假的死分支
 - **Handler 变异** — 每次构建随机化等价表达式（`~=0` → `>0`、`+1` → `+(2-1)`）
@@ -416,11 +448,13 @@ VM 解释器特点：
 - **运行时完整性计数器** — 定期检查 handler 表类型
 
 ```
-源码 → [AST] → [字节码: 42 操作码, 寄存器, upvalue]
-  → [打乱操作码] → [注入垃圾 NOP] → [3 轮 XOR 加密]
-  → [生成 handler] → [平坦化控制流] → [注入不透明谓词]
-  → [变异代码模式] → [编码字符串] → [添加诱饵]
-  → [注入反调试] → 输出: 自包含 Lua VM
+源码 → [AST] → [字节码: 45 操作码, 寄存器, upvalue]
+  → [注入垃圾 NOP] → [融合指令] → [打乱操作码]
+  → [编码操作数] → [随机化字段名] → [3 轮 XOR 加密]
+  → [生成 handler] → [内联辅助函数] → [平坦化控制流]
+  → [注入不透明谓词] → [变异代码模式] → [编码字符串]
+  → [分裂双路径调度] → [选择循环模式] → [添加诱饵]
+  → [注入反调试] → 输出: 自包含多态 Lua VM
 ```
 
 51KB 源码 → 2.7MB 输出（`--bytecode-vm --name-style nsfw --layers 1`）
@@ -497,13 +531,19 @@ VM 启动前注入 5 项静默检查：
 
 ## 对比
 
-| | **diu9u v4.3** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v5.0** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau 支持 | ✅ 完整 | ❌ | ✅ |
 | 价格 | 免费 | 免费 | $8-30/月 |
 | 依赖 | Python 3 | .NET SDK | Web |
-| 字节码 VM | ✅ | ✅ | ✅ |
+| 字节码 VM | ✅ 45 操作码 | ✅ | ✅ |
 | Handler 表分裂 | ✅ | ❌ | ✅ |
+| 双路径调度 | ✅ 表 + 内联 | ❌ | ❌ |
+| VM 循环多态 | ✅ 3 种模式 | ❌ | ❌ |
+| 指令融合 | ✅ 3 超级操作码 | ❌ | ✅ |
+| 操作数编码 | ✅ 原型级 | ❌ | ✅ |
+| 字段随机化 | ✅ | ❌ | ✅ |
+| 辅助函数内联 | ✅ 40% 随机 | ❌ | ❌ |
 | 控制流平坦化 | ✅ 状态机 | ❌ | ✅ |
 | VM 嵌套 | ✅ | ❌ | ✅ |
 | 多轮加密 | ✅ 3轮派生 | ❌ | ✅ |
