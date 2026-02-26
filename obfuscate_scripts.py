@@ -6,7 +6,7 @@ SCRIPTS = [
      "casual_esp_obf.lua"),
     (r"c:\Users\gary6\OneDrive\Desktop\code stuff\cursed tank\games\forest\forest_noclip.lua",
      "forest_noclip_obf.lua"),
-    (r"c:\Users\gary6\AppData\Local\Potassium\workspace\dump_The_Final_Stand_2_-_Career_2899434514\tfs2_exploit.lua",
+    (r"c:\Users\gary6\OneDrive\Desktop\code stuff\diu9u_obfuscator\unobfuscated\tfs2_exploit.lua",
      "tfs2_exploit_obf.lua"),
 ]
 
