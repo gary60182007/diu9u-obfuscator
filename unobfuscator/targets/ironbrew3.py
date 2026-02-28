@@ -1462,6 +1462,17 @@ class IB3Decompiler:
         result = self._add_local_declarations(result)
         result = self._rename_functions(result)
         result = self._goto_to_structured(result)
+        prev = None
+        for _ in range(3):
+            result = self._expression_propagation(result)
+            result = self._call_chain_fusion(result)
+            result = self._multi_use_propagation(result)
+            result = self._dead_init_removal(result)
+            result = self._cleanup_pass(result)
+            if result == prev:
+                break
+            prev = result
+        result = self._fix_block_structure(result)
         return result
 
     def _expression_propagation(self, source: str) -> str:
@@ -2692,6 +2703,103 @@ class IB3Decompiler:
             elif is_open and is_close:
                 pass
 
+        return '\n'.join(reindented)
+
+    def _fix_block_structure(self, source: str) -> str:
+        lines = source.split('\n')
+
+        for _ in range(3):
+            prev_len = len(lines)
+            cleaned = []
+            skip = False
+            for l in lines:
+                s = l.strip()
+                if skip:
+                    if not s:
+                        continue
+                    if s == 'end' or s.startswith('::') or s.startswith('local function ') or s.startswith('else'):
+                        skip = False
+                        cleaned.append(l)
+                        continue
+                    continue
+                cleaned.append(l)
+                if s == 'return' and not re.match(r'^\s*if\s+', l.strip()):
+                    skip = True
+            lines = cleaned
+
+            cleaned = []
+            i = 0
+            while i < len(lines):
+                s = lines[i].strip()
+                if i + 1 < len(lines) and re.search(r'\bthen\s*$', s) and lines[i+1].strip() == 'end':
+                    i += 2
+                    continue
+                cleaned.append(lines[i])
+                i += 1
+            lines = cleaned
+            if len(lines) == prev_len:
+                break
+
+        balanced = []
+        depth = 0
+        for l in lines:
+            s = l.strip()
+            if not s or s.startswith('--'):
+                balanced.append(l)
+                continue
+            is_open = is_close = False
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                is_open = True
+            elif s == 'while true do' or s == 'repeat':
+                is_open = True
+            elif re.match(r'^for\s+.+\s+do$', s):
+                is_open = True
+            elif 'if ' in s and re.search(r'\bthen\s*$', s):
+                if not (s.endswith(' end') or s.endswith(' end)')):
+                    is_open = True
+            if s == 'end':
+                is_close = True
+            elif s.startswith('until '):
+                is_close = True
+            if is_close and not is_open and depth <= 0:
+                continue
+            if is_open: depth += 1
+            if is_close: depth -= 1
+            balanced.append(l)
+        lines = balanced
+
+        reindented = []
+        depth = 0
+        for l in lines:
+            s = l.strip()
+            if not s:
+                reindented.append('')
+                continue
+            if s.startswith('--'):
+                reindented.append('  ' * depth + s)
+                continue
+            is_open = is_close = False
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                is_open = True
+            elif s == 'while true do' or s == 'repeat':
+                is_open = True
+            elif re.match(r'^for\s+.+\s+do$', s):
+                is_open = True
+            elif 'if ' in s and re.search(r'\bthen\s*$', s):
+                if not (s.endswith(' end') or s.endswith(' end)')):
+                    is_open = True
+            if s == 'end':
+                is_close = True
+            elif s.startswith('until '):
+                is_close = True
+            elif s == 'else' or s.startswith('elseif '):
+                is_close = True
+                is_open = True
+            if is_close and not is_open:
+                depth = max(0, depth - 1)
+            reindented.append('  ' * depth + s)
+            if is_open and not is_close:
+                depth += 1
         return '\n'.join(reindented)
 
     def _rename_functions(self, source: str) -> str:
