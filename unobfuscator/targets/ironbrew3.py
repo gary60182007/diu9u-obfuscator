@@ -1570,18 +1570,47 @@ class IB3Decompiler:
             folded.append(dce[i])
             i += 1
 
-        moved = []
+        no_empty = []
         i = 0
         while i < len(folded):
             if i + 1 < len(folded):
                 s1 = folded[i].strip()
                 s2 = folded[i + 1].strip()
+                if s1.startswith('if ') and s1.endswith(' then') and s2 == 'end':
+                    i += 2
+                    continue
+            no_empty.append(folded[i])
+            i += 1
+
+        deduped = []
+        i = 0
+        while i < len(no_empty):
+            if i + 1 < len(no_empty):
+                s1 = no_empty[i].strip()
+                s2 = no_empty[i + 1].strip()
+                m1 = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s1)
+                m2 = re.match(r'^(?:local\s+)?(r\d+)\s*=', s2)
+                if m1 and m2 and m1.group(1) == m2.group(1):
+                    val = m1.group(2)
+                    has_local = s1.startswith('local ')
+                    if not has_local and '(' not in val and ':' not in val and not val.startswith('r' + m1.group(1)[1:] + ' '):
+                        i += 1
+                        continue
+            deduped.append(no_empty[i])
+            i += 1
+
+        moved = []
+        i = 0
+        while i < len(deduped):
+            if i + 1 < len(deduped):
+                s1 = deduped[i].strip()
+                s2 = deduped[i + 1].strip()
                 m_move = re.match(r'^(local\s+)?(r\d+)\s*=\s*(r\d+)$', s1)
                 if m_move:
                     local_kw = m_move.group(1) or ''
                     dst = m_move.group(2)
                     src = m_move.group(3)
-                    indent = folded[i][:len(folded[i]) - len(folded[i].lstrip())]
+                    indent = deduped[i][:len(deduped[i]) - len(deduped[i].lstrip())]
                     m_sc = re.match(r'^' + re.escape(dst) + r'\s*=\s*' + re.escape(dst) + r'\((.+)\)$', s2)
                     if m_sc:
                         moved.append(f'{indent}{local_kw}{dst} = {src}({m_sc.group(1)})')
@@ -1592,7 +1621,7 @@ class IB3Decompiler:
                         moved.append(f'{indent}{src}({m_vc.group(1)})')
                         i += 2
                         continue
-            moved.append(folded[i])
+            moved.append(deduped[i])
             i += 1
 
         inlined = []
