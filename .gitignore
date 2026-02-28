@@ -2,3 +2,27 @@ __pycache__/
 *.pyc
 *.pyo
 *_obf.lua
+!obfuscated/*_obf.lua
+
+# Core engine (closed-source)
+bytecode_vm.py
+obfuscator.py
+
+# Tests
+test_bytecode_vm.py
+test_full.py
+test_stability.py
+test_*.lua
+_test_out.lua
+
+# Source scripts
+unobfuscated/
+
+# Analysis / reverse engineering artifacts
+*.json
+*.txt
+*.bin
+*.lua
+!README.md
+!LICENSE
+!obfuscated/**

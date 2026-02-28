@@ -1,34 +1,79 @@
-import bytecode_vm
-import sys, os
+#!/usr/bin/env python3
+"""
+8====D~~~ diu9u Obfuscator v5.1 ~~~D====8
 
-DEBUG_MODE = '--debug' in sys.argv
+Luau-compatible Lua obfuscator with Bytecode VM, instruction fusion,
+register remapping, anti-debug, control flow flattening, and more.
 
-SCRIPTS = [
-    (r"c:\Users\gary6\AppData\Local\Potassium\workspace\dump_Casual_13997264379\casual_esp.lua",
-     "casual_esp_obf.lua"),
-    (r"c:\Users\gary6\OneDrive\Desktop\code stuff\cursed tank\games\forest\forest_noclip.lua",
-     "forest_noclip_obf.lua"),
-    (r"c:\Users\gary6\OneDrive\Desktop\code stuff\diu9u_obfuscator\unobfuscated\tfs2_exploit.lua",
-     "tfs2_exploit_obf.lua"),
-]
+The core obfuscation engine is closed-source.
+See obfuscated/ for output examples.
 
-OUT_DIR = r"c:\Users\gary6\OneDrive\Desktop\code stuff\diu9u_obfuscator\obfuscated"
-os.makedirs(OUT_DIR, exist_ok=True)
+Contact: discord.gg/BzDz9bmKDP
+"""
+import sys
+import os
 
-if DEBUG_MODE:
-    print("[DEBUG MODE ENABLED] Generating debug builds with pcall tracing")
+def main():
+    print("=" * 55)
+    print("  8====D~~~ diu9u Obfuscator v5.1 ~~~D====8")
+    print("=" * 55)
+    print()
 
-for src_path, out_name in SCRIPTS:
-    print(f"\n{'='*60}")
-    print(f"Obfuscating: {os.path.basename(src_path)}")
+    try:
+        import bytecode_vm
+    except ImportError:
+        print("[!] Core engine not found.")
+        print()
+        print("    This is the public showcase repository.")
+        print("    The obfuscation engine (bytecode_vm) is closed-source.")
+        print()
+        print("    Check obfuscated/ for output examples.")
+        print("    Contact: discord.gg/BzDz9bmKDP")
+        print()
+        sys.exit(1)
+
+    if len(sys.argv) < 2:
+        print("Usage: python obfuscate_scripts.py <input.lua> [output.lua]")
+        print()
+        print("Options:")
+        print("  --debug    Enable debug mode with pcall tracing")
+        print("  --nsfw     Use NSFW naming style (default: on)")
+        print("  --junk N   Number of junk operations (default: 15)")
+        sys.exit(0)
+
+    debug_mode = '--debug' in sys.argv
+    use_nsfw = '--no-nsfw' not in sys.argv
+    junk_ops = 15
+    for i, a in enumerate(sys.argv):
+        if a == '--junk' and i + 1 < len(sys.argv):
+            junk_ops = int(sys.argv[i + 1])
+
+    args = [a for a in sys.argv[1:] if not a.startswith('--') and not (len(sys.argv) > 2 and sys.argv[sys.argv.index(a)-1] == '--junk')]
+    if not args:
+        print("[!] No input file specified.")
+        sys.exit(1)
+
+    src_path = args[0]
+    out_path = args[1] if len(args) > 1 else os.path.splitext(src_path)[0] + '_obf.lua'
+
+    print(f"Input:  {src_path}")
+    print(f"Output: {out_path}")
+    if debug_mode:
+        print("[DEBUG MODE ENABLED]")
+
     with open(src_path, 'r', encoding='utf-8') as f:
         source = f.read()
-    print(f"  Source size: {len(source)} chars, {source.count(chr(10))} lines")
-    try:
-        result = bytecode_vm.compile_to_bytecode_vm(source, use_nsfw=True, junk_ops=15, vm_layers=1, debug_mode=DEBUG_MODE)
-        out_path = os.path.join(OUT_DIR, out_name)
-        with open(out_path, 'w', encoding='utf-8') as f:
-            f.write(result)
-        print(f"  OK! Output: {len(result)} chars -> {out_name}")
-    except Exception as e:
-        print(f"  FAIL: {type(e).__name__}: {e}")
+    print(f"Source: {len(source)} chars, {source.count(chr(10))} lines")
+
+    result = bytecode_vm.compile_to_bytecode_vm(
+        source, use_nsfw=use_nsfw, junk_ops=junk_ops,
+        vm_layers=1, debug_mode=debug_mode
+    )
+
+    os.makedirs(os.path.dirname(out_path) or '.', exist_ok=True)
+    with open(out_path, 'w', encoding='utf-8') as f:
+        f.write(result)
+    print(f"OK! {len(result)} chars -> {out_path}")
+
+if __name__ == '__main__':
+    main()

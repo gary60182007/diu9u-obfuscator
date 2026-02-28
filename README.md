@@ -6,6 +6,8 @@ A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-De
 
 Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `continue`, `type`, if-then-else expressions, string interpolation, type annotations, etc.) and requires zero compilation — just Python 3.
 
+> **Note:** The obfuscation engine is **closed-source**. This repository is a public showcase with obfuscated output examples. For access to the core engine, join the Discord: **discord.gg/BzDz9bmKDP**
+
 ---
 
 ## Features
@@ -55,72 +57,20 @@ Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `con
 | `underscore` | `___1`, `____2` | Underscore spam |
 | `hex` | `_1a`, `_2f` | Hex-based names |
 
-## Installation
+## Access
+
+The obfuscation engine is closed-source. This repo contains:
+- `obfuscated/` — sample obfuscated outputs as showcase
+- `obfuscate_scripts.py` — CLI stub (requires core engine)
+
+For access to the core engine, join: **[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
+
+## Usage (with core engine)
 
 ```bash
-git clone https://github.com/gary60182007/diu9u-obfuscator.git
-cd diu9u-obfuscator
-```
-
-No dependencies — pure Python 3.
-
-## Usage
-
-```bash
-# Basic obfuscation
-python obfuscator.py input.lua -o output.lua
-
-# NSFW mode
-python obfuscator.py input.lua -o output.lua --name-style nsfw
-
-# Bytecode VM (strongest protection — AST→bytecode→VM interpreter)
-python obfuscator.py input.lua --bytecode-vm --name-style nsfw
-
-# Bytecode VM + 2-layer VM nesting (VM inside VM)
-python obfuscator.py input.lua --bytecode-vm --bytecode-vm-layers 2 --name-style nsfw
-
-# Bytecode VM + loadstring layers (maximum protection)
-python obfuscator.py input.lua --bytecode-vm --layers 2 --name-style nsfw
-
-# Chunk-VM mode (split into encrypted chunks + dispatch)
-python obfuscator.py input.lua --vm --name-style nsfw
-
-# Maximum Chunk-VM: VM + 2 loadstring layers + high junk + 10 dead chunks
-python obfuscator.py input.lua --vm --layers 2 --junk-density 0.15 --dead-chunks 10 --name-style nsfw
-
-# Reproducible output with seed
-python obfuscator.py input.lua --seed 42069 --name-style nsfw
-
-# Disable specific passes
-python obfuscator.py input.lua --no-encrypt --no-honeypots --no-traps
-```
-
-## All Options
-
-```
-positional arguments:
-  input                    Input Lua/Luau file
-
-options:
-  -o, --output             Output file (default: <input>_obf.lua)
-  --no-rename              Disable variable renaming
-  --no-encrypt             Disable string encryption
-  --no-junk                Disable junk code injection
-  --no-numbers             Disable number obfuscation
-  --no-minify              Disable whitespace minification
-  --no-honeypots           Disable honeypot code injection
-  --no-traps               Disable anti-deobfuscation traps
-  --bytecode-vm            Enable Bytecode-VM (AST→bytecode→VM interpreter, strongest)
-  --bytecode-vm-layers N   Number of nested VM layers (default: 1, each layer is independent)
-  --bytecode-junk-ops N    Number of junk NOP instructions per prototype (default: 15)
-  --vm                     Enable Chunk-VM (split into encrypted chunks + dispatcher)
-  --dead-chunks N          Number of dead chunks in VM mode (default: 5)
-  --layers N               Number of loadstring wrapper layers (default: 0)
-  --seed N                 Random seed for reproducible output
-  --watermark TEXT         Watermark text (default: diu9u)
-  --junk-density FLOAT     Junk code density 0.0-1.0 (default: 0.05)
-  --name-style STYLE       ilI | underscore | hex | nsfw
-  --quiet                  Suppress stats output
+python obfuscate_scripts.py input.lua output.lua
+python obfuscate_scripts.py input.lua output.lua --debug
+python obfuscate_scripts.py input.lua output.lua --junk 20
 ```
 
 ## What Makes This Different
@@ -304,6 +254,8 @@ MIT — do whatever you want with it.
 
 Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you've already lost.
 
+Discord: **[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
+
 ---
 
 <a id="中文版"></a>
@@ -315,6 +267,8 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、**指令融合**、**操作数编码**、**双路径调度**、**VM 多态**、**寄存器重映射**、**常量池分裂**、**GC 防篡改**、NSFW 签名风格，零依赖。
 
 与 Ironbrew 2 不同，本混淆器**原生支持 Luau 语法**（`+=`、`continue`、`type`、if-then-else 表达式、字符串插值、类型注解等），无需编译 — 只需 Python 3。
+
+> **注意：** 混淆引擎为**闭源**。此仓库为公开展示，包含混淆后的输出示例。获取核心引擎请加入 Discord：**discord.gg/BzDz9bmKDP**
 
 ---
 
@@ -365,72 +319,20 @@ Made by **diu9u** — if you're reading obfuscated code full of dick jokes, you'
 | `underscore` | `___1`, `____2` | 下划线刷屏 |
 | `hex` | `_1a`, `_2f` | 十六进制命名 |
 
-## 安装
+## 获取
+
+混淆引擎为闭源。此仓库包含：
+- `obfuscated/` — 混淆后的输出示例展示
+- `obfuscate_scripts.py` — CLI 入口（需要核心引擎）
+
+获取核心引擎请加入：**[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
+
+## 用法（需核心引擎）
 
 ```bash
-git clone https://github.com/gary60182007/diu9u-obfuscator.git
-cd diu9u-obfuscator
-```
-
-零依赖 — 纯 Python 3。
-
-## 用法
-
-```bash
-# 基本混淆
-python obfuscator.py input.lua -o output.lua
-
-# NSFW 模式
-python obfuscator.py input.lua -o output.lua --name-style nsfw
-
-# 字节码虚拟机（最强保护 — AST→字节码→VM 解释器）
-python obfuscator.py input.lua --bytecode-vm --name-style nsfw
-
-# 字节码虚拟机 + 2层 VM 嵌套（VM 套 VM）
-python obfuscator.py input.lua --bytecode-vm --bytecode-vm-layers 2 --name-style nsfw
-
-# 字节码虚拟机 + loadstring 层（极致保护）
-python obfuscator.py input.lua --bytecode-vm --layers 2 --name-style nsfw
-
-# Chunk-VM 模式（拆分加密块 + 调度）
-python obfuscator.py input.lua --vm --name-style nsfw
-
-# 极致 Chunk-VM：VM + 2 层 loadstring + 高密度垃圾 + 10 个死块
-python obfuscator.py input.lua --vm --layers 2 --junk-density 0.15 --dead-chunks 10 --name-style nsfw
-
-# 使用种子生成可复现输出
-python obfuscator.py input.lua --seed 42069 --name-style nsfw
-
-# 禁用特定 pass
-python obfuscator.py input.lua --no-encrypt --no-honeypots --no-traps
-```
-
-## 所有选项
-
-```
-位置参数:
-  input                    输入 Lua/Luau 文件
-
-选项:
-  -o, --output             输出文件（默认: <input>_obf.lua）
-  --no-rename              禁用变量重命名
-  --no-encrypt             禁用字符串加密
-  --no-junk                禁用垃圾代码注入
-  --no-numbers             禁用数字混淆
-  --no-minify              禁用空白压缩
-  --no-honeypots           禁用蜜罐代码注入
-  --no-traps               禁用反反混淆陷阱
-  --bytecode-vm            启用字节码虚拟机（AST→字节码→VM 解释器，最强）
-  --bytecode-vm-layers N   嵌套 VM 层数（默认: 1，每层独立）
-  --bytecode-junk-ops N    每个原型中的垃圾 NOP 指令数（默认: 15）
-  --vm                     启用 Chunk-VM（拆分加密块 + 调度器）
-  --dead-chunks N          VM 模式中的死块数量（默认: 5）
-  --layers N               loadstring 包装层数（默认: 0）
-  --seed N                 随机种子，用于可复现输出
-  --watermark TEXT         水印文字（默认: diu9u）
-  --junk-density FLOAT     垃圾代码密度 0.0-1.0（默认: 0.05）
-  --name-style STYLE       ilI | underscore | hex | nsfw
-  --quiet                  隐藏统计输出
+python obfuscate_scripts.py input.lua output.lua
+python obfuscate_scripts.py input.lua output.lua --debug
+python obfuscate_scripts.py input.lua output.lua --junk 20
 ```
 
 ## 核心特色
@@ -592,3 +494,5 @@ MIT — 随便用。
 ## 致谢
 
 由 **diu9u** 制作 — 如果你正在阅读满是荤段子的混淆代码，你已经输了。
+
+Discord：**[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
