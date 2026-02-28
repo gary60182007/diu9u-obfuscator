@@ -2770,6 +2770,24 @@ class IB3Decompiler:
             if fend > 0 and lines[fend - 1].strip() == 'return':
                 remove_lines.add(fend - 1)
 
+        for i in range(len(lines)):
+            s = lines[i].strip()
+            if s == 'return' or (s.startswith('return') and not s.startswith('return ')):
+                j = i - 1
+                while j >= 0:
+                    sj = lines[j].strip()
+                    if not sj:
+                        j -= 1
+                        continue
+                    m = re.match(r'^(?:local\s+)?(\w+)\s*=\s*(.+)$', sj)
+                    if m:
+                        val = m.group(2).strip()
+                        if '(' not in val and ':' not in val:
+                            remove_lines.add(j)
+                            j -= 1
+                            continue
+                    break
+
         for i, l in enumerate(lines):
             if i not in remove_lines:
                 result.append(l)
