@@ -1570,9 +1570,47 @@ class IB3Decompiler:
             folded.append(dce[i])
             i += 1
 
+        inlined = []
+        i = 0
+        while i < len(folded):
+            if i + 1 < len(folded):
+                s1 = folded[i].strip()
+                m_const = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*("(?:[^"\\]|\\.)*"|game|true|false|nil|-?\d+(?:\.\d+)?)\s*$', s1)
+                if m_const:
+                    reg = m_const.group(1)
+                    val = m_const.group(2)
+                    s2 = folded[i + 1].strip()
+                    reg_pat = r'\b' + re.escape(reg) + r'\b'
+                    eq_pos = s2.find('=')
+                    is_assign = (eq_pos > 0
+                                 and s2[eq_pos:eq_pos+2] != '=='
+                                 and s2[max(0,eq_pos-1):eq_pos+1] not in ('~=', '<=', '>='))
+                    if is_assign:
+                        lhs = s2[:eq_pos]
+                        rhs = s2[eq_pos:]
+                    else:
+                        lhs = ''
+                        rhs = s2
+                    if re.search(reg_pat, rhs) and not re.search(reg_pat, lhs):
+                        remaining_uses = 0
+                        for j in range(i + 2, min(i + 20, len(folded))):
+                            sj = folded[j].strip()
+                            if re.search(reg_pat, sj):
+                                remaining_uses += 1
+                            if sj.startswith('::') or sj in ('end', 'else') or sj.startswith('for ') or sj.startswith('if '):
+                                break
+                        if remaining_uses == 0:
+                            indent = folded[i + 1][:len(folded[i + 1]) - len(folded[i + 1].lstrip())]
+                            new_rhs = re.sub(reg_pat, val, rhs)
+                            inlined.append(f'{indent}{lhs}{new_rhs}')
+                            i += 2
+                            continue
+            inlined.append(folded[i])
+            i += 1
+
         final = []
         prev_blank = False
-        for line in folded:
+        for line in inlined:
             is_blank = line.strip() == ''
             if is_blank and prev_blank:
                 continue
