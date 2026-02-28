@@ -2512,8 +2512,61 @@ class IB3Decompiler:
             if is_close:
                 depth -= 1
             balanced.append(l)
+        lines = balanced
 
-        return '\n'.join(balanced)
+        for _ in range(5):
+            cleaned = []
+            i = 0
+            removed = False
+            while i < len(lines):
+                s = lines[i].strip()
+                if i + 1 < len(lines) and re.search(r'\bthen\s*$', s) and lines[i+1].strip() == 'end':
+                    i += 2
+                    removed = True
+                    continue
+                cleaned.append(lines[i])
+                i += 1
+            lines = cleaned
+            if not removed:
+                break
+
+        reindented = []
+        depth = 0
+        for l in lines:
+            s = l.strip()
+            if not s:
+                reindented.append('')
+                continue
+            if s.startswith('--'):
+                reindented.append('  ' * depth + s)
+                continue
+            is_open = False
+            is_close = False
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                is_open = True
+            elif s == 'while true do' or s == 'repeat':
+                is_open = True
+            elif re.match(r'^for\s+.+\s+do$', s):
+                is_open = True
+            elif 'if ' in s and re.search(r'\bthen\s*$', s):
+                if not (s.endswith(' end') or s.endswith(' end)')):
+                    is_open = True
+            if s == 'end':
+                is_close = True
+            elif s.startswith('until '):
+                is_close = True
+            elif s == 'else' or s.startswith('elseif '):
+                is_close = True
+                is_open = True
+            if is_close and not is_open:
+                depth = max(0, depth - 1)
+            reindented.append('  ' * depth + s)
+            if is_open and not is_close:
+                depth += 1
+            elif is_open and is_close:
+                pass
+
+        return '\n'.join(reindented)
 
     def _rename_functions(self, source: str) -> str:
         lines = source.split('\n')
