@@ -294,7 +294,7 @@ class IB3OpcodeClassifier:
                             self.opcode_map[op] = 'NEWTABLE'
                             self.confidence[op] = 0.5
 
-            elif name == 'TEST':
+            elif name in ('TEST', 'TEST_NOT'):
                 c_vals = [e.C for e in examples]
                 non_jmp = sum(1 for c in c_vals if c > max_pc * 2)
                 if non_jmp > 0:
@@ -472,7 +472,10 @@ class IB3OpcodeClassifier:
         if 'Ih[Qh][Ih[Vh]]=Ih[Ah]' in code: return 'SETTABLE'
         if 'Ih[Qh][Hh[' in code and ']=Ih[Ah]' in code: return 'SETTABLE'
         if 'Ih[Ah]=Ih[Qh]..' in code: return 'CONCAT'
-        if 'Ih[Ah]then' in code and 'rh=zh' in code: return 'TEST'
+        if 'Ih[Ah]then' in code and 'rh=zh' in code:
+            if 'then else do rh=zh' in code or 'then else do rh' in code:
+                return 'TEST_NOT'
+            return 'TEST'
         if 'Ih[Ah](W(Ih' in code: return 'CALL'
         if 'Y[Hh[fh[' in code: return 'GETFIELD_ENV'
         if 'hh(' in code or 'hh(Ih' in code: return 'CLOSURE'
@@ -558,7 +561,7 @@ class IB3OpcodeClassifier:
         for m in re.finditer(r'if Ih\[Ah\]then else do rh=zh', vm_code):
             wh_val = self._find_near_wh_eq(vm_code, m.start())
             if wh_val and wh_val not in self.opcode_map:
-                self.opcode_map[wh_val] = 'TEST'
+                self.opcode_map[wh_val] = 'TEST_NOT'
                 self.confidence[wh_val] = 0.85
 
     def _find_move_handler(self, vm_code: str):
@@ -1035,7 +1038,7 @@ class IB3Decompiler:
                 pc += 1
                 continue
 
-            if op_name in ('TEST', 'EQ', 'LT', 'LE') and pc in ctx.if_block_ends:
+            if op_name in ('TEST', 'TEST_NOT', 'EQ', 'LT', 'LE') and pc in ctx.if_block_ends:
                 block_end = ctx.if_block_ends[pc]
                 if block_end <= end_pc:
                     A, B, C_val, D = inst.A, inst.B, inst.C, inst.D
@@ -1043,6 +1046,8 @@ class IB3Decompiler:
                     n_inst = ctx.n_inst
                     if op_name == 'TEST':
                         cond = f'not r{A}'
+                    elif op_name == 'TEST_NOT':
+                        cond = f'r{A}'
                     elif op_name == 'EQ':
                         if sub:
                             cond = f'r{A} ~= r{sub[0]}'
@@ -1250,6 +1255,14 @@ class IB3Decompiler:
             elif D >= 0 and D <= n_inst:
                 return [f'{indent}if r{A} then goto label_{D} end']
             return [f'{indent}-- TEST r{A} (jump target out of range: C={C})']
+
+        elif op_name == 'TEST_NOT':
+            n_inst = len(proto.instructions)
+            if C >= 0 and C <= n_inst:
+                return [f'{indent}if not r{A} then goto label_{C} end']
+            elif D >= 0 and D <= n_inst:
+                return [f'{indent}if not r{A} then goto label_{D} end']
+            return [f'{indent}-- TEST_NOT r{A} (jump target out of range: C={C})']
 
         elif op_name == 'CALL':
             nargs = B
@@ -3311,6 +3324,27 @@ class IronBrew3Deobfuscator:
         )
 
         return decompiler.decompile_all()
+
+    def repackage(self, source: str) -> Optional[str]:
+        self.chunk = self._extract_chunk(source)
+        if self.chunk is None:
+            return None
+
+        constants, protos = self.deserializer.deserialize(self.chunk.hex_data)
+        self.chunk.constants = constants
+        self.chunk.protos = protos
+
+        self.classifier.classify_from_source(source, protos, constants)
+
+        from .ib3_vm_repack import IB3VMRepackager
+        repackager = IB3VMRepackager(
+            constants=constants,
+            protos=protos,
+            opcode_map=self.classifier.opcode_map,
+            stdlib_map=self.chunk.stdlib_map,
+            entry_proto_index=self.chunk.entry_proto_index,
+        )
+        return repackager.repackage()
 
     def _build_env_map(self, constants, protos, opcode_map):
         env_map = {}
