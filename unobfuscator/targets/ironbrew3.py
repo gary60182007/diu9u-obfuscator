@@ -1570,16 +1570,41 @@ class IB3Decompiler:
             folded.append(dce[i])
             i += 1
 
-        inlined = []
+        moved = []
         i = 0
         while i < len(folded):
             if i + 1 < len(folded):
                 s1 = folded[i].strip()
+                s2 = folded[i + 1].strip()
+                m_move = re.match(r'^(local\s+)?(r\d+)\s*=\s*(r\d+)$', s1)
+                if m_move:
+                    local_kw = m_move.group(1) or ''
+                    dst = m_move.group(2)
+                    src = m_move.group(3)
+                    indent = folded[i][:len(folded[i]) - len(folded[i].lstrip())]
+                    m_sc = re.match(r'^' + re.escape(dst) + r'\s*=\s*' + re.escape(dst) + r'\((.+)\)$', s2)
+                    if m_sc:
+                        moved.append(f'{indent}{local_kw}{dst} = {src}({m_sc.group(1)})')
+                        i += 2
+                        continue
+                    m_vc = re.match(r'^' + re.escape(dst) + r'\((.+)\)$', s2)
+                    if m_vc:
+                        moved.append(f'{indent}{src}({m_vc.group(1)})')
+                        i += 2
+                        continue
+            moved.append(folded[i])
+            i += 1
+
+        inlined = []
+        i = 0
+        while i < len(moved):
+            if i + 1 < len(moved):
+                s1 = moved[i].strip()
                 m_const = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*("(?:[^"\\]|\\.)*"|game|true|false|nil|-?\d+(?:\.\d+)?)\s*$', s1)
                 if m_const:
                     reg = m_const.group(1)
                     val = m_const.group(2)
-                    s2 = folded[i + 1].strip()
+                    s2 = moved[i + 1].strip()
                     reg_pat = r'\b' + re.escape(reg) + r'\b'
                     eq_pos = s2.find('=')
                     is_assign = (eq_pos > 0
@@ -1593,19 +1618,19 @@ class IB3Decompiler:
                         rhs = s2
                     if re.search(reg_pat, rhs) and not re.search(reg_pat, lhs):
                         remaining_uses = 0
-                        for j in range(i + 2, min(i + 20, len(folded))):
-                            sj = folded[j].strip()
+                        for j in range(i + 2, min(i + 20, len(moved))):
+                            sj = moved[j].strip()
                             if re.search(reg_pat, sj):
                                 remaining_uses += 1
                             if sj.startswith('::') or sj in ('end', 'else') or sj.startswith('for ') or sj.startswith('if '):
                                 break
                         if remaining_uses == 0:
-                            indent = folded[i + 1][:len(folded[i + 1]) - len(folded[i + 1].lstrip())]
+                            indent = moved[i + 1][:len(moved[i + 1]) - len(moved[i + 1].lstrip())]
                             new_rhs = re.sub(reg_pat, val, rhs)
                             inlined.append(f'{indent}{lhs}{new_rhs}')
                             i += 2
                             continue
-            inlined.append(folded[i])
+            inlined.append(moved[i])
             i += 1
 
         final = []
