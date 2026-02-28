@@ -1302,10 +1302,12 @@ class IB3Decompiler:
                 else:
                     rets = ', '.join(f'r{A + i}' for i in range(nrets))
                     return [f'{indent}{rets} = {call}']
+            if A == B and A == D:
+                return [f'{indent}r{A} = r{A} * r{A}']
             if C == 0:
-                return [f'{indent}r{A} = r{B} <op> r{D}']
+                return [f'{indent}r{A} = r{B} % r{D}']
             else:
-                return [f'{indent}r{A} = r{B} <op> {self._rk_str(C)}']
+                return [f'{indent}r{A} = r{B} % {self._rk_str(C)}']
 
         elif op_name == 'NOP':
             return []
@@ -1445,7 +1447,9 @@ class IB3Decompiler:
             prev = result
         result = self._expression_propagation(result)
         result = self._rename_registers(result)
+        result = self._ssa_split_registers(result)
         result = self._add_local_declarations(result)
+        result = self._rename_functions(result)
         return result
 
     def _expression_propagation(self, source: str) -> str:
@@ -1477,7 +1481,7 @@ class IB3Decompiler:
                 expr_regs = set(re.findall(r'\br\d+\b', expr))
                 uses = []
                 safe = True
-                for j in range(i + 1, min(i + 15, len(lines))):
+                for j in range(i + 1, min(i + 25, len(lines))):
                     sj = lines[j].strip()
                     if not sj:
                         continue
@@ -1587,13 +1591,21 @@ class IB3Decompiler:
             sorted_regs = sorted(reg_assigns.keys(), key=lambda r: int(r[1:]))
             for reg in sorted_regs:
                 exprs = reg_assigns[reg]
-                if len(exprs) != 1:
-                    continue
-                name = None
-                for expr in exprs:
-                    name = self._derive_var_name(expr)
-                    if name:
-                        break
+                if len(exprs) == 1:
+                    name = self._derive_var_name(exprs[0])
+                elif len(exprs) <= 4:
+                    derived = []
+                    for expr in exprs:
+                        n = self._derive_var_name(expr)
+                        if n:
+                            derived.append(n)
+                    unique = set(derived)
+                    if len(unique) == 1 and len(derived) >= len(exprs) // 2:
+                        name = unique.pop()
+                    else:
+                        name = None
+                else:
+                    name = None
                 if not name:
                     continue
                 if name in used_names or name in ('game', 'end', 'do', 'then', 'else',
@@ -1613,6 +1625,143 @@ class IB3Decompiler:
                 for j in range(func_start, func_end + 1):
                     new_line = re.sub(pat, name, result[j])
                     result[j] = new_line
+        return '\n'.join(result)
+
+    def _ssa_split_registers(self, source: str) -> str:
+        lines = source.split('\n')
+        result = list(lines)
+        func_ranges = []
+        stack = []
+        for i, line in enumerate(result):
+            s = line.strip()
+            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
+                stack.append(i)
+            elif s == 'end' and stack:
+                start = stack.pop()
+                func_ranges.append((start, i))
+        for func_start, func_end in func_ranges:
+            reg_assign_sites = {}
+            for j in range(func_start, func_end + 1):
+                s = result[j].strip()
+                m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s)
+                if m:
+                    reg = m.group(1)
+                    expr = m.group(2).strip()
+                    if reg not in reg_assign_sites:
+                        reg_assign_sites[reg] = []
+                    reg_assign_sites[reg].append((j, expr))
+            used_names = set()
+            for j in range(func_start, func_end + 1):
+                for m in re.finditer(r'\b([A-Za-z_]\w+)\b', result[j]):
+                    used_names.add(m.group(1))
+            for reg, sites in sorted(reg_assign_sites.items(), key=lambda x: int(x[0][1:])):
+                if len(sites) < 2 or len(sites) > 6:
+                    continue
+                site_names = []
+                for line_idx, expr in sites:
+                    name = self._derive_var_name(expr)
+                    if name and re.match(r'^"', expr):
+                        name = None
+                    if name and name.endswith('_result'):
+                        name = None
+                    site_names.append((line_idx, expr, name))
+                unique_names = set(n for _, _, n in site_names if n)
+                if len(unique_names) < 2:
+                    continue
+                for site_idx, (line_idx, expr, name) in enumerate(site_names):
+                    if not name:
+                        continue
+                    actual_name = name
+                    if actual_name in used_names:
+                        for k in range(2, 100):
+                            candidate = f'{actual_name}_{k}'
+                            if candidate not in used_names:
+                                actual_name = candidate
+                                break
+                    used_names.add(actual_name)
+                    next_line = func_end + 1
+                    for future_idx in range(site_idx + 1, len(site_names)):
+                        next_line = site_names[future_idx][0]
+                        break
+                    reg_pat = r'\b' + re.escape(reg) + r'\b'
+                    for j in range(line_idx, min(next_line, func_end + 1)):
+                        result[j] = re.sub(reg_pat, actual_name, result[j])
+        return '\n'.join(result)
+
+    def _rename_functions(self, source: str) -> str:
+        lines = source.split('\n')
+        result = list(lines)
+        func_names = {}
+        COMMON_FIELDS = {'Unlock', 'Character', 'CollectionService', 'Stable',
+                         'ToggleCabinet', 'GetService', 'AddLabel', 'Value',
+                         'Enabled', 'Frame', 'Position', 'CFrame', 'Name',
+                         'Parent', 'Text'}
+        COMMON_STRINGS = {'settings', 'equipmentType', 'CollectionService',
+                          'Value', 'Pick', 'Fix', 'Chunk', 'gSizet', 'tostring',
+                          'center', 'find', 'select', 'codes', 'menuItem'}
+        for i, line in enumerate(result):
+            m = re.match(r'^local function (proto_\d+)\((.*?)\)', line)
+            if not m:
+                continue
+            func_name = m.group(1)
+            services = set()
+            fields = []
+            strings = set()
+            method_calls = set()
+            body_lines = 0
+            has_for = False
+            has_return = False
+            for j in range(i + 1, min(i + 200, len(result))):
+                s = result[j].strip()
+                body_lines += 1
+                if s == 'end' and body_lines > 1:
+                    break
+                if s.startswith('for '):
+                    has_for = True
+                if s.startswith('return'):
+                    has_return = True
+                for sm in re.finditer(r'GetService\("(\w+)"\)', s):
+                    services.add(sm.group(1))
+                for sm in re.finditer(r':(\w+)\(', s):
+                    method_calls.add(sm.group(1))
+                for sm in re.finditer(r'\.(\w+)', s):
+                    f = sm.group(1)
+                    if f[0].isupper() and len(f) > 3 and f not in COMMON_FIELDS:
+                        if f not in fields:
+                            fields.append(f)
+                for sm in re.finditer(r'"(\w{4,})"', s):
+                    v = sm.group(1)
+                    if v not in COMMON_STRINGS and v[0].islower():
+                        strings.add(v)
+            name = None
+            method_calls -= {'GetService', 'rawget', 'rawset', 'task', 'wait'}
+            if method_calls:
+                mc = sorted(method_calls)[0]
+                name = mc
+            elif fields:
+                name = fields[0][0].lower() + fields[0][1:]
+            elif services - {'CollectionService'}:
+                svc = sorted(services - {'CollectionService'})[0]
+                name = svc[0].lower() + svc[1:]
+            elif strings:
+                name = sorted(strings)[0]
+            elif services:
+                svc = sorted(services)[0]
+                name = svc[0].lower() + svc[1:]
+            if name:
+                suffix = '_loop' if has_for else ('_get' if has_return and body_lines < 15 else '_fn')
+                name = name + suffix
+                if name in func_names.values():
+                    for k in range(2, 100):
+                        candidate = f'{name[:-len(suffix)]}_{k}{suffix}'
+                        if candidate not in func_names.values():
+                            name = candidate
+                            break
+                func_names[func_name] = name
+        for old_name, new_name in func_names.items():
+            pat = r'\b' + re.escape(old_name) + r'\b'
+            for i in range(len(result)):
+                result[i] = re.sub(pat, new_name, result[i])
         return '\n'.join(result)
 
     def _add_local_declarations(self, source: str) -> str:
@@ -2012,6 +2161,26 @@ class IronBrew3Deobfuscator:
         for method, cnt in base_method_counter.most_common(3):
             if cnt >= 5 and method not in env_map:
                 env_map[method] = 'GetService'
+        KNOWN_FIELDS = {
+            'wait': 'task', 'spawn': 'task', 'delay': 'task', 'defer': 'task',
+            'cancel': 'task',
+        }
+        env_root_fields = {}
+        for proto in protos:
+            for inst in proto.instructions:
+                op_name = opcode_map.get(inst.opcode, '')
+                if (op_name in ('GETFIELD_ENV2', 'GETFIELD_ENV3') or op_name.startswith('GETFIELD_ENV')):
+                    if inst.sub and len(inst.sub) >= 2:
+                        root = constants[inst.sub[0]].value if 0 <= inst.sub[0] < len(constants) else None
+                        field = constants[inst.sub[1]].value if 0 <= inst.sub[1] < len(constants) else None
+                        if root and isinstance(root, str) and field and isinstance(field, str):
+                            if root not in env_map:
+                                env_root_fields.setdefault(root, []).append(field)
+        for root, fields in env_root_fields.items():
+            for f in fields:
+                if f in KNOWN_FIELDS and root not in env_map:
+                    env_map[root] = KNOWN_FIELDS[f]
+                    break
         return env_map
 
     def _extract_chunk(self, source: str) -> Optional[IB3Chunk]:
