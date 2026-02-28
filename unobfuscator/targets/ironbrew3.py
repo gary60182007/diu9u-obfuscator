@@ -1891,7 +1891,7 @@ class IB3Decompiler:
         if expr == '{}':
             return 'tbl'
         m = re.match(r'^(\w+)\(', expr)
-        if m:
+        if m and not re.match(r'^r\d+$', m.group(1)):
             return m.group(1) + '_result'
         return None
 
