@@ -1458,6 +1458,7 @@ class IB3Decompiler:
             prev = result
         result = self._rename_registers(result)
         result = self._ssa_split_registers(result)
+        result = self._rename_remaining_registers(result)
         result = self._add_local_declarations(result)
         result = self._rename_functions(result)
         return result
@@ -1841,6 +1842,30 @@ class IB3Decompiler:
             result.append(line)
         return '\n'.join(result)
 
+    @staticmethod
+    def _find_func_ranges(lines):
+        stack = []
+        func_ranges = []
+        for i, line in enumerate(lines):
+            s = line.strip()
+            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
+                stack.append(('func', i))
+            elif s.startswith('if ') and s.endswith(' then'):
+                stack.append(('if', i))
+            elif re.match(r'^for\s+.+\s+do$', s):
+                stack.append(('for', i))
+            elif s.startswith('while ') and s.endswith(' do'):
+                stack.append(('while', i))
+            elif s == 'repeat':
+                stack.append(('repeat', i))
+            elif s.startswith('until ') and stack and stack[-1][0] == 'repeat':
+                stack.pop()
+            elif s == 'end' and stack:
+                tag, start = stack.pop()
+                if tag == 'func':
+                    func_ranges.append((start, i))
+        return func_ranges
+
     _SKIP_FIELD_NAMES = {
         'GetService', 'FindFirstChild', 'WaitForChild', 'Clone', 'Destroy',
         'new', 'connect', 'Connect', 'Value', 'Name', 'Parent', 'Position',
@@ -1872,15 +1897,7 @@ class IB3Decompiler:
 
     def _rename_registers(self, source: str) -> str:
         lines = source.split('\n')
-        func_ranges = []
-        stack = []
-        for i, line in enumerate(lines):
-            s = line.strip()
-            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
-                stack.append(i)
-            elif s == 'end' and stack:
-                start = stack.pop()
-                func_ranges.append((start, i))
+        func_ranges = self._find_func_ranges(lines)
         result = list(lines)
         for func_start, func_end in func_ranges:
             reg_assigns = {}
@@ -1939,15 +1956,7 @@ class IB3Decompiler:
     def _ssa_split_registers(self, source: str) -> str:
         lines = source.split('\n')
         result = list(lines)
-        func_ranges = []
-        stack = []
-        for i, line in enumerate(result):
-            s = line.strip()
-            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
-                stack.append(i)
-            elif s == 'end' and stack:
-                start = stack.pop()
-                func_ranges.append((start, i))
+        func_ranges = self._find_func_ranges(result)
         for func_start, func_end in func_ranges:
             reg_assign_sites = {}
             for j in range(func_start, func_end + 1):
@@ -1995,6 +2004,123 @@ class IB3Decompiler:
                     reg_pat = r'\b' + re.escape(reg) + r'\b'
                     for j in range(line_idx, min(next_line, func_end + 1)):
                         result[j] = re.sub(reg_pat, actual_name, result[j])
+        return '\n'.join(result)
+
+    def _rename_remaining_registers(self, source: str) -> str:
+        lines = source.split('\n')
+        result = list(lines)
+        func_ranges = self._find_func_ranges(result)
+        LUA_KEYWORDS = {'game', 'end', 'do', 'then', 'else', 'if', 'for', 'while',
+                        'repeat', 'until', 'return', 'local', 'function', 'not', 'and',
+                        'or', 'in', 'nil', 'true', 'false', 'break', 'goto', 'elseif',
+                        'self', 'task', 'setreadonly', 'len', 'select', 'type', 'error',
+                        'print', 'pairs', 'ipairs', 'next', 'tostring', 'tonumber',
+                        'table', 'string', 'math', 'pcall', 'xpcall', 'require',
+                        'setmetatable', 'getmetatable', 'rawget', 'rawset', 'unpack'}
+        LOOP_VARS = ['i', 'j', 'k', 'n', 'idx']
+
+        covered = set()
+        for fs, fe in func_ranges:
+            for j in range(fs, fe + 1):
+                covered.add(j)
+        toplevel_lines = [i for i in range(len(result)) if i not in covered]
+        if toplevel_lines:
+            has_rN = any(re.search(r'\br\d+\b', result[j]) for j in toplevel_lines)
+            if has_rN:
+                func_ranges = list(func_ranges) + [(toplevel_lines[0], toplevel_lines[-1])]
+
+        for func_start, func_end in func_ranges:
+            existing_names = set()
+            for j in range(func_start, func_end + 1):
+                for m in re.finditer(r'\b([A-Za-z_]\w*)\b', result[j]):
+                    n = m.group(1)
+                    if not re.match(r'^r\d+$', n):
+                        existing_names.add(n)
+
+            remaining_regs = set()
+            for j in range(func_start, func_end + 1):
+                for m in re.finditer(r'\b(r\d+)\b', result[j]):
+                    remaining_regs.add(m.group(1))
+            if not remaining_regs:
+                continue
+
+            param_m = re.match(r'^(?:local\s+)?function\s+\w*\((.*?)\)', result[func_start].strip())
+            param_regs = set()
+            if param_m and param_m.group(1):
+                for p in param_m.group(1).split(','):
+                    p = p.strip()
+                    if re.match(r'^r\d+$', p):
+                        param_regs.add(p)
+
+            for_loop_regs = set()
+            for j in range(func_start, func_end + 1):
+                fm = re.match(r'^\s*for\s+(r\d+)\s*=', result[j].strip())
+                if fm:
+                    for_loop_regs.add(fm.group(1))
+
+            reg_usage = {}
+            for reg in remaining_regs:
+                reg_pat = r'\b' + re.escape(reg) + r'\b'
+                usage = set()
+                for j in range(func_start, func_end + 1):
+                    s = result[j]
+                    if not re.search(reg_pat, s):
+                        continue
+                    stripped = s.strip()
+                    if re.search(re.escape(reg) + r'\s*\(', stripped):
+                        am = re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', stripped)
+                        if not am:
+                            usage.add('callee')
+                    if re.search(re.escape(reg) + r'\s*:\w+\s*\(', stripped):
+                        usage.add('method_target')
+                    if re.search(re.escape(reg) + r'\s*\.', stripped):
+                        usage.add('field_access')
+                    if re.search(re.escape(reg) + r'\s*\[', stripped):
+                        usage.add('table_access')
+                reg_usage[reg] = usage
+
+            rename_map = {}
+            used_names = set(existing_names)
+            loop_var_idx = 0
+
+            def _pick_unique(base):
+                if base not in used_names and base not in LUA_KEYWORDS:
+                    used_names.add(base)
+                    return base
+                for suffix in range(2, 200):
+                    candidate = f'{base}_{suffix}'
+                    if candidate not in used_names:
+                        used_names.add(candidate)
+                        return candidate
+                return base
+
+            sorted_regs = sorted(remaining_regs, key=lambda r: int(r[1:]))
+            for reg in sorted_regs:
+                usage = reg_usage.get(reg, set())
+                if reg in param_regs:
+                    name = _pick_unique(f'p{reg[1:]}')
+                elif reg in for_loop_regs:
+                    if loop_var_idx < len(LOOP_VARS):
+                        name = _pick_unique(LOOP_VARS[loop_var_idx])
+                    else:
+                        name = _pick_unique(f'idx_{loop_var_idx}')
+                    loop_var_idx += 1
+                elif 'callee' in usage and 'field_access' not in usage and 'method_target' not in usage:
+                    name = _pick_unique('fn')
+                elif 'method_target' in usage or ('field_access' in usage and 'callee' in usage):
+                    name = _pick_unique('obj')
+                elif 'field_access' in usage or 'table_access' in usage:
+                    name = _pick_unique('tbl')
+                elif 'callee' in usage:
+                    name = _pick_unique('fn')
+                else:
+                    name = _pick_unique('v')
+                rename_map[reg] = name
+
+            for reg, name in rename_map.items():
+                pat = r'\b' + re.escape(reg) + r'\b'
+                for j in range(func_start, func_end + 1):
+                    result[j] = re.sub(pat, name, result[j])
         return '\n'.join(result)
 
     def _rename_functions(self, source: str) -> str:
