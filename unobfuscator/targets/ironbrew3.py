@@ -2514,20 +2514,36 @@ class IB3Decompiler:
             balanced.append(l)
         lines = balanced
 
-        for _ in range(5):
+        for _ in range(3):
+            prev_len = len(lines)
+            cleaned = []
+            skip = False
+            for l in lines:
+                s = l.strip()
+                if skip:
+                    if not s:
+                        continue
+                    if s == 'end' or s.startswith('::') or s.startswith('local function ') or s.startswith('else'):
+                        skip = False
+                        cleaned.append(l)
+                        continue
+                    continue
+                cleaned.append(l)
+                if s == 'return' and not re.match(r'^\s*if\s+', l.strip()):
+                    skip = True
+            lines = cleaned
+
             cleaned = []
             i = 0
-            removed = False
             while i < len(lines):
                 s = lines[i].strip()
                 if i + 1 < len(lines) and re.search(r'\bthen\s*$', s) and lines[i+1].strip() == 'end':
                     i += 2
-                    removed = True
                     continue
                 cleaned.append(lines[i])
                 i += 1
             lines = cleaned
-            if not removed:
+            if len(lines) == prev_len:
                 break
 
         reindented = []
