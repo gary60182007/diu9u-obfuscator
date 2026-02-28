@@ -14,3212 +14,3680 @@
             \   \/   /          code
              `-----'
     8====D   DEOBFUSCATE THIS DICK   D====8
-    BUILD:9958a84438fd  |  https://diu9u.io
+    BUILD:897b5a8b358a  |  https://diu9u.io
     if you're reading this, you already lost
 ]=]
-local milf_hard=unpack or table.unpack;
-local dick_mode=string["\115".."\117\98"];local coom_xd=string["\114\101\112"];local fart_lite=table["\99\111\110".."\99\97\116"];local poop_owo=string["\99\104".."\97\114"];local lewds_big=string["\98\121".."\116\101"];local gooch_sus=math["\102\108".."\111\111\114"];local knob_daddy=string["\117\110\112\97\99\107"];local coom_senpai=pcall;local chode_long=tostring;local nards_uwu=error;local thicc420=type;local gooch420=pairs;
-local yeet_small={};local dong_big;do local thicc_mode="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for jizz_san=1,91 do yeet_small[lewds_big(thicc_mode,jizz_san)]=jizz_san-1 end;function dong_big(lewds_san) local ahegao_senpai={};local cum_ultra=0;local milf_big=0;local hentai_zone=-1;for jizz_san=1,#lewds_san do local hentai_v2=yeet_small[lewds_big(lewds_san,jizz_san)];if hentai_v2 then if hentai_zone<0 then hentai_zone=hentai_v2 else hentai_zone=hentai_zone+hentai_v2*91;local lewds_based=13;if hentai_zone%8192>88 then lewds_based=13 else lewds_based=14 end;cum_ultra=cum_ultra+hentai_zone*(2^milf_big);milf_big=milf_big+lewds_based;while milf_big>=8 do ahegao_senpai[#ahegao_senpai+1]=poop_owo(cum_ultra%256);cum_ultra=gooch_sus(cum_ultra/256);milf_big=milf_big-8 end;hentai_zone=-1 end end end;if hentai_zone>=0 then cum_ultra=cum_ultra+hentai_zone*(2^milf_big);ahegao_senpai[#ahegao_senpai+1]=poop_owo(cum_ultra%256) end;return fart_lite(ahegao_senpai) end end;
-local function boob_v2(meat_v2) local sack_zone={};local boob_long=0;local rod_senpai=1;local ahegao_mega=#meat_v2;while rod_senpai<=ahegao_mega do local milf_sus=lewds_big(meat_v2,rod_senpai);rod_senpai=rod_senpai+1;local cock_energy=milf_sus;for dildo_hard=0,7 do if rod_senpai>ahegao_mega then break end;if cock_energy%2==0 then boob_long=boob_long+1;sack_zone[boob_long]=lewds_big(meat_v2,rod_senpai);rod_senpai=rod_senpai+1 else local dick_bruh=lewds_big(meat_v2,rod_senpai);local balls_kun=lewds_big(meat_v2,rod_senpai+1);rod_senpai=rod_senpai+2;local tool_energy=gooch_sus(dick_bruh/16)+3;local weiner_vibes=(dick_bruh%16)*256+balls_kun;local cock_san=boob_long-weiner_vibes;for chode_sus=1,tool_energy do boob_long=boob_long+1;sack_zone[boob_long]=sack_zone[cock_san+chode_sus] end end;cock_energy=gooch_sus(cock_energy/2) end end;local dingus_moment={};for chode_sus=1,boob_long do dingus_moment[chode_sus]=poop_owo(sack_zone[chode_sus]) end;return fart_lite(dingus_moment) end;
-local function ass_san(sack_v2,cum_moment) return bit32 and bit32.bxor(sack_v2,cum_moment) or (function(peepee_kun,wank_long) local weiner_big,penis_mode=0,1;for milf_mode=0,7 do local shaft69,chode_mega=peepee_kun%2,wank_long%2;if shaft69~=chode_mega then weiner_big=weiner_big+penis_mode end;peepee_kun=(peepee_kun-shaft69)/2;wank_long=(wank_long-chode_mega)/2;penis_mode=penis_mode*2 end;return weiner_big end)(sack_v2,cum_moment) end;
-local function smegma_senpai(dildo_energy,dick_kun) local sussy_soft={};for jizz_owo=1,#dildo_energy do sussy_soft[jizz_owo]=lewds_big(dildo_energy,jizz_owo) end;for meat_xd=2,0,-1 do for jizz_owo=1,#sussy_soft do local tool_mega=((jizz_owo-1)%#dick_kun)+1;local yeet_moment=(ass_san(lewds_big(dick_kun,tool_mega)+meat_xd*37+(tool_mega-1)*13,0))%256;sussy_soft[jizz_owo]=ass_san(sussy_soft[jizz_owo],yeet_moment);end end;local pecker_small={};for jizz_owo=1,#sussy_soft do pecker_small[jizz_owo]=poop_owo(sussy_soft[jizz_owo]) end;return fart_lite(pecker_small) end;
-local balls_max="z>q_5wK~zc>)1o42*/^|6MPuLhQUzwJI;4S&|#bSSj/&6Z|RIYNa=Dq5%S0VQO1TilQy~uJEGY?:hP^m/V@+zn&c}a5k+_(bXPcn|&2IrU3VrnSJrEZ0xYA-1@v*{1<e]w4:Q?siKSe<L@2N!kCoi(XWGA>{9?HmQeY5&:k;3.#8[F>1vWtF<$>awLQqF*tYh)x|X.L%n=>+;+CD)l=m<Tqrn(P.!)Cv4)A&Za;U>RQ}Ll%9%aKWF)aoDd3)CjT$*jV<IRvJ{eO3j:rUopKt~!]*H+..S(rYwB6CXE-XO$1.4w9b@+>hr|!hU-gpW1ks^VdpOrR?=|C=u'Q+[o]uc3b<$JG[Sy(yEAFpN:}YPq7|g8lsJSQF3D!44^/Q+*}vA^N_7>1|gM>YG{PV$eo,UW(Er,XSj&zbT+j7TG8qApKWGKR*tWw927f-4y~L5>Fdgp+k'nzu?.nirCZEacG<rK[BDf<^?YNVc)XC{uStg+xUxI?K%?y>^-dI$;MrCKC*%kn$k|'c?{[K&WESX:UHZ*=,n?dmmTBnc-P6m#'jySiK;1{xRZmZd/+V+o4ZV:I~M>jdrHKfuAcFCdHU.DRa1JvX7ord)MGP5'I;CXnnJ>uy[ukN;$5,i}H'<%LIFzLRt1iUs%m+0zO%|ftiNZqlbW(pp;oB43'ZQC:C@HNC!@gzr9I1zM4f_Gc*mBSEt>;i-a.pF5ZT[a4=$GNv[y:mr{IbfeW43V39^F~UxWo[=a-9%jLoD$9zay#wqOx9,XWiV7dN6>TWzlf|4N''rEBF(cX))-'5R6;raZg3y=(%JcC'~}da>SP^L)@X%%5]YD}LpapGRKR4-i<i18f*)s/}R;XuekCsh|k$]Dpc$B*(z+)37!|H1!<EHN4V;n)g]]]COA:DSN$N+QF%ICa_Nahg7YtOHEV1rq^GCcA+z(u?AkFz/hv91~TUegi)wiRqq_2H|iTmQTL?G:7>Ek/m&$Q<}oO7J9e38A+9%?/+TP$DRt=iuc5cf^uP__9}ujY;y!s@X-;(bsyQh52djVpuSSO:#p1I)b17n/~Coq,0Es'kG&Q1Ep0Bv7pJ^%#{4f^(HW_uBsp26X5+)psyGdeJS%x]Z*tr{$V2J@tq*i,$FdhMI}Gc^PPwbnzu=xAWm#xkbmd-NhTZwTQAY<{9I0Og''CZcWvSh:'zD]8tg_tBAdY3$37NW0M-gR9nbY(}'d8fPJ:z_s!K-H>$apaH&HrM&grn[cY4-ynAt7/=(FfTvj*$(FF9o,w$1o@.+:xZY?wgf]z<'dd?X*#+p01IQ8Zo+1~bv~uhn~'$)PCd>bEV.0g^6Z]8cZvhK$]/!*v3|vh!UTB_;ro%lns'j}O4ZJMzZ5Gs{1l+QRE+u%jF@-k'eISvp2NP+?p>wB(h|z(%<LT&F<em2M9c4GbG2LeP~ot^#8K0OV.'(Ujqo#uD4$$|yCJW5MMm.V~!LY_At)cve<]HPwbl$1Cu>K-H_1!F!&!1pmax+QP;GhBOc}XfWK)'[{$_.~XwL.XZCc%/$fs&$Z>2BD(@}LE(~/1,Us{u6{FGhn6hbw7g<5(3s=BUPs*7?I39.wz3MR:+<#<M}&SSo[W6;v'UJBeGfO7weLJg~Dsh2UFc%hEh%n~/0[#TE76]O'ioI1HN)N+OT/#v~|F_>]4Ww}+aM{K7XQvoX-{H((p}*$8:'y.)*aaMN-9AG{Mu@eGyVA'npxxaq|V^M'QLX,p%0)SG#y3m}e0Z69M1[96'W|2R#l..{*WJ'[fI|4Q-$EM(lu${JIJ>n+(HKk_x$KRRjL{@EV$[R$>&_$RXhNWxULnQ}xgD=kY)JWVN:[5.te5mZ;aR:G^iRFo_[S9CLFWxYObwpasKV|#,#r'}H6]-0j<&<SGQq;y,7GA@WG?]gD:>l7WCO&*Q*%;@2rtC7$+ks3{JCP3b(t<pD0%<}Kmrb.K3HzqTbq&}?FBkmyx8W3d}8bn!z8=OzkPR%o@t<!E#Ta)Su%E4ZM_U2v@23k1#)eJE<8f}8Ew9,6+Chh3#ZQpBO>FLhanmHNMU-8g722G*Y)@?x4%B7$NA@Z7fE$}~FveS@Zb:7:f{?C<=z!;pCQ$IN1%Grg.4I-;.q$GYK$VsfW(;'Pl^T9jKT27jju3P+/X/DjSaS5w1PvNI&o.I9?o/cFqetzwcdmk5cedu>N;r-@x.|Qg=N8{l2[C,dqgnm%@sr:Tm&)J{)rq'J[Zuhu'B]ZgRR%%ac68|O[m,YDJXab>BW&ODwRVr;uSUa]*fgQU~j,p+?4i],B!W'JtAU|;pzjE?V1W1_Gbo1+O&r+Kz;XMvs@;k0$1^'mJ+se{?]fr{[A,:r8Ve^{@cB:fJ49LZXmu>Qz:>/?Vq-}i@$#nj!_)dOag>Md8{1$vf!UsmVXeYwV:AEsYU}i'J-//'HD+5X5}S.WJ:]^T}V?Dlinjh.G6]UaJ9IbJN~%nxXm;q]BXTa<2ngo:xy$%x56!&rAVhR9f#00dzN4,*0^WE')qr5qYT,G#F@doxYm]oVJc2@>VHJI6%IH]Jw/!tM&97{37'P4M{uH+T(yE6-H'RS{TGUUUv2{7$S&uH&(k9Ec5>Hw4FAy-R@T$.G^xLS1y+|qkya2;WRqt)Y8='53ccCAy>~k/7^(*T%q4#r5_]?v/y!Wm+w%N[+2J~eeT[qp[fe~JWt^>=04IMD}h)n]D6Cm/@0?%D?bwn&%=_q*U^,eX(?~+tS'#D30njm$#JBt;m]T=ir5KD0u1<0?k0LAVAYvd/7Z4%'SoQ(e*y<wa0B;h@*Q)ox_L$|?&{@UAlC|F*f,icQBzq)5L]XWUta_rK1mtp$mc+;Vyk{d41!jM[c?BwqZ+Z.Y=Z-:)sgIZ/jeNxDj^_p4f$9N^@,^cs*hCs8,g5)nxdfM&wK_qHtVnNFQ~!Mthzy^1xL<klgmTCg,+Age|-6V=K1HbCK#]7Ut;u]ZV>W-5=pOf<cx{<yq!dSWHV!BHYg_#K.'eb)uz.8e{CK^t~J5$4SrD'*Yf^M~6KAL=lV6<(wp,_QZ13QA.3om9iwFSwv6c0XN'{gV/1TR$?4t|NL<&o=|n({5c|=Ke$ce(-W{fN0'v%1C(;%LkUh@}@Erjz=pp%dps;wM~3/r;6^*ioZ]vi8]6>L5R=z,taMPUUIPr?434^a('t<lG}$CaS8Kr^cT?q!<nI(Qh&-AC;a*V3%oGA(pjp&]eYBE}_#);tkq6O5hC_Lrh=WK(i#v6}r?iubgsb#3qIIxY}mJPwr<yB8npE}(o6PUk}boyaLf*$Zl82f;&?)A^cO6G%vZ(bP2A,)/!2HP+S=UredDf+ZiNgh*'TS_AMbN[T'Sq>:UWKfxtXdy&/b0e(B4E?Y.3d6*vQEJ(^;,cO~[HDXWTUBbwP*pa%iY2#$,832De/yStc+cCsvRF!-I>$$=Jar0=xR5WGRiN&0Dfp-n$?o9opMOqa]hZv1X-iVRs_cKgV$c&;Qr|@T=Ob'E&Oq0'e;X*O&B2#YhZ2[[)&r5U0Qs+TWG=+-x714.jyLo553@bOgF^Pf;K]br?^I2Ars@BQR@rmXZoJ}T<@cj5Me;.D4<FxiQgT9/Ij5L(6_M(>;R{l!NUUu5rnwU]&GdQ%)NY}2U7JlR;2[m:PNlW4Y6^xH_o8}M15LqW^80]Of*JYzTeyZj@1:pm~P8%;[1s&~<4vR[dXcT?%>j1oev]/]m]Sb@6e!49M)5X:#s)vA8qw]C$<H88p<TSRR:xbJq~O:g}onf.!87TL+z/53sa9g|?OBbgJ>Ss^$d$#[rd}.TM1*u?U(iT7@U%H_rW3$/>)t+?h2B(hdz]zAc%%ZL>c0/)e]U#JYAbaY0Hv7TXkH7uEA6<5~IE3J{PIhHVOLi$g[]<_wXs{5]A>l0CNS&=wlT,lGs{A([$-Kz4R6l]YQVXRk_>NWiv)/,L0$yt=_IZzoZuZn,7Lw/alM{y#f$I#wnE3N@v*nK47-a=;Ti2s9M$PNWcp+5sG1*!l)_qz%[B-sS8MbHQe>s]Y^0VK!'A]KXET<o?4xNFI5VknkgkpQNu_4l@-@81eN#i)w'jE>h/n6g>o5Ihc_(gmwh$5UKW'U4lM>ux#wpf2lvR5s@q+@j!KI@CPe]c_E6-6mkTxMR3:^JSGD<'r(K&D]T;wLKlcN:*dD5YKQ9d6*8we_Eg*eaO1[$qgWoL$YzA-sI/Sn7~[v4gWmU#%!v+f=u?>4Dx+UhHEPK?:ftN9.xvD;,w+)+rALUUdHm(ED%6Od;N'Gu5O3o>r9--w}wB_|zN9X(@EV@/liZw5mc6W4*!<goLdNGBukH<a1R*|:262MCZ>TxJ>AQNA3GEYkq'-h)+h3RoX2^VJ~9_>%G/}gJB+xMsY6JF0.#4CJX*Mk&Jt0Q8u^uicr0N38^FM489B,@3dU/W#;W{fVen!-O,.Vzj7+#:j+s:5'f~v-y8j;p+jo:15H[#W+ow+A$3]j$xfCfCvV%kF1~6^I%DmyOW0JH;?Gpo?%6#1<SW(TX8T[_Ep3C|x6UHvHkX;ibU{Jf8<!Ll#7!C?N*tpm)Mj}CsbA<v4A*|8ODlf>fs{ZHJZ_[nBNon@ZeE90l?:%m8Hr{':54LEEU?p>eq6G&~[1QK'|!8&A}uiG'+1%)dE6)vosF)1]Bj7j,/U'l/(qkCs|.u^:b<=~77YpFUTM+2S>=06rAN<;vqHhi])QU1xV*KZO[DjqmW[<=pg1e_/7,&5f0UTrB=n2^?l~%<|1,TRSZ>93$K|b6wpl*Mg6zyaWM21GVKW#pcz>a$0fn;pb/udg0!R)d$+uJ3|mA'>{zbXjtZDD}G6.0*hp]:KJob(4[dDdGkUec0jf^P15Ma8=1eKIJ;*or@/c^EaQ%SK4oQn,.;hJvof9Iku1Tk+=P_qViwr&*h)KcW6^L0(0Vsf$T{#i8JftTp8]ak;*7ea3,s_j&sOR2b+P:dug7O!*;Y8|tW,;F;v>fFyQkLvV>Pfjk>{dv{U)ELxmxhVyI['4RCj]2t0Hv/tE6ETYA+KX,7#-L)P:R_+(0'<Wib4YUmGr5J@[LiHD&K)ji[u<?|2y>oc+gA(E4FV&lL87Bz$a*)=Gm^S89MOfI<K][vts7!.&Wz{075kpGOxEZdcH/dAb>f)By<%~7{B6.BHc=w4Q=KIW/]9o|PJ490FSXE0h/<93htVlAb$C'+x:>~eEtU[,&yx.1/g-H,.ROUU8_PmkRQ8:rrIzM,p:u6G%=%WJTG;!7qCy*9z:d!qkIN{j?!Hs-bk!F*ib0SCSi|uT#-R^r>h{b>/S4!0~/)j/{ppDW6-R2@aeD,}r<@/A6ezw4[OgcL{IE'J'fn*4tRnRg}Ooe:$4wkR}uHQ|p~k)Msy8]]L_})HFw4n6>g!k7te3e^3gFi(m@2hb^#+:A_)ER$h'@f-{YtO1(ChZ]orFwvnxr;w,I5'&E{*TPf1]q@h]v,FYo0;]Rf$v)1>TGZV!y>_%QLR[xcY.#N|zT9Va<s#tAc&ribQJgL/z9.45/T:SNU]^qF9Fb|#V4}%=@Awy9$K8/'>o+@/d7+0J4/}}Q3RP+2&Rqz#Kq7h4[hd%eXW3UVy2|KyWdfF@Z8NBBW~O?A31JJ8^M|#c(:Q]'gBwI,ZfI)eMB*,AJFBW*M$.2p{[L@sDoyzQyU=lc]H6oFp<rYR{GJ;u(52S{|6/s-;Dx0cu;kc[+2&0'.ySQ^)cy|sAL^qq:R7pdHIt*L1HF5vqi<o(qr|J#ICo$-fLS1l:-|Et_*8>THM!2XT4vDw>Ros-<Inm')%;u$j|Q|W%-{_u^GuBA7_'V%dpCV9X]&+3(cM2@nzifk&,:%scE6o=SO0!]0{g}_p^&JC$>aqoOcp+_B?qpy=T(S1Ac$-^l}A+jfZ9E{)~sR*5V@EN5E4'/SmB$*@+qpszJrNW*W<'>DM8+v/E$k[K,Us'GIE[t/UHZAc5_M?E/u2VsMkD'.cScXzAMNrPoB0#mY5;H^1OyT_rP#*LHGplEk9{Y%+2VyPEp~A$_70&cU;{uW{Db8qhll.8iY[vy1lCb#y<12l{f!$KzPBJEWR'CtOpC@Se;B$Ma:9cEV,<3w9~96D@-[$H@r-T#vAvn[zD(Pc@C'KA2rq$4(5R8ZH7fQ*cQ|*21ENs7rpypj4P:WtSuNp&pMs>7Mm.LwZh_:.j+S9B]B>jg{J*OPd-9UJN6hWBxDrk|}BP6mfTLXWLn;A;?;M-*CJ9zNJwa}!Bu,B736PpHU)@h'Kn%t/Kb%BK'ts/79&romqIIAh63e7fn,DDv2+NU1*l8_U]!&+%LP.L1lUW5,]i=;x+yX>7Yplul-S5o['^O^vr00/|]-,3yaftLPmHeK@}@,rFI:Dj2XyI&_^^oY4wj!@1cwHS^A):*gl1l&K~0Aa=?P./)L>e?dsLw1,{n1JsD4y3?~-rp*Z.bnVV}x1Wd;E}_>EOlCkZKB*L'Jn7fwPIH9/?&ms4){S)K>e#g+eI^fDZu%fShYDmIq>$pYull_3H)(~cQU_$.fJT^odo+=NI%%]jMS>;p+wZ$E#p$}(1b(%(-DK@wd*b8;]pv6b#_07y5'MRX3=I~H@SgaD&BCQUI^Bl(5l{{9d'7:]H96iGHKPT-V%jzM}@r4p7)._Ht@he*zfdUYRLWIf1bD(cdsf2zMoI@^yYU.Fpw$9A[oQpHILTl9QF&]wMKU[?<<jjQxKQV@-Nl_@c@Q_X,((|S9,ZF/#]mpTsj(|iBwcwQBWaLcz0nlU6A<FO,|cjN,M+)(;g.+3F,V&3[_%^3i{m[fs^oEuzW:<r_R{h.pg+C=V},aDZYIg@]#$k]3l,^(^F9i0>qd=y#U&5&Cwug,&$L>#@?_Dkp9zhnZc^$i.;tBhF^FaZ%>J=XE>/Mh@VTUHsQNdG>$l)GHJrFcv!VnmMvo{;UgA:<cGc[=UTq)l'rSeGZwtjr^GU<rbr+(Ju+!Zw@)HFEVNt/bA-oewGdA$z)Ee^et$j[Thqov3d.Q|_|T%1lrVlP=$bQ09X:wG+R03a<emK*yr_;8dBLY{YyaP|jzxsxmA$VcJPcDnW+L8byJ)|xn#';K$)lYX;Px+'LM_3_,Q?3@#YCm_8h22sND|<FeT3>M=*Nab}0G@E_aq$l_y:41,xFGtnIT_bbxo7bs+b2x9X<(e2f9gq'Srzy?4q!OC'wHD]Z6?E#r));sb$yC#@?n/$lJd6@vz,[T,=z@O}N@'P2~m4b=&s9a>6DNOdD=X8SU|dg7w[.Nw?x!naOXpDBAvknw:=1.0$&.Sl;4,DIqEq+kJDp9Il!nmYU#~S_3cWSo$x>XcbD98)IIDW.eT_8Ul[MW705LqlY:'kl}C0JZFl)vUO{R?7Zq+C&wicKThtl7T&rFmEkDNB'Q12X]hN]SmLqK>9zvaLW6bBCGflWrXND#{q:fAz,I&%<;Y?]^9Hsv&{AcVoqKEUk]IlYsIvd.@Hi4xF#8z6kP#{g^-zXa[LA|F#2+z/@*oWDTNn)p#,6B&Yb=aak*=VZ144Ckxw2E9}LE:.HST2@:E*Y8hl?SjugJ*Oj)bSW!p}e@fK>DNX?[$H0?Ycw@9-doAPQ}Cg3t&eQc]!KXl)?2kIzU&_74FB5Ng^a0#!eYhUD>E>o}mz9tmhW5JZrZ:<t@m+k>(i5t(/L)P&|)vX13*LI>62^PR#?QoOL=46P)c7oy=6(P9trdw5&?MwH.!}ysWG8~;z}TYP*LH{yx22lbrQz0+J/'-,f'$N3oAxr=?KSi3,S-:jp#<D%;iYf]8S=f7Aosy=|t{inu<#(TWWm3#{&HY_pCm??3]U/P@<nI^[{,TwV-@HAV9T^F@H17BEmPj$RyP'=&M?r.nxC:yF>eaZ8>GXgVi@za,Sq?&'(%{Cq{n_XF<[wd&';p)?@%/CB.aKwZ0Fg5%FD<O)^pX!fUYQ+-cgm$]ZA!J@rmWJ<+0H-HW*.TCu$]uFsicEM1){Dtzx~9R(^$+*^[{b'i^z_yBSF}!{w.VGs6:zqg+N.VK}Aj4.Wm?!=vKD2k]RxSHq5unia^N-I4bZPg6=/vn.R')j<HF4hw%3a3hPm9~OC]M-h@?<j3_MDet_q10T{}&]vM)~lA6B>x$s/[gJ~kr';O+Do},{'S_+[Q5o+S**foL]e;3V;=y>6Z%=jm<nNqks0n:*sG<h:?,7KzZ0I3,CL1JgXY<8FR$(-i:0Kfab#..<T,OgbSx:FZRIT.z[zqkQ]P]a#0l}7Hs#1JbTr9,8b5Y5q9L$X9+r*vhpiYFE99mVk+jQitM/&w4D$c_xzcSfQYY$@|Jit=7:=>}r?!pG}U(I2$isU$u1uTaEy}c<Meo-^&RYwi[bUK:69&Y|fa0yVSZWlCsW_z4DvYayU7D^{auZ08>X4#b.5].QW]f7+OM1}$.h,C.xLd<v=A}#;#,dT!=fuS$Lgrb1=i^>x(#R?qP]30p!,+>C/ADu|aWq>%KGMT9HU@{R$LFmF}Y!gaDO/2>DBQ7q^A2yd>.Kb3&eD.-($Q*';/4Vushw2jGsiKk'a;>I;fRkXk5&pP;KvPH2[ZI_')]XC9HMknS8Zwuys22iB#(KiX/XDB]{AjkkhsuRTHeL[PX.Hm0aMH%dIM[j'HATCbPA0G{/'C&'T.&!{o22.8'A|0Pp2x/XMCX72lR0U~QdGa7yQW~[j{2FuZxWF==xL#S7%--FBVN/*K,%yT_ov<]|lAn'n]6Bo_3ui;=.sV(wNRmv92VPi(jAr-NxukA&[Z48{gMjOO(.eWHu|ZM9?e+HNai.Co<K}G?N%fg:g;#yAR<@NWZ=&EZv(o00/-K<NgP?XE1D4a)at?a5um*(R$Z:dfeLw|3,s4Y_C1$+j/i&NP9{dB;_Ws-F$q7C&|.J6/6@HbZ3[+)$e5R[[,h/v27h4=iXhT*2k4r{~CldwoN$Gy/}cFq{e.|RxWwW3J6{d[ju0GE&@sVS<8Y%zls_bvH0{v;*Qr$7cf%*Q+zZqtOGMj5i.)3Oo}aA9E:I|}T2_JId^~97+^}xOUM2((VCu%lst<o1=jUW$a:B;+vrEo<uTBb{W9neO^MCg~B9ZOiX,|l9yR9^ui%CqGgbu>D0W4c1idKtaW[5.;7io:#?Zhx6'/5A;nO.vv*&+1f8vVTS>NW&#Qh|l#LJ8>rmCr=%1SvbKUXj$aAF2drLr'v@pI[8-a?56s3sT=/_[[%c0PzjtYDS}X1bb/-2FdfHGIHt<^i!;%-Z(=2ah^RD9R]QRa~agSL/XgN&~{I']On#bcGu2IM2H=;v(G~Mqh8Dy6{?F{o,=4NpT/TfyacsP'Ux9;Af<#V{Y|BVPu9Rn#:75fE/$?]&f*(ES'V$&:LnajE^$SWg*1yu!jy*qQ:6VR(lytnWe(mv!G7x{Y1BpoAWiGevtl5Qg},|v0_KaL;@O+Hw)$0sla/ccE2a;<Q1xY)|qC[cjs,p#d{jfQum($U7Vfk=f1ZW#%k.)gDSw7[=3f[sRi!2Q|{7X|_a+S0~*{6d%nGWEE^s[-iJna@eaJOgaRYCwn??#Cc3{At0&wdv<92J*7'}#Z+0;iIZv|Gl4Y}.<|+cc6%fmG?yoKn:*1olJ{e4aD#90trIhtL8~<@^U~Sbi;@(&X(*Y}-0@'jbFn<6i00@}KtHtyQ7|00jQ)UYrU>>z{h8siI71z|^Zn'NA<810XoTwgI=X>O#0MaLkU3|6.n+{WD<qPvsIXZUdv>C+?IYlSCHPr8<P@KK3,ci3sU&$7y9cbz}g8HB4hFp{14rwP<6]UcG/9a;Ld{5X*d:f6JL-H]_2~=)?Ne#Xd9:]YnEF|E-z^KMe$oQDe(yMhRK_!J<6sZkip?pEZ{9nJj>?.v=r'+c'VC5IQIgf79<~=h]'O:4>/Qi7r/>='HsAO+'DNpJ=,nKO^qu|D#L(SYVqP?uB3^Lf/uq3{GP0H+$r.Riy57|lT_+G>{@vYS&hISHB.P=1P|KR;B~*3cW?//|9nC?hr;Dv<yZqK<~:1GmO53F=uG;Er=D7y9,tId/+$,Pj$z{enG3U)YH=-G,KZ<]T&6K&HU#$kr}s{W2e~gwx|,^X)Vu']GBJN2HtP|lON2*?E<%s>p@u>*P!Yv?rZriow+^ib}X$^w)=:ggXS6)Gij[1_p%37X*B0{EMNbXmwm7U0<|HXYSg]I]aO<ps1;wVA^MLi2)2SdX:'b.!^m8/Y#9Q)U@#Y^E|1m6o4!.EKW,X&~wE}cW<_V%Ze0MdwqEv-xk/Scw~q2Qf#;9WTpw,&^@ZA#S$WT$p6s{e?+<n0tBpK&8iecgpz?%w/DJnyskA!8mGS'4wz:VWg][q=c(nPb-bj,M}H'JaV:@;?g%BscOxI?6jof{sGnIpjsUj(?[FjLr3zIzf@=s7Cwt89Kw)wAlt@Xfh1nXyT6Wdvf:mUL*ruZY$[F|qJJ%f.tN+x'auSu'L=m@J0Dd;INT]'t7Er;6GDdEXpkKda)>u$ayO3eq!FEjE2'W|7d!aE+pmWu.#/1q104bOaSN+)pt]>HxmL##zy>wYz<G3h38P6KjoLOEwX+8O@f6#,)WivF.z*nv?.F]X^[*7m{auR^Lq4>oPy2GyrsEe#y9|T97SbH;gkx#hP|=gpUkJ*&Nv6NP;NNP&194bhBHZ|z2Ii<:kLbP(3c2'1Nhz4;Y_j*mR%m9y='di%u5a-f!)-O8,8%U/,V!.E^>upQ0w.sv?|YG%uz!;7sQMnx0U*#OS|rduB(/Drm>9.yBP)Ky5-Yp}QS,(JS5@sS&X*h8gjwc@%AX#3e,&XS6NZj;7<w;PPqpH_+q%'jR@SirOEyEjiwT@6<L>GO=>mwe7sgs>peNfG:!W]XCFfv${28SuDAcMR/!RPPdLEVpp&ABh/~B}%Jq}iIrpyk$7-hVBb79nOR8RFIh,83y0~f}DJ[U1nv9&YQg+/a:|MD/^;7R0>)T$(EncWV{:*4rv'~~STF*)-U8NQNQMZZ@o[GDz,;,X^x97c}4}j%vfzN*jssj%D,+hP2Jlg49U4L0=3B-7<H%Z?K4B.P:5z,l')r9~S*fckcc10ZVC%1N^6d4R13TH5/36:%<{qW((DH=fBTU#NDW[;g8+V0fPQjrTb7'GU;8Pwa_V_r*^PfZn8/m&g9v2W*K?t^~.:?g'e;_gY|#/t]~FiI(6'Z=Sa#IoD$U'Q/>Tn:ax>Oo0p0A}k]!n.QkgU8i&6X&QSWd4#E9L_-:p5[N1wiP3XHU|C'H-lCsWjhCtTcM$WOZs{jp!ov!oOv>StRsK(9)S@/LYp':ZkD*~Lj}SmLNPW0:CE-3kVY>8se7=bk]4x)Q7INVi%-?={O+Mj!|&ypRPd>.XaZh=s9<FB[tcZFu)TbHc.azvE6iGUhkk_VC'$zE.W@,%?92:_gpZ'uCw_[jrfcN58Gjqb|G6%wOBdP6AvdHWiS1%o67hS.kCK%]#GPS#p;|QXOl6}&CPi)GMD7kP<Uu>Z37SU<vG>*dPu|NCx0<S,C>TR$]K*gFUO?f(qPxaa>U|a;&=;_QZoiRJ4x,sBM-hn(h![$@va0@yf,.w9|oJE3(1t;R=DH6#q**Jdn'8ol'K|'u5X:!vB<+XRk#My),I+fqw}nAyJCQ$hA2?]g]jF*Jy4?m>~Ek+WC0g5|'ImRB$0GoNkRlp6E%'S=M*JDpRA[z.nK|NF&ceZ5gn~9JBvY&^WJ~!VndtAP_XQ/16gn|<nGYxY>ofjN@?:Hh.N)yZ^2(NO>:Bm.nP+Fy7IIfxz5G8PW{,':?bcc<5pP(cmUXG:S>6{u|6>/z'YCT>B86QrS=Yd{h][Aitxp09Ekp01Qh:WOSkU#if6%_Yu66jD9'3uP=b(.!Q*Ev:*6xu(Ex!0TvgKWBdL(Fsbo.$hp=qhhwA$^vhnE9LUWBXyQ%?P@_(<fpmu6f83*X1IB*5kmW&3$LaXgEy;VN;2_4.b%Py!VA9WI}t6Yy$V*}UPehk4/M,j'eO#n]zJE|GPLWKo|_oP]0Pb6eTzoVZx/j5F>/hzUf<FOuXW?s=I/DfdPI9*P^KD+SKh+1=W_*PqiD3y|DD1q(2&1RYXOa,Q|/*>:BwqJwZ0aRoTMrM8[TDF<(}Wh.#<yKQ?ah*JS%8mjtBd)#{>J0#}DcQV@=NfS4k-b47Q<k?g:q()}Nj.u0(jJYaT]%$J|A]M7:6r3bW/O9n<t-*sS+mn6F8&p|AgRA<E:~[dOTARF2xY@NRL(:^AZ'La$_^T654(E9n?>_)K<:?yS0brF:q8!}{ionFgH)>h0mm/1l*v_|7dLZjJ7t0un'v_Q+Gv!@Y-4s|#l#.&M@L4&+I#YW#mT5n|t-*cS+m{3[kP/~8;%#&Va8i@%-pumTWrRK/J;CT,)ZW:=R;t6u5L)rD~v(7U8iFX'4:Hfhu&kfz%a@U>HMFvZHO{#^d_Y7&#4tiZic9g4^h{P~SdAMhkwZUUdC)eZTdzyLy5sn.:p:t*Hj.[Cv4<&r0Z:10p-S-RwB%<PbJ?Qp'--)RC;>[vYa{ufd<eQ71-^d?0r|3=R_gdAgUivBJ.CF:}~n9zXzX0?UF]9s:%5r@3)aXa%Otp?@t'CY;e3u^.,&G4?LmXS<3*Yl|KvJsww=RN|i3#ilqoCHKQP.A$dlqISJ05kc-i&7Jddc9f9nmB_P(q8RC0UtQXW,&%YYheJ:XSLQ1:S(qPB!1u=@LE-{M0.NaS*I+uSHV^)KH:fiX[63JP$ky>l#s1MI1!sJuV_o4nHeRj5w%F@+$iT'J|}g[+LKJVu3jINcz*s-,%oTqx?pdQDswcQl$S~d^cfxH1&eKsRT.IL(%JDNPc*(s'w&)WZ1(KXfxG;QNiKa7|eEg*uPW(S5BS}A-6.d:ya%{mXGQb}f6-einF6j(furg7yE1!(5&#9jyBM)0yf3a-yn_!8frNi^c!6g5ds+*+2YXfX<|.$/Q!4Rzz<$9HUk%'sOhQa/.%?C3(1g.9#V@#u0ITrIvhV:r?FwEE9dWe3&pgG>pLNmHe>2rV.rJ+V3d1#'A9v+DO>zD:_VE*UEeM$Mj4i|ILc3pNaO?{qEynC_cur+:yCwM;bU-s+5wi1urVNe{9xv~N8fzx;6/dhv_{Z{.=DldY:-Ot3@QlikmVv}k-G)X>5{;X-=73zCXK2jT6n?bcbbbDHSTFhW?VnFIoA/4wc1:<?Nga_qV2Uuf@HK9(!0r)[vJ|EBqB}$sm?j<XxKEO,(8a31!}>@i&b*m)uyQ'syxu3t[C*g?D>i-F'H;qhJ%3y'UZp:iBxU$a^K1I7lb>h6ch1(TI-zUV.Ox/xYH#giNCyD~lMmNkAL^amkEDWR$[F1Q?3*=rwf$ti6/}Z$op@}2*_TKo5u_a[USW1JAB,;tUdPpA=P](ud[d+XJ44&CjS+?%^6iQQ.0H&^^e_Hwk$Ma|'FwZW?fYndntv9a8E[z7U0jjr^+@Yq4]K!}^4iMd<v4hAaKnC[#9qE;/u^SMD8%pHTC7%y+.wFYr4[,k5,{*w0dTfMK}EF3g|Kn?jc]a*A2ry}su_&#xy.ZEM%/9BKs@48aa?aJKftKge)ROswPUMJ,y$s(]^__d9%upGC7NN!v#zxtW[YrKd9TQ$3l}L4y6.<%z?N::$JNB-qWCo+A'GBXP6DnGtiuY7em9}Kc*If$1j<m!gKPCc^78t/OnW~t7yG/[Tim)O1-FK{,e0bl51DvR|~Dfr]OVZGK>6S'^<1W2GY.'oeda9x6^_19]pM+Mp/an|r%85Bp-uQ;}p{)h|;ioY:$u#z&3jr=|W&FO0J0S6&K~V0C%Ngpr2:}MS4Lg_DHoWF;Vm7I*0^mVZI5J1+B)^jX]j6|'?l=)i!3l6rKe+Q&r72~b#|ZI4(+dV.~:sGYo'jGs;|m37vGJmPfyyA4i@e*PH)U%>~S3{UYUh[Rorqg#^b9Lqo'n<n1}zG1.)nVv&YTK?GV:usySTZ-7b/A<vI%ge(#ms>A>{Q-71%;c?R[)I&fSko<9VI+S:H_!T;%/AuBI.VzvJJ)e{m#(156w~*wA9Vs%d6C(B)-GFmkm2LG#%|-DhGloBih:#l,l4E(k-e'.]&,qW)V7DPRi|e;U8(O34|QL7xf*UMyv]enPlrf&l68>1}|HW:.{&T+~}fjrHy&fk0S'a*/)eQ9*EwZ+T%OQ-D+H:IiSt0nVn[tB*2hCqtNHT8Y$WV3DEufGeKBO4qu&>cPmnnlk%::Jq7:W#<;(0&+6oY_<de;'X_aS+5KgVmg(Uy'1U_q?w-ngd}7n:f*xdn9F[c$b1JZ[2jKTytqj$]>p8p1T@8p/#M+}.2@jFqzPp1fZ6w0jCRIaV|7<&d(fNV@y7<foqCeZapDH)7fUv%)JRn>kV9Wrew?;G@Eus(x(?ZYfQ^%Ptg4s?y+S9_UlIGHTEw8@r]Q%5tAWV}=V;xF:U_wZ5:o|+w+9~TRNWh(yz!xQJDh.=M{,Ja)A~[HG>4(@{^_$zp{Oj_|tX$9gi*K/||vL)B}lRuGzDBwK*ao+y<'(<6RF|_^F6^^)*l8KO%*fPu#,I];h~A_>wex6D6l.{=NV?%K!i1K:'NwdW0f|?H4[,ak]^rT4[z3hBEIwlMNZ/}5A/)IGbBsm<Bm0]^.0UkPFs@Z;.{cPmss[^5/k#F_Vppl[,Ra?yH9A1@}L]wlEnw}l#HYmTz=B&6H]1}!28lg2qg:%K=YY$h#T{|OlP,x|gwe%Fr_nSV'W?I/z-CrKL5=D*Ramwy:';w/Z5u}A{uj*+1B}6^_|#W5cL+cpQHiQ-JrEZr'bjeGpdEWpg0E!U5fIbXMN*7Q$+ZZ>q](O2]uF#oM@bB|)W#aw7rwe)DGKS(|T:5)?>Q0E{fl[r8DIJ%BVm_psAR%ct4%~-aVH_?rMLANQ7gFBuVKXMT-KZy41CX##o0Uy1&Aa^eO^^u9*FNkxnR%/hZv]#PlNtl@|=yROj@rIm+ZPi(}q[*u[:o7q1b0w(hO2hcBIU;4{<0%keqz,[/vd!M/q_fqCPh5/v1L|tYlJL;@^,VdLKF(2q>K;[0nf)*hmSw@Q+76X!voPZl~][Nr(*yZ*cj7+afF7(xs5A$IG942Fp&|CIRuRs|1&0W'MdU.WUTQCdM)IabYC2H3JHn&dhsSm[6{}K_A6wj]*Qq_erkb]:]1a8~4vheMo&^4>w{S5d2Z],U;{K$wF5K5.Z_r[]jMR<ZvjR(yin+FipF1vF|Ab>)w]4Kz1i@+AK-yR$N>u25eRrW(^(4hNN$?;qO;hsR]YU$tGEh,$:*Y<%b]?+JbT&OUNPDmDjE;{lU{QClWkgypP]2g-ICoKSXquR-czNm;<zY',H))VVcbZpKuS&kT_<1-fV$=b5uH+(t=B*86<4nuNr9B8ro%l6;nbBbrdJ-$]j:%%Bu2%~L8CjrnNn^aYyQC#0=?6sS7p57$H(ktlX;VASz-{&Bcld.p3is3t>&nY;SAKrMHili4VRfx=B6fx1)$3End.Z-EJST4~rlR,-@E|@bUv51RhfVl]yCB^u:n$$&YaASb$?[*Z?l^oB~S@.<{hdr(Y?Zy2HI@&>qV*H@(V/O/9_S*zL7;/OUCI?aDg)wOGY&OA=,TiS'56xCWC!)Mf*]HZmPj#shw'w.Q7xFt^+m+6/#{3Uq8L)K(4=:*fjk~*^<QV=]s'dINcUAjPG+x'7?Yq{hLT8)I%&s]{Oi|Gwh>T?HRtP.Mm>jbp8Flbs?AB0Yfx!obb6!Nzo&Ripbs,1a92]BGrKvA>W^Amy*e8As2?kxwNuY)-8x{O}@b[J|S<(3pRKJY(fB;/!<phTmr~$Db%Zt_n{WC-FsIR[EIyoQ'NQ5Xg.of9{5XLTG+.FUl0;L0qA:A6I@DkvZs}ow'JQ_?,%$h2iG9;T2g!/buupLfy{gGY#S:'S!|'Ag;Y2+m(L)?'.e.n-,UAGs2KRM%xWGyjQ#Mhz'F|4..H{0Y_>U,mj$AV+*btb+K.Z_VGcK_Lo>N4!?H0<a=UT-@:o[GV:Vf8(s:v|jPYJqY]SiM<{XTs/RTc_m{V>V{PWq8c(fu;A-$B0C7Rp=As>J^sQC9P,9}JW'&q66Y$QlqQ?bSMs?RpB)->9]F8)]BSl0g6_;#tP^sYK%o-{g#+](g2*Ic3y#I>|;u)0,Px/I:^$w6dx5[n>}q9RFj/(9dj6wf8n3oWn7D_#*^ts&-6%H7zliZ?I#,9IW)+!ezb{uw+w7dC6;B<lW*(&+zC=9=esI5D]XoA^*SZ[_3mM1K2GOAAi02l{DtKvI'64oYvpdTswNV>pS@ZbWd1W)L(@8dCS9E5*.i%%,5e3XuQW|gH^,ucZ>Yc.Rj%(oWXa-lw2ef72F=~^,rPSr_v>yJLUw*8V;Ci-rbv'hX!*8Lzj}fz3mDN1'+<]qi*:)I_NhQhca+zIpuFPafu__o;|bzvX50ae)w1|q1[E${:;5hAN48p47]r}rNU{'tQJt2Q0{JN(>qplIG'q,9>S=yG_83LSDo$iy2EJXDQohEuYADWaQ{0Gfxl}o};&x'9Zw,#>s3|k_3x6I8392]Z?zFe{8P^YTP[7P*%TVtRR=#mRQg3{i3]?-d:Yd/79G8=g9uI/cx:L(rWOUI?8F64E)4#i/^gD|.9I)yrVdwIh1k3lHjN,-|0=|bGv]qnaT+zUrX%ME:85Xx.Esf}G/<+GsI.tjbD}&;kU^.4Z3%[2E6}>9[vgJSRZ^Wg8mk{5y]iGXSk{|>)X<X&V$l.1d7}={0+fz6M>l11/gf=Efs#SJM0&[/NdPDcBY}Sr<tE6bE&_a5q&%D!>;f{i{a$Rf<ylJ??9|bvPz@me+~k{0Qvh~1)@l=P'XqdE]IdOd2gzyve$O_z7:Oy+tQ3]IP/R5T~N52HN;gSgSy&]jIoKg[dgtF]1-9eFD75--lT|C*k(7Uw&NJbWT=<9<!tS8i5P6Q!Br9LtUVKDWPib'Y};+/W[g!r1E%j<~Gai9vFFW<~b8+H&+Jm9fmF>L2->jvtgE3lVWz1.2BhP|]tcy|ndyT.twD<0lK=;do@b;7)'nN*054P&t+f|?lwmH$vc/3'X_;rM|<cEd6{Y3/,zQ24)TxOm^T&ZDN!Vt}w{l'f:!5PPQ3yB]FwS[gUr]M9JMgrbE8C=W|j7Wfw#^NL@#yP<8SLj;~}~-zSqG[+n_vw--J~M&j|O?;'mvzm0G2d0DwG9s6(X#-$A@4qcs{?H|4JNt6J_L}TlYO4A3TzC&eh-;8CU}$6KmJDn9397Tna,+,WZ')XkxtUvh=X/A)(9)$x*d;(V+Dl@$6?T6X-99YRRN)!vVBGYWt|-R<}9HqaiCX+NYmLE-d,t:6M5I2Phy'Np~$gE&$dr,BjEI,K'_$j.d#^K?-^PmL-UvNmN?v0>F^,oF{oo%G@y%Ic+RL2.as7Zrj-x'q}?{)_6]1W/7Pi@tE^0g']%=96%7ACtbIji<)OrS^<JwE!exk(x.sPP{oFLoiYz%o72?{GV^D%X95Pr2<$[75+{m=-S~O^y~C>2jlP(~Out>7NG,9^:?G9Fs=JvVI{Zq*niTkR$u${+/|Ap]HukTQFOXH~&Oo,EK/;,dv&YjP33EBptYcp8Vx#TSo@YAeHjo~kv)]zLiOm''_a,Cm93]Qo+90F})Wk[|_8En][u3$*x0k8*L!u!lSt'zlFG23i6L:|:JbZBLgn[lh6vcZpy|?Fgv^F^~6.7$Gl%6v#TNi9jj97B;s.-%mk3-p,w}-AaDP+EMW_uj?GjcT#%$Ld>=isL9Pry})P7BQDJGFCx0+t]5'=G~}Ak/5oNJj+2k_rK?39w3@vAyR]4TtTXv&vAh}D9mpYif9L<b[FL%{bgN_'zlE#dKvUM_,>w(P=rh(E;C/q-^rzAYN7NQw8-sCO-l,I~[g:(Nh_v.g^tx{s*7sbML&aR:]p|Kq*Y5WNP#zO9dk0xtU2M.-r)!S)qsZScEWI04($GraGd:VkdbwhK0QsU{opbFygDH3QDxj,Ay:]5F2&BX0:{JljZ!j<VV~qe6G9C_Ft^Vg@5*Wlpm&UX^QK6'DfQ,eDD3=]/M?6J}zH3m+@^91RaEj.48uh>vKl/FaA>MytSoAi9M2o.iQA9+-?htu=>?zF;|n^F]KbJ%Dmk9{XLy6EalHujG{:gp#GUAU$[DHr=A$!<+zZL54O.k=#Yt@xwB>@Fg,Ph-(F^EqTB4)Dez8p;]73w-dDi;68[OZl2nk&Fh>N:KWL-M_5IWv1*Ee)E>'!{xNP0fU@2/iOcoHqT8TN+jT>IM{.i-,9y9K<GmnjC=6o^X&ALU^9}b5ada^gW1y3}RY57awdUu'bC/+Le8U{RemBaC]BD3,m&sTJqSfT)/q$*{0|evR}xbv,&sL.=Q<Vd-L'@^^@X[tdvuUi?k9[dmtg9!Kkec1U;B9.7MUX(A,=wDv4>x*:(Nho!Cp4+|m1Q[>sFR5fk~T*ip>OD$,M@PaB|%~t04#(qtZ26.)O:AhG&gXPstKd4+Zmj|UP?{1D))d.B^-=Rc@OlHfrNyqlLbc_G=Zs::>LFi&k9#m9qY%J.k~[}BAIO;0aKNvM'^h,#*s09Oz9+#ePoeLr5UzbfHbW<l-2#A};_yB=I5CU(4(%h65O,)9}&A:fcon3aG(_aRt%;qbS-$[o,30j}P=+fY#]_9gl#Sei6cJZ@eg/zETq@DCMf.rY3q*|>MYXhRFasllK*]}YD53BQS4d]Utb=uDxwk@3Z}iTxkdCD0urH}<5Y:Jzn[>.i2@WKc$Yq.F&'z>Os9yKQ@<6sSt'+QaK(zugJhe-:D-aEiAn41DK]yGbmKa72ZASx5su<h.3xMt+rLyR0XCQ6~Jcki+;1u#rR[GZy}Sh;HDP,uWSIJjt$O#xs]^]c=*J=|&/$)L7er9lwZCu.cshwtPD4{UdUJi#(eUOn;7FgL/P.)ON:D{qCtP<|eGbg%++}*K3dmbf*f'Wi*:-$+4NIuFOw|XK4Zef]@vh|GqV?W_SFWzaO.eBJAeI/k^?^0hHOvdH3JWL?Fga484VooJrDLzgy6ol]Ony9:$8_XaTWqyE-xo!FR<.bFVNKdhCK1O'Bsf#&ku2.bK,UXeo:ta$kU.s=?}|GFn5FpwmL7n^&8v<|^u7yiCTn=fwc!'{=h6@Q9M#iV+DvIN,a|%29B|PExD]=:AMw?PSjgg<Yn[w#HU2$db*q_Ym&AvO/c-zW%3r|HVy'{@vRWM'/!ieyka_h}T*-P,|<}>=TQ(*v&)y./txgjEZ*8/O$7XTXX1W%u5oS^mF<A~<asLu,yF=D{a~ln;kyRWJFRCWq!8PXF#7](.MX=j'_Cc0+VhM>c]rc~kVABa_{a3uxoeV$n*XYP15bifZ_IGkC#zvu253U0&rpUIJ,7}xEPpN(F72o,N{7hR<G[|wZ=_Nwhg+W|DkvuXK#v<=&^W*-eIqJr7N+g!i]iE1N^6J:eh.Eis'.1Su/P2Y81<%R,QS?$k[0;#lu#zLAnhLh(4d1Jl=E0;76r,Hb^Tp>1l)'lPsFNOqk1?QouxvZ9sby*.wTzH2OxNLj:.,E8Q-3Th_]9XJPat?-mk7$LKe[2(KIpa),*KEdKN*m8RvJ(6=hoL!FC#ZOT7fI2$U*?RRehk62ymWryjRV%lnOGO/]sfn#mGVL5.E;&^g$q|z$/j/*'5jRd<gwIM))Gy)3?66!rx~kLfw^$i]DNPiH.KE<tHAMc%*yc/Ro@I=5ujbm{bjHa+uf.@2nq(D/&N[eA3Za95tE~|K0ho_U?chvtymTv0tn|,it14D+0^n;MuYg.Q'ATf.p$G};4P'0OuRLa0=TcSI;YL6ZWzr{7'-8ZdCt'1d,x1oyOn7bWVPA!/rqv='*0-g|Q^Ol/|ysL&?54v)MmY>+6}(eW~%Ea[+'$Q/I!.R&^|BWwwL%v5W1@EJR>jyyt2=C5f~}$)'t9<2UuFOMGT-=ig;#.d@E;E?}xEcjGAW6FV;+AGz8P.%-nfXicxVUrT{l:@LR-0*PG81e[oj(pogPtp$C<)LUA~v'Xl9>FpITP2^fU!FF<3{Q}*'yPAoC5t~QMR+8cRcZFDeC+)}F5b'zim~vXgJ3uy>c^S{<iw.']Q&5ZWy6r+k=QPh8o@QiwE/2^4h:{!u~@VsbVq]VC_5smyKPsI]J$+g#KT-dk2:t<S_J[@Xu1mNokRay0[{![<_Ui)$2k*IcJGj6>2tiKQRwjofg(d_5;9#g]rYDbGapBAR-h=lf>v6T#n!b^-[Uryk4FN[Kq0zSPA6Z[/B$cbX-+V~B{@6AF#P$dmjalwDT:0:9e{@f{WNvnDd=)eK*vFi$~{?*TJli>2$i?R,]IC>w=3:fPSX4.u1~ZLaPy3wU^jA]i*%P;yNGRW3#+h;A{VS2cVnVKP-;|rJbTH+~CTk8(2*zuAuh~/G|_S57|Yq*7isD;x!(JIR6NhLla^4h<8'ukf(fN5zUC_cvaFIVQFz8786HOuYK[88p>sL>_q1xlR2R=)mnUcG[D*D%,5QWVz#tW1A^mJ^guCJ,<l/7-,<d&ueEPAH=f2&()w.3<,@XP:meRhrYnpR^K'+Z8am<H5u?oeMg*WpaViYQqZfG94x<]_f_(V%oQXc]/v3?ZWaJ'gMpWpa^&.9c]xD[dIg%iO;|=o+9T#y9!A]l>O9hi8cu<QXcn3?d'=dl0^D4LDQbwf-k%G_'YjWGNDOVa)DBDDc:x#(5.vG.K4w!p#/0=/}!Hv)b:Qvz<?$I8WHDUmXLPLN0O=}@r^3,/|.dS2LVkwXzQ3q=qR|(+xx.nWB2Ti?gh7J'OjcZVsM<hh?D%t{-Xv.l[[8*&O+-~rMWrIEu>s<'BI(G1Z-44nk;k;Q/>KzU/p4Dp>FJWbX&J:qDCA3jq0//C;u/*%AeQ|x9V>R7pXo.;guwoYhf9p0v~|q#EvjpX0e%*8?Vle*5b2Y!!7N<9|&>bSaSh%:b0$5jG^?0XUj_j@)qMtr99L6osW7m1}e|(}v[|[v{Ga{G5jDyRZ#tLBm{Ced#KDBQV(X{01/B&#h4ls2?Tn.':~_glvc=kL;Da6$pn.QUe+jN;_6FE-0p_Sa%CW)s~YRA@To]j#{*s&?M!ctgF'wx.!G&hie%8C<}nEG%0[(Wt#kqxkZUZ6Y<_saob9|hcwCgH~p|tFfBa/odU*lI7j=lJ[g0$~@j}iYd@Q{5cX'.W=|^Ll78Hnr?u5GV6|Z*!HI-dR_#;DINCkRqHdS[a;kwc.gnz&~]sz{i1)+}Bz%b:ttVSfu4OX$4N(f2hR@Jv@ooks:@|U#n,aqN2w6$$iQ*1K|@/:E.Ou]xE=Xxxg:*(j,pR(O98M2NFLpL{ApORp]'QCkM:@Sr[JE;G$jT#J9j8/VM!F!XpvnYXi-*z4x[RDx_K5ACJmq@sYMaPBW;31,}aY0OK}S~)PIUe2V/xF?6XOSvoEIMZkBpmu^-uWTrmW]XfC{,N#8[80P->D'2vMzx6](FXNmao*e4kY|23n@SjH*LV^<fN*7*HK>(0uU]z4;[(7?w+iH_<g9uW%e.i'R9U&ksP<:hEX$}2[{JB7DnMcQp:;]xX7pEDUqkZL03#S;AXathKi)u3gNANAz5DZkUu_:h@$@%uo#p1/ACr_JSG-Zx9rM+K<::=}MZZ|LG7#%FzE5Y9-5uXuU1A])_rxbt9}D2&v{x.OeJGO^7+$_dJ6LB9Sjx^>k-3ed<2=B;_BIM_OYL7T4oAH{K=r]%sDuBH/Ac&cqp9OM7L>&D,Mr6ZmK5M{tH#ba(r;w4AvTTUBPXc',Zvds+N@f%N*=@fv$q/fU{@Rb=K=cvw}TKm9^oe6s$7vwcH*<xUvVOeJ=fdTX_2hrpbvl_Wrifi+N2.22Ueg'#9!yh>G*i1aL<?(oJUX|(V?r|@)g_deA}hbtHJ2D/PTbVZdt!U_yt#tKTYW%}S@9J0XJ=B1IrdHJwJEhUBH$AgaDJ'6#KET%7A$A9!QkM[ZhMN%I?sZ&~5Y?DoS|vpkf4<bHJ(2KXp9<d<atqdv?c6>_EA$JcK+em'%Sp^-u3'go>Fxgj}?77/W2R[ir1I?+7JIEKKDWFeUZ9+Xk&;KTdYLHmM1A+ZVtr;RmtPJWSI1-O4dyZ<Hv1m#!GyIYWR$*?{N&Fveg]X9QNS':SdOho=8<ilRV<ycHPJUy]@:|l#gE:3W5@>2!&#J*SOI8GvnU{F,o_Bz0M_Jyg:g8iSbbh=?1Fkoio!@x[Mm*kq7s=/9EAi5p:7_dd*MDDf8G#,W:wCuK-#xT$^dNWVhhJuy+s~J.2|+1le<J)</Vk1p-F4hg#(-qugCN/s8[N<ziA<qi96aWoEUW1?[ENP9S4$NBr|z/O!.>S@)?Qws{sDLH<y)0It8lB>}AK@O)zuwa9Qwa]{w<y1[&M^w@ys>RHf6h[FW';F8%?/<+;WZ3Uk4(ft=J^!p$I,HIAh?=h;,;B;HA^3K:@^>=<G.Whk19P-1h.@.o>1Q|KA#{bx6ea,8oL_Nbr#+J:lJ5#.+s8N;lb+boT01R5Knh#tu3<f]SxL5n3_LCj{*,z%J>!H;xfHB3?a><'yv~cLa/K$*G+-0_Dy5Mb(.?WqttIkG7h{]K_Pd%GRN.$/evl*}8AArF;AsRIg?poNL6l4t%6Eza[5,j<^Pv@/<%(3?j4W}Zj4)A3:ECk_@,Ir7<Ll7omNh-E$.c}:h,Q}X6O|[F_lYEBV$?JW)rXVsBgqeK-?7WR/dV4,GLw5F({7bsrk<{@-6io2#K*LslCCZo_sI{d0XuI(IZ^.f7Yx,h?&/6Bl),*%^t6p[ff9qYn1h]W+Z]7[qRqS0*W8AV##FVzkK%yZ4'z@=0/&lEB[ggKjP%72VA>?)kO7|]YPXK}.Pg9'+Xh:Kl4%N7T#{DZI[$5jx1IIlrKAJ-/*y^k?5g?fOv%-JQ;1E=_k2(vWe!}[M{4!3Q_sPJ/i0jImxjTLC%%2(i82N;=]+v,gD{UPawPs:Z[3/f*o9.h<F}*}Tj.$$o;Rcw{BPJJ9)T%_W<U;'r7s%%Z*8>>J'sJ|x?gG^@wJ#(|Q-_g#fDh4aQOlCUEpXFHunkU3Jd^o?Es]iV?XKfnbCbC~-<G%H$1~((*e1eZ9qO2~_c!$3UZmIo#p#!4Y)fP|qlC7[_kdm*B[|3qKagRs#DC!~Xm[Mktk$#4A58r<,K.bu0$=V=jpdPv@<:W7l;Jz$q5!>[D[!hIBlmU>ft1J284w/oM7U1&5W3pY1AN(HAJtFK1NUds,7Twz1df*E*@+AD9?SXh~5b3L&-m|['>x__QpBiM-A?io<mf{d*[U|eU)LN5$IwYsH)q.vOCGD3Uwq$]QH=7q{Qp;plb!gDVtG6dN{Frp{1Y/r{@bM<d<>DBl:22!g1$.OvjVYPkWq{EocRQSb+Ecv'Zs8G7kcG$%8.]U+c<~H8r6Jvq9sniaLRyQ:t&{//6^{J?yen0C#5zq1SDNM2o9JPMhaC.UAsNiP/=DVFNAO7KjlA>#[pmM&]{U[2;vV]Ag(6R*uh+usgRksI{<raSVjy>qK7|mlwBc^Y+/-q>z8Gx[+]LO3:mcktvwo%=jHJ7&:zx+(xHsi|el(rC52GXL_A^>{[|aJcJ)adw,]yD#6v_uE;#J_WN+eDBt_J_@kw#xF:yRVTS@uqj$<IaP/Nq}b4Bst-v:XlZrHK6&BN03kPo0ZpC#,we>-GcNdzscKv(4;O_VnT]W3CC9!6H)&0M]#$y~R4}r6cF?{#&z9_u](GM*j7DiXLZL|vgn=intxI1H2ZRefltFXgeh=EP36-L^|r%L0Or)7~MY*Ev?q|0Or27h;30mlaZ~6YGr1Gx1i|q8XjXymLQdv}?6;Hi*A(dYN-XH~KcV9Q3;%1+V|6j&XZ$JBR3Of+]=;N^8'{d7WF&k%I;ICG/blOwy>Yq,|%8UzF#bc!Xf=7Wf(via?h$<j-I[6u{(:n96DXzH]CqXi&'vxS-)(PD0JS3o,$|Tk:Ya@>,o+Mo62%Ta7d3*RM%:XTwp^-E/'~j{F&.26':vSlhw[.?hJzOEYOB6@-PS}Pgzi-$G13LK1JU2bIuQBOw_K}<fGe;995v+9Iz5kWE_Y;'!(c&3FA)ATLh,lwEiFv<)G%p:qDEWP8.qnRUcY?;0hSwS]RwgBH|L,F/I:rHLPr6Vutiy_MSZ!~O#Lunbf%.Y2&,M?#j1FyA73W=T%mb/]K;7EWrT4=NS'P6zXFl~]Hk,r;nn[uU.NJ=/-a'>WZkf3O*34S@-}m><md24[$AJL&QT%%ifz{QY3VJecPI>v)V+5wl^>h$i5[2j$}[[=AF3iq(CYqyDeWb)E:D?G=5nXP#UQd'Dm~3>tsa{g*(EP4KA(W8HQ:ctTM+R/vCH<i.XY))ym-wThU'5c7BmHQG6l0O5<~[-VaAlykYhzho]&u[;R>bYz}g.%+2W}2crK(!/D.D!tV*6*fR]9.+'w%G}.).IA*0i?pa8bplEjK>~HFqK9)JL<zauHH)V~QBeo@zs{)mJ?U$v<i]NTQMdS*_NhXNP4>DR62W_OxOmv:8jRIl~lQc^Y%m&},o>$8:5ix;|cv,VrX-{z;+tAg*RYkMX?u:9X.I9}f%)@'5ng2ev/DLKGfl[-1_&,%IOZB.XPVILSs#&~J43KeHIjW0C,,>UM1onYRW/YxYLwt0-3x,jq<Kz;S$0E6PshhBGP%#BRh2>->|hc5+o!ptyMoAg!;&9]s-+9gP6&f*gO|b~r3#<9qb&G|.7}>Ktpn3ui;&0P7pO/E:6iUjZ(DoD=_3]z/q=nmNqu1JpBYdEy#-e%__.jtSQ2G/r;X9k>^4}OwPEP1Fn+Bsa:C7:OyBG}!1%R&A7-xS{+}t1k3XAqPeqjQd7F{{l*fe-oOHyl<9kM+g:N8/@;u(}Bv5Ak1bly9=@/>uSOMsvC1:~w,uvc@>K_4v47<E,2?-UrdFDA^vQ'Bde|B0JJxxcH'?g]0jdyQ5-7=>IL%{$6THO}.8j+:_1_%O+#Z9niS:0%Gb%nsrxu5OaYvtXY$k?4v9reFjXjqBuB7u}v15vi8&qZD_+]DYj1@#ehpBj_&b;CSTmf^XMu,T{18#]Edtnng}]k>6vWOVrDzzm7<G$H8-Nj[O)A3nq/fe+_4F%Sd0W$-sMtuFNg*WXw>nT|4WR(m~'lIZg@wLJw=HF>e=E;n7P}/@2--G';+/EWNAm)&c]cojWU6V6Sw,!-n>K&89rj~+|[*_k^d|HlU*kVh<G/0A9Le{6Ql|WrJ)uKGt{,;iNhM{+/8ZLx2ALhI64k@5uciPLL3d|t6XC?>ZnaOVHB>-A}8}H}g'qyM/OwQxg[HBMYl1U5~M!z&wjEgUboDC?a/-pP}32UF-n*/8Z+:dl=si1CnFl?p-qQh;cZ>b@.(EBkpO'<3h3<T,ylzTZxR6Xl.|VIaGU,)[[r36)-V7Y)M_VwmlWZ3<R3:ajTgitgTq?nL?g/?p7OAmLrMymtB;i]31dW?3/Wb=(u#5WqTqO]]OiMkXDl*6b0'QEZVO*A.f3@K[TPa0]^uwzo%uVhMBxCLmOZ.ZGLDLW/!/d5.SXEt:y7IV:ee'8(/!bh6@Y4&U|{u*Q^0aGJ|GJ)DCs&ru]8sfbQ5jkutP4YiJt%Efhha2a&f41^[DwnF?W5G]LvVj7>pl:_!Og$&9r*>QSukYV,wQM2APy^JxdgmmFcyu._pIE*^+8mQ)5Xx1.^7w!O9m-P|(r.HkV9_hb*4l1yvYv*|,4:B,xfG=+h!lG%>Q!I$'yVcOb}qUlyhFD49q%ALD.exHD,pd^qhun<L+%]^sc,7)v#-7p8QYX0O.wn^l,dY;T%T8FnMf@ow/<l?VKN=3Q(GkrA}Ji|&^pM3?$3oH*+7hzLXB._aKhr8c@>-t$e@.%ZB3-eL>Y;t!,(.nR]10PsZhp?{|KEg#+L%;NTQ)AfOEi/({(X5=i1l/)_.Xk6L')',siIr%iJ3;JHF'Z_)F9,K}G8-tsU:.{(B^49~=6L2<wK8eRJm[)S2Y),N%Iw!'nhpt!@vu5Q@/I@ps$SST+IB<HMq%VWPXB_?XTb:b~uF6~./}iXf<EoC'ln~'fPx)!}tSse=W:0of-RL^E?N[9E5z2z*hcLBiG/%ebR9+rf~llt4BuO2Y3>A^H.7xWc?[nZN]g$vW!$$tL@q),@N}Qha0324PpLdNKiotk+vxZ#kIg9PRxOmkVjF[1-}e/s6h^G,muXCxm1WC=](bPX6Jtmd_<q?Mo=,HVVr'5ninuG,XHO(j6h~#8SDQlV5.5.MB3plF2US9aLyi2W]UVW:I9>B>kF5n]6:4PLk?t|01)pT;,(^VuG0f:sfUa:%{5m4-N'/8WYRwE1)(wL)JsQujX(oja~dG[7uF^;=n=Tj_|5e%>}Rw!2hZDjm9pt>]$n4HVIo-ZZFl%1T#A=(cl;Qa%JagNqn^.cP*wPmS_h/h{qWG*K%@ny2{x3y&ax-4>lf<._>@E2$tcEH,mw8@8yeQKXb7tbqG92VVh~'I6V;0DvUdpPLb+WiSr#4Y-.(y8@1.^X4VF*rF?^#{bxl6<,F^:|Sta7%6~V?^}0x.%o29]DD%Vr>J8=*zXZ.%s-C9FrOa{GyH3U8qz}!!}HzyD,YRB6;#xX-6=-hR^MKZ,4w})W/kj{+P4Smh=V.y>B!a$?rJkIx{ASkmAXc^j5:)s)Kkq<S]as4t$ONNw4cm./:T+~q0d/~dU&.m^,WZu8$)$f#pZ%a&AOHv+S]1)}*MtByJ2rc>iA{U;gWejAD'~:9v&iV##/>Ewxhp35|tZpX;o8Q#Fix0wB0m|2LE({|q~uf]UD{QbL_TpX~XNpC@vI4EzPMw3+c(w=Qb4*w$d~O-1[ROZ_&$JPHrZCqkHkPrs--Pbgz@HLn}(Jye>fAb6VeAvP69C}gQnAVd){4tz/gnPm}9NC=lAQ'Jn1y('XaPy9|x)^vM-_teL+&$Fqqyt~U7iYDfoWGc,[>4+id2K5UU]5r,4$!R@DADDzk.C&F^^8(eqdA>l1p4w:Z^esbbf4Jhc0BA~GGkT,Afhy'A_k_Q,H|=cZ_J>#|6TEI<d;v5h1narg;ii#q]s~<V_:<=9iM]1nt!M6]k+y-c/1T1rT(NBjS:6p>'rL6[C2{(wGN%HqPHuK=jhE'fEZX@8zlTA~oi$aXUXm;OO32]&e)@aB=i2%lp2)M2=mO.%Xa#_<<'$%ob!oM4T)|0rYDRgaH%M6g89?>PHqJ%sQUdPG{#h?*X48ykK+;Mk[1~RqZ?nms=)A2#qRg{m7zD=eA*PnhPLV5;:2w_=z{-AGp*U,|K]bA-Ll(ks|r8TW>$B;?lPtw+W180l#GS+cb@@i@lW^P8T5(eW.sZx8Vwo(,(g{81crX+'o)'jboy,po~b}F22N{MY7vKla%${eT28Cs357xG&1.4Y+V<>tqS.%QXJ6-w~})2<>8*!5Z$L[dK<HzF5ivdHMmp;pjHjzKic(&@29M!|Z))IFOucx_|WGxVe7Y2zqEsb,Q!P:_P0tec_O8^<n(kS{hv?<pbrqG<vs'?tHVRD](T;+B3)W)MiiMc?H]zbO*&?3h~o(+w^vQrzI~Y|~sXoxe1t5DQ'(;jD{*[K-HX~+3xeE2?begiPlkzl<vmRUFF7AA7v+'n%6CPh0,Qg$u?6v?OPl#wd5~G)Cr9l8I6>|XA+puL(%xo96$Z%Y.$!8%L{aQ{SRTD'D/%i5n%BCH<tbC~hwOiCUA_+tA0Iw>QB=&;2vz1%b)8-ww_/CnZf$g^<@i.=9H>9pQ<F)99H2Q0)7HFdh<*VeMd_zf~h4JqlAO)*{f,YNQ6cY8]LLRG7brwB+v/{6/$(2uH{Q>*&c<h29U&QI%BDVW3Nq!6j)}+(,v9YOoVA>4-nh{Qo((OXxiEpvM4Fo$:Q8pDily_NdThW*r{$(r3u[DZ@#*PK^64,Ldw[:<*},U[zZ?9_K:P-uFjfLXGo[HrShL2AR]XlDlq(]Oy2U^qE!V?dSmiQD@Ta{I4~RiEOHHeTX/t!~)jgy&X1:$Y_y,Q]nq7U^Vk(xU8)uF0Q@x48#-Zon$WqWjLyz}G#51*tUey^,2;Elx/?Jk/D&ipXtR59ab3p{;f=%K8>SdNt$FB|vYbkH'Mc]Y){3+XQ#-IZ+:C8j$<^NK=BPc+n=[S;)Qx,oDA=}V8Wll#lNK@R;!TN_@lz0llo0Ro4W06/:ob0*YZ?M)&3p51}%Rlwf9pl*Fs3dKDs!jjGRk.{:Gv3UJS8]8@&9tay@px{Q${XFvu|[_KD5Qu@Rwl}VTLLRZZV:3&UpI~2bR5fXZcw*/<n--3V*eoSocJv_JjqUq{$+Tg.hqhkzTH;yzri7pi-r<*b,>|#3EY]ye|9;[TFC[tI7BDlSH#rd$^LtAJPdH7[nLk?3=P_I,1Zm/hC<w|FgFb*2'px2{D2:F}@{<uss0_dUroJw:sMkpwS[H]z.hrH@;9,=;z*VW<4zwZQ01=PMzkCJ|szx[+f1/s]]~D.+tFiw>F<op<'qwXwYht[KBB[/{%>!vZ:KFH0~1aENp-N;aRKu_gWPWxjTrAMA~rJGBRt(}{0{QV3COW/U4i|zycb]PE]hIsV(5'_>gsR?V1YPL^{:8_J='G+fT{-HC@<-c{:^^vF4TO&Q-Ml|Ynz..1_,x9xb<DC4*4v.F?e>>gV-#|];_/!'~RvAIa>kpVKs%ipyDsOp7EMMJ+')U*MC}go{(awCpEb-Dah;8f67em&w*qKg^&PR?w!xczx}I[(6utOsk&4*oH2O2pT+YLI[7+lF1+#~qPNu_y-Gh!2qDya'$Ao|5JR.:n>#y3F)}kaSNwIES9a'kvc7|U(tsWky_Ny;eB|fD~yG;M=7J;a?yYYfC4EnNQk..%zQ;3=M{%:iyux-8Ty[qZ=XUSTwiY-k/$_f}j>RnjnI*wPEA(Xm}9xQw#[8ozaX!&CGFq(#Un<T*1wbx9qD!+?7WXQ:.|ixsW0)K+O:1G&p[:OnCmc'r/;Ucf4yGboM9}nth&j]V'ac<rS,c}0ztAH.x<r9W<4P&+_(=v}C86@2F@>+52fsq%)n}0LPqk1#[]{s@q3EnXl~LOFXUXZ9Op6_!>;o*;83pdSVC@g^<W#P:<rY;JY-dK#0nAG[=*i*3=B&&YF$Jb]{gtTD2/,mnNgk3$jV^Zt$T@!JPMLYg9L/O*!Ddt3?yYXii^T>KHVUwzcz{meZLEUQv-JjHj~97t2M{@n%gUimV1@,J8}2Lq3YSV@$=vt.iwtO1R[7Os1MH%F#xR<$Y*:U@a~GO/cy9Rlguz1~AX[Ih+Fte3FGg<79.32i-1Get7z)eA3qnvhVg76KDJGS[pM2f-hqEEp8qh[W_#;O*F',uQEu)~X@ns$dkQUyB6Cg-66T:m.o<(Fn{Nf+B;uq5{&.P#snN=[{_3=SBjY.o?|7En5{5*ib>M-Lsk}()=Gk;sjzNS{WgVv<rW$0KswnsmvK~%VxN@WpP0gXx+dRcOy&LU^NPd?Rpc1Pc14+*P1'5csj/]r>$q<,~(P(+.d+gTcC^SWZpS8{80$T_sAvDj0/^-(C|YGoARR**vDK=-+B:?nZQVm>h'e|%&L-]AzaV[zCp>u$Pt'5JL3mS*aY7ql{w0yL&|o%yjQzl+B$#wU{@UbQ*/8g'E/2{Kk2L<m{.zVhEn:Boyh+@!yG1%=S6}<{cg)<b0EMyd^-R8MHM(#1435|/a3hF@*Gk*=r]W&)I1@SUZst8FaYTGm4X|{|%183X&~HS^Y=McjE~+':}#;U0=$2M$oA/{mc/qzq8PfL39|Q;2g^'TO?_l,AMrl+<b2e!NjIHS6G2R4:xgN0,TwDln]WY6(nlF^t/x&B6v-]q;e{C_D{bOY@.>,rAMfRhVxaIu,/I$EufY>BXLxc)x_9KgbqHvka4Vb?J]NQ(:yu_}Z4kfG?EBy)^4{kzTYblt;#EL*sZRE?a!)+<Oa=.O=l=FZ3Y6ozV2^fT^YA4lfmX+cJ+zc3SOI38YS}g/WF0FC#'Bkvh>;I+nPv!9V$E~;2EY.AhErO$eopJpZy8)-}gK~:CV?SPjvkcrH-5zO(fnb<LT1is:j17?pK1vg^zzL*i^fQu;%im#HI399vv0M0ZYna.1HF(.7#D]x.T203So'*T1OtqyXs=&4!GMii^k5rBA;[Y$)_3c<uw?=OKT#E~e9xH+TiczN+4]#i(rgLd?dJcUV{>q=(FB/4llf$70o5CtFCR9r5$0a/mXcE@q?*x^5YX>@btW&Q(R~g;r8Eb%%/CTZVgO9'OZ:l$?3Sn/{0|FNG>&M7^yqGjG9Y1:!W=q*Rt0]e+HM&/t9aE;|S2yoR6Vr85bT'f680zkLP8=#44d=b;>S/Sw5kaby%*j)%@?2kobEf><VvMqePem'*rofz1*ZLbfqo3]6n|kk<Efp+(g%an>OGQh_Kx?S6*Mfqu(Zht2%HT@|@PC*:)?UBhy73x|H;v-w2|Xa[{Q'Q0_3A4OkOJCxW$DDqke'?ixHN9k1.xK-dj*tZ<@jza|xUniSSM2MJ*:*Z(c-YdvgRvI&6e<YRu-8)+6Ii1ss.:K*47;Q9Ehgnlx-ygf9f.?Y_7;h2.H~YX$'71o6UQos7^rx>c^Bp],rGzNFRr>'s-Qz!UGR;Ls7qu)6;Po!P1!6C8on_d/g^_xKOEAEt'wsiNR)td-KjJ:1xD@d0~QAtIym,E2_-BqbuB+t)>V(=qTgMho^=z5@p7vec._u3tJPedwWBTkeHdAv/Sbfb<w]{8qS[Fk&KZ4&(j<28=Fd8')P:Ew;k>rj[:(wvbzLIg9Ik9c|ta.g?:j3m''DQ*[_c!@[UwfT}eI;U%&_u^q6$S1Uxcm:l|px4&ytvx>mr=a/pAg'^LCm;hdtJX%YF:[9W2U(}f}+=8ftG@NI/T?u&:S1i<43CYB=k:=mjb5c6Gp/A|Re.^(jChrwrdg%&YHET@HGL^LKeGrPm?I;WJ^aauzCi9gn6p@.%]Eu;'vLrR@@}V%)dJaH0CsPor9yd^x!XQv>>0blc2EEjMMp$!s[V,E^D1+~}fsFoSxCJ8itOM^07R/*WNatz6Wy{{rqs'I#<-{d=q}I_WO41__mp-4]sEis^^NZP/Z[};fx)eH75u]$&8OvNvEVMUGBg%,3b|a}-SKjf6|^RQz6d1I1|?mrnES@Wqv,<eBOQ<-N<ADnchCC/&_M1NOsXl*ZABAz9B$l4cGi!G@D_pMu.+(vC|[.t>8F#TN1*Ja[ujArG-6]|-h3]:C>+3vr+s+WbFs1INTDBd$%dsI}-.?'j+e7s>:XfU7CiE%_nr~m0>ba!Yw?<xY|=$d%(O=dAB6W/Uor~12i#8>tD{Po/QU4]DGXO@~f(TRG@'9;Rbj2iz7Kf3VVt![![P8VQ;PS/^f5,}VUh*VF>THHut7hi,,KsE8K/G$o'~0*?:O4f}-ncGS.O}ntWg37oY$KX1626R,LfcS%@*U~{I:0,QA}}3+:7IcW)Ruh7<{kMQu/d1c;WS~>+NhN96R<X[&8jI!5h@l4S&/PmodthlxbeyB6I*Y3/P}jhrZk{p87CocgX1ZafailgX=q!A/^8xI${pA8|U/D7fvZU7E2qzwNekCYW#YpIZ^64L7mIk}AgNLC|hbt]#?&1Su:XlGi&]s7o~Sg[YKn%ubV/&%SOO+eRwafD&3x]/s_CDZ[|'}5x^]dK)k8&qjN%DtFYbjUa4{c>E#uZ]{+<I{irSm',LhO_SeL:_}cM$5OUuMRF>/Q@5;Z/7[^;;I*-~*,S&3=7$MBil9j<V3o-m'OObFdWQ=_EfIU!T+K-!'XYJ;otMl<9)hY;jvd!CH2=:V}JLB6?GR}0j6v*_,zacy#u*F<+@!bX5U6izS!uc^N0c|+?AbsL4je%N^8Kk<O^e;wglBJ9!dj}3.[dvusutr5.OF~,'14(y>kf1'cGZ.PRak$3=LKPY_r$:DMq%%+s{SB3MrCe*Pv,:-&q}X*q0_^iLKX4((5VYXJ/}ib6a>E)xWbSzjMq:#&C4'r)a{I2ttlmQXu.J?t^{d0r<P5%SC17exS>qJ-+?4C49~#aS,$nedo:L)z:BzZTO>q^uyYL)+#0>nXzdx-fhB=ym8.>.bhLaMGdBW+d3p_2Qln9J@9<^)4qX{xNcCA[1XPs/@'U*.B]'EE,PhS5Oty8Sj=%5)60*VMW#y@/&eEP2Cu+4?HIF,Kx;73usn@TmECgABIvBlIbnMt{16nw!Ix}<j{}~Kswbg~5aqt]jzqr!Jpr1sbzTc(J=%lOIXt3'12J@|J/7cuGQo)['jFwkWAYQiW9e7-BkxkTeZ_dncQ#&3JL&)-IumA%<.vxAGrjchsdZZ!M6's04{F},jJ^#^hKrfK>?kK/Mhd]@.aOd^7sf-P5eAZ#3L(m.,n|P2Z|Atd@b8bb]___k~k5y=u%smm8o$Y/zJijiP~lm<&rb3V3#KKTjl>,k(AGFbMP)A.';TodlGt1T#1Q[@_IS*iYn19'BmDC+lrRn_c3>V8zPcAisQHq'uNn%e|VcATV(-wYEx>x$DBh.IW<BqUOl=!3T;^JRkzntb.Q]x83&aKqj]l$FW,:s$D0^=s]]%zMPn1uE{(&bb~caKCEh0MWeG;OBN]WTUsl|;8vDZ~cbRBkmNzFJ2e6%nHA}bL_OL/wniBNvXOoeS[Rr|e)L{OT_4{?f7?t9>#87[0Xip@m8n_,lRiyko5eY=IzpTf^Lgv%<r=A>-fO!Jh<H&D~@|!g]lx{PRb:ZT!U+*WaARJii)DPXoWmYq5gOn$'4D,NnX{yFbBU>KVz.VI7C%:uh?<a)*+,gORg-~&>6)_<8A@jTloGH+@=^cS)bj<MP]*W[LJlunnzl@/c;C->dG/ARe%qP{2whHVRGgQxYL_zoUlo!PZ('T9U}!|3U1eT&GJ0];^$w#Xu{F~4m#7U^9/(k*Q=@kTW5M1E:-&n1Uf+;e1&z846uea_G:fu.s8ploGM+j5SMR9*xb1-Xl5HM9$M]iri{rX-z?:ua!?Xu:{.-16r0C$z?_sS?K^rQU8],!eR/@aiO.YBt4fN@FR#b(4q0POKYEtzlh7%q<'N!PqwMf'TIzw?T].<K+:cs-37|uM*eunsA7{s']cIxpUgjsfykIC0m1pMDl!E+FdiXzJ0L~6~E9FOr6yet8Id{ibYN>&d|#rRFsNtXlk(4_E6D7u<[,3D%r)Z=D5Z/z3u_-Ex??/b^=*I?DUAKe;Yed0B<2e+GgG<!l7y84N_243hECqtK>tMX[##S^fse,Cj%:Z!J-Yn#[e!>itX+k#qB#iT>%tRO9mx5Dha<jv);n0k#w-K.8|V'rWyf*y<!3J#DPU$bGoF+PI@[t9dBstW#FPCDJo*?e=ppmYN&.6+.)EcPr2J1k6IQ)Z4gm<0>|k'aH<p_=A]UWq&gSyHjsuf&.Fs>>=-.%~B)WRp9uPNBfJ?BbI8QGX:cX&ikIKL,eInZSN8cc$Jnxq_1tNcU-3>99Xe@V''5y09p5Mv:h>Fkuy|9.%i]'MAR?g{M0dns:5xi6F8diLoz,SzWZz_a0%3_#~s)E=jWL$(o,FGZHr&iFMy9i2>WN8PA71Dss|sAU9<y2^~(H/x@MH]T<4)E8p8QHOWWP3nrY[}y@,8',Xq,F?egyA+dmQBf)d{-fdb*Jy7G}EV=|ktt/tE.T]23S(U;U4s_RDLp?_GqQfl9c]>%x7O--z1}Y#EyBfSMJ+N,|HP([d/UJQk53DqB<p#mBNhI=$A<@Ec8%ao27A1L0':4H[u}UB=K#)&|8i(/wW>,j>(b+weAWd+5@zx5C$6/4B$^=s79r?vnQa0:<%SIH+^|Bw1U&21wzwdXh{g-_zeQnP2M*vGHPS9Lbkd<R(+^[f2(>ED333VP)xhVHUB:K1{wF/RK1FP%LLiDB2Wi?QbXkBdwmqEP-PeZ'nr+QO!jnCj.l.'sqNllj4qU6Tt>S_6dL=T~;Lb(q{LE_-8rNp/FaZ|Sg>:)S(<TnL,/cl#AJs%7:$3PUsoe4!nY^SFN2TS#f%pXF#fOoO1(hqgY^83GUZ@H9lC1WK=.va,2fbeiCFC#S?zzt*#|Hg66scM*.1W=[we7ITUEbyWpICt3W&aQ{bM3>=,+|}hk8Eq<1(p6@$hO|Pbnfd1L=p.VJ;>~f36{+XLL,58njq(C?'&rf_uaw?|k<I^@|TO*R)PL/_g7z)J'jFui.5w<lzsVP5.|}}Xzsa6B=|sQLHaw?s268u;!VUrHnCV*IA]8bllpof~pP,6IGVp;LG))RXjO!B8pi94)$t*A8Xi|+(#N4|AiKv9B%FUf-TItth3+J+b?$x#wt<OP<DPnxhrV7GQeM5pyp-pHE9mwJflEYS%BM/<]ZJq#vANG+GZT#7(_'1{Ea;+Zdc[hRy!=uA0bv&<Z^rf8?j&gps)id=2Ngx2O[S?Kxd,v&+|%e'+;=?&!)-&h7)j8Uo&9i_uM7}A^|z$TUI$ED?kx$QEO;49bfRR[hx6p*4zj2qc|N>h|Jbt4Mt-F,y~qZP7VS%g%V(q7RQN!m>dne_D#k.GSugJd%sF18FA~83OOg_s,#bSfst,#$J(N^{_iEC}2ag;4;sMOO{S#|Mm{UK[p7kJf7T&p-NbOM{jV>ohxKwS]QlIC}*}~~<Yz3Bc'#_X~;o]BbA8/IZG{7pq&Tlp,HAcWpvCY;mxFL)wFmG0IPvx$,BjX^,:Xe6nA()0V'[Xnp(I)<|I-2XmP][~$$tx((M$w${>qTME.hQVQ8rt!+2s#i9d-]L*yUfX{p-.nZ5{<vQ1b>vNR.Qn#f!>vLCIgYy-?r05ut2zR>%/I:Q?Stk/{f{ljw:gky>eh,_]UN.+kLIeWbuE[K>H4@!Yw=+lxEuIjaw.g)YhsB*gr2!=:Wy0qT=#~)FbyYTCWeYwXahchNJEAB#<kQ)6F(d0)bt?X1=gV>}+%>eO3{Wt4LAC'B]q?31;#S#aRfgZ1G#fHRN&/1B]U(xq!T<S-]S*t$Zsnqo}CN5/P|GGT{XaIvSW~P8!Y[]6dMW3):X${+z#~d$;S~k%6?Ki:]l8_ZJi3x2~.IttBe}+2yt5dX(+LXs$qKmCjj2&qtLHFU_A=,](7'BZN9x3~>ZG3HZi(+hXC8$FV?WIV^U]BE0O$HLJMqR0G;EqC-97IX,H$~PLV=-9;hS(Sr+c^2RM6R5K&zjKle?$m)_#!F:SUoY^GLqP'clJ^pVy5K9QE{Gg?GtgFB@#r1eQ(9g{OD}35ds/8W<RIR'y=68=a<Fb8{i8i%^up%(e_ME(WQ$[^L=CxU9;P.!_?[%M1g.(}m?&>4dt7vH>w?._Pi+;}T<sqMFcm^-ZJ#ymDvM'kWQ%5$@(yB,v_j5.,5z_B;u}~ix3$2IwUdCl(U#jV,,kT{];zITnw|~3&0s|[tx(E:xa]OB(#il[]>,RrUwA)uUovss,f.48I-<K~%G'J?cCKg2XJXxyG[_z*q}Mi]fs&C&>,,SMV7lk,){2T-rS&SpY*E7T}GURLM$eeGcN#U(U*Yqa8D$}b*}ofVaVs;@JnUeJ$y]Mv/LUZt1QlT<B~ewS:rkw|^3voxGfD/?A'y${{O5.QM&Hz6!f,:U-D>'=&,{xS;miSs_x*t%L@mTxn'9#nqJkwXh05n=+D%v0Lh(:8>GDS[BygHnY+7wb)IJs;x}OJyr2e[Q4>&82>y'tiFc)p|8#q,c-vX1aH1%1|@E7}J37+.A1L.ryP>SB]0rQ3RqB)NwbkAV1?G=vHP9<j[BO.~j4WV'2z;[Cb3eDFi~V]Zd0hyBB|Pj;M2)(WEP)^ONJ)Bhu~>bzi{xO)WQ/Q1/vA[PME|Gx;@-&Q)7%jNHkAy4?j_D4N[!9P,@XX39~N,,ii^:9,fC~[8UjnN+pY)V,)1!5w,|>b'VWn9_Kh|LFzEj4yK4QX.A0cLM}'-FoYD~derH-S*$+]X::lwBfapJ[pzjh$.lmBD',-]hl5g};%:J%(2,&4>Bn)[Px^v{;U-*>[v_6<Cu'xjui*4L[~QQp/,W[g6G/@s!dq'Oam<yIb.m/eY>#bOaU#bMYzP,Esekx,qPrNJv6_#yn|>5DwVmhk%}HucpCbS:edKd;Ezk5~]_30[GBa&GUL$>wW4ibeYl#wFa:,}}q_oGb4GlLpbQIS&dRu4g/9Ep/B)3l+v^:B&<{JC1_D)YvWo9X_vJFR].(YI<:JDz,!}DikH)usC&[&5ryT(X:hlQ'Wb;k/Nd5<4K<|.:e4;x,*}i%WHI/w'=yNfukR.aZoIVszL~v/,d)gDiN$(]i;}%[fA<m2,mYzSzF62oA7:4zX<]'OQiz9E'R5+Q7[k8AAmul,se8_Ty#uz,>w_*Xm_G2KdD]g,0$*Z&sl6V{jEl@K2j!kM/HsFW9$R+@bh&D)uCx#M]vwduEmCy0~jw?0OJG6LBej+NE_6rdG}{6R5%a&jI5ELA<4Su)._ob9T(s5ry1u#B__u}:{1oA1]tu2gLZ&ke$e2B75F;:%{mlE*IZg,wJ!d*r8SD'2]=_.T-tew'}MZ;MhjkInpj8Rlk|Up1q+wSPqfV(-&#?z[xeXbt2fnA:>+,10yN>&=@H1NQcTjtbbdSb>U!4K,f&j$;]5lD-uH<>91lp2@0k4ic?|l>#N+yckfpyt>RpZ3&@{fiGHdC1IfMgs?h=*HNs,T^&3r$=iAn(s1*pjAH(q%lQPr/E[<HXyIHo{@9CujHcOjVB?-Hz@(UV>{{-ty(P/?<<L(2'*?^SVLaG8[FU1YOcFN%FLug,&pp0fHBVPj$j<Rfr]?Y4t=?^[0<Ta6gj4Ui@IhXw!/MwDSvW,fLCH](lCH1(^YtE_kE%)bYgD)+a2RxuAJedf17?Aq3,J,;)eQPg+J&u&gX&96ed&?&|1v>;[P'TT$hGy{5Yy,eKU{{O*s7{sMaDft^(O-SH{_WnH9e]IE?G!|epbPhCCM_/{9}2:GlBjOWWA>1aioh=ZR@N,ZSd1lvHyy0VYwqa{je.Fl'-Cl*S_OCBt]Wd$^Ls+9;_v}K0[k=sj=USrRFL~p4!<9}^:N-*DNIV8p8/zS,Gg^5BWi5:BDi8im9IdZ0o:JU3Bxnh^2iIvQ$CxX]WBi<d!2J9HVgQ6EJc[:NHqboX/R>^QEo{tM;e{c>oj.tti4NOM?6.D@BhIT@5b{Zk0q5nk-{^[Bs_=}{Yx)ej+NPrtAu(w[gN>dmTcER:#XSf-kAPiD~2bhKCn,;/2?'':qNOA!*)CxXdd%bH=[{(#!26dW84qfWEe8>|/r'Zaicr77h_&o8-u*>->yls%K0h;g6/f$srNlNnty50EA3p.t>-V|zNM{IkhxGxvk>.%?}87+iz%Eqc;+elc,3G12m;bo}L<4IE1|H4fGA**qNe@(?yD+3bez0>U#@*&Dx/o6Qc|?$.+ag~,WTT4sFb/mf,WnK&C/9'Od~m|*'WMMA1Bz0qnw/4Ky&lkW/^JZwc^o7(wD#,rwxC0bau@<6T!G_H8}ZpEV@PB+>F]P1NC49PI=xx~3]HZ32q1;wna2zVTu*InNy2_p(O=yfW0VQYXPdn?1uHXl@TLNn;Rx$8{wjt,#RHxoh*y1i0lG]$JJ#99TqgCs)gg(/eSxh4Tcj:>=e,u4W&Czwc_7IC!]&Zs%+M+-TTu_]n)#rEV(zS|50}R{d~7tsT_gf*QxrrB-qhQeA@cNcs$tn<,H.#>CBbCaD4iCQLUjRHV&%3=2>#O%[#JJ^&^u|ZC#>$Y*>US0*=Q]l,X<%TrOL%CP]vG]'l/ZWM4Ln9?LDN>Fa$$n?_4%bnO_p.q:u.T^hq4cxUr(;/<AQT{s+([R:du1$M'#KSAN{?%9R%OcT+|3?(@biBqm0&jvS7EfVI6=LK#OFk)~fiZEsXjd'=wOtm_PO7cb$7?4i(05ahX/C4J;B(qJQ:uxAIspY?Q70J^uV<Tl|@3i6-xjYQ[:]ZMCxPuC<MI4+{LBN*'3OJVe<b'uLJ0my&G;oZp|9M3J/Vh>:$0[ALu(l*!6Cby~=x!5{Y=l'2z~SRA|x@*zlEO~cfbk_$_#d-nOAfn'e/2k':JIl3uRjM.r=4,U:lWbzq*kvY6e_=Hk!Z&-K'mLZ^53,%OWg;Wm.+#6allame'9xo+O5E0mAA{xH|EE2S#|Q3ff{</5MQD]Z-i2Y@Op*P~DBvXt*ClZvkUS:XaX9'9*<Fsz=A3O!=QBp'U-ze@nXI~yn10]wY,GS?m2%lepLD'h,FO/Su2:P]adLF(>9e~P$PN@eZn(;8khw,[{Y>8v7B!3~#iY'(lB8XQ%*nXI=Y+nV(51o'@C*IWe*G59I-Wv|jyV*@Z-rV.Nd|Dh[rI>_0Q:9.uI^(iq{ZMHt]yO8^/SGg+PG/7)~2qENV%v2%te!%)0W/8exyUd$O,ffLG3;-U*#D|$W{N+/wa,;7%Vy(miJvqnc.ARvsxUpHJX(LO;2ZV*S=O}Z89N1Z267ngQcllZ[+PDS^Jckg1{aS4@RK@3Q}pE|P/EYJ}%$v:x,L]Mf4I?;L7H{htG{&QplrCgmW6GlNoC-{#b'Nt/TklCki3FTnjat^EQA@]R7~Us9O:ZElTSoP}K<yeM(;C<:VfL8i-*)|Df_?%.@a*VDoA=>jLWz5&&LgA+'G!qlTL5w{=;3Z{Erx$xjUP9#U4;}qa^eC%|<~2ZWD)72k-|{&J5)L?;GN2zc0ZLXrA#{c6HrD0,#U!zT777?A5?fw9w<d#e2GSzW6lbf<185c*mi4M;%6M-%NYqe^&)poDYy*wA+N,8,w]jxSigD$:L^Q%4!&*y3+?XrS=Ufh%[<moB&&D$O4F)if0^I@2EG>am+W-ATT,_#Wno'e-:6x:8];^C}:8XgLCyG7BdM^VzIYf@;k9?AZCmg=|eelLNVx<NbF.Y37*3W3#ZxJjf=u20m&~!DPVn8}{[H$Id~0ay,s4b-^]F[+/'B$?wZ(D<L(zsBV@e[||bQGfO|j#5o79PW-cf?g7p<'0aZzUUATG!t%>t,_qw$']lVJe^7!ouO'L#)h,UFKsuwgMUG<?f]DqXR+zO:py=-xxFb;n3.|]9J9nV!*g0?j8*Du^_M*.!u?'dmmEM>%8Zyg0y?Qw4BX7lUl'W[:YRy(p&&UgV#S}S/W^@L<cA]NnQWh0:,KE*i6&GBp*50wQq?@O*/Ln(2khyP8{o#o{huFr2qDA!%j!?l72]DK^{P|7M&ngH2$_:O(CIqgOr78CL7:wBYzc1:C$R)/j+74X[4hWA+:omt}GrqA9L,'QymdHlgF#NDw)M#+i$[R/Ti78XWa,Hc2/Mu>9o}yU{A*(=KM'B8lK9m>QEnB&HudmCQ4Etv+RzNy4q!.C3[o@+i7i@_pap2sG]a(WV)HIo-$R>+P(f:gbUkB.os'Jl;p?_Ek^VH#xicb2_vp$Aid/|7<^%Q)V,F|]vL,Y.;^/{*NWN4wn:OI4#xJ^{vo!]Lti<%cz3jB+.m%va_;^n;q4QUr2Jw6d_W_/>/_+np74W_NV+5Yj/^CTlMk[/7PNr;=LL$xNHj=;,sR8(g112N88XzoQLI:|N)Pz_#,cn];AB!j%ukk18kF+1SN0&fK,a$F@737vEa&Of/<Vw<r)B+w8&iYynf*W0TyV4OqjYC49v~v{-/'rCiWuKRYvN/7%E/pA}}C<lbyx7BXH<~@4]s_IlQ^<Kk88]C1J!MjB0Ee]:cOG,]t:@@~cM?>h9ah=G-DzNaGx,hQKgzYo},@sE#&dq)Ab'hROy'[4;=nM$HZg16i#*a9:}$<Pi(Y~kv4W?*%9tKQuve[LN#Nj0Zy7Y^zUx{%j9GZ+>BM2;{A*g'LfU$pmx|+e>&*s[LxG:g2vM4r3b;@JseFvd6#_Mq@BteKYnA$eMiGNykg[I9/4+~z*7EUJ:N?)9lZwInXhca#GbaWgU5kU.fBEB}#!i-@=,oWMsPJgx:qHkOeS]LRf0?0YI-lm!mQL3.&c3QoLMf(#GQZ6z}0vaU&C%ZJ4>Pt3HMuTRmda>nEk$ZJ&le%RH?p#,)QW4iyl]BuyD[ZW{D>qB1kS^W.Ax!-b];4~/It+])Hqd(Z~H{_$EPuY0O}Fh_@xC986x&:2:J|]AQ>w-A+&V]QJ#9l{mK:>Nl3QgHG848EOV>|,31~%qk<|-9$f)z^w_=sE*CXquK0Otm2l'PC.mTHZcm'PG-_q)@y)n~#pzJ=-|DN5%54tI~}rh;Czz]5>0?j^t,a%WOa&HTqZw?b:ZmM|g}4TRS/K9zEzSFXV4$wT,-6<ceyb0'XvH$']%r=DOb1(Qrc'=*DyFLR7fqdV.[bw'to:Mm7(RsH9tOm7@&}:rdK)5$-&43kd8y|_sJY3HVd97p+DR7D#,e2jqJ,NrID%J'dtu8k0L1RB=cI}IPAx>M*]REft:Vq+{*;qnNfOa*DSi]LVe&F!jkFo5F4@X2[R%|5M#T8m)Ic8:5#Nk}r=|=lI93SM6%dXj0MG5}!C={/@XZ0Eq>Tqamm_h)|=DFK]?1h|#-z;C|?gpy#b9Fb9Sfhy!IIJ*?[I~nzfoC1['buMW5W;$5RFc/:~e'+9/bU!%7uQDcD9rCoB9T-T*Y.@HP3ND';wvuU=[b}YOAhw+_2=IaA?AShCr'%|mx|c|7a45CiS3.E[_'vDbaAX~wed31R9v^K+9sL!%]?4ukfVMer/+:PFq9U45lSm5b3Ar7rp3vj#4IuD2h/T):t./CEc).)$=k-aeYOtHYi~Itilr:oC=Q&&mb#DihC-rQKk'^f&NM^(GwYSv@'Ww>Zx{lN$se.fd(csA,,|F*Zq]~5nSky[Ld'hm^5#<W&l.){.oJm2+shE=!ywH0M0l6]x[rJP|{b2&2I5gVxrHGugcA@J:=8Ac|(S47r$Dq1&~N^x>~:P,FZ6,}H8=P[&Yai4E!g<YLXBaKV;od2cZ%>E0.X$'Z<!;c6o5ng|WjyJNgjj]$v[mV+O70T7Z4RHBTH!mx.AhvI9DQ}$^7,t*;E/e=p.2?}'G@/r$~fFhMAzr<&q36JBlL6xXeIH|P*Yk)u&N-C|<@4%[qakLvfI[bzzr;$~K}]cIvm/C^,#_Co_F<@RMl15MAT9eF:q*3+'hwG}=%3D'i_hlD}6q6NG{logyLgvP.d^q}.loNZ)^yS|gZ_5%UI.<uI%hEL;}Pj[RsL*J%?NI'A1+de{+w:%Du?d'%>[]v?{'eHMi$R-oK*)*;vf/#4SMDM6ZI4{H'mWeY$8*0Z'CK*35_Xqn^vV>&.~<%l:|SHP*e%H9T}3WVw(^2<./|$M;w;K#9m6&UIcLpNdA-(*q.'vWUZC[]<M&8ag3i}OH.+>pVk]H+ccz{!#.zY6T_dW1{'Z9QZcP..f3.?7dUKxm&qZn20A4u2lr4Y1%nF{VGn,mvj~M4&,k3qHYZcEoiH.YthVzQy'bH2!wQ1T*>Ah*#,xkHsx>TvA}!DLe+2izh,-k;8x)}{J+uB{)@6Mu7+TN4so_<(V+G%@mtlA[C*RyMpsozv}h15T0KEQUu#G5$YTb,lQnTq5aT=Qlr@o8+zbkwfRmp>>oO3CtyjAQKJveMgoW;gmZFEgsY&3{dIx=9ldx+s&%/^80uSy-ltp>%l5YTZ2=&(zwKumxekQ9gDFQ1qX(p~bE#>0d9tl/ZG{_=ecsy[GJPvMcfKz6m]3Ab*+t*|+NCigEm_gD:3[_IumG%<Fd{A~2]PPp6j-FR%r!ZTHt?]AU/$rg;2OKh=A6ebE7Y;_&.w9OKzdfE|_6AtWY7@$fLGPv9+<6Fl%Um]B+Q#2wP4Us7k]4-D!berA+CA|0l]|J$>GhFU(6c{X_r7AxM'#t0m0/1$6n]oU]^GOCoA&/v2Ka7P^7/(bh-pC<E(H,cZGb0C=vPLL@e]j;gZmsRVT='H7j,=v98RoZupNuT{D7MdsiC[q<rr#w6BKD[L(o=M/uZ&S0f8W^6Blgn)5'#k<;OBMAtfhF;P*'1AufVNsrRkc#j0tyZq8lA&+X/Ya;~Aue*c>|BPEQP1XSI!zinx]{>rv2OJG/O:0J4m$jya@b]bB}.?ZZ,dD4<g%&8|Un1kl:r7wbiy:}@e:-G;wBxumDGOyCJhykzE@&Ah%N_E2vN$[T=^!7uETxMabLj>bjybi*jW#oJOxkZV#oDe[T$:iRB0V=dhyE5:uqSc-.B)EpD%cr)_gOcWXnXyGwBk%NGNU%pYrQW1dPS}5GAWjY:$d{FF89QQC4yRGnjpGI~}(>0P4%y5{<1B:+IJR5Ly];+ltEgQ?x?312AR#/L&)~O3b@mD3;{79.6#&6m?/GzZe3*ZW**^5zcEJ(2pU!/J7oF/y_l@5bi;N=,hRpSO69Q|@MmM]E:o$&LBd5w/N5rNb:J&R84uN@YS9@*(1x..KTT:^?H>D'fGj{pr]G$asRHGZaQq3;;yHAP@HrY@u72s^u>lZ5Fu>K2<:}x(JKXHbfeeRB6)3hM~+{q:4x#z8J<3Nm1q]I&v-_|j?;UON+,>}_u)e&W<,;H?*gUDVBUm1@Y[SC=%bs+9nYK,$<wTF/=k]++jvwkzb_z-:!oFjH*@$px)S}=^yA&t:LCZJ}?y_,{LH@_!oL}c|XgF=o=,Myn<Va12Dauv7pG_m|Bn{0mfz76|586iT46%G$F}{aI=gMe]%)2LpQ>0V-:B>jjYCsXPlWFURS^iLR-/zqNFd7RrO7so~8DNSqIon/&f#a>hG8M'|H,B^r1l?+kKqziKLI$xJEhV{zcA9S6V.ChJ-0f>+O4LFy?'+k7~*,n_}bad*0CtABl}UCAW+xM7+-*>2f2#h(zmQ7JwPH*sSFuu4*9]czQU6-+3+UmV>B>}rUE7*b}S<(&L9phOY-1;kyspxmkbRHcj-vm,5;#&8yKJY5kX;6x_4DSRzDL/3P:m/'Y/_Be23.mP|'NFd8E9sjIk0b+f_D2+/P?c[Z(LH3.'<LynN@LPWqtsx}N}N<YRmL(94<uwZLUGG'-G_XX!_FztU|B]U}XlinUV0YZ+vu&,R-*YCDH,M1#pfz+[WL#57L]lgg#)f7%vi*A99(uQ%?@@(&g;J.eoJuhpc~DC=~MpcHZ(IOD/|/W'JK4'YtrSif(|I[g;ZM&UeChCRq.6fF18P&'Les}VQlcgoIq5&>xm^Gy5+3QBI?(.jDqd+~|-uVyQ0PGA6BL.HR9vtI.K3k&t2W3sv)Ayk>|]G*JD|n=z$vf(phMD#b)&A'GcsC8CU&gUbJ|l|?[%7)dVeK>1LxU4/|f.i#6}aqQ]iTZz3?4hWj.>Qg{TYDKl-[#J2@+4]le,)@P|I2j,.ZC)Nwj9CJ=Hx-@(#k>;*-%5Q*B^(JBe$%z<{giO[/chm6:SZCGF.Rur!K?Lmy9,rP+AU:sXc'NMtreIyVr^5A$s>|Y<;WiM4'q{}oj[OL0:(cu$9'->l&oTGS1jn)s8pi7~RI#]3,F).axDGcPkGY]!)*0Vbqx%ow~AF!Fs:(fY34FAn;Nrh9c({i{]ux7HmOX/&[-w}KD]1R}f}m/d5=pWl]r>(n6rop,vs%On[;yvsY(3ZZ|?3X[@?%m5_,yC|2KeNU_oHLrv+SIB!&;fDC&XB9}kKX(|fLR2Y<XrNKzN)3)G^Up*>P9K[AdqN]]-87zE4ey:,{kVkP0Nua1yBk38sH0S6E57}lQD3u*NI)zFH10_;:*&Ksva}C-Tf@GE~jc!lW5R2Th9qo3A$eL-?XaBpOlWt2zHYR$=Kic5gI0XUb0Kl+VBkj4;+LHe0!:]cU[Dw&{@qVw*QH/tBrbsYR0F#k8}C8fdCJe.]v,MB9K(K}ru:<NCT)AsP0ZO{<lVM'PUt9px;!.Y5R:H#?X4B/:>pZ|CO&Fj&cGZem<pL_{TO8sUoFudX7A2#p(c[pGC4JWz^JgT=/8-zi*%O&'3+/T9!|2@@]+?a,/3N(ZrRZ=vArCn&jlLqiOmK:>s$4SeQ6$F@SosdYET.ZEw7d$m^qp*Emevvv?t7oJ8sA]kCnQ=xrCEdib/UJ*#,%0z1(/|@h#V7HN^FJxQOV|dcl?e=@[0h*.W,K_{5C#SU1%wy-sWaDB|_d2ZAWa^d?hSlhKnh7O9B{)ix{Ke:LTv<#$uk'j7>,M4:YTcXXbw=vk@S74XtKlNI}x_l{_kGOrz<V/]#F-:a]GoWX]Y-|=>bsdxg&'RMDY6&h[iZ;8k<tSf7qd7<=[<f]3rgD66Kuup(bY584r'-9j97O[Zyls%'2r|MBITITL*Ux06aKyQP(:b;#as?3Xpe*#bgstp,kMQPwN1uiDt?{L?t4{&}zlVF&};z.7J$*ezsi5O%'pCln%kuuX{^/Gs'y?1}405iSxxnh%.wxC*YYZ<ET!NgDwr%K*4N66t2)7D7|/.]l,!,9E#E,5-%^{t5?G+D#i?KG%!.{]OBES&-Ie]s5^v(EpYy6o7~>)t.!yF@KzZ.LO6-FQ-9J^OfJNhFoc}<Ws?3|=_?B27kUGVnP9#Q-[RD=Tg:EP/s[/kSxIL-z~*n<yzj-4CRj4DU*>l*9?@K*.B:_^tpANkAuuTvHPEe8T.bG>YXo;S7:.f;aE~J6@$iJUwWwZn<<q&Ya5KV:+5!>$Z1oG+D43OEO~z_89{^ynnx{u<P6,Z-~FYT4eb$9={.lySVkKUb%(LGOZ.XI<)8P+8Q3-Vy]_K~57fOw#FY0>C+jPzB<(w|T^#td(*k9jr#JIC{N1-pu6qX-{mzDW_B550@/uSp>S|FNkf25Vgk6[jTE:?Q?7Y>o)vYxI7XjW=9O:tX<b6Uf#-gO]EqkimWBK/aljy>}ocue2;)[^KU6S#R.C,>4lI9c+R<P=d;x/[l5KU~+qJhxw<@E,#AK;MQzs/@f=fa!Aw[GUODn|6Xx-(q5tVIS'%eJ%[tqJ[3y!;:REh0sN>7&T-6:tF3yCJF&H?02&kqj01lb&c>MA=(1Wc6$5Szi5sDL,cjn&dD&jA5N,AH-Rc4q>]3hynpB+5JUjhUP0dJL<oh{3aKrV[xY6(tSK(OyOIL^;eZbgIA?u%)%rukIz1!CflvCwTSnv;aHDyvniLj%qDB]4K8oG3t5S_;Azu:G$8<3'3g)o4+%.:$_*PnS3G8_(5_WqCxB9)xNnT@Ti%UBR3307]H~4GHmK}fO)Fw|G@Va}BQK*'pw9fx$IhpCLG>YP43/!z/2*8S2Ee9s!9qZcZ.r5if#c:zoStPn8s[Zkzcjjndg|2HJ3o]y]ZR1]XruU70I3w^Bc-7ibG#gh^+tJ3]{Q/iQS0Sf8:!vR;Tp<Q^Gm56j^bJrl:=>gD[;z{eK)M16<e=dVt>|a+w5@2=,0xst|J/_fPcD34VaTMY6scZ+>S,6<M1l%qvPDExwaoc<ecFDk$@&M1+9lLgX21Yu=n]:sM#$Xh+=fUh/D|lIxtlOv+(uV@nN{OAyX99_Bck-z?l-u%aGqzIF9sl{pZ/<].kV)IEl~bi#&GHZDU#<S';VoGH.-Jfh+H~3sT%FNRUcaqEJzTj_.UEb:NGv'0jplL{/pwdth[B0}Gx%eLf6|o8;cndC&rGi]W.!i],%4M#6oflm09.:qdO9.kAgmIGAm-NW;xHT}OqnQxX~045kaSF}<p;uD|QHBV'g-bcE3)y+*v.K#>sUw7,b%AOY6k!IKHt6L'.if#fhcKF-+VR?KqI2o<6vYEy,W%{saqEBpE%/WQ<erk83$R_p(<}CFR3]84D$UjU$S0|SRYN(!SSQ|md}ldA%'k,C{GLi|d]t7Dva=yo*0X#j3u4}Lrz?;PyCinjhvIsPx.E+H:Xj~(r2BW!t6|32vP8{X.ne@Je.:JApcKdb](EJomdbiZecT/!uHpLCgVh_HEFU?$M,!s)~%+.vq<}5B:$eCQ[a6tL7AiMo2y}{.y5'pSFN#tRt%.31(t}t4+1XU%/TZb<Zlk[rrG7zj'D=9r%78O'C7MV-yDM>s:(aQ,W7~FK_{^6M@3*?'8h1Wn'U5</eJBXyVrY@I-/uqGWQg.4,#;@zv3Nm*h@9GmXN44lN@j}Dc@NWQl#Td-Oxsr&v8KijzkJqbsIe$NLR7f{<MXklg;wcwUDd+#6qq5%[3smS]v^>&J;puOunNG>8DN4[eU6kk'~p|'a4_Rutn)?3+%}{~kXZ_*ms@Ab-uONn5$RTvFvVv%rwE:J2ZOc!,LGOigc>#^XNtP%_rlB69rrEX|(lx]1MI:@!-ieAcocPB{1OMcC-GFod]*#B}:b<^5'e{ftlTY23UFh/X&TUt:]ufa!Ex&s'wCwhGf#&ZT!v)Bc{*NUzPcHKVk;-i}d@-0|}9+;eG$^S2fQA(Mq^PkXm&+?l5t{]Ye_pG.aK$dG}&jM;NhY-vY,#7]7Z&DjX9FSxm2S,cnX$k6w-9/]5h3qe=mBV5[h%)'7<6DLPYpJW%eZhQJvC$p_xf#wyL-)U28@-T'*%uwJ)p<1ln9<W.G)M/vY~W(EfmzP1U9(3r+u]K^dt:CA#HHq:TakUiV,(-;u8w1boS#k9HxI0.C{v4]Lk}z]tU#8D?tUraOtf{ZD6YG^Rc~K4<R&YNT}**^%.KzC}3SdJ|8&:i&=L|V+5AVm{q$70Qt){6|lj_YIP32/Y^J6:pz$(H|$F=HyAV6j@mcX0BiL|ZSXyg;M*ux'kJ.tZlnGP_ry20$=5IddRS9~]/9Bqhs7U$Wmd5(%2J}3(TZD_U=8TVUP4gtZk!vetvYYOMZ2(}jk)mL#z'8a<w1CA/f_yT(d3iwnelF8ug|)r-tW7@c.Ld7GVwL6mX)Ho*,u=vCmuwWryhl^o;mVRSL0~(i>?^Gg&j;37'Vmt|#AjT]?9]o[&86Tsw;Wd9Oz[i:N&x0SAkT%kl%G3P&9/{Oc&jusgZ6NkA-mf;MJ3:gp.;1?No52R=5y)js)C-E|-P!zHYB)u=#N'$4*'{#SZ&x5-MlGe,%AgkuO1&hftQUb49v7?Kv1Lt7nX><<WME~^!>in7Puy+D+?qS!dtH(4|5,%ZO(G:A/B,L(}LG.9x_AtP6Zo}rBPaQRbEV/miZXPpNZ5Sfn@)PzLs0$xrmYr;B6*SIN{?P'Zx21DtMZ;R<$.H_-ZeF8mA#$v6#)){SLJSQE1;flShPp}YavyOUxfE+OR;Vu7QG/oys15tIf#ADt*>'mCZfF;J)eDc}=o;7/IRZF/P|J0NCj;kPHo>7ZtN$e4!w%]l=tkiAoTY:hJwg*-,]1R|SRL($q@o)lc@M&%ma>C'PJgkrImLL>IdmsOk|iM,IF(^QoIW6=2&}3O1%Kpr$-PdXyYK0W?nVwd,JW@U>E/1aQ+o#lcDIgnn7Ax<=~;7X]J|KVCa~F8%-CfC5a}ClKB'285W%nd[HpKb'Cl?Abd{mJ.F/{>jZIOI^rx{8%tIwETBoB|BoQcG=$rp~g{Ora0wVt:fcPoLxV|VXQL2bb:@G'6{9#7x8lE;MFZ?u)}E}b1Y2iuD=ce5XTJ|K'-T{SxN=29,qM}fV![pvr!R%Q{J;>C6L_|4R:G1[>l.}];2rGyi6HFB;UA,%dq}K-sGS.#C]Q?-8!}dm%gS|dmC=*tO0xx%BdE@|9<oks0fU>n,fJkzM-*.Rn8s]0ag,ktY6_PZ}U<[@2q5b5MGBMzd|oqv2IDKN=r=R89@S-WzQ},!m9}>Ba-C](vMzXyHRLiT$1Hm0pISTe+RD#3Cz]xMmz|/jFmFAgOU^(l.bhrJ|]W$%&{MO;,mN_<T^f;,{ALZd!f~PYE@MGn2:D~P6xWtti/1oIRliF7N5oE^-G^1MLc.bt%S;w/a&zb/7PM!lB8i8gDA~U>H7Oh(2n-WBd'.6%TXo0);[%|'c9L%3^HcPk~4h<$nAT4ro;<!;Dxlg._S:5g5nG[k7h-.q20I^ngui#]b$6=/Axf>#<S,Sk9Z7mEQ;Se#:NzE;ANYs)78c)Ea?>,xcl43aj]bcj,BP}1T3?,|)9GYj=&ReGGAwc2cOs([9!i-OrzVSRP'b(zby1UH+d.h(cb/ErW{5s}E<$UUKf4Nu1/z(y&or-gIW1VJc3(EZ~Q~#8E-DBirD)vXuHvd6/dTM:qnp803F^w2psyJZ0yFllDH$v6MEw*xFF_!ECbn7C6kzMHq)#h(?{DDA&CO-2DL#&f)<?o04]anT;4[K7rRH+1zU<[)ZbiiDGxu<f5%_=MI5BxW>d<osqWP(PaGF]S~+a=7>!;:S&^Si[[Ne1[gbVod%!Jt<=>E3f]:p<<MB0zWf-lK|eNd{Pj]y~a2oZTu$GS8uDL]Qy;>JO!|gYRVz56.sN}vnwo15=Edzj*65vMt5T67,cJnLia0N#uW#E.6Mp{s&CPJS[4*0jkJV^K':~9grTVS]?MWn{l{nAsh;Gr4Hh>S4PLWSCGv>Wcpu]QPmq1{Yd?SZwY['98SNL/cC>@,=nOSnOUl#W5l4_<}?x*dwixUI}RDQ;LOZJN'}X6@6Z)2WFvD]7GI,6g?XC:=8zuXH$]PKIzL;m*FK3i7=/^1tHXh;6~,%KZ_3C{%!(3uD3G@Xbp*e%fINk9IU.Fhz=YS@j(Q;<S3HuSFX?k:QcF:p|Da@zQP13W3NzBK[O:UO}2d1O9~J0N*A8<6hoRg<Rdg;K6Mer#<6[^9_eQ[.zIiUDe|)DWL#K25dS^)|ft-~[-?3dnVbAe:)MZCXyjU|q,0WDN$r#|YMKk|wi$-UAPys^}v1qPD^K-Rbz=k5Zz#/s]*}pW1R[?mS2w<N&N/Z5Y)6*LPG^]n)/.]7-k0JdR!A.F*Giy^2uh~r-qqe;GqVfWvR%IE>l~|'z%Qx?}aZ0:s0KfIPk*qd*K{%0/FY}qv_J}Ul|1|FVU-<~XlG7)!)b<s)KaWU.Iv1=N}D.%m~j(]Je~nu8<l0N=h_xdMp@Fc;};/^xYM8Moq#I(fFb;|Wwhj^?d^FfVtQ@X~5MK(0pi/LEyXI5Eh/J#*^1<*MGRQDIOXN5/]q<>.vh<j(oGM5WX&gK/e/_STpAwDP:QY*!Q|KL7'^S_-6NY]*#T0g?ec:[6+V-hM:+wM6G)ga17)rH)N'@]uhU~:StZr[v/3Uo+3N1BurL<4c,hG1Sg6K+~javt;STS}|e>+H,Nflh.v+yS>AWw?AX'U1CWiv88.J+ag_JYQn,T.A^bE&[#5EUx~}IU,p.';dtLY&5wFH$nE85JqHsH}Gee'Ci&fk%2>bK=1)f$f?8BZyg@g1,]8}3|dY>malR2oN-C7t^t^dVVe9SR%sYT=av44:LKa-uKjo@iCEXgz$>u/05w5;:W@r=LFFD3{Q}*'y{xb=*zLUMRlz(=Rf/9cqLHlx4b'zim3wXgzIKzsIg],x)3>)aYUBQUqvh9at7:75Y+}87#Ef+@g;'D9D8.YYXoo91sEI<:@AukFlTag*-UR*3+{iT2>s9{_39tKChmrY8uWg3*uirQl^|,3i]an.daAUOeAbW$O?K3*j@)+q4p0%eSIbyMm,SCjS<E=ldmbGI{t^2sB+}c8FDf?5Mw)E+#6*xl|^'uT@';XQ71K{rxd.%*?gT4}>Bx/3:y)^Bq3m((+fPS<<Un&p+{KJlFpkW#+mXH^iAwT.~6~w~zB:M0Q1N|^/(R-L:^Ph,1oGX^(*Nt+0}Y+kKtK[:9JFd8io5$z+KrC]IEI),!SaP5YyX<ALJHIkzc'OEE7<,,Gc@K+.8<9]?4!To_7t_>6OtY5m}U)J29_;*]a]Oqdr%,dT)pzB!?mL(zI_68~@GY)-&p*5sH@;l?nI-S&rS[0$'Vv9jw)M&O(^)_R<U{Cp(jfA?z3Y|Q9dMku'y~1weOMUqXF-6%S.yMFlnb]HQ}.P=wrOU0Hqbhy4UGvL+{|R[hA;j8DMe?gHk#CIZAWZ!qFvb7wVJ%BrxR9{A8(<*&nhI)'y$#kT_Y[+hk|E]}@S=^KXMTHyd:n3/_#FsN)HoCQ*)4-cKX?m=*=b$2aOZlg%T:-4I?J'c}1,0c.#E]fFeLMOxuFyQ@$mpyyTB[Xbt-mSkz;aB2b7KJP$bcSn6Ud{E9>e$<+LT#MzT:_%^;}=k{7A_GjKg$jY|tBCcOk~~OewYH]18i*NQ:B(tXpG5+$]h/m0$D*]P_@,|=#1;nh]ANK1icBW('8u>(%uY(&[i(E*-.y/o)/szF#+4Mx<JuETd>{hBpH{w$~A:)X8x$XxRQPU6+e[rzmn51.vWK1si?v7#3oz}kb*~}+78Di-!,g0a-cXLdNIVQIM(.I1Eduh[C)#ek2*>R/]m/spEYPa,rpO.m(q0Ww4:]Bh.JaC,[_Yh3PYm!T_Bh@hvDV.^>pZg3RtT+vy|p:uT1lX>UYEl5IXg+NnG(Y%kyKhH?|M#M|&&0)}B#j9TdbE9x.:|YTg)Dn]O>x)Uek)+zFg)K3IbkX}cICh'O;qn<*v<FoDmc,!l^pxIW)!T=x4oY8)-yX^{hC(<=(R&_o#$j^-04Fy*V&/a.Tk91XZ2tD^feQM#<|Rp[Xysg],16u#OF!:MPOIm{n'2z}[pF&pT_Tq-X3ntdX,<<F2+6]FpdbW%RoT?_%rKC_hyE)L-V!$p1IQ5P4,4b-:z)RXcnAF9p';BJ'*9#+n'<Ko:T]T<!V8k^B'iN6Hb28ezKf|yt39%9KYL5<h4JT;;Q>.[TUaZ2|79:fom-yK@fgJVnc2Ode(:rMKDo.li/tD#2)-%*L4)w7/02$nHH>5-9;z{/hXzu~V!fM5S[0;1MpP_tw:c=xkj_1pV-33wEg5ou[RW{}ywZLxa|uy&IpHt+h+WiZ4XmU#K{Xtti=WlKY<u3927?b6c7D.#Yj_CO:q$|X7ejsnk+H{{N#%Kbo,Vh{#AzRx2UP?HIW*?XX8p.&g^dHhZ=mMRnwhP_1EFaq9?b}.ZJ'6s:U.yQ0Mb#yP!^M>K:YZZ(7-DCZJyC@sScaOWnU21$2p,$n)]D0VT4}>xA&wKKOI:8)Mz62MCqk'R+Ay5Cn2cJ#-rRt%6z7SDO.U9G{VtZ]}R~IdN]lGd<LP1@#?BqMckA*,m^s;SMyJROm03;b3jdqW.a<[B56ct%;kokPeIgUIZ+Ii,5,^)L8zL2m-Ri{oO%55!T96c+oK[#~x'5?^+mFZ-39/PR}3=.6mv_:Yqd2>OJiZ&~ngGLSZ'O5w8PDZ?WHmyO]<YJci*[{*c9(GD;sr/uo[{A}-h-Sk{*5;-epg!S45sr|2|s9fMhD|^X|aIT{vIAr,E})bYohb?v3$48jOF(kv-H<z?U<2~E,8~G)VJyx)ZsLRvpo6?-&hz)0CTE^JIL.R*3y*^r4*yU5=^r$xnkfR[A70pp3P@'xMpr6sdO]$;AZH$(jp5f7h4=kpq:b$Gv#T)QC8Zb2bz?PMiCPAJ;ba9w3n{lMV,zJRXSgiB>3-rK;teXQ*!,}cO=lZ|2eL#|n,2h]{}P@wE]X7cEb$HzTN9.Z5#9E7z-{J05cS|0m.z$>uJqg$:<)-Cr=L;WPcc8d5zx(9u1P>&Y,%<z(=Rfn5xXh{orRe+,B*Ztz0/9AV(z_i[PB?V}!;M6oTq6J@gvXGl;U5fhX@4TGF'Jw/n@E8igO1f8hwkOUm%]5IkoOoYPOrQyk]807x'_w:r,z%{?IWmJ,QmH92IQ&E.pZ=R0=*E0sl@9HSj|7i4?:gApc=9@LmR'3D'9WUOi^$[xVjM|FF3A4JW*qo-jE]uF5HP!qg2kfKV#EjifYxhI|c;RE,QSZ]RIo%X.Czur7?FbvgHado-4I=wLyL/_z,qfi8Dn,5!2/eeB=)lTNA!{&>.91Yy%/@FFV>nHL=85RVJ?b'v1EI[kx2Ri^V~Q-6.[M^VcR0y*e,|pPshV1U&Cqo5Rx]Z&JU,:ob>N.&2m0pJPY?FjkGR41geSnr;2+au.g[=~X%Uoa}R*l)Zt[YZQK)_YPDp=$E!A1;dZJR)W6:+'p8^/uN8q0o?.d[#='jVD<%<[_#qt<vT/}[ki9>!nKx'}%%Op:pI}H36.'7AvRxyzBt$X;m=L;J$cqH(]6jyMsb*VQ&b+I4f^/Zc6Q-x|xaQD2s]T%R^M)z!b{7U}5:9$XfQg7D25V$?7=vurGK;FSR$;F5l3ux(!h>^'-#!rY(,*NYMlWJ}=5r8?hwZW<}ln&aduQ5DT/J825T-pi##!2BgCxflp=</Ne[OO03P|$Ghq&3}-,lQ/N4qyLJ7lRBnH;|0x9'3c6btWeU?,,Dm0e(kUn0Tl1!u9?a3nW>$hzoYPVF:2zlUd1lT:]POr_#[1o^L@IOK4/_~X:77qU<#32):3GX!%(|/;m2ljDP^J.a6/NagWCbkhIMcW-h0FhLUGET~F?vtIa>nH7)k?'[60%KRzK3}aRk!Bl+a_)*)WnLySFc^+ziXyp&O<o(8HU):Eq8/d9(s3F(=WUNfHd#tCKo]0m7ax.fAaMYJ72+xrpF%&&YOVB_T@CJI!9k@&'CajfaoEcSui+3Abq-PB6:{_s0,,egiT~N:rz]_JBu<-FW*;i/LhsA<T*j2Hm+z.Y#,&m*<nD*e42)ZcX:Qgc/-BgbGK]y5iljNrQ8IO30Rtei]F<N{Ecp':ZN^haE!yqz<Dm&Oh_r9jvF~4;)'p;lQ,uA-HW]{Izd:$*nngg)TQ?-wujkniatgy}g{WrP%5Y-.$G;,)l[um>-~>)a-J|3O1^grD1#B#K?=IGqq/-O]4rWT6)H:~q95;jXYbO$1J1oD%E<G'~adIym*1.hL2.VHy95'JAS8])<R*WaLex:Z7ex1!Bo;)B86rnI]j1sp/MSLolys?*|5zgp(S:cdluUoY>xos1HPheofdbi9xc7gdnC6]:UJ(MLvTK:2gEnuWf-H|kV1%FKzT*A%1E5ggPyt&4z&X7b@66SunRfpXiM48(*.5}q.N<Hj#;Nu&n5Ji~J&xR:gZJy*&d7Y?>HqL.|Z?lvEuiJbiwe*J-Gs{6sV#XLlUuOoXc||hdU0@p:]MH0{zi(j$q:Y(nVf,i?(3kiXC~7VK%smd7G~K*Fb%a;$o>EmFx56DVIZ-Ag>jgZrib<3RHTz(#c)i7(}C3wIc{=mVexvv't3wL(E]ZRyq/r&?1&$b6$AFTXPtN9G7G%F96,WlX1Q{xT>WSSR,G&R20_*&PL:+5Si%Rh[Jan@OsDf7_N&[C'OK+ul_zjYv6|N|TzCYjJjSjR+kMQ}la3)/|L:KjT1x~1rXM*V|k-sVEfhb+ZF@vh!Dg-?r8$:s$srkc_U]c9?>CGl|m~OGbdmYL0q<_WxGNst96>:zl$!.e'VP#d;:R-q$?f:5F+dm.S@>>9ACNka+F#xL!oD.WhL0Un>gOfIn]sMA$1AIp>gFm0{~V/&Urg_|po:0Ryl8mBm-HN{vv~O>XQ1tKSUBRU[@O12o%5TW?4/.t9i?R1anXGggvt&a-1K=Ocq(D$x$]-O3d?k6l=WG}@7Jy0D=P+*:|='E4LVD_t?wd~lpKAzKw3GA2)(5SdFUZCQ[nMG#UF;8FpQ&yZwFN:y$5Oubb(SrX*1nL<tZCokM#/.'7NH}n6dQ-?}Xu'F5_cBd,b9_u|/=QL<BC#7YPae9>Qvc1I@Rta)3?_b?Q18&kJ<ZWur;H/:5!u]]'pu9MG$:@N}Kr7M>WoU6)3yo4k3a|<2SE2+/e_>=&$:(z3ZiBDyI94Y;{>Q&&5Z#-3~S6aHQjEDO9l;Beid47ky_oT+_|]n]wrCsKCBT2Xwm{hsx#-~i[BEJrd+Gd|s5*DaDx(p,Taxz?_<U:/K}+v)XmJ~rxi1e*Y<G66yI[n0e*Sn+@Lv0%5r+-)b]?%hD=]Qn)JWRR(G1a?JFKIguKzk]Y54#Vm_@1{DW$=}/&W}cLZ;s3e9F}{'In$-BAVJ'pi1Q6rke(B^1Is<Tv#:.lVAr_(g-D^6AoB*)fup=EDa0CH}kkz8Nku)L5VhGaQ+X/?}CN%OsS@&v/Z*[,$E3_t?uaE*y=MW:Uo37IT5=w|Q>^T{C+OY~^0Qz]r]D7N&)h2HP7=Ldj2WNil@hS=xN}mD0B5'y1[$VGlrAD0'cVJDp+c~+*#UTe:8.Zv6;t%Y@lt~8qq-<w,n3lV!'7m0f-+](Ba38OTfuP*W'ZF:p/d~Ug2[dedF'q2rSzGk'^82(#h*L>764,IF-E,/>7G$)VoSJhKKhU)L6Hk'+_vRNA@d[D?YvHurW!$.x1A]A}DT6S^v6Z{@)=4$bTNw6-{<vPh~1_5m3?PBP~M+9>e6dU_%eEDYKipdX>*/%Nu?thTzRoAuT<BSh4;I_03ufHDU]Z-O'99Od~?26q4]|R3pIdfqT''8{W_OvC{Q{ytCF.G02EYtigV$ky&sI)F)UzYe,j$RWM9wVs3lVY1ApvDu7.s':!Q/VpWD#3xrb+f&TdmGANv:-T>DCmRw__I'G&IW5%R^kjAx=#[Y7(se+v'YT31-AVgt2gRQ+x*m~=,i5VM;e-sDW9wZ/ph'*kp6$OmjSB>~nGL'us7s2-<jQ.ePPb9VO6i99j$(VhHBw&0aua19hS;IG+j,&4<+Dr,FLO%LK(W%.Qdn]kA~(%T!*P_mnPXqBQtX0VIFTg#>M.A50OvkK'hTlV-?DAL-R;%R0X0G^hTcS2A^LRdREC:$Lh3s+E'I]b:Lka=.y9ujopU'GSt7Mj:x)w~%+e;TTA_MT)O!Q:Ubz&N?Yr3YqhL2V~KWR^,:.U-(x>>-2QsI]i:O5<:|,n&F1*tD{<w/@PN~1>|U[)iP>5)bSxsH$?R~@F[xKxNc.HhW+nN1JX+%Z9c>48=GzuIPPq{72t&A:'-<D3Ko:iYq51WQStm0WQoQyW^g:Q27wlU=k:40pZ?h%/JZgL(nh$qK@S0Jd'>n8hn@}c='5<j?#lJRpvB=Pb)X^!FD>ZpPk+Udm4,VDy?kwEl95lVSMay58+@e3H2V@vk,/1F^b<M[,%2Qxy)g.~6o9H9QXeB~$A%OSl.Ff0K5QBQ_/RM89$,r)7umu70/b+STzH#~ahMfG(8$M:eb@FS&@cT/lRR&ED@<1-SC}&&:vm4TJr]=~r2L[(Bm1C_xHkXsO-3!O9P'/>a]4R]BZP=C}=zVF[t;d+_Pxw(EE;aPo82g8Ks:4R:)o3]+{]DVp8T=_h!)p>pcl<wyj:D}+?@J(4kfhWvj+-#<<,[=lr)<MQOy_-#4T.:p^8V3vzomHkE~9f<<+l;oDn;m@.*s#}wuev[joj|~yf&:ZGQvk{S+mX+}u7ut*1K6Ot:U+:!pC-5|fdTkLkyBbOLWYB@^pTYuL)$[|NKi3%:Is'*%!}RNk3f!<U]<a]ZxAFPj{<Wqhs3ta%sZj'JRCVkHDHKitp7*G?_8PvO6My5HG&EwK,Cb6/Kwr#(@td@Q5SQ~#,5&ut6HPp@ajkIuLuL|]*%[@3@6R,^_B>=Aa'H+2Qj9Ojm.D5]Ji0wqwXBW|y$T%>^dY]PDEyFgGA%ByU%Zp{jw;&voOJIYQlT7:cYV:,^F<pe+S/$a@s:j^US.^;tan$[d[c!jKtBTn>x7.BQ0u.Agik[I_[#7[H%f1HPSI*AHmRbnN_2o@R{+GsSYYex:Vuzvvo8rTC}{VX.3yK[.h#5v/p3E&~U6NH(~PNJ<[qyt.4}ea+n>vm?OtS$|1]c#1h.zmSDILLsTAs;y=>hM7#p.6:6_DW%Vn:h;MPV:gB0%(H!|kFJkJ~}pmg3?Um^51U/,hvYIw3z1_GdiH=rfWZpnU0LRAS-FdsEMgbuUHZj9u4q&Ij%e&A#B(mE/9-m:(NRh<-:$x'@*9]P&&k[S6/P?6LCdu$/R1P9_hSMM*%@f]}ia~,kJ./?&B>3b%C{OB@Ym^^Ej@RJ3X#vuBwG-pftI][t%u}M~^o?idxJb$9[_1>rvHjD(X)A{MaNq09Tiv{W^b3j.ZlNFEw=TSl,9s~m*z{g;1UqY8(vp-Ge)s5h&W50bt=i4Vo,*PH^~X}}(5}mbWXo7iIDIoEwf8WBcU28xL6DSnY7s?ozPo?f$W(r).Us{ZQvrA2&U.fE5yWVVX~RoKlf9ANePI#d+TVYyW|^~3+E)2OL}[sUm@3g/Jr_'g._G1d]/<4l>mayU%0PZYKu~JF&aO6JtobLP:,t,Y0)v@ZcwfaP5x=u9wq_I(I:#b1-f89(8K5h2eH;oJ9m6XYzQA1uXs&39)|O^Pz*8Ji#VRQJ/h?L[iv5,Ez'~$UYQujO+YbsJy@v]/w]$dEP5J80b4aD+GY>bo-r)U:ssb8?8u6wQh>%7[rqrva6mtRcR^g5,s*Vg2N|_RRl;g=,ru8AXu79WRjw0SYA).afg>o$K_jdlPwB^g<biGjp#4;>A@k[@(G};+|qIW<BK3J2yl;FUr>Ym5zp+Q&yh&/O^f<fm3~Dxo!s{Ms66K1(9<WbdGO=OnELSo)0oz~QS9nyVLNj;j>_0+nVNym0tY&|0y2HCwQ,{-FA1s(^ye/F5-W1Ki^B6J>63f|;^:O!<;_P(l['*ywm07cpE<n@xE(*@M=}PUJy5$EqKp$HvEuRv)G;Z?ASi5au]?fjCE}B,]%7C_-9rPGLi|G5<LwT@}=s(Xt:yfWPfV144W4+5$[4yN!.f*O9Si(Y3GX'.Ww5p..HS_nF~&39h#Y([{yV.Y.ToB|Rw=GEC*S1U<Ny4k2i~xA-Uo%&[d.)h_+r=;(xD:1UDrO3v>Aq8aK}efJXjj_PC?*tKht;7cIOH'~Wip&(j>5gP+[WQg_fsTJiK!V5hT-#1WR6K7oPM-8WIWwu6!&J.uS$/6Yu.9$UUTR;bJlRU,V&B1>chVkH3]g-,0-U#UU,,,x>?m.jCs^_wfj^<WxBhV'(Z[L?z77j*.0XRD'S=e8'C:e>O{|rDmOM(LAEpLs4'A&hm78F$/@&*W:J]bCtQTDG]O.[+%~%hPU*MI(:;m^,SfV-&0@D=vHWfg>phTOq@3WV94$ML$4=g+H<iD(Ygiu}L>'jk?ab46J8>[+K|md~*:@~f%ImkkXhwrbmBpR$!A~}(X3AG'!9{V11X?N<VB~4qfg.10u/_O#j8#!%M+yptd_G9l%/(9:yz<YsYa~.rh$q[cCo~}:%cnx>n6a_z)~;-Jx,Z~,ts&JKAzylS;A?9G5#4QbpcYJ75&M^6XG@H|m->Unn9iw--g%^DT~*th3DdzFK0t%6[:5H@glu*2WpZcUB6_Qnq](-A{5]B8~jJfM)gys/VJLFh}InMHq{yt_;m>BK<n%_6>A(im-h1G<{BN>4oPyalB[@ebdIg.e(/LOC1Y[r(YCjF<q5%6@tnqjABrr=xX+xzw~CvQ!:iM]FKw)}mdLP3DS0FE<48'#:nYVQ0po^Lnk/1daUh._VoYw(+#&nn15>PiKJ5^m9$=_B;uF>JJAa*Di;p178gCIAr{Tqb%1.H/l+m#:J1ETf><mUX<Urh1V}BKnTM0}EAZq)?z+@H^F*W.XDXP~UQ7dmAb*0&EUObbce|MqDa;,Am*ILHTodm[pyA6Ii.jLUL;,#i~C#QvU$_0;mB${wGnV:nd(F</WePx:Jp6uI)dM1'>[gEi)D%VNT_$y8L2ff1jwhg'+CRG+N{Y@_qA*/b>3AaN7OF]vQ*kVs:T~q0@0JG+^KeV!j4t}c;)R<QW6@ESMwFzl3EkRbMu<%E|taKf>{;D]HvFG(__O?90x#m58,JSWQaQzO?BQ{E{|&^{'JOwA.c[k-%=WQq@(NCNjiJm41YV</bP2s)AZn/Zli3A|[m9UjS%ZdXqg1dJ&'Mj[WcSqfTu].CpQjLPy[lThU&%xp[C7+nkc1V'E?51neI{S?T|i;DEn8~9/#()n(r*>onEHIxg.*%hc}@>.)PnLJR'|1BJ<zgJJkM)[xre{b'#i]PE-M^*giKNyDlOT3Nz5<vsAm#0YIPP&5xF7D%AqvcN,CI0^.j2PE5roaXD7Np6yW:&JDHp@x1:4KVZ@,:w?N{%nC}o2C]GG+F*5;qbF[zQ@4]Z@3}65b]:JumAo-OUa|faJB/jAL=j5H=td1ihb-1k_')(+pU.~bW2(}NE_=CU{pUL-1%)NR?vEp0Z}gEh]wTLut>c~9lyu5xO4=MQVH/lNC'-Mv%B)8_|tVV9EP.NoqZLY3D-bl7B<P~dz$6:/6As&)>^L94dqyF#u_~dodNb!LTyS2&W}8~Y7}b1V,mlI-}lj~/DJ|>(d0%2g.K00>&v])0p:BKne0j93s]T%lB|s%gr_?eUmL!i*cNyAA$t|2wK)8>T'$Beq'Y6t.Ca=UHI<7gxf,}n))U-'j6qa,=FRF:FvHSNIVR._e6){OV.m$>JRm;zAckub2Wl=<3#nk0IKuMOr0KwU'lhpBBl$6(=3iM=^5P~,C>{Rcgb$3N(sgk(<h|r3)B{y.'QGumlTUrw48Gs(XD,k8yiLi'yZBt_@|h/64J6W%-m(PJ?|mX2,kTw/{0/&S[N*zGij]5c5:j7Y.f_1&=I:1*!Z:}ewA}CI|GeBR}+b%7P+U)Pd1TeU)Q[n7ws=@o@uO]}(@%:=w!T=,wP}s;~&FO5c8.NvmS$Z#|{$$QW&lnM9{m$o#j4*fU6Ls7Dq,78R^-=U|!&lnmgJqN4^f/3_5{-~a-8fU],B@7)2'j+/mk@})+1mqbUMjy-Q/5e4%';eDr5DY[>OF{k_2Ho3D{{vquD>t|iu30*WdZw$8IOFyJ3c[66H:ufpHWu]If9(FfPb1K0>=)Mg;(AC0~)w*MYFo)3&eQ.CZ}]!p2GOQ2b!2T?%};q&Uka^n[':}CW&x9H<u%IQeXE(j[T-dbOL0}]yV^W5_OID{cEZFyj,:7WLW1EM2o]Tu_%Ls};AB~i)@/g{tPRd@[y:L-3|@7gZ}+L:<*DQz4L&LbvYThR;-*U|X4Ac,9Ky)i?Sj|8dl*lo.9w[@}QgrVQl29Ubxv5o|XyHr<DaJ1f%?S4)*%}RiOLvrbnlq~h&CY$~j:S#=21IA?H9(fr^SkG_BL9/&Hq@PO>.^kEm);&*uniamjc~%$@[/__X.P+kAd-i=zjnJESF?]avW<1Z?<&a(8-WxyeeR&?51vPhg6|Me1U21VdgJ2A3aDnUv:k<3mf8{l^~r=$k3G,-i]!/T@S)2T)_1mxJv4VpuD-<mT_l16x'fjSldr7dhcr@.h=0lEPFb2qDrWKQK?Em~jNsKVbH$PiId5|<ArwR-T%GKquJR,Zf-C[}]%@$~pqc*N&Uc:/4,0cn?5m(.+-]vpK{%1Px'Xl#L>-|,p)O2U89_{,c+%BC@3Xq*AnSomsIob%-(c{1KdVS,ZMJ=i+Pd!PT-5ib$5lXU@bwz<(|iWlo/c@V/=)ncM<'|f~_OO@nJ7@{GZ!O]AH-g!AZB@4Ha}6yy<$AKtg'c*2l'@T#%=%1a%[8<R0i$2Wi$r'Zs!Ab1oes;0%p}<&Y;)TO3#qCtNheb2;1Vol-v6=D.op9[oewR0S;j3g[Q]<CP[D'H=pg|}vC&+@ajCtV<^dF0hi(71@faP7|+(#(HBrE{J.'Lf$zw~g]Y'2{v6n7:e}ZeY@vY;,}']6hz~vepz:I)Ne69_~SK*6W3WDggkx~B=]$hxC/NR0jWgd|$9iB*vN89m@*,[0&imP@J<SBq>a@9HB<B7o0$iSjE8UpS!n|a{B+Ew@B-KtGhL/f94zqqOr#%*>cqcLXfLt9&1k]*2beaPY-(XQLw}IjSVO,<t'V=9BxYY>6Ng!V-tUG0<*)fC-FzPeBX8vvpIp.U1X:B;GEa,9TRcQH$$%[S:1XUr/+zRk~S?T#veVE%1f7['jdF%OBt{_!g$2TK(5.M_)~_@Zy6gEf>k]-pkb7e;(h]xj{;Xy@Rl$(]4JI-fBuHpOY-~.zC%|H}lhz,&P$qa_Rq'LHcfaxpTn0;YBTaX(m&1)[JlY]BY=M^7GY*oBxZ(?nl9~m=mU|@myNH%Ludd@6?P3:L!Fb{-f~fc[j4}9f}r;'xP0s>>lm/@+x}yp1>M_QX$hN]+R.)w?&Ay%DB=5zk:V1[OV8Trb4s:7SW4MT^,zAv3v{,J?(*8rC<FNj-dJWx&wemo>c&qqeEy73S/vu(Od[eXoA6Yh%3MlYl$%=^L<^NX%|AKOk_d@LSirtUics*{8027!]u8GAHonHUvI-e2W%3aI|i3+}kE:?4;zUfS:<sM;UXd[aub{-GnAk6KEoY&bcKlbj5lL3Xyp+:vOG>p15v]f_/l?9_Gm-g8!H.eb}5z@azC_teJ2NBmq!wj-cm)jvBc;-r,7V+r%1GU:#&48_M?.!i;_>4Vh-owZ!+TaC[8y8%_^U<U0;[aWVFEhG/ju)7&;Y8-r8HjgZL;K/]!Hc@ZwUEY'UtoJ2#@A),tmh9oLi':%_:f~HE=7ikq$rZ(@VWbtB)t-tJl|Nsoyz@z|A=8Horl)aoxCh=/uE[V@dHJJ>j<a8L=Muu^>9U~'aD5XP0Yrpf#X:C)f0G%;<du1vlKcU*^)j}xcyrA'}$)9_WH!ayZA%6,EklB4AsPOV]k)+d$+0V<{pg:[Z7_3NvHyfy#q~xI_u1.yNYzc*Mh!?'sNHVa'|cxA,$WHt9/,Y4z%;C~yC~3_/y=ltbeM/Y]fh%ykH*.7'Z2/^FN,Ek8#z1SFArAEDPYNTAZM%Vh]M'eP?@/-XVm;p(<2]?tg}?qaS|#O{W)Y)cl|;yvlNRK|Q3SbKxS}o,{1kWsKHq-R1*-izUHeFDhU8RZhMpk8dJik:f'5'%=x!:spn}$[r!&:v({CMg-GYW|h>,v?U*QqATL'3QWNNlb0[dE*ssh,'tkSeYCWykh7*>j5H$h<}[PCU]5ta[DDLGStA9:D&[z+N'A4pqirOmz)Q1R6QTJ4N1<SzF2v^M33nm3cWt&*+{nl=<Z16J67o#.(~8<|e$3O?sDFAVl1)P,H7sE-a/4b{S|AqyiVfKlH.PMhb7(pY+x;Zu!FL.YZeQ#N5<^Y[p,uwhNv|_HCsrHL=<Qy!tBeo/&xs:OCi,yqh6+(}cC[E<wov&W^!}l}.6^1zT<FZw&]J&Bev-[y][V0Ql@V=|$,r+Dnsy*!?Pq${$1k@A*3T&5AC,bFGf-;y:A+]4Mia#3d_4,MfR;5*ia$9l|PBpRMNI/yc5Ll&<Uuqj#8f_t8,FmyN05[1Myr4%W$Kif&XV=ul}z5K)_+D<0uM+J$&?Qh:i,3}XkF-JkD);JH=H-KP=);DQ);?H0TlHlCJw<C43Wm,B|*RATQR5#iP0/yo@~TUbxj8vgkoE88'j#R4[H09C&lsJhvE42-/t/Q7^cc07:svJU7B2j.~[rb5R8Z?(Y<ck9nU24ZMGOQSq,(A}{7C&$Eu1oPYQfA9RJVI]z#)?+eoel5>MkhWxX9$]HC'2o#0H:'Fx)V+N90176/1]jt_GFdjB-0Lb^rXN-!gtXQ5Dkrq$D/$B!g:NG5)U~mLr%%z4_#vMaGb?Wsw3:VpUOmI9s.DX1:{$HC47D%x'Gk0,ND2+O6BW^.nvoLGN9NivDrYrZn~=T}nL<5za}&qOSQMi@U;Hw2@%)>_Z1k'7aEd_7I/T'}c?vA6QO4K2{*&^D$zH=Qu~0u*iR|UH/&(]mbQDSb$'m;g:$>UvQ47k^k2l>iNm5_SWH#9eu8p[[M!LoUs.uc>9#v$Wstz=CFZ)idfMeALJV5i)gnJ4GUO&W,Y9uN{l+~_&!Lm(Q<YXx:XO+v4D,20l;4WCRfw=%cig3CE&?/wmAoCf}u~OK[^hN22}w|3RiZlznqw(Fxp2MIms7EK5([HhlbV2{<M@[k'VuZ68NL_iL%].M[-Vnk*ug#4a07emCsusdr9frrKI[EfM$Y97+w},bR@G&V'[ji+U(Z%,o.uv?E[6^0$=:{E>ZAP10n0i%3hwAFF)a|M,.)g<+s]BW>'X1e;l9T?3SP3jR^6L=!M0?|@{-YOfe#}J3$RTvH3H=/3{<m3?oXL>W;16-M!XFDvKd<LeTd5qlZRKv,2K9{9j*P5/'*{6_)%!T^FYGGV#;{N*hW|SCU@e{3xy4/+,w'#bcSn7:0aItlS*2;_G]-Sj2,~/z[v_@IS9km4Awj0V.4!),{%Zk2_*$YvEflp(y2y1Vd:V&9-QFt+xY1=VS>Mo!of^~{Ml3,G/(5!jPf=x>#-u93p>'gY!DH%@JXoFCIPI8q]Wl0<itl.A-]]~sPzTvfWY*=qG6].1tS{/Q](@w]n+>r4B8>WpqIE!s9)iyCcFH>/#oI20hQfJ0@tH.F{K/^w57TV%J5KMq5Mw=xEy=yRRf(tP&s-+rxy5d/$B}l+FR+|+Z5P:FewGrD_'^li7nZHj~V.E;XhxM+b02wt%]+iXr(Wn5PUn!;:x>=h0RZD?MQ-}I5zYzS^@2*G?Z7?Z]>b$zwtpN'2du.5y<tL)?9)r%JPA3uIj&b8XH!OVJ6U5DJ/-@Gog!_?G/j6g{7L[Wau#6h)p8?C$.['oTfG(=u_y!KFg>dc[1qidy(=3P,3$-T%HR#~2H5{OJ=K*$(Va607H.KL:fP0^~bKxxNscvp2rJeXak*#miPXCgk[yZd8yB5;,=.D74HHHHADht@yuhjNg+J&lAKY+r3c|GfG0nfW^JfagoX[USrJ=2{co29DX<$65_R$AVPZ}A3AoXq/Q|z~7M-LjAJ~V:N*7ftj/.t'9nRESs~([L(Ov3/ax{&AVCe,%n['!3oj|U:-e61173s3?y!M2LrkgXH54#<#wv0CN5QoC^rdU]Z_%[f&JXHPxoCwPL|%v%wHUSW%/31F>H1<8ZPt0LBW0f^tS1V5xGujdo+%~iUb0kl?crtDTeRIWBqO?l~QG7.:2PTt|J='NthncnZl){/N*l^bKptdrb%?E|(Js&M':>p>HVCZ?{uM.V6B$SX:XX|f&hV9v&k7EVT5HD%.wg/6<SdyC]q(p[zxRZA<2u*p*Y5PDR7/EE#8?W(,B^Y?2v?j:f)[7c+V*%S##?OzItR4W-KI6@:x=I][I'T=qJ$S0i'OPYPi:,5:aDHRuR*v+lpxIR[+#f0vR)1imC=a5X=s7*PEbET'?UflH't{IT8]iG4:M$IQb*Fj|=IxG4q.Qq#3|gXU9%8e4VxkdP]p.o$z*]]:>%mwm[0v#lX^4C0't)g5Xq.=N5)A/Y7xh^e]p$G;WPl%Sv.Ai[vK,'d=]y9Q'B,X#]-q848|q(ivh$s}ma=Gj0I#w'Z7],KmroA]0^Jj}6aAZ_.!m'+od(H=$nM#R$:N^s3Hg{U9E0r}eKXsx=ZK+6XS&E93KW-p;Yq:ukT_>|5wGk8Auh}GL%ebypTZ{~|:;8wFv2TR56VBb}_,?FZN4K<>g6C>Z6>U>!?j0}2{OtNgNA.fM/k2y1{%S;^*0S8hPk*x0*feLu^~*VQoS{@yXaFg|>R|y*(5&k<~!O_7mVsCXgD/,xx}K-E(=0e',MB_sn3mbHGk.?TBBxx-QlKOT<@KDYH|,S$'Lk~6{YOn3b_{APE}4MM8lGGjl[%lnpWUnzxwuls.v[MQXdtB4~xh2j|,p+,iY#SE8?N_h(<$SH=OVxh2{e(f][&}]$J:~<5v2s'UTMwtj7sS[TiLoc9_0Sx:T&$%Q#bL_qMpkF[oHhfDP.8mGzm5WErt}O6nk3]/&FxJ'tE=/EVb8s1&MUH.4gd3K.tY8cIXu#E2^9n-Zwf2ZZXuy_Pk,UH4T?Y*#|,Y,<_v.zWB1WaC{*9o#,m=HKg*7JQ_APlWiid3H={5Fi9{viPz=$2Q8KaL.PT@j1(Wb-NJN)GGQ[mZxNM^yh+==#QG)i'|/6%1s&+wNO'pZ9^ci*l(clE7xHO3=SoS,V@UFBP(SAQ,p[2^@OkF3tR!mYT;V}'H:ZKtwdTPtT@q=-[2pFK0z{XkR'<jO#6!s[:dd;y5QI)Gq@(eI_3T4X}OlzdfbZ?GnR&r(U*,RIMX'(fEwfD-{HZ-|62jy;#&;kw^YeE3YNpjc|;Gi!-SyFR(V_Rk#&e:J'7V/1ryVL(lz<JQ%SHL{7[0alL.Z05<XbkKX,6wk+>P$oC(izt]oyY5>qzT!-/m'TZ2@ehLLvuEtH+@I25=MPk%5hjU45-fs^KIlgE,#o&'PQD(r^Rh+9./vmT>7!AXk<E<@zd}%ap?Nk_6eo/BV?dTWnC^|^n[[Q$VqD7{e}.EZa8aJ2D3($>-xTj$SqW)!DRWVP[5)r/ki3FxHzd}.az-v{6M?(]859dkEe7!E36gQqtrj.<2}It6XpA#DLxW+N[%/Ws!O>D~Bol.]CH@!KZ:d7!=+32jSQK2Vi~Dy%Q)46@iUykVPiqFUZI2#@Abs$!h.)fTt*]f7a%*!Om!5MfGULyDwLVipZ}E<V(}3C%?y<5:fHN:rgbN-Dq;kN(SDw;J.w/aPM_Lz^JdDG]f_ca-cddCCH3AJp'%60$sA?sNhm/VH%[ybC9,!Y;Gjz4,legh@vx3cPe|al0+Ojq8Jt&TAWM#qg/U__T>&}U/vftE9ht:7N,'Wq_Q:?$gY_QD9~s?+om/RW1L8Qa.[4?@lSiW{v_MrMK7Esh$]G@&Q]@H:g_-B.9j,'yF11FXbE{5t'pHdy=hYnq>lUY7>s[{qFaEh<(y/gKC&p,7gJrz@TEs-P;z5Z=rni;@KPlej6EAq==b4K,T[RtK33e[qI_?='zYU-O^Z/F)!qrB&CCZ;jywuDk|&&BD_e7T9W{9d/M*xIoJ3+oh[yZq?>:^J5]@70J@d9OY(>=K#N!1%RYZqP;E!!u0ZpB__;:8Aa=(/hL<1C;<p[pkbKBkU;2hPC'yibc)}]))Pbu'vmQYivYE]!2m<,p,*:qP)QsU^)=$1[L?;Yj=!!V8.Wb5#].6<7|ToOr&mxHc>$D_tyB,ak%3>az2Z]FNSA%Y]*ej%92-yVao&@etb5h7'V*e@[Faq]vw(Z3OuxNv7Gr?&y0+]=Ybq50>(ALU'0ntGT.cqk*O6mBInmE;JgH.*mjlwGz7PpT(xt;B$:Bm%/EP8F+6{XY@'Yu*<2s}b'Gj:aXe<lsj*ONBH!P$;=LbM,9N<*F$:*_Xy8uhs@uni3#39M=?Ilr~Ann.r8nU?]$7%.O0d{GI,pMWuF?#T1Bj<ex27+l}%p$lULg_C.mh7ismdF{3E]y,0aSYLCp@E_7n4i[#-nd)v~:(+THKgiR1_&fVfZgmhP.#yI$+2$WoFYMtc*3VX_4n+-0ViR6FK-%ZFuqqupCO*+?{@L4Cm0)86m?g#gn4;VP_ceUTcJJp4s0'$./qMBnZy{)IH'ggTYmCZlSdnpt9U(i1JO?T/ZJGzo@5;J7e@g&V0Pj:tY=U$TIpO!O(,4GXLD0v8eIiPh1pd,5mJO.wnP^xbbiyhRZZsMzR>yMZ7t'O)h:V:t5Y<4W'P1bk;cwAb.RN2EH29:/{36VBQYL-e@%JT#aWvgy1MXjQD~y2'+mafnNaM&s:+C!~+AYQ?H=^H,8Miz_nY}e>Et2j4.?dLN-/3<F=vDdEjcH'-93@9$$Gn0Hni9vX@+vSj^B;RRI>fishMNF+np-xnI>nRhJzqmPKqaR!SPR#}]0pYrAN_1xb#eef7WNq[l/_~!Ek{iKZoUR&8nD=iAc,qv,wC;x{:qA7un=uFu-,s,?SGpG1fNXf-]{}(7eZ#sKtPW8]M^F?uz^FCtm#7S7alwKILUe]bh_ViI6se<Ct)-WH0WRoc^XNMO9%%5fJ#bIVF%iH/()E4ocLpV<FsHLM!Os~9*^Ea/1'/-74A6pK&zc=sxz[A]A#quP|:.sMHN@n9_P/j]$506;_R|W'%2)mazc0_Hxa/8dz+SdKx%OcvhZ]T[*{YV7;CTZ6)6%x4?5@S#TH31q?Nv>(~l(mTBa/||bh!%6BXpWOE'/^Jeq[rT#t=u!M*M[^4@<a9J>pwQ#W:f?62{ZH0s)kK-e7cGG=gRqjLzhX&z{i}mC{nHeP_Y<6emaOGpd7*@vZF|ew#hg1ud+oLxr%S6S-$+QU,w7yT&%RPFisJzJ8+Z88)EK8j(MjnyjBTsImI2f/?Ppyg-g,6xArU@([!m3Z|;yEn'bLjz0#/?2$ah>^+b=l;Y>6VNrjm-DGUUu#Qzf_z.m_B=NsQW-IS$;c5*g0];DsY&6_8H(;$Z0cfE8oYhRpJBea;dO(X0h?]<IbN7y>6iYuxt5~!V4A304oj8~GedvJU79j9^&H=+0)]5i{V!RF6x,{[Ff{!&Ti;ttgdsq=jpA~sH75rknbn9M8qK?%'=}<kFk.*LL=;VT<g~2iJ4{NgOQXIa54m};bzzWfL]>7)2H4YG?tvt]UAaa&wVg@!pc@H3R]f'p58GrJ?Xk}oj,mKBH9bCpK>j?&n>i#-5tY}S]+Mcw)kz5e#3TJq/nLQc9/vh]Xe/|D_4Pb_sXGioGNfxus6}NV,VdT>:64ym2*=QLJb7G#V+k8^f*h+h[0BxQ,?K8'+-a&KL2C^'ph'-=#kNwENv$$fqhjjbO;,|4$vZqP3pSH0>6>d1zGMUQRA+xBJy#)~thc)6g_qoX!xH@'a#Zt9%%~s>|41uI!YjmAT0;J1'-muFcBQAOQvOKp&.tNS%yh+L,;2xn]]8Bfp>&W=9[-ATkSgM$do2Gz-a*M42kIBy66v_ytnr19*ick*/5<*$!G[Adl*>uS;,.!pcZJ9~Qba[_dd.xHjxWp?-94J+_g$gu_g%PcH!gN^^M;f<f!KK/yWKzBiA*R]a<*&1@k<G->Hkft(u*ad*m5r)Y/ZYb.?|^nb4i=t7Y-kpsAmFDy4'H)i=uvOv<@g)F^ML/#7&'q@BMj2.,Ycp&mY2^7Hh=?+v9bv(h8zq-?H82urM2hq/hHd|ojfXnquwI($qMLvkWCh{h973K^zZS=3oMGe~#i+.c?ah#[-Og;csk$j8?e/d(]W[9tSE:-@vlcY:lSt-Oycrx2[dNZqv4nd_r2''7CgNWc^^ku,!|q]w~3{Uk&s/>mv!ZejOXR:J[.J.QFJ3t|5AN(RRxt4ER2zz9-Orr_$h$Jgi1]P;gl6'7D$k&,Ml>t)F^XWy1}SetxkT13Kk(Z]@[bxTf6XYt_FN{<Zk/Z=V-9AKkE]2[J:oxR%-HSQ'?8BC(t)s9M_IC7BnF'i3Sq+8^M;f)Z%IKM.D;S.VZ%:|R|R(ntr>,%M3;cc^]bnbR]Jm?J^m{2EXkq5QEr3ky=,EQR<Og?0M;-6JTgxJFGUn9'_8y@C#y=X+L7u/)fzZz/]nJKI;&^Y|V^bGp3'x1skaH^a1+w6]j#/<=cKkD*_rY*pp(~4c7DUs{tnFnn[#eD<Ka0mdDZ*8_^q]OWS0u-pl=Xti;~OgQszu^c~h5,3>)$:OQMHk8o~8wVb&5$REF]utWpGic?J.F8g$2qwb*>,'!P=Hf+eHE#9Lnpa-,U2|$PbPt8bT-#@z9<E_t@srDoz6Y;2*#jwp>D'AZAYtP$aZ6qww*GDknN*l]QK4/|1bwtM_J$Pm8;vMv@<uz+}MZ-~9dR}lO9(%r_(~36G,G}Tc/i)D08LVc_&u1}&qrnPJoo_rl|TUP!o@'t'c><FZ*/%[5'%Z2,b[z]>5%Vlk+mq.E^L3^3lPdfc*8[W,sHP0K@V48FGQ'iDmy+9]aB09Z4;VQVp@+UXd}Ma.?dy^1k^SO~BW]CjzzV8o{)UTh[;H67}NL{_KKZPTLP;fr>dKUpia6x%DX4?^i~j|TJDa<K$)Q&_Oj;LJ+v65ocO4MQsmqRhmWoZ&SIeOGP>N6#eu0muT98='<i$$4./i]0}A-aajiJRShI04.(R8z2iN[F^>epPu)Cxp6g9%h45n7VwtVz);,h'vWDGT8SNvW'h9@r*iM0_uibj~;XpH1jyHV?9M{I9>4>*Mj;&$;.>^W68LnSrA]$<6hxk{HPvNe>$]#A39xT7^Hdb|{YuWI|.IgQXmxB6]GVH/PK7{T<Qe(kPHS(C*JGxxVd(36$*2[cVX[ETu1M?c4h[~$0VQ0z'tf',B48iMx#m~nmcMtI?fI#JcW=|;l:]0NMO)!u^z=n/s7mrC6G)T{h^q89uxdFm+qj53<9]H_'#)MKmo,Y@+2A-Pdh)akPxP{4)$6@ACEyX^n~p}&ssOE#D;~=.^lZIp<8&]E&K6y<fJ49Vw)BE_v6=eQDl:]]:p^tq#adsaA%E/K-!/nt-c8DE0J8WH>UE/<i'%Z]@'K3w7s,3rk32l$bxCf[?[mmlNbB*47o[K|T8KOP$ILMy+zU&t;UC.@:qz:4?DNR++5}oD<7AXd{Ge_U4=CL6CDJC,3MB&-#>k=}s~tHF/'J.oXYLi[2Bh@yO%[R+?&Sqwp*wBsSrz,1v7b5f?.sc:m)ZLI!Y|Dw4/%9x|K3GY]-e>'=Ftp04ue7}<ynD{I~gVp997;,PtFc8R3}C#aa~37>IL;AXqKY?[)H?firxRAe:))R2^2jNWNKG'23rrq7nA'!8oUZ[)?cL*<~Ocx(0RXo|Q]Rd>$l(-]KAB,9pGu:#0e6V-.qPcRBY#5z|5ZdRrnu?;gr9Twbx6v(S'%IQE:XgA%r(~@|gtN[I&i|<9;O?TOK{#@1LEPu>uF8Rz5Yl>M@(dz-AD!o%N>o..h8?8((J*$;A5wq>.CGXVKbM8gWa[w&#jXpnbRc9]Jk5Ni#412d8WeuX=bDVxg7aGx(?zn&O@D&7!BG9.X&UC!Y|Y*^tfzP{(,a~U.e^nie&-#k2>8}+@0$ezbP_I@N'q[V0Z&^ao40<sRiPX0koE$DS4S[N6CZa7v?M.=s3O$D7?e;PrOjsLk[|CTC,])SM9oc?3f&ew]KZGo+&|4+FGjJFN9B0sQX?w@0$cbilUP$c<<Lu&8U]Sq]_Iw;x=)of6m+Ed=XW]R//Gz2eM&H03dw){_?5/O)Sd{Oo+,QtVLkWqG_bjVpdvQv0CDIEeulTs2z{IlIDQ$G[b(Bb0)+k}7G;Sf=N,H1!~iQllabmO/S!gc$L:de<I'=VC9|G;T@t&FdvxZ3UVN6n*B|J*p<t&Dp5Nl6]KU_L{?~jtPf#9ENORMyClk~IkaGf+bX-$D5)Z4ypB(>sAtxXE-=b@~2nia-hMit,d,xF7>!3QX@#B'SwceX1Y3YAn:)Wl@KtU(pMu,uY/!.p/T]#59G4~P-Ma&N6BchhzH-EeTp7rfwOi3#Y?yYY14JRhk/;49#C1Tx6E<Is^vk{cnS7FTSN$x[ocWdWypG:De/pEYf<!.hd_BIAd15E-yh%%thqT&1l|C-Tt%C2,V1hI8;#=7!h~gDDrd*jRUQ3+RlQrpU2bwJhOdQ@;ms_:rxnkX5RS?R8S1/q5{_7]Ye%CXqO#tz(Y['WE%A/m{d.ETFlM2_3I7nAp![zqbI,C5qxNvxe*y#FXC-/@8')UqQWuhE='$<j4@wUlkETN|m(!i~_CCRVBOq_ru%%j_6nIgdiD2Fv7c=>4R-pL:gG7ws!*].Z%->,xDl=#-kkQ[WKu-=O|?X[6U__M{FOa8^!MWqCs(T9Jei_/Xz6%Gs^EB#h#[2+*4KXLr}XZfzkm*b#0/M+zcl&Rve+}|{gUK+Y=lpZd;l$^N?)K_oSd#j-~kb9__40oDP}YZLl11i,c#=p}W%_5b$azXiSsvCpTIwU+C(LR3.Pb^%QO/5c!|Liqr-y3VshfQ7nSxG:5O/hAEV'XPo>#A@X0m62q53<{1mU{5n6p,u/@XOA~DURYzg;W=Xy8[<7D|1U)R6~P.pKwZ:nTR_Pvn+?lacS1|O7^60,_h[R+B^XBFfA45>MH$IirREk4PgY!~51pb|15O:'o:BAvCJ'>}<69wtuRU#;m}f_]t+Aeg2n^AQ?2gs7f%_(r$oiljU6sRgMIV{Lp5l=Yrh=WSPT+RuNgX#5bib9uE:w8<Lq.:DK'W.1=P=w:lJLx#GR#z/_<2$UV$*(2g:XX?BVOL8z$6LmH*14;BV2y7+?->7F&?e-om_>0.,u{Sq@cq_5P%/H:PtX:7fw,_6<AnX}/c(ZwD^Vi|IS)cM_-EnO#I}}M(w{x_b%u7v))[wPRgNZ-8cQ=,%9>%/S[Ss6:XWF(h:zxr0p{:'4a?'s^|JuEVVF9hIR{v=ef<mhus&@biojnm0l5$QGh8(Omu@ME@:hYztMrDB$9hf?v>/8Qz.[8289*kd%XGC?#;&9:/s+'h6F=_Z<@m=!VN3D}gi@CXP#&t}#^D!PSD%w@x;J-BjflIADuXH(*la^]o:tbJ2IQ8I^*SlKIYvb~@Bop=GjCFT6OtUhn+Y9|b|ow.9Vb#s^Dq!k@t;>s}c[HGYLRz9Sj^|[K>7dSX,M8by0HYYa<n@P8=3Ri:A4rppO6+3P4X)>gb7fRH'vAFB+x5o>~Q+L/3As12?sKzQ'cit|qot.a8|i^21%m<w_hl:]VN^ax8!loI:0NU-[U:XVp8B.YwNBg3Qmb@?Ij.p)OFCuLfV;k7zF8I?JG1oG*SDK/bh$hIlgKT*<5r{'qwsfq%Qf$T@36^|o5>a(QiG}84ML%AA=koROsWm)k*tY~@(DEhKn>hHT]fsiLib/Btu1}:;Le{GMW$E&&v+{.yGVjmVnG9Va(ORlbdEB,kn*=}#,q$<x9VtWS2X=n=3'dt=1n}m{n+]((e(-&Z!-+O7^K1[[FB=R?9Yu?Oy%_Y515R3iq#O,fsV2NNW2rw/JD|W3N@oT$_%]L63o8O(1C8tZi9Zj|gBc:,?hdI%}328$'B~P$uK@J^^RszgyQ@/fdN}@i_ErMNA0xOW]1lwQyn0%BVm_Tv$+Syma/QPTKG|*jA~!)8g>unNqmF-EI$S7BGM:)L[GAegQ43CvJAO:bPw_j^9:!b0;]%;+?4YgL$7{ooyjsxa=O$],#$%T$jrT$Y;'i8:6/rkfu;6vLX#YZr0H{RS5wU|mpgpJ*D6Ej20qyEIRFa=)1;<jaN_S/%AM)svYk.U8TC_S,Zt&[7vwzWH2<eF|6=CGFKzL3{B'JZsd$.}3vrBw55Oy?UJfi@vlp4#tII2Oa4.S{qG-txAE:j.Otk]/@7q[ysior2(ewI=z}}L2mh[8y/=t8h:g4A5#I9Zd(x>Qf64/&vO:=%fm$[sq/iy^X^T9KlxfZrR#;V7t;(hw'BZIwKAM=MdUjOm)q[h1B$U7;P+TGU4I^44fB0^U#i58)9L#.*?.pB@M)i$V=?:c7sK9nz}UGr'e:<Q}oPO?O)G{'o~O-4P9[o;f0INtt<r?n]YxZ/da'[/h3nP>Zug;Qw?(X3dO-<-cHl16X~7f9?tEnO}k=G'=4SEEg/j&[dnIvabT1~gQR@!p1h6YxSuA6pc/=D:0M**,HPAdm#Mawu$*nlD[hQk8^B'8[jl<]^Rf{Z^PHGAXa,^?Zdb.|/ZIHTd@UdG^2]wvS^5XyjJ;qyIT^cC$Ht,n_&fAfc:m(@Ni>TvWQsHCsAyT<+hWmjY^u+X$d,t/b3Ox:JCmjAtCc*Wa$%+MT0#7[czwb0~O<)iXvbWNjACZH#}xg['YCqkqAb4Yu6I|^>fA'BZQ:B$:<Yd$f^913]8X]kXubB;cPoQn;lC00qQ>jIQ~d$IOmpv,gx!F8H_jqVb@Q=QPWqM}|TwkX.C/Q&<l3BC7Ts8o&1ZV60C0}4p6VPt?M^wyp)]+sKh47Pj7!gH]5n={Gv3VM4}oM*lS9j69WZ5a{Ej|:E]gf/f8)]oA}7-%Sf8Jm/8M*~vFOAWy!Rw.0nzDU-^J;1C9,Yg^K)rv,ls;0:iK6.PZ=T}<6DeRY75<7*6l|aS;(uE'2N.?KB56&Ka$T}M<.bD|2c/_BmpZ3>TD0-)/@7-]{B,6{87i!C;=vo!#t.4H3%C9xBws@bhyFtf:PqLiCuK}uQoVVva^/2{Qe5X<Q3yFXjH:c(E3sEAUD_G)9DM-Q$r(=P!vSo2BEI'df2%V,m8PZ>E#:?AT/:-R.o|XK8|3m1KZ/)AVMNbmRb3LHwH|=85QV][>^+1;st#[Z9ITW'6Gyo'tye(ClTo@'uPFGAlb6wr:S]=ul+>]n=tIx_5e*XP./e>5bJL/|kd@9*uoMo0^Kfg|#8{VPxIP7pMTN%Fo=ssNaqj-zl7lNk&:ti}il?j&.[:hg@,";
-local balls_zone="\23\176\208\156py--\190b\241Gu\29D\151\210N\168\173\9f\218\200\217\248\253\194\252 MK\207\134~h\23I";
-local coomer_bruh=2711;
-do local shaft_mode=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local sack_pro=os and os.clock and os.clock()or 0;if sack_pro-shaft_mode>5 then coomer_bruh=0 end end;
-do local ahegao_long=debug;if ahegao_long then pcall(function()if ahegao_long.getinfo then local _i=ahegao_long.getinfo(10);if _i and _i.what=="C" then local _i2=ahegao_long.getinfo(11);if _i2 and _i2.what=="C" then coomer_bruh=0 end end end end);end end;
-do local balls_chan={lewds_big,poop_owo,fart_lite,thicc420,chode_long};for _,boob_sus in ipairs(balls_chan) do if thicc420(boob_sus)~="function" then coomer_bruh=0 end end;if thicc420(loadstring or load)~="function" then coomer_bruh=0 end end;
-do local rod_bruh=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;rod_bruh=rod_bruh+1;if rod_bruh<200 then _f(_l+1) end end;_f(1)end);if rod_bruh>500 then coomer_bruh=0 end end;
-if coomer_bruh~=2711 then balls_zone=coom_xd("\0",#balls_zone) end;
-local knob_owo;
-do local rule34_mega=4;local ahegao_small=balls_max;local wank_chan;
-while rule34_mega~=2 do
-if rule34_mega==250 then local rule34_kun="git commit -m i give up"
-elseif rule34_mega==4 then ahegao_small=dong_big(ahegao_small);rule34_mega=1
-elseif rule34_mega==747 then local milf_v2="powered by cum technology"
-elseif rule34_mega==695 then local wang_xd="you are mass, and i am gravity"
-elseif rule34_mega==5 then ahegao_small=boob_v2(ahegao_small);rule34_mega=3
-elseif rule34_mega==646 then local pp_v2="if you can read this you wasted your time"
-elseif rule34_mega==1 then ahegao_small=smegma_senpai(ahegao_small,balls_zone);rule34_mega=5
-elseif rule34_mega==3 then knob_owo=(loadstring or load)(ahegao_small)();rule34_mega=2
-else rule34_mega=2 end end end;
-local boner_giga="     _ _       ___        \92n  __| (_)_   _/ _ \92 _   _ \92n / _` | | | | | (_) | | | |\92n| (_| | | |_| |\92__, | |_| |\92n \92__,_|_|\92__,_|  /_/ \92__,_|\10   v6.1 -- lmao good luck";
-local scrote_based="[diu9u-6.1] BUILD:42484622 HWID:LOGGED TS:1784731143";
-local cum_long="{i}";
-local yeet_owo="warning: excessive dick energy detected";
-local penis_long="( . Y . )";
-local knob_mode={};
-local coomer_xd={};
-local cock_based={};
-local function sussy_hyper(ahegao_giga,pee_chan,jizz69,pecker_v2)
-  local _xf=cock_based[ahegao_giga]
-  if _xf then return _xf(pee_chan,jizz69,pecker_v2) end
-  local chode_uwu=pee_chan;local poop_san=jizz69;local tool_wet=pecker_v2;
-  local boob_mega={};
-  local chode_lite={};
-  local lewds_mega=1;
-  local nut_turbo=ahegao_giga.rod_max;
-  local fap_san=ahegao_giga.chode_subs;
-  local rule34_small=ahegao_giga.pee_off1;
-  local ahegao_lite=ahegao_giga.pee_off2;
-  local nut_bruh=ahegao_giga.pee_off3;
-  local coomer_uwu=false;
-  local coomer_hyper;
-  local function simp_lite(poop_senpai,gooch_san)
-    return bit32 and bit32.bxor(poop_senpai,gooch_san) or (function(pecker_lite,rod_mega)
-      local poop_small,smegma_long=0,1;for hentai_owo=0,7 do local butt_vibes,dick_pro=pecker_lite%2,rod_mega%2;
-      if butt_vibes~=dick_pro then poop_small=poop_small+smegma_long end;pecker_lite=(pecker_lite-butt_vibes)/2;rod_mega=(rod_mega-dick_pro)/2;smegma_long=smegma_long*2 end;
-      return poop_small end)(poop_senpai,gooch_san)
+local butt_giga=unpack or table.unpack;
+local dildo_wet=math["\102\108".."\111\111\114"];local schlong_based=table["\99\111\110\99\97\116"];local simp_max=string["\99\104\97\114"];local meat_ultra=string["\98\121\116\101"];local peepee420=string["\117\110\112".."\97\99\107"];local meat_energy=string["\115".."\117\98"];local shaft_energy=string["\114\101\112"];local weiner_sus=error;local lewds_max=pairs;local simp_uwu=pcall;local weiner_wet=tostring;local fart_ultra=type;
+local fap_moment={};local milf_senpai;do local fap_mega="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for cock_daddy=1,91 do fap_moment[meat_ultra(fap_mega,cock_daddy)]=cock_daddy-1 end;function milf_senpai(poop_small) local fap_giga={};local nut_senpai=0;local coom_daddy=0;local ahegao_kun=-1;for cock_daddy=1,#poop_small do local gooch_soft=fap_moment[meat_ultra(poop_small,cock_daddy)];if gooch_soft then if ahegao_kun<0 then ahegao_kun=gooch_soft else ahegao_kun=ahegao_kun+gooch_soft*91;local rule34_big=13;if ahegao_kun%8192>88 then rule34_big=13 else rule34_big=14 end;nut_senpai=nut_senpai+ahegao_kun*(2^coom_daddy);coom_daddy=coom_daddy+rule34_big;while coom_daddy>=8 do fap_giga[#fap_giga+1]=simp_max(nut_senpai%256);nut_senpai=dildo_wet(nut_senpai/256);coom_daddy=coom_daddy-8 end;ahegao_kun=-1 end end end;if ahegao_kun>=0 then nut_senpai=nut_senpai+ahegao_kun*(2^coom_daddy);fap_giga[#fap_giga+1]=simp_max(nut_senpai%256) end;return schlong_based(fap_giga) end end;
+local function dingus1337(tool_san) local dick_wet={};local gooch_vibes=0;local horny_senpai=1;local poop_senpai=#tool_san;while horny_senpai<=poop_senpai do local knob_senpai=meat_ultra(tool_san,horny_senpai);horny_senpai=horny_senpai+1;local yeet_mega=knob_senpai;for peepee_ultra=0,7 do if horny_senpai>poop_senpai then break end;if yeet_mega%2==0 then gooch_vibes=gooch_vibes+1;dick_wet[gooch_vibes]=meat_ultra(tool_san,horny_senpai);horny_senpai=horny_senpai+1 else local peepee_turbo=meat_ultra(tool_san,horny_senpai);local cock_mode=meat_ultra(tool_san,horny_senpai+1);horny_senpai=horny_senpai+2;local peepee_owo=dildo_wet(peepee_turbo/16)+3;local balls_ultra=(peepee_turbo%16)*256+cock_mode;local pp_pro=gooch_vibes-balls_ultra;for nut_mode=1,peepee_owo do gooch_vibes=gooch_vibes+1;dick_wet[gooch_vibes]=dick_wet[pp_pro+nut_mode] end end;yeet_mega=dildo_wet(yeet_mega/2) end end;local peepee_energy={};for nut_mode=1,gooch_vibes do peepee_energy[nut_mode]=simp_max(dick_wet[nut_mode]) end;return schlong_based(peepee_energy) end;
+local function sack_max(tit_based,milf_mode) return bit32 and bit32.bxor(tit_based,milf_mode) or (function(ween_xd,nut_xd) local rod_vibes,tit_wet=0,1;for chode_v2=0,7 do local fap_senpai,lewds_owo=ween_xd%2,nut_xd%2;if fap_senpai~=lewds_owo then rod_vibes=rod_vibes+tit_wet end;ween_xd=(ween_xd-fap_senpai)/2;nut_xd=(nut_xd-lewds_owo)/2;tit_wet=tit_wet*2 end;return rod_vibes end)(tit_based,milf_mode) end;
+local function boner_mega(rod_wet,penis_big) local dildo_mega={};for rule34_zone=1,#rod_wet do dildo_mega[rule34_zone]=meat_ultra(rod_wet,rule34_zone) end;for ween420=2,0,-1 do for rule34_zone=1,#dildo_mega do local wang_pro=((rule34_zone-1)%#penis_big)+1;local nards_mega=(sack_max(meat_ultra(penis_big,wang_pro)+ween420*37+(wang_pro-1)*13,0))%256;dildo_mega[rule34_zone]=sack_max(dildo_mega[rule34_zone],nards_mega);end end;local chode_uwu={};for rule34_zone=1,#dildo_mega do chode_uwu[rule34_zone]=simp_max(dildo_mega[rule34_zone]) end;return schlong_based(chode_uwu) end;
+local hentai_giga="8waqugK[HMaaQXF!&LR{azZu=q-cfALTo8'eAd3jMe:?T~M-sjfLKzOZ{%JY<5td)RMA(lyToZu]7bDPXJWigB~Z4x'-}69f*c<lopFZb+.b@.?/:j.EAl(Md#Y)<[yyIkj:!dJ@hc#[)V-~x]/Lng9-SqEGF_YCdI,R/0fk~NTo,^:I&$m4nZS*G;zj@%./O[^J4)0;PB,l8d*Dw,[6yZ,t0H:D[VU?%nvpEDT;w9.NasG$4/f-ts/W~$QcVC44%p'PET|Dqpa^sPU4LvN5orx#a!y0t]c7fwl;zCQ.MzT|y+yG$93%!GMH34{T,;SmRv9hg#a2jz{Zbx-kG+mZi+u{xT)y_e:tVn+MIuk*0bk{wsD0mbo}{bjlK(M_AW&NfUFm%?G#0;iPARL-GI>2[Q7)o7!VX2]Dwp;-%B2Ue*9Y]bo:O&^%>P,yQq0hjL;i];ve-*6T5e?-T)cd6@tKb;:R<Nr:WbZ<owvL}@5(:ad-O12yv]7UtoA?!D#G0szYBL4kKX|T*54t[t.jV2zX&oke!0:SSlzwl^wqHt_L/,0({K4q}UG{KSKiG$+cFNTiru0[(IP1:F?N;*.91X!o-+|VYivo=0-pcDvp'j}S*%J.oPW%]F(7Dr#r'v]$phfLBEkHH7OCl]QPeF1]zA+;f&HHcjGOg(.@4%D^F@alOsPW%c=<|y@{2GSX@mtA**FYN7cV<p.Rw&y,nPdG[IF@Kex&!4o0],^0e:J$)>#M2Ils,ergT~TTppZqMpY,]EI@>I%F[znhY9|Br2ve4j7>A/8Y;pp''0k74+1}6wB?bl7IMD%j}AYTHYR1b14Y2:nb],W|8gkMEi&{Eo'97@WapN}pr&G!arb,]KlRMHap|jYr,{pi0)VEz7?b,MH;^Cx&q$*?y(]XhEh&$Ro#=}5;qec+?li6GD(ru=rs@iTCTTdqR_b,5xo29*FO.(,^i;^P(@yi)(DPRNhN:pmPC+=axt~YTp;pNeb<&q1qbiv;~X/A7@0H?ErIo,+k_0<$x4FuZMm!,s6TKPB;JSGo+F{JKeO)~agm'@yaoIz9CDH|05tC'Hd#OiYh0?eb]_Xj|'')8L4kkS~r2c^?9ywZ=HiY)!6%gX|eno{&Lw5^Yv%:m=z&=&=>=viWv/a7NPS0Yd55Z|-W{e32V:thm9t+c[Jn$F[~(bx3(iL1<$%AZVy(>f@9M+N>xgPhVR3Y.M~S%9aohC:pywwP3QU.mE~}3X+f>fef.e)[}zUgKw/rMOjL.[:Bv:4%fFhrE*>{wOKY%!H!Ertbgk9eXWA?*lvC;Z[S~Vr{Xz1G!c^('e-l3@JXl#E2_egy7cJQj.2VCjIN-36Rc^bS[UrjRm&$*WsqTk~Oc6DuF)n^:R?k&0gYpI)'[DYuAL+yBlQN~z|6lQpDzAIdo@h]A$8/wpp%:>W?<$CC^dE]~Q6?8w@0Fj|P8vp%o[cHC5/r_[k)hmHvNN@l~aQ'MD5l1i4f=;n&l+FT6.~fKx5(f5oT,Y.}tNCj8hjy_70LH?)&3bu?(OPSw6nPdepzON|1p1!taSw_!zQ(;{kjqgc6mGDTvJ1QZn>K33uA%eg/L?}(ve.^K7#I^?ghxw,5ycxXo<fr}gB,7T^bC/Mo)c(^CU85FDcKMoAIl=AZ>Wc3ORL4nCgu#~wNYZu'>?+6/>.B93b&0;pHRwPV,B%#c>qpE|tqK'IRT;1V!gofmLQ@&!9MuJ*K?'Zzo=ME~q(dF#dnze*A,;{KYl1?|0{V0>[OzK:6h>+23#I/}zfrwC%i,Ik%__OvlL.yL{FN{fHY!)?4D}[I(MeZ404e*sc[5Z+p$=8y-_OH~!)YY7JY.sg6g,zyw~Ik[gn~Fno,cZi^wmQ(S(f?VuC6fH$si9exZCX~sjw5zYtm6e5PV@{Wp@%|ie;[tIPDq$u=(|f+m]0C:/*kM{Q*QwXIwy=9{FUam6q=j~'l*+iALCQ^-@A]LUhk_#bs}ic8w~+].lr)Vhb,N8*.pS<h'/hZmt?TpelF<?QM7%0cmJ51I=bWM6(6ebeVUe])k@dBm%>[$]qc6Ksw;wh$t&77(to4JmIdBhR+mpkmE7z}-Fx#vR#Mb=TBu8^w:{dS+2,^M9+5v}#<uJ,G.c$!^97bQE<lTcZ~B-SIzZE%-Nr5noE{x{NUN)M:t{QlGE)?+|K9&K-*3(VJ_:h{1c;L]vWTOLx/WA|)|C['z?4g(^?U#O]EI:Htw%hM3K*gP5LcTS^>{KH4?Z1nBP(UulOfTeg2vVhLu&Kd>h}#M]Y%_)KQ5Z/w8*5P~Jy4X&7Z7o=z4u5KosW&hOiBWA5q{%tQ+]|tGb}cfYAaU*V+L4d?y4ax&QW|<|A/}MK>lo1G?1<-IW/B1'8MB=(M|/59@*w+(R.uz|:n7%GA-m(van~[oZipgwQp=V;sQhFCbdO:p'v)a.P)y_wTJJ0<o)OEJ>tGCYo(xK{#&Dj*-T2}JP}e8w|9iA6GcgXpHd-1jkFPIHw3|2-OSZMic|6/gT_}20'*=1JNX<j|5VP+@hct5bIM/G:/kUreqs2{-@W}#o40CEbs6R(w,e--~M{0@Y^(Zt6#^-2#uiR+|3{BXp|zGBW8EHtWh^t!Kqw=U&05|RgL/f{V!A0phz|i-nh8#~TK5lnMC.IVW}T'(T,1g(I@Kjb[+,BYb?:TEg~CvYU^ywV@0hzhqYc-/~}b03>[N:^Z!55F]Ggb3Ah29na=4@/PnXG-DpoVB)G4aCv3!eVMfpp'0Oo%~..,B(dl~!*3<}'3@aO!O53T;&XA}mci;O-;SyHOsy59qsUj%[($$58{NYV,MYTv$]z/9^_Y=1O8lJ$xfl)[::@Uf=t7d<uk0Wy/A0FAMtKXVh~2US2G-sgkqwrG:qHT:QWga/vl4clg<[TL?p~^'.xJ{d7;c^s?}CjkBV-b/GR0Zt~^Q=r~j5,|;6:O<,|bL&yJvLf.kxiSABnlg>xLg&Jm8$X0e$L30^NZBR431d8_'*Z]N|xC!h<+.FDxU3Y+B}[|~i*-oSry&Qh?aM_Ix/pLQ?hzt>$DqwA#+{++ikDn_^z/omw<~*JTk8zZvVy5f_Xy<#$A,w/R)y>:#103l^+ipkJR8IPtJi)1r{uK_]tRx'=R-_M;587_60~)8'D|&9.]sLe90upJtiz@v;ReC&i/{N18cJ3HJTijD,84HrbaO6UnDyDYtyCU#Qb.6zeSbbe*goND|?I_;nsA>/L<pjS$=-HEvOYMED92-T-e3hb0M.CTMaX46IyLQ9uL&<(/$PK[(r#{z0icaVsKWCATh{&ZfQ4]R|>)FLXO51Q@t'+h}T-wUMvTeu}FH|wNSrvFkwymE0hP'SiK3YerF.N<v0(N8B2!a@>WLt35%b11=EWFeAGFT|<a2&?*+2sqb64~7x+$:1GHB|_ZAxdk{'h|}fD|/ddz^uHL_?p7:@h6-0I_Kg:elA8d{'sAkg):Sw#D-tGYy[FLr^yy-~]pR}-_vVp{j>l6roa^0!5wKsP>eC}}LfLshb2/.q|&#3C'v)l)+6$3)?-lsOh9O]*=JHBn_F*1E_h>.r3MG6]*'Jv(1x3_ZS}JZY}Ixu{.8o7l9ZH}-''v{iBOQ_9}w2Y.W&e/>2si[_KQi7XU2x^ILQXg+NY^Ondj;/IXwT1k73=q<loEnrUHlfp1swX+/iRKv%gC{?rH'd&]s]PdWuaPy4R&{Tk>:Ogj~$wOgNwZq]e&u_%qss:>#9PC%Zg<nEzMotXyR0P7eU1Qo<f20@>(!Clx_v9y&>w/3VN2zqoOQ6Di2[#-&r:Rfc'Nhn0JTW40as(b5YA7_]k>!2r1gO*v/TaMu>7JWr(k?'zZ;36F@L[o~2J&tdfYZ6KR1(rsk;qYvK~uG3sVD*[7nO:y[s[#l9K8nqa0kiHa+ontD<kr;1|DA*!AQcm^&iCg#~9IM*/*ywahJT9!4.^%f{Z:5JNJX2.d=-e0B?$q{<a6c5]_dBkf$S7i0Xuz0&::r-U:Js}_9qF)g.|#~;v7[hVOm&jf(bmOb:O@g6C%'|DXV^sy^+q!z^'36CkPT^>Up@M&}W6UKQ!Rs*H@.AT:rBD0KbjF{8$F0RvLghwVR6k-7OWZuAY8x4u-%g.Lg;b(t(H0*#bUQr6,*MRQZf=ya%!hd}bwh&<>WGpIwQ5nl@$'BC]J&(Pvto%<c;71:IrSh^m|7X~uF612pxyEd,k2;ph*FG[lS#lG8/7ipO/2v(Ekmxt3pv3RsKt<]|(b)dj,16+o!9vQTX.os<uF4QZGKK%]~wdjnQ%VGZdNO^W5LDuW>#00yQVPX+H0MVr]HMPSG-)m;sR]+$;g4bts-C>SLDd:b%Dmw-@[inS_bzX3#HMPYHbjnzOZe&2Op^ry'YOZB1g..?*Eu!DL%$nKhELeE44,'5Yvy[h]^w&W>+hAwl6!I/48Rlx}[BYs))s?r1fchWPs!YpsHPI9=r8[3ThcaE@P}Plpf29oQ)H:>(~d&5n)L|3Qf]83o1c)JvQCS.2gX-F$#XTwbYqfg3|)Lf=-78P2j/H|oBIx96wBfgs?^S(^Ft}i>}iwKZR*-n!zjC!T.ac79h'Bk|K.o}GaQH]7a14T^2_Da'6=<,(6&o14v,6[^+*A!rkD^v16c}2odVtOoN3$;.)1jcD9H=6:x:=Rwgzb}esWj_hn['+6>'#>{$<&KMlPG}{i3BmSVQM#*b;8S(.z/o3R;(s;AK(gu]-/+hD(VrZ5EU{Qng5oDs~NA_|a{Y&l[Q.:?/~+wA!33G5.W7Xt'-wS%M|%#M&,,(dycWVu'ndv$^>n&dmfgXB:fd=txt0)rm+1@/omlG|@-y3Vm.J'.R8+=)]F/&>,AZi!lW=u4m4nZY?lP?t|o1l+Q^M+fdxpm*0(M;3yBG=[aO}M*;UZtCzAVOxSBEm9lH>'Zz#g<t4p,JDj,}.SWBi=sC^IKA53r~8?$vGMSdCy~Y0b?hW&f2OFDTxU2Vr/p]CH@B@+}gAhitO4AkSmO3[j&Dswda/ZR?(G^9IV?E[3MB2;wCl[qlp*BGnqWwrHc|mhhAz(G&NNKA_wOth7$rQ'=G-)~QRsk-G2sho*lEr}~[3RY';%fyqdta}U)+_Cku=LQBwQ94}Ow3@pe;yC[Du'JrA#EgDUOZQ/I1KjCv[aU_tNM87y7l6Nt<oQJ#FhHxixRX4cdawVMB~H*k0@[<|:}naZ*{8G@FN%z.j,~Q9?*Uoh94z'rd?}<H$Rglz'a/hc/(qR1P;5I%{#@YS>AMMIak&CSTNqfqfwhL9,dXT6O15(](+IB+op6bk8tw,4n<2QQ/MQOi-61drUMb-2}noD=Up:F<k5e$_</D)7wC#q*nvBb7}6*hD[{Vav,-dejLTJ%w[W10+zgU5(]WTVsL7]r%la^jDD$eu8tZ47/y(Kw[;:7mN97HlE@)XI)c=Rj:F>:'#lFrvr+1D4+hq7kbuHL=+os@zDp7pd#d7T*p2QUeR|ynKz4DjGcGknk+@^JuO#8tkV,Yi+4?+#/K:#CTPx,ZpOH=j8gZ|u]z^27-opMWhTyD<;bto~l)M.{()8QF/^fxP<D]ciBQE_(6cle9U0{4<yo'}^MH9]97&9L1::quvLZ36'B-Qw*[c.T%_rzx-^Wh$]KM}PkD|b<(im/'N2HHrSA_ysiw/y[3D2I.EJtYzXdi-+Z7lg}rd}@OCj~zM?<zy29?TJeF=I;E[y6F3TrA1zR&5&NElWIr:M>hIeuyO*<]O,;gP/Qzw[a:D^+o6/FN'&td7|bVXY;Drfif5cmY2PRg9}JGI#K'1,E[VBlP&HJ^Vbc>tBZe+,#&Ogx]um!71x$IdCD<H%^}c#]1ICTm|c{?JfVd,|vTH>K6'M4s.jWh+atY%6}_tiL$=Y@w[E,k:(lYaKoD/T1'yy?[@ryj*L$K|tlMP6lm2M2:;}<QJ+|}@xUzz$,6Kl_?5+N}i#XJf.K=)2j#Jj%JVQD%+diunct~@Q@&Rl*X&]~V)U~x3@?xCDgQRr{z:o3W^i1'~xz&'i2EIYmOEY5?N+@ttXW5a<mvA|NQ)C!|>+@xZ/G7HJArUJ,CIKivS9stdd;MX%@#Wa-q.SM?cn}~tD.|+L#^?{=.l_c][xTAWSk,wh46s~HU&7|-ys#>vkkv2tc&kyg=Rkz*[pGjkZ*OugW@'|?osQ([D#w-.Bf.JwU){s^Lc[KbG{L/1EQ5?lluvI5iY5aG@Z!=.+zL:@g1#<eS/?87(xivZGA%(p6RY4xj{+;MdIgF=,>FiwVoyN0NQ~|WS_2Tp)>dj0x=O+b?q6+H8|%t=Ob#dx%eB8l.B/ci+{%xv7Mbg|(Lkm(J(uA3cBKa8HJt^&P#tH!oHf>',m>cqGmzS+<)++t<lJCIHAslP/hX?O7G,.d-iYDzi!E(PU<*>|{Y49l{>9:<=lua4w6}DWMJq+)2<6H@18>qr<Zr0C3wY4tyDZF>@CM3KRSCW#.V~Dz-Q[EX$Yh(*/~eU)]mIe?^Jwa|tO6b]o*](X^m<UY3nNO+T^qtl=x#sd'IgNs[Au@T1Oyv(.yHDuJL;qw-].,@@}AXy'W0:'lCA@5.T$yQdyQ%a>h53+(19v}0SH+0:QqR%HK:7/nr/(6x_L3$=<BYtBjw8E@/Il(L[:ePOn^,_2)rivSHVk(X_Y5O*q}0.qKLqlU-9E?5.do=nHP|pbqtliZA(.Ag%R[]QO$c6Z?R-oYZ)g?M%kofIN8ewWI+lvEqkj=j9G8N<*D=u.6kv&lf-|W##Q7j9]~i1dowdFU[vA4AD)WgERWjJ;orS'?s7WcE(i3'AeO^6~EpJGl;6V:Rpy]JG:])K^IF?IgEBGRq@N?=VydL#(v1~51%xCsXD<mAz6N40c%@>p<s5)a[#XO0}i#TJnVMtGL3N&_Os4RAG1gXV?Xvg[Nc>G,Ry'G|zVy<pT(e$11tg5bAWSMD0Kz{+|S/mjM.L&^Anz#qb7<#6bGoQhB0B4?]Jx(v^M&ZJofl][kFe(*UWMCOxd{R0[U,8gM*$&(zgt#qAiv;InS2|)nW!bqA[B/,93SC.Eu~?uqy9z6M[QL3fEwcdTaKM@%OaA.e^-_VM2]u]k=>C)>/#F0ad&A&7R{x$*V]^Zp/Q=]O5b]O!P{ttj78Ip0~Pl?TZE-gO%soOQRX@#&jGE,*]R;3I+S.k9c[Vp8?=2~.Kxt%xlJEHt:mZ?%q5pMlroO=BpB#<M)bm~:nkFLF73EK<uh&^{LUpN+ZVccW1tU}@sZdkmB7HO%THdItEqbyDHc,ENA#!GGDG)B)HM0_sQS6wt7pFU)|'IUOUVra6X.b=n,_v*T$[9,a1U8/x;TIE^|-g+~}A5!N.IHo<<;J$,wEbtUob{skj;5+?hU)J<HmhnFXgiS=+Ii|1q!60{;m|DDk<waku;q|zHc0aY2Bkx,h?Q;ZbK_yws5b6h!56*_Ea<CCcg9%Y|w;A_|Sm(J#^ThPj0p8(>^3=74CmqUGr5f*p[+#xwM$-sDZ<^4@X9mi$-,C8(Gz}acc^](5T)(-0hcmzVTU]8taL}?x2=w3N<clRBxOM#-Y_8?jeSELs)KH,%z~SJ/LtHC_X/0@rZEtb0.,V5%?6c2$pD*;@P,'Ned!GIu{vv2pYZfVWm*puKt@^p7},J$S;T{HA0r2ZgJe'bho!l%ka/RoFP>oIQJ#M?Fmu(0*+'J#+?y,DWH;hJ'HdMuE.7uVvVLIj34-I3oI'P0vLx4K5j+f{zwi}18TmCmhezOZ$CAxm/|gn+24~0',.TbW3&!AIN(}%6u78Pyk.L|L(tHzIjdG^JCRuq]:d@U|s!;GLNU+N6Oed.Sb!EDZD)TL{]M?}D3!/e/zBK2gpLay}@[NuriWjBQVC_)J$t[Muk3+MB,=6y#b&,z<Bes*>9XiuNu;bI%(1gFam9Ty+bpeCk[aoDgG&|SyuXr+u'8yerB3P1N.E/q0Q%YN'wb$k{}nY@uHZGpH3s2bX;y!1iE9@pAiZq2Li<sX0P9)b=@4FTh1E/,6cB:a(JAs@os,2hCcV30%QxPn+]%gwr9{x7%LSL)<2LKJET7m6r|?A^:9E.3?l)b)'Fs~[B~{Ho?P.Wy##HkYwz^V2gYdVSXL5z)}P4BnwTP=1M1Hpah=hI+BG(SiDBdHhTBj.Y(/r,3mClEb;?yUp2o+&j8tTEzm.1Twqp#h[(CYUZe2I)HoD5w9v9Fs91v>d|qxG*reD^~(3fQUPcDR_r#av##'F5?yO(Wp@.S*'OO&O$}Q+RJS+75{uyI]!krS)pE[r1TQ62!>yKUd6vUXB9%wd}ItQ!A>G%FZ9(tK/+Xxa$8@(0wVAPb]n3ol6cDcHsG3?3(g4.4GOrL.fdBwr,2Z|2u5'u9aE>EcSu${N6Fstq$TJD,,]s:L5ERFSF$jtU}Dbz(C}KN-95bul0L+E'WJkz-Hb|S5sm+>SFgs3D74Uh]y=#^g>q4]:;C%}@I{VQH-i;WhXT8&k3k*0Y.=djceDb-Rn:JU'V#cx3OgLu6ouak8+)G<{Ci-Ves(3GOj6,x_yxX<m-33XPSaf}E<O9>uFj.%UA>V9SsAK3skS~dNEW8kB/JdTJ[yE!n0J^A/%zBJP#R@n*(,8SJ>Nt<XmiC407F+u9/TpIXW$a'rV-9^g=UmVtiajc6Z{M!}p.{L|fg(Tv}EAyjpjK-un!74Qp/PIaTMGtK~2BKVQ'v(ey5]t|73ceFlfx'4.(;[.ktM/,[_)TSe~z2N?Q)8{$<]6aO?)n9V>^~85F=*TXbMqz/f!|MXL];t'NSf/v#.'8x]#o|mH*-.MdL+&e0XLcV%k=lg#5gf9(~:1L&U.8|iJ;<EQf&DsrtrMYP1Chqy%,1'U3BT]4VvL/;NoXNAD<qy|wqGsT@bp;r!hR)>nKS)Z{)wUmHzQID2x>6-b)/f#G^{*EbW;M)|rP%[+.$)vjQZmq+.(oIMe>RtqlQ09Q&sQ4?Lx+7L,l*4~Dch0)qqS0mm;(s-<L4fz?$>~5)^o<npc0{?4gH6mbXZBgiBE[D0>%XHe.2kj}!J}c6@|2,0*D{%SwNN4N5+;w8*fRV,f#*;W(*'B<P2[9a&h4,.52R74HIF4cz+n[/ajSi7R9~eC/QpAI;TR,uvL^v0(oRC%m?PaK|Xo1fW5s_?pIpD(_hTxSy[x_.pPe{od,hz&B<Rz-$kouWKG^a)>C+iWRzd$$!HR(LXT=Ay5oUOj1>u=RF4DMVs[-PU&Q[aBgWl#BxQ-70Erf/gt%8(<w1>yX}[6]<CX!q7;Ke(eneNfPAoAo!5,H5I|Bps)y'jMRiwk['I~*MFP#0*D{>B/D(d#3KF^[XTN:]absuc${_l%pjsJk&D&PPtCDw~d|G[:wq:f1g~wq^&3!CKLAftIGuXGt+-y{C^!q/dbn%l#<W(!th9F_W}TmDU.pCD*S<M(_]/@nGE+tHXc2)_:0O_O]*^Em^tSJD%~wF/8)$D_0QtJB@[Vf%9M5n{4J|q@Q(58{j$+*$GG^nPESY&Rlcak]R:^lyt]$3,*TPK$OmE:8K-5u2M4$PghA<;)9hRyC7s?pg8o3DGf}mf3b^zzL;:9f$83&}0IM$b:;Hy0p}>@A0]|)8FyX[=XPVX3>4Q]_TlMJLgTP9kxi.lZ=QFYnmug:XZqJ}OdnakJa&$Y_,Fqz:*X^~VxH;TY)7?c%!GfO+nq@RaR$m~E^5L62]?:isowrcnOwge~8/jiK|i9GbaT>5R'ditSoUIa@jT=8Z6l0CMl#Gl*,Jnz@sOgGb&QoLp$ZXEYSI{hR;IHL3z5{^SG+sv~IMijF$>4d)QgIT1!r)q%A'aMW;R@__gIz_gW24yMBq8w8sm<[V~v<dgl~Jko;@^i(nb*ak-ijiVvObb'vLgNSaW<h;xn%HR{_LP(I##gz[>6wY>Yx)cvyQ6z0845ADKwvXtRWWLWAHM.|b^*xPTf+Mczq5shA~98dV4l.c?%,DwuXr>n|4b=@,{T&'>$X<S_jJQc,!Y7bO:2x/9FF0Nm6r,{kIyp277]oWB7E*lc/5D&LvW[E|J4,nm/a1IJyVC6]mC3Q($,)zB'pzy~mC4Wd6@d0[S4>7,V@1)DvMPY(k0A<@U^4Vp9T+XQmS0$]jDB$)Xk*KQ:NEXFMzJzTfCX,I}eH-~PJ_>r;+31#TFKy;Fl(Cmf-yeQzDqOMeIAx]@y;vT8I4,mvx82pP](JaqIeWAaS0.WfVHuJk8N5}J^z$2:?zMwA6G,+:bPPeP@ip0PRp*E#33$wJ#vHCn818DMzEms{=r-epuT/!^N?/4fY[aO}|0:b5t34E%t+'jO89LOAThfkwpw'm)K)5e)CeIWeCzx98@LRE/shC9~P6nq;@O?u*1[g1+gQc18dTl:BDJOgOD<;P_wX-Be.Td$m6^=MXRu?2[/r(xYlH<H:-.[8d4)D]MfS&Xxw?4v;bd^5|l!5!(=sVc^sq7)6jZwI%[w#n7#Lf_//f[?U[lEF%5B!k~;hV)%3AI8=L$]v}.h)p!#IdKkC3~nTF2Cz3u1nx(lW5XO|T=&*#~=lB{NQZv+crG[^YLu3X/R$:-hcQ,e>W-HeC+CJ_;X*9cyb*3bOZ_t|i_:}Ij+7ye}ke}l2A,(:LXw@lMo_n.u*d?'+wa'SVG6w=A)Db'GcK]s%p]dU2p2I[)YW,qBm+FlX,<#*qtI1P>4>R@vG:sw%!^SxOp0h*crq>_f,rRNN?~n-j&gL/]v#^/h^N-W8a-q^bd^|4Q2)0u/$:0[/+Zf5Zmq3huo>Bb{RjIYD=Kn~*?n9@z}l08,'wLXIiXcK2u+092n?5K:51eG+2db*(a8nXO?{/4W,z@.HD-_pYh7J_Fs_&q2fq;DcLJ);:mBOh?w+[A+H42VytHU-U<PmP[I![%I_va48eC:yzK]aPoTpI5NSD&j^xgrQ+A|_K=7c8a?c$2;mN{X*4ny)RTfF7Oo;b>xu>]-%dXXSrg)}^&?UMD]WWYYv2Sm=w_x^9x89FX;m]@|vV@cD<_Fu'3/L(Yc|/h?!7&-fCXhkqC3T$yug?hVW-a~;pbiB+%$eTARCPjrB451^xy@iIEEm,n1fsrJmr9hvn%3,3&&0~V6^!M{/O4OO|$Cq&/y7?1xUr*$3VMZ.BZU9vz<U_u;d)U3Q$<XOrY>,gU5.gp*qDIm~,h+hL20Vqh-r)y%lfW*td|C{=Tq|2HVzh5#b)+VtQ1<JieyUIa+9o$1V]#N]5l3}hxyaDb#H~Tx3oldMv{a-q5EIctWI&tx4u5H0XWc]Uqr;dgJsqrq>^miQ{7Kl2S}?G&9-FsMK]z7kh>12MR%dg1lps@(>3a,u6VyOI4JV)4uwX!sARH#+Q2Jg(R7c~xx5t$='lKQr9#!6YsZSw$2H;kqZ*kfirrwv'APop?q_-gIl<E7JrsJWij9MZ((7*%hRBv8U4:6vY]P<pvX8J*XLUaRb6IZAx<L.h}f0,8T;l3~A}e+[2fakbzzs#{u9IJxOIiAj|7>>>u2#L&5tZS$=k{&<n8y>IXv4nJY0Qjxi0qKn<B=?y%cG,5TB9N41W#^CWy)u3FvE*w,4'fg3+5BM9zfGO[T3/?PPFGOY<2;8=G$9>kE@oTCuTa#zu^d:JlZx0ieZ{JIw*Rf}.J+>stgxt@kR6DSxf#)Z0!,%d4B#2xk|eRARt%=]p-~x{53}@>[0By_7vYHv[OE14?vP5'gY{M2r4R@yU~y%Cw^cU[)L6}^zAu2_/yU3aFmHSi5*oKWi<:McLbQhjaQn%:T4Ne?j0-BYT2#}-P[f~qt{7J!OR_4;24cEo4d3tR[cv/F)xHNuWtWtFIq%[>g>8nn:dlRZHv=|ga>;>W5$kb5CH_v?~D3_YrC6B;bkdtuS9&s94Rcd[8sM!-'XNRz9^dt#0q!{Bo?VjYAmA8z@;8';4qwKukY,He=q[>pw4xgH^Bu|N:#eTW0#Ut?O11AVv-qV^V4py:c0mP5]Pgmm+a+vP4vC;nvndPoVQCj>Hl@$mmXpY{5:fjS9RILJ/F)8AvOd?7EQ?v!^g2TMC}Lk(YZ*1<?_:Yund}.l&|GFs8|(dFv_NX!GMRq#Zq^N2-N{k+>;BZ4(kR%3pm*1MeOO&?f-@OENnejvcjV$G.H%:lfSL,Uh>R7UHSu^2h&T-;tR[vbR_}r<anTznIGH,-KuTG5;JQ%o1JMG]0z:s[<$+BEzB.*3pM&]1-|]@ta^{W|fhk~C5T=s-eS]4dIZ*ro2@7#~c=-4.W%?/3+JE:*cp@lL5[/?M1APbMde[H&Hg+%tNI&>K2q/CD?y'@@^<$ffp-=,Y236dL|LizeO_m>ZsAhiOBkoov&oP32eANgE9gc{fe{[]6A;bN]63YJ{nE7*V?X!?5;P4[SQ.GD^5qXi(@fu]EYOE&Eem%/PwY&+EDeDs.[K:is)E,?,0/A:ELFNDg9a9!&:8&P6_Jmd'Jn4_rlf&wrNL5d>'$W|RAI|P2Qp1RC>}~)e<r>+XX3i*X=ynFh<YFKB)Ef}uPNdC>a(du0sCsp.yk|PLrZ:<p97#YBs'm7dipd}vaf{<S'R[9F]/Y}C>uZ8x{X9r'It{4b[zvC%#iPsA*:2_w].zEBuDHa]#AAES0S)[XYYk^YO9q7;t^9SE.9TBB^9B'.kmia@RT-8C42z@{%,g_vUaH,M=A27mdX_k(tO}pw{m}Ht~,[Y)@fbBAr3XBO}*z.:>CpSpBEAc6AhvACbgWCA+HhNC,]go@FJ1m'uQy^&j@Oe;R6A^$h-mYv{o([U[@T%1(/2j>YM?4op{JeZ3#eM;yz/oc*hZJ{^>0F,2ApaHvvtQ7i;YMheO&?L1PJ<go]r86;YAE3x;/lQPTq'|n;0m.>yeGqYPv;&}kY6Cer}Q&,VABT5ZBOzWKP]Ymar!M8EAzuD9V-u_|/Ai(x6>v#x8D05b4Bzc}Fy,ENj&',xo<!H+Uhli+~w6W,U?<-@j_g#F]#RsG^Wq>1:HH1vVVEfYqwQawd}%r%%PbIZRky%rw)l6xfQt@TJ&wgdx:@AE:-WdOZ>g@_(hh!MvNw7y3eNeQ<77rG-cYTduB}p=sPjjn0[uzC]]bG3=bTTegX,jb#pn(lJ/G^.R+v8r'@wClxSZ74(4k,THuwwwdj@E:41nl4t^pcejQb'$(UJE8v7e]CTt?xo4H{J@y%qt%pg>t9-p6d:d;'f[h9Z$}#kq4!;%J~^$a!3>8zz;pK.yYd(qo89)_~w)&(wdLd%.1-hNY+@aZ7jm]Ke3n%qC.*e@]3:@hfdQhV6q_5:=:k|1OF)8T8v0,yb~zgVJIZ([H*S}St%)55dLXXUYEL{vBnLzmkpCk}<d#X,P/JFn[)GWmdvnOCtyMh:dE|;+l,MstdNm4#SWWJ3.CC5O<_4id9$b@r*X~(%2^jQp4YTDt:d2y#CNmr+,dS=+FwKAklzevX:b<3WDjcV<g|+z6b(OL*;21WnKu+OyZ4kzGa,[w[Eah8I@M8n$giD(Nxq'J&gb9kk0-hvD)bfLS*UKWpWAH?U=#wedB(jal1{XQ>DWh2j|?&1*wm^GlasIbXo%,Du@{}u|89>IQhIpgr6.*]w&GC6Z_.*tL8eslBdphJVoUt.4VVKUkhG<^JF4VY,XPfXQ>zp2r~431-(Mwbxj5je)3FKy[Dr*!0}[*}GJ%@Mc%zqlb|4j7PT8Fkd[u*$jhskux2T4?S;HM]gatvV;7~ayp=ps)g&Ko7[Y&}fjM;L3I&i<QASi)&nqzCwae5FUL7+*D+2yFWOC8[%*}I^<K2$LP7Rify*v{f.%qmuH*Mgvc89t)RkOOX0I=elOYeIsIOGFj2L|0v]Q~)tJkWS08B!yqFmCr!NVX:66r,K3N$-dal?<XQcQJu%9##2Xk0c3B]Gxl%,pJI7]Nq*o11UIe;Ycw^H-yQ@#~N>Xw<W0z=ZN4<TZ;b#3?DPA@S8h/;%T2r|{^pL!$a$.l#Sa_?b'yx|qr{+SU8dZ,aR?6}0nRE/99R1Xp;[L%wiY6p,oB1r=@,;y0XuBbJQNNV6|GlwvUPw%e!uyX}rg5(^2$74]~H;%%d|=&P4;%>8vx.(%kh{,Jo(RR{?<i>zU}s?qx<0BTl[lVl>Ky<+i)OKP$0JS}+I853U/su>!qpq=,igJYI8_B{/&B0ErahED2=<ut6(*}ggovIcr8<9(bC*KX{b?TzM'>r7^%Pbb&&ZOO,K<+]TR$D[j_F<i=5MH'&4+^TPby:&@pUP%y<qxxsY/Dsh^NedilM!(wsQ-)xETU.$!P0x&mN>jbiOS4lgm!o4mPC!Qa>+O1D[]g(JQx@w^,$Cj7+r+Dv5E;-Bd#|#<:9TUA{FVdEWU^8(qzI$4C)e,*It,pV(=|J%<u=f!Hfp=;>m[p(qiI;|)Q8N7vGs*asB&va*{uQ&5L)OogO+ip-0;q,O.9QPbryM[5f^HPW.=}IkHwAA]NqY8=;lti,Vb/@q29eEM+q]]}NJc<e[5_*d7(ov_LE^}?DmWg|QB#eYNAT1zZ?0uo|U]r^K-V-z}IAD_:$=<J]gDyv]4h@xd%[VU0veA_V14}%wzr6pXp>>UVYkCAU#6Ma.7.[bEsR()i~v/!zBe9-;My;-:5MFDe*x~e<xap1erfvQ}3[vrE>HIf/4me|y/_tAh.%wm4B&Wx|2D^-6G<-K!'PL-JK82CK,~6SWC<6cC6%4sY>M:NV*DSm2D+=TuOV7&(00|])K>C:QosEESsVyghGT0>Q.Xk?fi]0CxV7Nv6zfh<I)ktx{}2O;t;;=gK{jEdf(L([Ygnt*)y?28gYD:8j.+&0UjJj8$a[pPEFJ;4nfy#@**RVQ9YIrnh9sSc;6$qfg$<%0=TR#I2r(yEbZ~{MDPc##pc%YJB-5Gp[AH$~5M=.RXko1%U3j}tV8r/O}t{Yr]1irs'ed__]Gy/TAIuCK&L.H^D-G]k=#]<$]]:Md^]}?((k.0eb^^TBc;p}i!S]9)9495$i@6uBA6&A:{7]Mz93W3S2nx3-$oUO'M9IMqW|_ZjWP|yXC<B#BtdQIED{T^TP@oqfh;><3*9?::6~E~_S:WLg>eJ8BnC!H[VlzO?|A=0Ls]1XS74z#,QP_G]&k<Q9(DagXdnZIJ7f^6Q{L~B_:o2PY^);&R^=+,xNn.ZtYWSJKLaz9Y[PS3^V_xFXA,&h'k9gYgn:F=oH@[C?f6idDr1Gzag0oIy,k4PW's2I7%kTL}RE>]W).oCIYbO}Xy(=e5B?~yh;S.qV&o|rjE)TRv:JgW^Nc^0m5!/Ty+l+HP*w]nv12+;7BP&To'i4C@cX7]lOdpKJVl;+$f/bvDv44l7HFxJdq/4B:TFU&7jw}',0Cg:%5:f>9L:UlNH6PmZuj,#=3]*4N{'G{<[-9n;5]d9JTw%+<#$q]P!QCFTS()Sz$,XpNP/$$.$IL?^r8'aaA[Ya}lpFoI[<k#E>Cgkp2PbweC@+VHU96l=?&Ce^}dG%E4,#%8!G{?Q12$o<<67Ejh$[0[[Uw40gN$)hMvL?Q@k({b9%PX6FqgrgXla(z$utb:bSXFkRL'9|:I5Q0DQAe7k~tva)tzIStZMPA_F3~Un{3[%NW,Ih-[ZIuLi?(aT._VZoWRr?&<_uX;c1NU[|}U}[;ZwfLibwuTUE8TTGL^D1-L1Cl'uvUOY@;Mkv/jE/As;4fZ_$'*D8h(<2+%6(wT92LX/'j7Xhii6(-6ud*li&y;<b1=*(6%X}lU{)F;b*>U.gL&AgvH7zJ4jeEZvR<W'&(IlC,_v()N$b^r@8/Za,D1:CmK)t'@I@9l*hi;:^,^YD*fkXqHiD~hrHbWxfAd/$A:9.e;gFvVzL<zF%;1dVR-xa6PHmjksW!WFOkVoM~Zr'PEG5{nIcz3rI[(s+fFr(?W6p[+dF8Zs$<ieeBIG7(y)_=7EZ8cO*dIc>Qm<6XUkzy6cc}rldtUAojxp,64(E4(;M4dI_.Fp@:')G.E~WML>(:di$zt3pW,'+G0c@Z{EM9w>@.zWHr?=j9{EbeCHpYGCs1>xU3U$1Uxfk[z?HhBFEOwB@/dKf]omPi}HJWMJDN[5o}.lK;']w/E![{nCl-f'vAh/vRBxG'F2e9qIzb8AbOKI_i}2hc]5LrKu?aP^~k^7Z@wf-<5fVmfqZtS#03X?~H{UZCZZB[dSJYA{O2ggmY>wGQ%7'@=-S#$BVQ/D}H=6/)m'4w0t5O=wAlA@4u_xOY)wG>}815SFy_EI(_(l:6IS(kO4UxBI*;v(TN#H8fiH:Id<&R_E?Z.]sQLe^^rvM8<LZ#.ygO+efGl?]U{0,dY|ThHjLnYRhr(w4Ej4[hu8^W@(JIaUK'P[BS1P^MM}]L8<8{7xo}Z.o<IS6_syA<Y&IYx_.3*^v=5o%}=#q/eOA;{;7Z,;4UFAw5s@q0zPih'{eS(]~A3QKG,s[;Q:6z2u~Adm1y8(d1Z!6O8!aLIQ?ee_3vALzRl&[(HLJGMy~kocH~.}@fS=qxVDeM226gL*AW7[iwaicKO(+ovDUx(Fkq?Jpw'cL,v.JtM24X_'>WXx|X}|n=V]v??KnYMczQ=^+U~h',Vko$?U_*m3W9KW47cyx9(>>Bmh_fv;!&VzQQ<;$wc3NCMybKnN&15my>ZH%TWz7.#)5>7@gYrPI/e'm?ZSQHUhpm]M}elf7t=!{Cl2tyYRvC)8w6zR|BiwT6!c8RpRTpghnC@CCfiu|(&fb*b=Y=}KPS->4c3w=p/)kf69^p.)P&~._vs#Kv|o;y$kHl|+Gfkn4,N8|G&><2l/6nbfNJ,<g8(hbQ{Db#e6sQ0D~0ARb6eUA$x2F{AH3H2{k$As8eKNKpf(Z7gTu&M3K8Na&scc-C*|Hm{8fU'cL!IDzR>01fd9^b9WT)l(7S/St8jM_lA2HUFCGD=b:P$'O=^S[AzcDLbyA5*)qb?V!KB/??f4r;pZ@tDPnh.R<#u0NCc'khBA](P2;Q18g.$Ns%|8MX6W8eO:B,dPgH<IH3Du$S$ff2EGlP%4oz)c]5w.O=Wj:xq$=FHQ{h3NbwFOlRwZk)c;vV]kp}zK#gd6$U/pIRT+w7_W_IGe+-'CkGHNk-rp#;$WIyz>9)<bmnaF:[o4CxI@x?j)rn|SbB'5Bb|<KTN%]WZ_I70f'*0{.H}QR9vqwc7#4t=6#ds6a#B@nsX'-]OHCMU6AqZQ6Q-^V?n:p]=0A#O9jcF#:NoDH,)7:'H(=cggZ9F-Mv<vN)~Ui)O6y^Tgw075b'>'a)N3(Wf$aR'2a}~i|$GDyAw;f]NpkP|#%j}JiE>do57nlO#6@HTCMMm#P+x}46UR(|jCrfF{kM>FwXB|YATN:3EUlI<<{:[oJrAhrg~,C/v[.X]7_6Y?apk^*<=se$,nJaJ+%}l7VRK3qV]<CXZ}jz%Sns-mX7h^m-U8RY7|hioF9AlP_6Vl{Y|hi9Vk~F/8:-g'Pn0cuIY?)Am(^)$<0rUzHqvSn,{)A@_y)OxcRLl|g?i4AB6-kQ[f$K(?g2|]Yj-rKeW,BErDzC_sY,lAnd'I7bUtCTP%jzLhv#LON&}HKVx;r7Hv<,[[p*)x:O*LdY=2UZy6!Z]~,yjz@nxV/KBFVdy,5TF8Q%N?[dCo0#@n'pw.@v*&s?$y,'%Ai/2.k-8|^O?%yh;{l</pj],|6O@w>hh2wA-YVvjvZ15R+uspmy}x-/*8q@%&pU~|04TYR:yf$SOS:%bHOhSri56$HSQ}z(U&Ag*2RUUNAR-_RU4~D:hA$ya-DSkF^D*Oa.l+nJ=_UbW30}<T/EzE::6bR@&.!Jgb6R3Vs?pk{gQ^w(8/j'&2nga7')i>i?>{j7v4mZ+Sf|nz+]dO'IiKSDQ|ywG)YZZq$S]/h=nRM4O.D/GY*<aLg:x1j2ayms^g#xDv2C7OpEcr@prAzqBUa0H(x1m1GNUP4?@}G<}5}e<+|Y.2E!'|zw|Rl<DS?Q1}=5$Q,W0;ka}s@]&g<n~S8+-/i(iueP?j~JQs|<3?YLhiX>@)]I;t|TCsTDjUWwR]gBPndMzBV}KQeM'CHdf[in]k8FOwx4>B4h5SQ%G~xuV}|(r8TOq}4}=5)t3:KL_sM_L|lY5)'T&MUeAX9^(P?j[-x{EG$}bWL1w+[E_}+s6bJ|{Ej5OoFPpiGpQvxq?BWTeMXC+{D}xs2EP.5FHDLC39S7H}bWl</z@/IMG;].vqiA!7}QvxZ/KA.{x=JP@weLOazf/$cj%NXI7{D78WG>y@}mSCXzu&KFDj5-RFVH{$^&[UJT6lLgX!'6fCXda:bQEndS^[1A?mop~3RfLfYEWo*Cxud%D.*a?/}s)S9yhiI9Dd3BX62^#wR9MT'(g>}$wFWp2|SDex}kL/n|R{nW'y8uR:$H#>#6B(g9G),d:FIY*KYOyiY:=iTrLoQEl&mThXG^4D6&H>F0>%7%p-|/OL0b&lAQ%x>A$4[Sxzz,$)>wP)6B.chi9M2W!h]FUDPm>!#7[7@b%r!k2Vfz9!Hmn_9hzqnHkLofrgy&F,v3Y_oP>?:#c/M?r'pSfJC5jwf.+fM+^yS*<gTwF|dyNT%[AdvcE_PM3cSq2yFWkNPBDD]1tBAKFVbVV_pMg34N2Sg*^$)|a@Or(XL++O;M*L}S}/tiI#H^KNF8DYNU1gnHe0V(7TXkAzTg:R^i:?Vzt1fJs|_jC5:k]Ngu,c'qVv$BA?&2L&,0~7cvQBBn7OY6zXdD}2$k[X-Z9+2%H$H&.hYJ?ENC_O<Gp|V;D@CjpzcraI0A|^m%c0Zk{-l&F9J}!:5Eih%F7l$?t)4FKc|ky&1YTKdKo&Yvo$<|*2Zkf|*Hp40t3YW>a;3GTEF+lZsgk]@9z]_V$FNnTu=C!,eBviCXJP[},{MtZoYD|!&%58pa?Bo[Le#Y;^Ht&?e2=C^g*?DGiOmmQnb#q']'9x9N4QUDz4+tV*u[$T0$$D'B9U#Ejpn:a+FI^s&N}pRQW(uAMXK8{/u>l~aZsLmm):5)wV[K*3jO>~Gcvbz,#}mRTUVs)I*B6bMxumiXkhDMk}hlrUZ=%xpXTX<f^4Wm/8>uKQ{-JukW7gJkMG403.4dHRi*MzV3uB(19_WH#uCYzKncw}#*r<>~bR}),Lt2l?k}kEsO*d7Ky-o:SI.1i>5w%I_vIxrcHE&_sBn)N|q$Y+g,nsP!VSDClI}$y8Y&+]4Kh&-8~Uy%4Qcks4GdolnA*V]+[|<{yj*<ng{Kjr>=Q:oVXPsy%_9R0Cocr?SZrLAVS}[k_fJRR0*C1{8675;z};3fr$}opQP]Pa#z+#V.|[m/drU?4n??V]r7Vx.dCN_/<!WuT^v58imny@,pxdRX_.uh$JbR<YP<Rq.5W$=0+cChywz:c2#=Q0?iDbS*=?rlv=8Bvq[(hH+EAIfA'[wWTR6S~0U=[X=0)^saM-?+ur).3+:K8'd-#|^8DeOD?^]%F._E>K6Bu@V0{KLdN9we=R~eAD5G/OQO9olN_)q(Cu5GQ:d8L#E^J+|SG2rCh86leBN%qbP,Wn[B~eZ6w>&z,pF/?e_<N5jwpz|,CNW?eUWxa^^]>AT3DR{:Gu)l@*QDw6,lm<)vf|{2<RHN?u#rn1R:-CvHW^&Q]4N|dj/:IcQ'U#,xJcvp|MMnj^e%C6|]<W|$HL;KFNwRb/X[1PsDc4'<VD4R6cssR)'o}vn%;M,6f}>K,|yV(zaqO*iCp-uocjd{!7azvZ~#PsF^%hPh21CNPz}TJ2.{Ywzv!2t;f?O3{|Bf]0NxGB#)PC6(,h%SB;Y_q+?JCO&DHIs;>))B:K.T{ITsIYW;GQPzrr6riL7ahgJU5s?up9xUyt4^F7[szoaQTyJ=wqbF&/SG9i1cCX''FHvIgOB_ComIcYWY![d8ifNpIT1T[W~7mo]|IL6DIE10c+jBTZPNa%M)j'=F]nbmMl?l:g=6qN[RC%:2#T~@1L0Q6pKmw+2_pwIPd?qn]_p-c)G8O}K|U!B9jILTs|9W<vvtBG3(L]Cn:nq)YSjcFPq&';nWG:!:q-bki}H}n07/X-r5BwS_=<@cT7/XRln{a)10j^xn?>A[9L9:-k+_+X5wVBd68&5LqePo2?-mVt/l1x#GC~e0,y][-Hc:/*:d@w~Fnc@[m#R(Gk)qF?@Hsu~{g-?wAQC+sx5D|+10jREt<Xtjy={L&UNG5zkB8FU.rS&mF@5V:;aU7Lsjj<x[3E.6&|/)2ud4vA9f<9$p7_E[w:ka6zSQ>+p=t[9Xl.X|=7-;8+e3,c1;t%W5@0(9D3O+k*L?+6VR/Jj'CoV/>R}UIikMmyRq?3,uK*gSxz1i:ZV1WXeGh{W/QIJV=BEQit_a~i8vk8]Lx:*M/YI>(lw.EWGc5HY<wrzLKTly(YG[aoGW)Ee-ZX~gh+<C*hC}#mE1eTBzd&,+sNs$*Tja;1%DTqgWL9{9KpqX{0s32f2)]5YM7>|-S0?(^{8O3sBP(?ZNmM*xKLw296.5~5N95)HpY4a*l1h^S@c6[^xsL[C*,)iw(.Iaj[$T?aHF3IY{:x6vXY[8dyf83vZ1ww3u!3],lwNJe+YtTj{(3Eg]>]=.~C/ucjuJ7O]^!yHYO,eKeITfM}AjPo[;0kY4QsIyH^n.l'p2jkM'.,3gc6h@@mPMp#]g[(WS0Cx^Up5BQ{)0i9s&yg.lQl+b_%S]R:})_D!n@N7*J!Zy>wn*^J/homJ}^lq].cgCPeBd-rj3X)/J8FlD*qw43[5)JX@ir@*a;>-_XX+c0SarZ$<h$Arbz<A9UZDpH+I$,(m93q[jLwQ9%X~U0VGS2Xi9{Bvh@j$?iQWB&4<lu0~6?'h9;.QWz|ex-zf7EFwRc0*&4f7S0k}9^31=^#0{k7%}[b~@0b2Uh.rWkS3d@Pc(p^?2~XKD'uZpqczYYmROg,D:C,CE,i1[7)rU]S(rdZHXs&/g3BiK<@1b><]%r=xSCXI1#cGREr>O+RV>-)S2jk8,#dCZ4*_Z'CTcv/t7F[7/%jI|r?cd||HV+27i3NP8dkat6u!URO<UeAxn^SZA?w125L0/d'EhH3.}hN*i9kk4eMOe(g2rJ6(}aI0^TD}ELQTd'mOA+voU.x<<pg{Hy5KEY?;iXb;Q8,57[F+rQUPbyo;fy|p(g9DEPGFdhR.qNstqE%WlFPN@/!>oV]Z,Rz{ZOq0A}x+twNEb8ZH*lB-yoY_W.s+6Fu^{3a+u[j/Q6X%X(v1s*uAeO/frchy'?>^SF7!_4t^[XB1>Pre6|1_&zCHAwE35B~pA|mi7jk^gFDzE[02)T.l*_bK,BR{&Mk|(j5qypbbW:vx}dJpCB2$NGb#m3$Qj}^e9@UbPLgb4tWr2I(ULnU4o'/j]Z.vsXtt,VS^$~q$f){rRk#-O(ubMD>C=^d}[9>,b7SPT5g-F_I(w:MxQ+JADelbk_e{w)UE#Dms=ga<Ns|*P%JoK[vStHk;D'%AS2k|-)u*KNF%g1Vn5s5JU2fY]*gM':Lz2yDUYLKNy>S):DT1Vc3D4l16W-UGw%UQAjVhTw.Xdq!!=$Vd&[bZ*a+_=Cu+0n$8yvZ{T7U3x.,wqIyes/rv?Fi7<#GMPDdG[!Wh#)BeW*[5fFst'sxD7KYH^VY6):bK_!wf?}|RNkGaT&;E4|ngEbGfI^opOJ>F/ToM0*(k+0.b]IFQSj,h:LO<u(DfBfWa}_(8]b&J%,S]UMUi#5L$y+sQlcegSaWbY0ttheu,GOt'7r'.,Hqma?RW^C#e{hz0hN0>#;%@74vi?=wX0q=L|B2z#V[Orn!u,mKnE=e)'!>>ZkR}RylHqD!F00F{5L}fq%UYr.d}[Y4&VMbh5RI:I_n&w%0R*n8lnZPCx:0?#Koo[X]2/6}|L_{l|Q>BY,r/B_T2N=0wEtM,]k>pU2yAocEflmq|o8z;C8tjOu^;A{ejrO+9vuGu,*q<0!nIxYMb0!.UO2h*3-7n,sUxT,1=pFsUdfUYRT$:bM8<X!bCeD}7q~j]A*ce,6.mj.tf.JfdwAE2)9q0Zrvk'9{WzKiv|l>,bB;jzk7prtC0ba9Ib,no=d4-zWq&)?:#.}AZLs>H2c7u4GU:VLZ8pbt=3a8_wSc@2mUp-x4v~fo6|~B{0_6%Adn;Sg4|=uy)A)K9c1D;P]8bw*/)g=H^,$=h#~M'3!k[:'c%*.B1Y5E[LHt3lX#+_~kWjvNfw(u>ARmD,Nw0j^b!u.0Kx}iLno^Sn,tmm)_,/ib.'PV$JDXM0(ja>MXXp1:c7l[.er#V-9sj}).xcI%imP1h>ZF'ppu8v;QT.%vVx@vb0D;bujVyc7^jGIg-lGLbdZz)MhI.]KjojM[;7|^ieT@{]F8L:>9lRj'z-6ttlCf}TT)Pvwt/WhV|8[vhfZOvZXIM:.hd;:(@i&jJ)Fr5MqpK8{_@smO()vS7DRA@T>?S&V=.cp1laj$-]o7hA141q5w_9m|eqapE1cY-'P<0I7hGnGc;d_lq5>*v|2GOD9:J#P.)2P?fO-;RHQ7&|xKhV2NV_Usdo3~dBE'u@m5v*(:,XHIWX2!5mPR9;Av*Zn%|/6I05ATsv0auIVrlrRQ1BsDl)iQFmyR,we~-ln,HV1gzWMP)c2s1i:=[PY**=o.UWQ{SN6qN2Y%(TvD^yg36F#Cv[6jfNdtTv-m=AoBq9-UbS&&nz-^ubjs)6M[xP-q:ki=hzc,+{.Sanf+7soS'gKfd78]/XSm_wfT_/hxumT%>lc1Q>hX.m;yfjdgr26#zP):tbo<Kcjp1gysD=J|:0X)1cwO};wmL-;6%n#iz^jCAQ,$t!Gf:F%j_9^.61;k~e<@'>XsBn9wZ}gVohgtt>dlNS'8&1by$*:*D*x^zaMbTm$b-:W('L_Dt8lST7Pt@q>h@|7-_C>~yoKAJO!/9F]b+&vK@]JuToJ9K^??slOsrS>j>S?}JZ91J.U[ehvo6aTEt@8PsdK%JqqQ7l3/{RNe*Puo,+idL{t?Ao?j;Yzs(h(;oAknMhsl>'m/9_>C7B7oUig6%}Z={?F'qVkr2*RiJi(nmA,uqg(UafO^Em'OfS29QC5=(pIBGO(ol4ovEtbS[?y%D6b5#PCjl)>cgv&#6zY#Gj,6iesjkTE5zWaZgTJgTVgCj}By@1AFZ'Y1VC<B>c%RvQo?)l0b2%+|_35W[}<,jQj9],EGhQpd+W|B5|?.'1U'Wj2imo=#(|2zV*/Og<c<~PK9xuUn]KS7-}_EPAi/=XlBX;9S'xN)4ZzOuTcALU}_<)z1Ew^@E1fOLjmrX)B+rXMsMbW?p5C$a&=A=prWKBc,aFZrcrl^km~<-hObKfXG^T@u6g!FRjGdskJ/$|yZ[c/Z,5X?m$F@r9$>0R)h99aEZxTG7O}[c)tSh8Tim^?H,$h3gMKPmT'?kNV)j&#Kyq0!**.@*h9S0VhF9}M@6a1om*4fipZ}YcwQ;.5[O#)g*pDs.)=ko_T4X7BU$?1#Tn.]>l[RG{ouvk)S8D-SaUnXc0A9x0a+[)WUUlKc&O{?5345:m@|UORklvyRN[,(5ul*HHEbVS69u5'Ccnbh~rt]M/PAUO*0@vL]gpv9sohfIs[L|iOpam<v5CJ?7Pt+dwjPrJ9&R_VMb!KP}gJyV.iuy?Zp~Xe{V|ap258MuO0~nDHm%=_dd%[@qloH/EVAfC$ztwF=#J&:OmU+Ip0i$|ZM!oTWJlMO,jqdoW6wP/IoEKuz#/g|KU<0SpW#j%?;N&wp4xYDxAPDe}|Hk:Jy^/5m5%jGt6@Pg=V',~M1tp)K@Sl[vv!(63joCAr1~q~#|P_r)Wi&3_gY@relclZ4TQ_5[s5uY1Z0~]iASV<g#)u52vYl?z*<FmU$mR-%o9>hSK0m=#2w[H-=Iy}'5dI_1w9Juk#moP3^YYjt{2ZX/:{0Q[tv=ArE0OjRd~xdv2il2VY<m=l8{@;oY@0Wpf!^sXC$#oKUxPR:G}::vN[IFmqmGb[Ue^r$<.;N(}Ek)DBb0q)Ol'[j~3$+3Is<g3SA-1N9*bt}8|pL3Ka7D[VAD556#ArX<C^JX(C/(}:h$Az)Dr9(mu*M2L%_A&DQXj1}d<$cG6N|5:e)ddJY!*{z?X6GIS/1c$0bOken19/]v:8jA%QhF3%+p,<e#0'e>4[';vbooKo~B+GM1f&JaEd:y.<5!ltXW5/rc8SoX.(+bb#n1*w9M}K@&C.{z6i2=IX58fj0,4h*phsdVNTC!we3k}FWMN(eW,(,mG~j6TNdKSR>%n!ORizn@fnS-J,O+bVN6oRfWyho#qK=%92ImJ&o0UOT>J)FeUQ}mT04Z|qq8tFb:wQ^NaHC=9fRKmicb+f&ZoU$qU|JM%YI3Fhzxuj1&MAFOF+@TGLJEw!wu51M,Y_@+uMt|-q>n0vGm;C9yV!3mhZ$CKA:+Bxy7c#s;s<#!m$333v'zP*l&CCI;S>p{XB}exx29'}}KR<D45(Nv%bhs9?4=mG$'zinAZoOb[HkQ7w31$9y,|zaInkE[J>N1(dkYwivn<E-kVy9g/xU$wSfJR$9mG<%NNXNcZ??Kx:b.dO(>C_p=_Gd6(_<n:kw*g2r~'613anPO~O[?M#6@e&~62Jwi/[rX/Ox17@svLzsmThFYdb2>/7:c-HN[uwSB[_>uVkG}s<=~{/j@'%X_u(6yj[A<0j,d>n6}]Inm'.ve+caQHe^Lbkcx$g_,&b77z@#_qd2{z,Yqri}KYPcia}*]P?I;P}KEmND-=@IT1Jr>i+?W[jD,+2n(iS6_iLaNW=cTVTxcEPB'T'zMu_6_T)h_yaHmVtgZ+$/UX_o|bmv0TH7J;_SMt]e:ukfVY8t)9;mUG.yANWGL681NZ1/*[l7x#~YM|q(WrWBAw,cyZ^dg1IR|!2wFZ!rAVd)|Ld:0BG:7,;vrn~aw4/dvAc@bjxsg&Tmahish>]i.YRX^&zeVoHE'8$Z@z@,T{cF>EI|{Hgb|+]vZ4Lakm0i}]9@bB7a{bSt?35h<5F-_;|I3-&>?vd*i0i7J:<[[lY48sH[Zx#.nF'f8C8Y:C(Ypa/xh&Cr],cH}t^fbDL%!SYDY,8|^@r9C@x0+*!Qg3_%#95D@i0kukO/p=8|Q-chj>.C-t3;mW*(DY2ZYd@^waa$&|=T<1*+J;H2/4tOtUEp*l>9PZS1^q)lz7APf^T'@GNi#ax84RWr1uF.<<HSJ#S/BFp|ef7h00:'_7qW&G==0%?MpDxM{P~z3A.m3RNyyvewV10>)Z|yPlQxu59R,JbW!awsXN}@Qe2rfNu6mOHDu0<p/bxGn6Ofxt~5s|A$@UJ5Zdz]rDoSzH=0^jg3vMx>JY(<.YSHk7$b'|JQ{%~@#R[2i_IvM0|A~F9}&nDF8DM6h--/{}?Uk$l7(a59#(Z4*}$K?ZBP&$zB(edjj}LK(5CZGEM3&4|FOTU/H9*O4_yWzR}^erCb!WJ_/Lews}h>tmtMDWmouGuU1CT]1g0mA{ffmba^d)Apn.rbz7M}]8zAdz:#/k@^$##w7Jh0~8NoCrmx]*&rRnr]}fj.6%]b*py3rB^e7ZxJ>[jW>j=<3oFILKgs5GGgbyQw}wIK-AM8~/}CvKk;q,Le^/Uno*8ii/~5M/B{6+!bX7rTN84<bw+[e(iTk9.)F;lN1NDB86yqoTL9=Q>c@53&h_HI/{wV$|hDrwzl>=kySI5_[+?cVBV-]j-ZsB0%6xH6cBD.3W>NRQ)3)sD#i{{Y2zr8NW4zmoez>HW3D+Ucmc@xOH%sTat7~2xF0x_fqN|)n!$'|KQ6Jab91@HwN%H2{oI.n+cN!g|gVs#858yQj](Pbb]4tv>#L]CVbiI}w$Y1^v]bx-0'sX&,j93>VLarv1ZKbp$<XZP=ls>RTOix0'.X)xEG=a>=7fa%Prikn&E,E9wJ}6%V6eoQ:l=#t7G,jg/}NN?k~Ou}59z5KP0]uUO;,{,oLgg-VX)q>^{G]&?S,btQMm)kBdK8;O}44,7#5_;iRs{[)k92)f%[h?{BWQP;sRI^7l?3j4D%O#rBe)I|!*(U&2pEH|C-aZ(pR'dQrQa7>enY@1R_a)NwYb~G*vlYKjH~%/D},:{Fm0})Inus$(TitYYOO:SN0yUl,s!=@5T0IBs:eAuRZ8D$[j?iP#gyQf>Hom0|i9*kNvo'|y,{5#MyIB2AC2uJgdF2-@9VEr'yn_$3VyeP=HG]ZOIfBXPXIoP1J.(W+CY!unMK=<NKz;CA*sm@D![i8q(~U*axqZ4W;98bU0y_g%>:T%nMnw,,O9}y3X'U%|W<3wpo[]3B:P[&_|Rl#CK0;tHz/1-{(:W8-vzpHoza58{J.JcO(g{%6M=Bl/p^'P9K@kW0Mp[)qs'(Xlt1<abG6/4RW#mg='.I+bvT!gL_E7ie]xRQI/klGmwC7a&uIXaI1X65yoGh^+Xh~iYc:u'ElLe(B^RtD3o}r]}Zlzv>4qdG[4pn.Q76uhdy09]Q>L/*$by9'Fcf,SYaP*tAiZ|3&<G#dur8'9QXiUN8(#*.l=6DDJNiFF&v7}iY1a+)@)f7_S:%LpS;-O?)Om*Aa~N,%/R.Vf4<FgwoWW)lOE59'X+GaiP9!W>}HT0LuXfOXa^a_<?)GonXpcT02&NM@dsok{zjuMI'uiA'8zLjF,*-d8}$K|wjH]H>85un~O<iuTH;aTu?C{DSi|a<5:anN=!Fhj0znV^d:S;'>U5=KfQglb8<OM@{0YMdR]smTH2<]+.y!hUEj-5G;uQd.D%aCH.rk}Qh1H^uWT3Cud5{mN/0e&|_;c>9o&cny8t-Hvs8que'2JPamuY_ShpLLLYQQ>:Lewu/eTX*8y{|/xjFp;w;&lU%,/Ygto1NQ{tX~g0XjzE+{QxdnSst)gduo&aHpy7dgM&dE@p4#mC+QYw?x.F[tw/n$quK&jyI'k;ot5B,bKuRXKxo&Dw,vc?.@4D2iRl0Uu6'q6oHZpzWJE!NZZcJmROVrd@#w}M:<_>HFbmY=UMk=rp7vh9!w5{.M-M?mYVNBnVN1@>MDx%eO(7VJPaA1-FI[l%NqVWSW_2YmsTsFw#,?[D4,RJP88c+HQzf;z6-{Rw,eEf/5Q<%Jp/A8p.dM:FxtTT[9%vyoLlWihz8f.m].FduJ-g%,'?I^_V_iE6o^0ti-WbOR.BAqCvnqb9/-85__J:Qel_mg8Xe.T-<ia~-V(cC~V%t|;&nyeu>py_*+^kK9VYV(X1#uda6TS*@D.+;.C0%oSR~LwU1=FSj^V>1Ho2Jkurr+KS<Ah%*5fX4k#Yomy{5)7W*fO/bycYPh}@3+#|^5??/#>/EnYg}>[,Mum?H/GKel]][NiPd:^09B='>[ZG3|ohzp>8%;D}i'|A2i4ToQrwf)'[NDxa)[:0c&4GVzwG.X/3R)=b&3LvjQ]&dCcv<;,hw7WE~f*&|74/2z_TM=JkrB)e/]{~vT>8uwq^Dl[Y$lUF<{$ID)9PwAr,'.g66!!P-pno{RR*Y)>WV>caIp^s^pwU(5t=0fK:$9uNo)r3viky6?+W9)apSaEDD@jxd-M&/K'B~a]~ba>o*$g'p&ES_}R><FXP[LS{]q;e7$Bc5zW~{K[7rl-<RZdxsRTjHyCRZ@W1d!o_z{5GM9Io>||TOc8%DjD~>|Fjx=+$/D3#j-|ZUGTx!!/omfV{5Zxz.ozEHuOsR$Zd175b=lBAWK|&j}#gQ^BFhli/eYf:Cqe%=qOC1>D!f?{I-IT$Rt!XbmWTzWb=tJ+$Q*Ah75#/Htl,D.U?W$oIC%0>eH*U6/f#iZw|<Z59KJB{S7*eP0W!?z<0*r#[?$vrD!PCiS0)m$C>mZt*GfJ>}{OK~>yBm1'YTu$T]GA~Y#;b:'g#sDtq>cU6f/Mo3?cKGJAixCm%yPpK$45tGg.UY=ER1*(?#!{x/#WEb(WuSiMH@n/F$E**0EqCZ&F{]@${%U@Y%6uaN3,),YemDL<GX#yuyhlkR(ZffgS&Du;gSk.kIwQU=Cp}xjBMLtEMI?[^U;UqYf]iMi}O[)qp2{(T)t_T9rgJ+&0UEVtK57n89lKxYueB=S+@q9aF;*3o+c|H1B'~Ijl<+~SYIHO<qMHlM0LlC9)*fG$ijs2sHu7:PS2x^zq#nppnD(opViLy|<9[BP|=zy>V;<rho/]cOY0LF{Kl:OB]$-VSHb;!)M*<[4{,PZAK0_V]eLK<@.lpZ3EaD?[YJ<]D9Sgf}gj70w-MF.9Z*CQ(-;aS*KXkpZHe^PzY%Pk=VAHNxLIpYqF.bVQjb_/L{4PC*CazV,nK0:ZkAPm/7*.]1y7d.&j}#ZFy6W*cq>t;BXTQY_]4(PhBORk@xE((2{_@*bJHyFu>;Mra>&uLht$?{m&l<wzn~,W:TAsf#6F*]kH=ye9Gf3_#YBF.2O{/%GX^R;'uzxdp897qE=p)rVDvs[CPqI{@svWG.@E(qU)dGZ:u^$}nwz+-l-osS|4[0C:t(>N&tIL<a2;WqYE}zif4IohyD1wfnQ4J$NUHF1e&)j)=*sU+WH%Vwx|vYc[k|1$kMV6|:g<!^4JSuA'/{A<yY=P)qA[N#8*MYMi9I[|y8[Q$Pgwl2GM#WIAAM99ve{'[yGjR%aAu*<*[,slgZ0Sp%hp1zk$1$NR6&X.h~+2]W>M)i<m691W*Q@$}6*j@<aZ?S>5[c]:t&r+>OyvuW2i'rkq,_>TGg]+VW38qGpc_'P&ds6Zu,0B.kwB?@}QUdAJUiu)>5s~;i$+.0=8*V)->vTYA-az-C6X6zXG}Th(/3wEB/Q3T4s0K.XOG{!4zZOJ{G(jRH@qpPz0Vu7HrSG2/KPZchfdKJF3=COVM/Sz$ayT$TAc_KOc7v_m)UrKGN(rNnvAP}W).DGSswca6k$+g@no0fV)[_:2M~8vcfRbcpl$^S7J]n<c4.rm3x(l8+8VmQ(YdLvyr[!E3U+dWCJHEU?PutY8!;d{f(Vtt)>%X6ZX0[-{DjF-mQZ_4u_4u%^6i^IuvYvqhpkTQ{*.L=2^SZ^#%&l)}Rm}[*5!W6DzWWI|_$a}$lDbs|b*B@LpEsoN$)81p{Cfg{,lD6F_u7b$1oPF{w?}d5f|b@^j,L(-ag<R5@j,'|m==+AsY)a?$/P[nG6K+hsH%5D{MXdg^LfYnr[.A:D[#nk=_mO./!bxTJ6_4<UuHRtx*5;]e^@5~TPftrQ*J.b0t$UoHDJ2pvtO|PFui{&{u8:0cH-z+.kf;Al^i|Q.v3^bs;V<sV[)W:7MH'nB*,$&;xEs$V^<je2{rvaTD+d$!MPVB<K|e+[&KN%eUb|0+NUjT[ww9)n;,@.tDVTeQUwM.0!|azCeNaGvLj}TOPEm|Mv'=Ot=N7uyuK]c4t+%|3x<UX5[>Dtjz0,.K6YO>/9Bm1taU.DG)'Z8i&}#Tyq*Eq_oPOY(q1,Y3O8F>&|]g0V6TR5<@Ou0uyU*Oogcn?sNR47*s!uv$oLeOw!^re4IK,m?@4P|.d;?.f1m1s4#{uLZ&6j3Pf?UJvOn&F75x'QEtE+H'W1/km!}jaZD$P,a_}uA{/TqKBAB5,<%Y^#%M.!#bOg9F=mt!eh,ejy@3gmu5JREhJ@W}]qFI<fzYp0&2+=gp*8hs!cy66a*u4$$~P_,(^x}Lu=a*=Ic&uFcX<GmisQr2syQU(~Brv7]EO1$$bA/2KpZ&T9zGCE-m%4kdp?nEz$GRn#/iA-}1p*=XIcRVORjwW#2=^D0qn?28%+;|3Vm=bVDc*Tf7={K;k=;=a7|kn}LwFPHHh#@flRrP3oE(tOgJh6wyz3Z8i2eM$2&wjD0agNg:}E1.PG,!(!YTK:3vn.9)wr*s=zgVGnK9!Nf:&3Q9jrRWSMmN5qv8-d|&?{fHz'rI'.06o:}|<s7mxQ/7I7zjUV)*dsc(]eSzTV8++eNPj+'a=jK1p~QXx~{'h<k[+12drWU8dFvF5{=$U^O!g!Y)z9sPFq&-o:zr6uZ2C7|=KnxErLF/UXJ>>ON1j:$@Xw^*<4y;rvJVK9(A2G8h4fivmipRiBoe}6zP[>,c'[uPTf2L._McH/+Y)~wSiUGb0PP/'h&_il_]e51i:G@lN|+.PQtn+Q8#8qRv*J3ma?rQC-3|-{(lrOPKHFY@Q(T@d'FXQq9~PAzBC$MVK?g%q!{P/i&GHOZ_/VJ(k'_%*{HhQ{UD?TXo:;$Ui2KH0MPFwS'8;jGs8-/Ib'@c(egD)1H$pif_DHPaXu_q$gK<X}_6YJYl=Ir?NVkg6|t3?Ewh<5cV/{uj@~V.U:A,113;g5y-Ekc??U8%a/ShS5jUt2X(T]h-rHPb|8Nkh^X>@VoNCRI|%$;W2bNJnQ[v1,j?^TD01Wed}19EVGkz]U<[-S?0Eepz-^qn0u*UJ?E$(2U4vboH%9d3ee^VE=nk%je/I}392((=D}f#5hY91Z&Uo>lkXbj)1f}sVqNuqBt7KQr&VaNjhKqxs-rrl;3^]U>i~8#OvL8RQwZ4HL?&Ji=hrSJIR~cxtTL5TYCj)v;&>83il!}q~'jnKU2Bzz%/VTv?ksCnk!QBl.JG.ZB}~hBWSvh^;3y1z<>MMV]xui9|/zeoWQkxw{JiXL|rX&:%jFP[%J){HsKY/#WL/n;bG{IMmT]+WRUDS#'BH[?9>rt4Qy8{2O=rLC&dviNfVe[tDcMXe'Dtn~h'|3-YQ!Zwa[!_,)I{-vGBf/4Ov^:pXk2T3bdJu88KSiBO=^Lq4XwexV/x[xc)s:qJ;p)lV&jtW.Rb&sAYCMw,/sf+*'MfpX^!!]OpIe=1&D-?b~R}NX)gAIpr))Gw?nCRF[I;1I*2,[UloR{&=ho1T>VF[8#8{S?3h0l[T;N/0B@tAs]P,NuTa0^5P()'~lk).U_RS;u5Fj{-k]9R+4u}1Y5g076UzHN^s.%.XO|2,V@xz28HT@|s8pBV%$V{uv[Ar(*zwZr+gl'PrWM#$9[ao&7>b9sSMrR{kB@SBNc=r5+|Cm9e8s@{+g[|2<kaEIR*QBnT@A';80S-+J#krR.esngqN*OI'M67(T0ijQ(MGYK.V2Cjo~uV^VOj2Vz7@;=+.KI-jZ9Zr_I{>FwxH&IbRB/~/2:)ei)JqxvpaDO+Z_D.[rH40dsAqBRpomLWz0a):G:pNM8*7{<,Kx|N{?s&XOVCE<Y~j2'G#GLU&+2vC<P+BExR:N5OF|15=?C]~OjQ%@UR[nl)e:B6E(0K%lb7BqJKUDS@DxkIh:XSS['-#j%D*!NWf;vDd<YjclQlik8Q!Y!]Gf-Od={Gby<:0U;b5C>oP<ug+(Y:0*L.-*uXCe<QviERM:~-M+T-aSdOd,vozKeG*(x(bjz_r]x^s4?|u*VsE#.O,Yvl}E?]6)I'8AfVDMn<g=x.yV$SYr/:g^%IG;-#AZTv_l)MNY{[m*6y&YUr|@8SXmGteC&MK)q1;Cq?i4re9]I&Vl;+W/#3I3Rh>*JESad41@c!b'i8+/?#,XcEs%S(-sLWfx}Y;Ig&@OO1#wPQ]r*M?]#L9bgP{q%>}E-/{x{FJQ9]ZCSR'EQz/+jzcaj>}z9dtql]mIa<Jd,2qniT!gVIjM<qfI<E7]B*0}!n>.M:kPru,J!G([5Xo!sh:d+DsUHB$:H2FTDrYg3+AsRp#WKrB)1E<~qm!q$$'3zzuQne7w{5rgT.z7NcRfEhpV;FO.~]-sl>x,9a$2>/LC2.C~]zcaWPVy3W,#n]6yL>KUiq>-)2,46*#WC#GI=G;1Qo^kYZoe[z?UGI,Yq@BsnDtxxfcpoy0j-VGwf?G6G$*U3.r)$Gn,W6$QdQ$:+WK<'!3fYQjovTK|KPR1O=G+Xqv|1INF0AvZv1N|^HzXd_aD:76zryqW$mwe-YTYdfP@9}8t:qUa#r-]SY,:r8d0o)pC6kLOKf#@7my,{9Rodb?Cp4Nl5Lcs_*mYpm4@Hk1~e!+LEy7>oxtpSm3htG5(mk+YAsY[MHeaha[-O|F]X6/4KE+*5M4u&ksOdd*ZAw]Cb&#!qxym#Lye{FH|bZPDoGzk4pyko^T._7_;@k'>0!1w|l+*Z71_'pWPk+3v4abSgV~U?]_I;-039J.cL/gHq_AU*7]xm5O$w2oE-~*iE{@riKtIFKX,0FL-_sc(TMea!snl)J%aVuo7D{vnV_$tx__^g;nZ;0_!(=no:.[<:p-#RRxnulzAA%vV;,_3G/h-ldENX&n/r@et=v318PnzR*YVj|@B8$dIS$:W{SYYO<sT4w[=Y9p?4/!2+C<]0dSmX+R*;ms&S@bMFs&yzu+(5,bk*RMkdgRs9QyHn={'VVsjvx?4zn7hJ]28I>F*kY((xyz3>N?Cf04bD)69MU>hNdJ0YDWaU]@7+FwTOXWedU*xOzlu]_TF1@3&qH*W1bCgZT^:W3FFL(<QA145%(X~o*#jTy>+&bKMP#zh[6}W+QbD+|nXZ1&@DD'o{^A}ep^~k)|i'.p>gx'Wj,Fc^j){i#qg8z/tl_.stU_;7Zal.F>uucrB_>KWIai|TLi]nGzP#lx_,/7O[_6gEMKw{E(#XLdV.5g:erV_:5Dx+HbBg+z**TC~:u%}%QVV+F$,J{[s8[>W(hB!r8Vvtk%3<]X#j.Q,?A[K7?6bOLnXD,EPrR(O3/0(ahS-Mr(9ERkK$KJGtei8^!d|l<QMkpZzGd}n_ica*WwR7d<?x#s+r7Yj:gGN:YmN;xwUUCJyW^j|6!#4HBuQH8u:y3by~nnHbWi;A-dqmuJ~4lUB7-eDx2rrV3y$w&VPpjztJ:9m7BaY^%PEU%4NB0s(~dM{XyT<5]^J7%7VNbEL]F#BPyO012o>h]]8-tiM!Ef%-sOBP#wk3*>]qh.ym@)Y]Ww;:2'DZESW2X.<j8rp'ZaM^%eW}~Ey(oO'C:d!rRGU(L^|*Y9>mc+H.bCV3Afl-nA=|#DJ(%.cM&<jZ{SP,V'N%hqN/BUcV^qYC&j_iNVy]6EjXp9GZ{yk^~oSpmwG5m|Et0hT1>M=65yP|uG6[q)J5QjO{T>|SR/iUrW9QFHGOb_8Yqge50#%dqIsHe9@n.r3O!G,36sHn@=o9IZ+(D_bGK[;SQU^''?UUt'<T,I]M0c?Z#Km?}j'MGb_9GoiDiytdqe*?2jm1DxsUhk@B,q|9sHV;jK9rk.sR.yLmm?,<16C@:P!q*pnyc!803/M8]&d%@kZiFCgUc{/S#11=a]?).ff5}ioH:{.c=fRzGr6jhK?WmQ*p#&e}&XeiL$nvKqmGq<:*.RJ$nVMFf'QO>2$'pStwhHO;#/u*?q7,6Tb8^|:bID=B&-D()aA2!QY.]:U}%~~@Bf+1G(ht6)y;@zMAf)Y8%^Zes9y%*qSd)pn0Wy+-!9B*LaIHH6pJhY(cRU^%LNI(IJ@r<]fb6CFZ}mE)#50JixR]rrT.C#Le7=>?I1yU&NgpTRYi)sR0qlX3oM/)r!}@g9Y%L%f^lk:QtMXioK*Aj&mpzi?z$spoW_{,DxlotX!k7.{>IiZ2$W7XxnaW>vbcpg!IG#lHhyv,vY$jz3/e}h.q98ogNkPe/opR1=s=]Us+;cliG@uQj-s,Z,.vJ0@IM1znEN%pUyHPuo+w}HTI9hf)ISW>LX<'DqHT(E!3Y_k0Pw2g,A$Vefe,B]6Vx3qrPKst}yUBL?g0+d1^73q82dGWUbbaFiJXBuSer5)M:y^H[Y>Y<ulFb<z,Z<o+[.N=m8HZT1=xp)'DtHZq_H2LI</:e<4If:E7)tsU=ks2(i+o%25!U'&s?5mv#b[(6~O>ji<<9gs-gFD/iZ^f~~(wJ!Fl;([dR&JONO&IYpn2X_n]/6yMWJ=*y:9+S,o1;=}>5bwgz}/)QEVSQ)4hegk;_Fdie?36xmoc:bZ6=}C5dCIIlfx<.~[/Y)0.PvPxAO)I~OqYiypo9[TG;0QE1uv<MMJJru)8ok6)bS~Hd}V^lXI2HW6d-}'LID:{%x-T_5&yy2H{-B19g|bkwjEhV$JP?NF$2v{N]ezKC[;p5Ck-++eWs-u-J1yQ_:@FT-:<+grGWt=<wqMf}/X3~C$&n2L;r}rg}JhpBI<pq@4~DxpYMOkAt|1&,O0dmGL}Y*![+QGhI]FZ3SuS$5w81jZef5_.Y);c)aS%UjuYH_H|wr)9fzb[fGrYAEM3A2@fq}U)5ofLNw&ENWxUp{=bBH,f9O'odN/Sh:xGX,(y#=~%gl6,PG||^{nt6vg,Il_}[V337hMHCo(5xmAt2E]nWW46V[1=H02s6*X1?ICi]X|kn(Tg^+_(yDZ4S9'I((;H&IgNq(>Y[5,Z4L54weUnJD6QafRPF/;l;zIPlYf6h6IxpvNDv^KQ0,h];+XrulVeyhK%]t4kBdr#*7M6_[/T%_(NalfQ@9cRR}.U2_jcVo))86HCkSZh+wS@5XL9YI?Z8HS[{/?4Qjs_=D;D9T1iXmF<NeUl842<{n;<3jg(*6'3@'g8Qu3?8/^PmpGf1uq_f2Iz@9oD/072:bPa,<g/D4r2U/I5{>FgL%c:Oc/??VfBiG.0Y^%J.Rt9[]iHB'nZ/RZ*bUag9WJ/c~fHAmgJBXKDw>s>LJR9,Q|I!DV&y)Z'kulnys7r^j'T'RyXA#N7!A$-]*%hv5YW3J2840qV2C1g2vSkx)=AmWn&ljI}S^0/c~I{^MRGuaf/m/7G.9TL1Ro3C9E5=%]j{8pBC'kOY-K*#ij%K$SX,VEuc4:M4~)SF2Z1e8/*b*iO8{!VQK<9oA=|jZcJ{0Xzr&1zNHZA}MQ*~]j&3gXDBk6pEi0G.+*Y}DVs[NX'r?l27'oB{aQLR1oO5%?$6n*!lT2$g0.o7&x^Ft<gZy+S]*nf!4d0|{qvcZB0rAOFNh~41@MH:q'=)2c7(cW2,p&q##9;B,Y(9+>wc~x4*ckdg:9Pz,Bx)Btzv8FZV26+ag>v0GsZ63{/$[jRsiL%RfWm9J5*g+~;]TPpW=DN9*5TnfJ1G)O.pW:p/+~j6PMoS'Z<|p=nqC)G/Pxlh:=[Phw1pL49;9r0*7I*U#l=T8iFh9$@##8-+gwU-*,&;YKCC]I|a^Z;rE+=/yAOR4:nGqstHJs3+Kt.}|Hy{{XVW]kOF}rf<GRmnUg+6.MkOxO@m0DDN%F3[*IIIH-t|DSx(D]p#:kFcW?_|?Y#%wO&k3Jl88RSs.x]DU_Z(aOIg%!uPKJ/}i=P;:G_Z%lby,Zg=oEEk2(e,.xGFp*8h5+xcMDB]#qAEOIh$%I_[:,J&$C{qa|H&s4S-RwwL%;u<CZ7B-4R/'2<!)dqEztpgjB%Z>,X#*'.^X!9OlU{DaUu9y5gF^.)TH=sqKV^.dX:/-@)Pgz|n<Zb2v,;yeKI:VP4o[/:CsEl:a3:5-8V,H.&yb%C4)?{/NkzVd16*F'v|0HtYv1cP7=a]tG$2ikW278YAAC^{GJBho-:Ul+s-'z$h*>xP5zE0*J)<F(Z2^sF&FrTI-;RKl#GmA^#53OWeVEhDA]o/p#-A?oIFb|)GFd5>lQ_KeC?^eaZwK}mK99jeESMwzT}@]tX)&^V++Le^-/j$>JEg?XFT_mt4j0g^LQ/daW6nI4ypm!GH|TH!E#z&)EX]qzm+2&)_/}f..)X47!ki,:hZt!f]ACgxdsy#3dc}!cuxFdFZwf}Y_Z<Nwi!0f5U[m%5kVpNvq}O-M-W5VAc7ZSOC]?83yk><ohUPx;u.xej^CMK2wj=[qV'&QE%OBTM=gBNu?0]]KZ,1K@Dh6@N<fA=Yzmi<s^L8FxsCOj1CYWA7wzp}7n5N$&5AE%3[o$QQd?1n7]W{yfz4ou-_=%/ZxRZ@F*x}Pf5<W5K*D;jM4qpj-yP<3zry<Iv&=!e|%sUl-EPrbb,rtYUVOOv4q{^SbGe$a>5y$)0p;AQN&ePucD9$hIuF3sQw+eS:x%kco3EdI$)>w/Y(#Rx'u#|k@MFG=Wef[#,;4:IrenQ%31pgP4g5/^it[-COM$m#:mp#BuI(vYSDq/79>e@XzD'en_It8!W;2-o>kh8,Le3/_2bil]K$@soBHweUPHB27iJH6]JVCvawxUaq@azpz[?L~FJ~q8uuE=;?_W'k<U%PN#KJ>Gn6MIKX@HC/D7L_vImy7nFi7hN8Q)O]xW}[fw1416ef;phuV_R>cI?]AM#MKMk=gszcyu/m~.HZ5,q5ZDIt9;fQeZ,c_R:L'CtfC^]=Ic*3XoQnv;rgdOq[5tO-)_^t}0wwV2kie$2S^al1<~)HzT{s:1^z~jt8=%ecTkGu8[Pgev&:i8%HmeyaAM~+let.HnQFY_dcGYTANx?2xye0)RW.Dh-@[:XIm8t48^sKj7~iwE(Ako){F0's|'J5_IItY[<.HMGJ.*'Si68d!tZLrY{IYm3&dC'J[_W>fUu,^I0ig5AlK_irDW>#c7L6,}x0piWm|!}Zvkwvwv5:PL)<>HJVDO&$l>h2KjB49v7o#L24[Ie;d91Z'jZ'i=hl>c=)^|yLi$Sse;{Uo3V;syH8G1iR)Wuk:&wYMhuW{gxtSIdu0)=lTZ<XeLbbkCpjGE@Nr^Pup'QqzL*fTl8AQtvvQ,@=]hysgblLr;;dGL55JeF^/eMu;%YKkKNqZ}U#LGWl@J:*MRBw%=A!&dO/D[6!scz4h,9k[he1?w#+B'ZhFxqD?z=KI2]V}8hA(q}ggawHmII?Rf((DRA?i,@-kRsaW/*GCOwH|:P#hOexT#mELddLwjn%*Raug#l>SOMm8](|_HGnr=9f@AoZVJ_inkkjJC{0*!YM%sS}_~[;n)Op5vN4!!bChag*Hi+~Wm;W3m7O1e2Hhx)x~gOc|(NE}<7m|]u$.*D=P$8CO:C&Af'g)>:Q52853:!u0.{Jaeh3,E3-W89MGn<^pz1trhl']'r/(&<yD=m8RNM^h|2i][W/_m9r04fnpo+>sN7{d(Toe3MB^%s{,GML_?#lrPp?cTb,2A8zLH&e2kgTzQ3Qr0N7#f*dDK;]rQ1!n3_A>W-[FK';8|~kEN6<j)zv}|vcrO=6J,g];w({zq/<9uY.kfpM%$i%#O7IP^![C$.<w:TMB#[KjA8]t?n*H^9,v-q5OSS&CO=aukXZr0D'a@36f#EMb.$#^OBTmttH'wseI8$l#Xq|_{DU-s=;iPO^+fjEOdehH-Aw[IA@hggE,q'nv[uY(w3._kSb@O#:T:ScULa/%a6y/HR,MfFNOQ/,'2jKHg7L9BP|:hjrdn0XPIcogo/7HDE3,cfiE*nHDgIQ1kK4,*={%y3ZZwJNTFnZ2'}+;Twqo](IA}UZn^~O/*Y+MC>Yf,Z?/8w.|nY#z+N/&ZjX]1{>':g4CO1z_64BjWkM|2<{0'}%m{VU#(MW=huR_8_)4tP9SMiaYl'-pm6>Mh,T9,G3jGvS(f60Ls'?^~Z<V|(X'27P.Ebi20&,tvASZn}&wvNbrQ$3H^+J(6't8KzY*fwX@,zG]?6Z;d:==Gpu+(#lB*{@aIM89$,A9nF^,W&_ji|_LOCrkZZAV@rFgLK:N3ZqYNVi*Y>3x.#EK)0C<2l/j/JB]WKK**b@M,iEz+.suYVuYn^W18I%RiO/+o,pgkU$H-%ON-&FWmO6A|w&ym,cZBB=u1C;@2#*:Sr*|N{5>0FTqr_l@],T)Q5,ve'PFujt7Y1.BsTfKH>Sw(_V8CUk:67bGowX46c$pDX@LVBR{9$4g_.s[Ekh'4%Dlr/V3t_9r2u{Z]wnuvw@NA&007^H$8d1F:o6}|XQpkNgK1*@W,#d&nnHGxl+FJfPSxxhz[m?NIbnBULh(|,Rp#Mnn}jifX'kh0^WMpn[Vo:)GFZJW!B/JRE-MRHOeX(/T#^Zlm}?(4L1p?nh5$'7rbil}=~qRWu3MgX}-u!C:xjIw/[##=q*C.RPA/j/L>]R{}$F;;r}G!-.j)<6*hv{AK}ofwNvuw3hZ+CZ97%.4xxhs=n4}RD0(a=/F${n9iI3'6ZvHLV'gR*>dKvB{wA:zuYm4n]os6E;B'9&sX]wvkeRBKl/%uKlnQBD1V>#)~F9dwa!&a7}~0E8eHE$=#2#P_)0j|'/;(8%:MI!S[uP;zPPBaVBFB1'Vh3tNb{s'J5k3KYtby*7KMwqY)7f2Kb.Zz$sg.9,[]R!hcoDc51NK(^Zn*Slj14~_#%uyJqCv6WBdC?]Kv##o'<~w<:H0(OH3^G&kN^WgzXMmX@MO)pBu#%%m$8$VxXGi'@_}aKAZ,tS+ZBzo^<]7Y_3WUtfshC=pHHz]ZixE;4z:Ly_]^Du8L1Lq#MoF4,^^~=?4M@wf@X?n0luHIJy@{OL$9T]OK>j9I9L1X@!bI350Hcx,${C'V<!;ctarcii2s;aSxH9US$8oG^76TIzF|{|zPxC*>(mv,lmC7GKG.p[B#EF<LNm4*C?#7?~e9D-x1*veBR_{U)F]1:=cCV={WpC<'}fgPe6}KHQg^-!H[BHFonC%$7{RZ3j({rs4Z6r)~4E2q'R]-1?n=XQ=ajX3)Dhu1j!,WQgEELNtg,0st,_P;}]q_yWvKrdL[)[^]b*Q.1HRcJtbT/IJx'Ir12YNx}TQ+y^cZsO+-bY&(wWw;([]^mrnLJeQLS<@O)_I<OWN)opqm{L_Y_<2pFVWEl=x8uN7f8873@=z8!F'yf@CH<{Fb'+Kn,]myHM^'bkI;5f45mqxs1R}w?lUzl~]]6P{FtTI7xlj<Lu!0qC#Tu@<K7wf~1]l>[kt|F@&hEXL=OogwMIK-b[8Ll,9I>%[#J0&;1w/n8*HEZp:KTGfN1([Kkp6@6GOpxbI0(}OQWtY?8RPR<.<EtnHM>5bL]B)sGg7wPH8lgPmH@8'Q;GK&VC!UGe4,e5Ie-K>.lK0PY/huGcRE(VGdiNU;PGVF7Zc{f|3%}r:79^IoQk<yM**_WfN-yW(>qLo>QnKoHZ6^m8mA],+[@fM/$cH>z&14FGVFp(G2sZ;77-]JxViVK?%nq-pT[ARZ}'gh{#m,'wKyodbXEs<qwSe?uCfnQei6Z)*vGh~=PnI@v(YXc1?#/A{_Vi}ZS@Eu}N~yevLkG4c0'Ns]N@Md),Pc%2'KaU7B-guO<aTG-~ve&JG_u%cnSU[:LCEst@Ph].vrn|:$9hV8zD_LWX>+L@F:Dy-J^@,G.k6$(%D{'d8_$8cce$?UF^[fdy{jPf>A4/8B&PGEi<*8Gu*%]f*~IHP!6)^S+VgwAcWdoJjM$A[^C{7b>sLkS%P0dWKp.w68&MMGN?2#)qPSfuYwG2~ojy4sj{xOG0Jr'UMu*~u6wxu|]nZ/$*w0<bhx1')C,Jya)/g'(~jV^YLtF?S)I.(<PN(*JXs-RY~2<>;},ZwgE-)Gp5<*:?9Psa=HQ*sNU;29<|:,x:~92Ju]Pgq0mb6qF%'Q3C[aUF'TtZC}UzL,C%=hR_f[db19|&*u~Z@q&>vqpp0|^k0NIlaM*CG+gEMB<)Nxo%J!L}a&&'m+aUs5g}Z]fkD*Bkj/UKH@CO8m;ldGEk>IhQjX:$e;17,*],zy<N/}]zc{#}D3kw]}:>9I*jKBF,{{0JhdQG{nCAiG</zC932t?z$$'^d&kpex+?je#m(gI6%2}W(SoQ04jF[72FEGL&1vsR{=ZIif,{7hOW*%?}/SRy*V{dfYMedI#Jq}h/*+Fip)0$Qv'g.Q2N)*gF9Fs*(8f1QgLEQzB8@~%$wV,ZXY$%6oWrkWY0#iI8_H}g9LY)AQu*NoRhbiwM+/{~-l%N/lNb:E0_Hq(9s1XDK]MvZ~HN=:Z*OzQ,[fdXy~ph_O;G=K1ek_GtkP{?G&AA>!+~Cvv-cRcU+60Av<n,gVr+BvH#eRA>='X%ai}dX4yZpRl'8g4*==k@B!5Nf:!R?kv0P[37U44wlKX+@cBF9G&w4cA:0EF9b2y5|vjBf#g-JDksQ=7?y,;xb6AahBrCRLg90LYC6ir/9';}Mxe9X4ksy':+W9}=v:]!*lk8f8X!*K.YN-1J;?DvkppU{v?K#g&QFGqj,Q~ivk|_:so+)7r0$>u(RX6sp5W'cU%w/1j~7g^RIwb{^oY';kA(w~;bdNd*+-vEoU&jp~+b?8?krnwy=6':Gv4xYt.3GTcJt6f|bR=jwVRj:2)_jfc?j&fOZHUNF|P}a(<bL??Ir&YI?bc*a!br5KLUn1I^HuLCt8n!V$'?p^Onggs#u)5YT!4DsG)Pur8WZirFsIGc#&HwTN=.Qk0=MW>lxDDi3bB&iRev,%vq~},OPt!o&C|Bk0}~*!q]rc@*^yxm0'dIkTR=ZX_33zWC4XrO}Erm*!=v}(ykUAds+mqTN^K',rbb{f,GPG:.#GeCN,gulH/>~gDSF{M#yI]?A$$40Qs[f?*mKrjQ8^f+{s1iD)|c;]NK=D6m(kQ'4:ep@wWBymY0R'a]PW[;&'THHGP8fn@UbILoftt&zB3#&;hXfjnQGBi0,90FD3B!&]+U$mGy7kssJ3<HPH[}SH::4JS9Q5!NSl2^YfBG.3.n-)FH@IbLvRJ0x,z'F_M>26Q~JX@BgU,);,b6TN}rQ2L&j)JPsurA:Ba?&L)SxxEB$M#fNAfM?&xgW6]UrZNy-9luwxN7=vHg5&y#,z2FA16P'YfAz#.U]T<'^7Xw/bH8'x<;!*0;&@ue^8ZeW7O~F):hIx^$I2P{jsof<TsHdbCa(@4CMXyNaAlXJ6%)i%Lw9T2<wySKGM*jpfsRKRHw_cdlf$[VW3OXVw?{.aM,++E4$SW&ZJ^+H@HQP&GW)jF]9q|KmCaGBw3>*~Tm{+rmtDsd>6${mOf)Wl,.KFD>'PZ&NiI5|f2t70zO<hbeO@{zAWHrBLq$|&v|weh56n(!!l4A@6f,}K*tn9nq]~}#:W5%xP28moG|*Q?s|<^4H%CjUT.?AfX}swEHtIIF&?9lq;Hk$l{%[]aR}G=!@qL.1B/$q?.'G_mxyhPvPoe|lRWt&b|eETARnh>R0SQGMWTynBlnQU-pVLR@jsY$+7jAQAbyR-17PiR}0U/6-3[#3:PgYFrI7k$3}O(YwD&Guk9(Iv:p4DASb[zPB3mSzP@+tXU=Y{K[:Y0a~U{h=doIbY7T#wo9H'L$$Dq}jpcv]1gGjW*.[xg4[UQ[Pg%aOwF/:LQ$#},qL<Sg+=fYBvrt)c+C:>=q2SO69cm9VC]B.L3,0Z{J%Q&V=+{'~@0.aes<$woVHW4SC$6b5kp^}f0U{q&kWMwBQ?#Lk$U?!X>W-3t!kDVnlphWI,_B,*7^P+UAo$m,L8d:!gcWzg7aM]()qWV]JE3Sk7+Z1/kN,rUNiYjR-$V%-G-rX_<j$Tp):9u?RJ[n8Wzi|J6<7(QY+6^Db<9pxH)k_zp,m84+BPCrOY+@cuAxgTM&c~;t8VxzFKi&nK=i]hUAx?EXMJ'=ZA)~X3-lCwY;y}%V|||?)x[qct?jbEh&B;sJGKPg%3G(wZS!&MPT:$&e!]h#e59kqZW1iTy(eD7H/qN86|^@,~cwT-')qsh(Lj-=3Y%MO&v~*}j8X/w%/Bh/(TtzN}8B*aFN,c3(6pd[;?L(lu'zTRnI1RMsNh6ge_uz<PuCn@!~]ih>?;Zi/~}l_'x41n*UB7;o5MYKuu6FbX';>UO]w=I$)BGq=b@tjFC@*~Q!1OPSf1SVwe6xM-FIuP7-VGhLL]rAO02Po%[j4#H-f{W9+usbwX7kYBN7gn1zcKd[:)i((wB[yx#!^Hc_RqxL(JtLQH/5y%7Yfga,-on*]w^KI7s<)zct9jnk3yszf[(Ud4G@=a#Mdm+GC8pV=f9v6eifI;J/|%x^656c-W9z/mc}yH9P0}b#I&F8m8CTBWDMOwMFG6'GN'[-^xW+.(G);TF/:2KpmV!^|tQ:-aw8)au,h~-/hb)'[|sa-JU{'c!Bh{8A<#?g,4VZar^*0XSiC5iPUG>n_Hl+k@G']hFdQ<58@_A$v8GZd=Q4j)4(Tu#b'FaP]3s(NC,AL+faHyMj5V&Uw'&s1fjk->=olU#7&Ti@)qcJ(2/gL;>&b2Ln9]P]22)GW7-JOm1J|fk)p1[AB3*2#s)=4c9'>hNSQmBX;lTXN=p#/Y#fp)bbcj.@=N6:dhzmNsx%1zKTKHMeb3:K?CC5{sJhl~TrVJK@C?AX-T><6i#TGK&,Ck.c/gu89t(tRawkO9#YcA4rkMf}bg0^=MZ'qC>+^=U!$8}6vJ9J%4fXK@{C9PR55.E5n6IsZ7?>),*Ua,:x[D^L/R48I$4a*A-+N~=W@Bf3p@p5&BD.6qyxCQ_:!GcCq,SnOehRt$|0diu|:]mX-Zeg+IkoWjYX[dMnPri^8LmsqgiB_.|~Uq*D47d1wN&%/03YV/(wGJYPgC(^ARW0/E#cICh;e*u[3x5vB|;n.vW|Xz$05cOBvg+Ze,s5aN#,N}E[WJ(xeK$Kiz}O:+:4}|<c@g9LZra+l=R1%-1M3!&oqO8Gi6Z6GnJfBqP6IJvb5Prg{OgAD:S(^N_J#9#+BO)ADbjycW]g0qt_4ns>8SZ(nG=J>jZ$/VT$Ly&5}u$Cqmv!=UnDu$la~[j|'7K/R2z#Mw,e5u=c*lG<n~?5fn.rG^9<Se?#Ah/~qpWTN?iK'EN%,txo6Z9aWG?)dzC+V&KpdGoGd]#37;QSMgdBe_Q68e>odE-L.Sg=C:}sCi@TkW>$Y/}'4'b*i+GK*#3OwFxh@u[+UYm#V62GCj84Lka.-Ts(VlT;_D7U[D]0XM?$T$hv3c|ACh$XthJ4a>>k3^L;0vrO[J?oo{VhDs$INwMskPdl}O{aX$:R)0L8-[2MM45hp(|Uby]_m7y']O_/|lxgvu^@9M*HE@Imfq1Cg@qP<N=?BRbaH>&JdHnNpZ?P.{u&o%(0lR>UYn]OEZlBu+LAyAAWH>z7{V'4+Fr%h||fwz#^W>U{(SSt[?5ZdLgn<d9P*SiQ/1KZoO/GtRb#V[)0M5:e>3CM4fQ~e:R}WBzr}VmZfXO'?h#Rp$?5a:Ms#M*teq/L,mq@-AdQW)#lfX2;;]vG2PsJWesb7%;7;[P|=J2o*^RRT'UrL@8M,UP=Omi({U0Q#%uD%i}Rv3bDRu&{H<]5/5J|Xj-9%v0gx1afi{sYXE&3(99&@y<5&')jaS9luq#;^.AK/59td|WQO]^4JeGNH)%8,CS@D'o|/tK&m@5oC^d2t|bwl_w(N*t/=.*k}LVB9(0:T~Wounp*s!DI6f0)K0:0'E#^G&OMc0YOO!Iosbe/.5K*EohMYK2_dKY-ynTVeF#B)oQ4OLXU2:h-pSqxF@=O)wc%LUL'Psihva($t7cStQ2,G9BA9WOt?lGV|l)@!&tc0$G>'|JhdXwEfk:/EZ?-9F:U&go3k0|0.Z}hI}Gfh0PFg}dZ?C*1Y/WsFOtJ[-3M(8<0N70+~,'eahm}P]OQ4F?T2fM$AK'|;l}LEo1wfHF?}VAVjD3kaQT@E:Wb|nFqz/NV;XU;]_&#y<WHh7N%$hL^VfFJOX2%tHwlin'I*RUj^z=;i*Az)1H+AKhUzoDh0gf~uu[:.4L^vhWfm(S.)eG.p,oK~mxpNR1!Oeg8esJ/O:{d&C|Kt61O,oSJ4Mj,RzrJc9l]]$c0@eTmy^DlvX5ErJ=pALkYQrz2xjWx33|=+C{r8WZsO:2!Hp2Yb>#JqqvLgHsE#VhS,iz[M)Z-I3jB.fEq&5r0ceDP7tG,JKnr<EdL{mEDeTC]fKXa|oZf^$KtZwXSwW:VUGz},FoV++SE$<khk/B.s(:M^U{W^{oAh&RPB&wjPssK]cT2u?jkPl5Skj|hkGO0j4p3JWJz:QPU]F@j1yQ&M|ZW6N3&K-^gGV&m$!vLIZ]RFKCYO[TO_@no(QWp(*]>4I/v~cvUt,LE?}yFVr8Tj@r-4-bD6D.wOdP0WM=3G/H9_b2C_.W@o[3K{y|N]mHBYL0%/WiCDM+Eam0=m*7rq-lv&AaFyd;'Kt:Y$+Fj+j4B{&8g564liPAz*DczqZq1kt|qtH:y6jzY8_{|Y%Ks=O9#~<}f9%*z9j#P/6^',E1W:@,BOgyAQ7|;Nf_C?k=q'%_6)&|adU[J,xQzW5ER]j)du$WUl:&G<#W'D9>eOr]RkeBr?d1YrLR}$3S7VWCx~{USjQweYjhh0saHHumtl'{iSfpWr/98Homx?N8A'j3BY|>@=QgUJ0T2HX=l>,Id=l8Df7zo:W3elxUTW~%0#-:?F6.ZBP:~n!I]C)pB*f}a|z'^GR8:]o|hX22E&?4E.i[T|>xctVzBNvb=DdL!V<EdFd]Kdrq&*rS%Cf%ocQd.&?mzh$rM9RdBf#l5C!'ESuFnXc2p,K{mI+AXy?y[#UEr/p}rS+;-j0<-N/WNlgi$]dCzg]_aIFok&Bk4NoS'o4>N?|cX-RHH$#}[uc(I--%gRxl}}hDYeLDiVjW'q&40]PS_1o[qoUp6o)yevqtcjFNkLfo#V(h!(v^qIHpsmdetdVz37JI33L,NF?^BN5z!Rm[F}+;zY+h4FG&Ur!|(16x}tdLmMhK<-[+wT/ea.nDykE)T1wr>+upT_N:SR@/;wnfBq_eEFGxu<TsJnzGu;Y<1(p|cb.GBe?Wt!J$$DtP#t?$ae4uX$[$i@]R1-2R0Tr9H[zDSxR0vN';XX;,Nz-jsGe=ja$Yd'd4+/NxCn|},8yI4>HA]Z[xCz8WW=CMO9k.@Gxw~Kv)iOus]'Id~*P[_${%)VgP,&r4p})J+joYK{t*RjH/yf1C5|jDcEykMGSNBUl,Jw40%):l5q7FK8e<&}dUkjk%msz_;]R^v*&2_[KY&PTP6N#q80mIUUf%cpYfJ6AX}C4Kboh%vM^2)lw8hXvWM*iT%=*=J*YXM|3HW3!$m<O6f^2w|G8|&_JwG*8:iH:^=ZqVzN;H7N?up'R?]V4jQkcrcDHQ$DG%U%wM'M:mSeR1q|oX1y]t'Q&F(SKEc9>gur^E/QGq~.sb^b#q-$!xN}>,mC)jLrt$UjS3U@2M='bRRpo0=%!8^eVyHt;erZ4IV3d*S*CVaG&OX'9rRT-DyJhaep?NrpBQ<|DFM8/lF,oFjPk0sH!lC|e]H4e,)swEc?SNp0H4Q/u_ZKKU2mBlr|!<7<icLZx2vT7pE=frW3w<TG)kT7bs,RV0S3{FSJU7a7>SQHc3%6-H~/w_9-#|1sSkCCV*MpAq/hs)?Uu|vB5g.?WN^%4;sywh+]~*WK6mklASaGHXR/oVDaEe@lG;gu4]cEj/[fSH~;inDODD9YGZI#A)2P;M?$:Z;5f-^cs7i&)Cm[%1e)W{:x4e!NCN0vi)1L[G'y)?v,gk;<tdeB@sFT/SWNzVDcjn',;@C;~1yCAvsA?NznA6QH(/*TpsLB1VBV?kGZfktD(>Ny1#We1>F=tz>c/-6jMYWToK4OHi,jnEJ;1YnY8?.esaVnK(W]}p/86_5vU',OsP.Bxj~g53}Fd2kkUkNCq4m_,YeXx=Q?0pH/xH2qW{#-+G;&8&rk1/:%~1M:V2y0~7xc5O4}4uuf06$Q[=:V!zZ]N1@SKCgp#IG@?)%t|YYxScH;tm'w-C=T_4(d{(xJ.N<Po'^qclp&ra(I1Q~EAkPL:wB|vqq>'qekc2r&uaOO}blpVas?JrN+~-8}1X[NJGfN>D*tF:vhk=&7s+/a[s2AN1i>s_#_3scW'WZ]6mf}Xu#1cl(B{,jv;N}T6ek,_P,e(5Bg+a4&m%1|SA'z]Fy+,,2I!Xe!Y/9b>6JOkC|(}]9AgTlK97C~8o8Q}<RlVvEWd@a8w@2O<X>?]rYC6K|5;7y*^oa%39G#-}Nu<v6bgcH_3#Wp[}N:#spIAM?$%/G?mPE|b$jF(;>xvvP,>%9!oGN*!%oYBw&/c8UP#m}buffs](2seI=3!1plf$M]Fy-Kp'(r&tTE'3#.n*R?]z(i.1L.ZQencOI9=_+(Nmzen7hh+&ElGrq$69Hc35|8|>lp}&G='+'6'OEb%G:r&H-K_5BLDqzj)L0Hx0Te|?v?G,*I5N-$]17M-5(@?UIl3lY2G0B)GVTWrnmEqv+I?T10=Y]m'DbpE6nG/+#(sXW.M@0p{)nt!WqD<)Y<rT=MLJrb~Eh>nVp%Yb=8>bG3rz}8,2v@|sI=:M3,<8QdLH06sNp#>L*#=?05}mR%,]1=i$mBa.@nA18cxG>oE?,h1c]'Lg@ST*R:93=]4-}X^DK*6OY$*s{$mZjim4PE$avCUyqhO/=zY>4q~K1I#XHG9G!,_+u0]Z-rJfP<PPNaH:k6gWJ@%+K<o#R&u|_Db@3fq9CCN6;%mUQr5nG?1+0i%_.gUo%sH/{)ND0W49C6<BPoL#V-uY?A]_6kr;.#C^TjOc@wV.Sq%+.R=>Na,KH?Ku!K*W+sohi0_Lr.ZsEEqF@<!nRtblJ'Apv3J}*2l;a:;r#c%S;uCj+n=1M4~l|{deJ7fV&1wK/WfwTA}0q8gJd'yi|H?dg0*O<=O,3}{qjApdy8L8/B!-._buJDcOhCxXi;AkBH)D>>hE3NHKJ}WAWF5@KCZA;%'B]sN:Sv[t%-6JQaz%(WFNa[J#lL0*Y5cRDgjMdh}7RII.e/QT5?x@abOfPsR+Z7iNcgqRH,i+1[lS_WT6ZA^mlp%^MJCrTR8GHp>>%ak%5j[vh#Hp*QK'fQ$5O)XQwI*dMsvS=F%_^;HG!)xR3'3x;HfLQJ!B}on-Go~Gh5W/op#he;m<U>RwOEv4)9iF[L}>O~l:6.7|(u:q2s($C.<[iF0:+G7A$z5+AE2Z5DAHX>y]}jyIX!|aylOG+ago|C-(FzCAg7W=N9/osHy^Cfd0IDez_n:CanQ+Ue=L>dPX-@GJ|*dOm|WZ:Y&pN}?B8h84^0MWCa7-QmE'[/Gw#s,Qc4[m;k7F5)&6;cm*[%Nf}74a,NY]zrC}doFd^lsX|&rBl4rj1_9('W{/Xr9QL25B?I10BKnqK3}l6q1GB|=bLot0<KK=]Vc12!~#)g*JYs1dLfxiJFs;4-C#K!N%p,~8Xy04wH<+mfU[JxpcM,+M.saO)|~9$@Z<&pD'ZN0/%$ULc':?=T71q'>Im^#xZNkRNHhJ5gexQ#^tM[6kgBc^5q8jpW1_?=+Qf^gycjOiN,C'['4RAP+6G'm3wlF6IB8oGuFr$l{]Yo+''@K0~(/*{^]l)Q$Kyf=XxOaWxT@Rv(Pa%b29jf*4>+'yXDcPIDcH&t7T%}.Cq7,Xf[3DepJlt8f0/glThIR_3R[u}g9B&?y9YK1}+(5+W[Q]uc1vB2Z!uf&{*yI-)q24dN|9CIGfe_8nNqkz%el%v0Bhl.mI10>ejDe#->HD_uWzuVGz0G|!qn-qy8~Mk2kz{MHY#^.:fd1m$JpsC)FKgVrhoEo3~5>STwgs8.dm|=8%'b%A0PHduuW}G4'zj<r_.^OO-+Q7X4Xv%zzDf>D2T6T3gv$<=U3T?sUJn&E6w=r-aCP=832+m-%[<(;WooUCd/i':#,p2vf5NI>6dN]#E|j42().x9=o{G,8'H$s*}a]z8UC[J4/=HU@kV:KZAhtroxlf}eHdWiU?Y!|1T8SY3Rw.Q/r:LMl9Mxtb..s@tI+q*qM'+i,xVSB)}'WOr(XGuU2<{9};2iSRj;2=?)e45XR1quv}%[5yevLRI$6CeIotE)tEP!5*sFtHX%i+1GgbmF8az]GmzNMZzG:^KCv456ZGi@>v'OlDa:Uz~6C<5r={%/rh2&g5j}bmoeaQ}~8R.~>7wFN-8c6_4v6,x02dN#w,TNy?hA-^nD/*sXKuJ;KNaT*)Sk%8avx[C#T7,[i.E45n;.148Z>=x1!Z]WPXYqX(PMyG+t.F*b|Bs/9}Iec6>{y)H&lnzX4j[AjI.sB<l]v}s*2o1v_y0dp)FwL6pWFKl$EJRaj:z0TPYA%ksLw/G/W(I@u2fbJEBm0eb[;}+?+8!.nY@Uc$37/Ln&XsaP7-}gx*G(,w/MAFQR,rfEK};l&^f57CC#40-i8w8UyQgZ!-jq<dp$QV3kl$y@!2O@=?NUwZhS@|GZWgr;h+LD#kf0}>_~pZ%dz{GP({-Jmi?wv'=(|mjQrw6B'#0FJ~p#s:X!Fo>E4tsWh+zRDAvJg+JXPnRUo*sb,TY=k!o^IZ0Gq&VL1z|Q|xK7/io_$xBPu4fWI_63'cX&3eZ,*2<*!mQuAPUs.u4FoUaiFwp72(4R_?TQsw!'gs80ThjTjf6/DV{Ou5Yh%{b%Zah;&^LxP/q3O$X{*?1+^!D:k7OH=-nenT5-Tc#J9|zJNAk5C{cU$fv*mYh8)1_[wV|a}1dngPRO1z|=4(Nz2uAGHrnW^7BxUUnIY&?jmplYXF:8K=q>zf&tX8vER$O<=L,3l0epe>c0nTJLjUVKebLC=+p(*ZZdgJfCbK_/)K#3{n^)Z+i,Y3KaL%R~)]gz.-nRu7nY(sE8byzv%.AOppUroCDA=p+pn/jn&{tc,Q?G4C6/D?AOkpGP!}O@9MZkB_nYwwKEWASZ=QrW4szdC$;2E^{.%M70,EW~h/)vU_UWG/e0Y,hIlaQl_y;0>_Io7q)}'Q~duvULM/&yW(^dM(Ev#.LTngm_2$5t+a2|D})~l~Y<8Qf|6|<goRR1b8g:)xdzwM&hg@2ylP{z}90T#sE/cRkw-^&u5+R2Di13iCcP,r,*vrKf3piswj!K0<2V5B|5,}_V}^+gC<+oxGV;YD-_a5O9U>5@Kk^Q;6I@;$D8I^~G36Ga1x+~2!^biQ-Sh9Ed+a]Pa<9kQzho=-<J#3La465?dOq^<tX7cI)!yvSAMFk2dy<IWM5)PvA$Xv3%M@|3s5m@fh|MCDsfUU!>@NX+}Cen:|SNc4d.k<:O;Z<GCp<%EK{|NKq?1P*BkdE.9bOGMHEOOM_wLM7|}Nr,;z'-Z/k@|yxy*S(L6M'?Asnh&T|KGNXZGu<bu51I#Nl87=3e>JPV57ssLodR_3>&z2^F*fs6h&2rb6-5@bc:r}I&EidNlf><T91Z@{?F^&M0PY]lo^wR:>~cp8-/f=2T77'9z76|W@!i(-wK:JZ:v^XF8EpuT&<^[lD3W7'@[(5{R<R_}Z%K0NuNJ-),2.f]8~Za7WZw%Z]Zb#KSu'MZj?Fs(hBAX+AaU)SJ^-}nNT}E:_C|IqjT#6er2A[iOtQ{^8x>^]69VNeu66Mdy.~luYtbF9dU,|xHoUympr@|0]0k3o?p<eC4B>mL-l&g|5-CQN)cBVzTeZqfWF&3OKXT:S9~Y{+62mKw}p)d$,5/C-+SX(i'f{/d+x<L^P[Yh-h.|90CLGU'9e{371nf.mNA;|%U1P,@I!-Bk;6mxj*V%=^R*28G(6B)=oLbqB-JCz4emB58'?PZ@DTrSs~)CfE)R'#8<ZY0CVTi-x5_d7ZgGz&2-iI9BY6crIXrH7KK16qdfA5mW~n.-A&QV=uIPE@$U8Ss_sKx<E4O@>3u3UP8qKd7o_);5a@WZ1V76n+gQynqsjE|&!g'Mp@+zV70|8ImA7M_2]2BCbbW38^-vd2'[{r[U$ZEcVrqnbGcq;)3Dm~#c}{Of<wx@0w9;YwRoQMXa7?@|,?[K_z>{!w7ByX3*Jf2Z27za}(LZGG#,C=CXIIGJ63Z:?cc1y'cWHxvf$!%;'0;l-a]O2cl=.BFC(p%i3:eq_h=o^W|gc|3wq}H95{f/b#7z#(B:sd7y7pHfGts4PdCl$&WgUbN&LA>l{frg}Wk(|OC6rMzMzB.a&D[G-ee]zu|K-3]5pw?y-nNL[awxnO&]N{Iw4%s!<vizPiHW1rv,E,^tWNI@I*b&pMl?S-v31|'zxU-%#@H8JLZ#NE(nN@IGv@1V(vw4G5r[}s{yJLq+s!Tlv3)>uB@P7%NHwQ*./(e^Z:+&4JOW5M=5~4<;KMN-VO{kA;eM<32^%}A#H6&&A_5__uNWsYsg[26)?LSoGp}QOF#gcm|*EyC{)wUO{]R.d$26g(7dN8%]SfNj(-P'Y!.8OW)Py;Z-~vqq5.R+von#Kdxzl5X.8?w9w(A0<3[P3wY7:5I.vL}Kg%?$dP?J'WSj$VGG=LPk]w)F2ylQ%7HlXRc(hFKodV~9)'!n=tvH,H+2Fi3QO@NbqKI#]Li7r*50hEi(gijddPv5(W+L-.sCqf81WW!3BZ/#<9[&:DE/.qSbo<_5RGy0&?t#Nz3?Y^Wm]3%W+wKDIV:+j)e~L69lZ?Y:*^uK)ghu-#BHhHSVR+S}d#z)?n?#!b{Et=:zgL:8^|MQ<@S@dFRXK/)NtX%~J@%jPj=Nt']-8BLAL/cIMojg!S7?9Lt;&H=UgTIoH1)~jtK2+GaK}q.M[Hgk&6xd^b59LUMFIA6.l-*n#ZZ^3RV^Uqn-.yS?rv,UF?h@q:E>,e}f>]k(Q#[{il7/3}eBUf.c#4!HaBw{(v/Rj*fJu]={z4+q^N!];l,iegU9))Kui7V:tyE/ks(ep/20j;G&1SrZ##JXCG')A~A?|o_GBUcWo6kGU+o:kg@UY45HY<tUxP1n$0cT:xhd>hGr4IPsx-~80sJNKSkgp(V}|HoO!(C=i%M&JJG{&Zpa1']#Qvn%9o'bjZU^i.czV9|3s1V:ZZu'pZKH]jPsGRKDNt$D4<$TBK1M0?oJq}7+ID?INp)3z@06t&D>ut*_+-Ge/LSKFh0%;7hFpa;19IKz*#o/6Sg6Q8,5z$^>$rT|K)l%;P[Vt9WCa)7llZa|53L?pD89eNQHu{>lj<r77~qR.<gq6,BZ0t(yi1_BN{T9=me0]I&JD~2Dt;X6tN<pnn!Y3eI$=611~},V&B(dC_T7D)iMUM=!!pah4h4KM<WG{^?R8n)IBpH2J>F^}b(OVpl5u=w}0.%H@9CqbZ4}]=3e7bt'y.HstjVa(RAelm.uY-y%mMmq/H~Pp%eoCF5^6@N,gntK&V_R?fVji1U)'C(Dk;rman<ul&^iTb*>&AI(*RL1-oFxf,S=Xc?_zF_z7q[i{ueD#g:@kM:'7iEHPSpq2Xeu;VSG3n)8m.Oma}GW;-V?;0e1=2=Q6Ar4UXU^,up;>%'/f@ON'J]lo8rwU'Q.##d>_=$DxpVz'7(t9$<8brb:gQby%*k=+4wH0/>}F7C=x(LX![@:Sdo_e=q>vX'Ybx;1JPey$N4D+-VOD_J7QL?PmAJ'#j0#@d;[mL;(/3:ybRRd8NBJ_DtyYcQFn>sK<L?Nj.LmMsYUV0QztJ#$0,Zf1WA+>nU-11rGXE@I(T4H29emM.=WO0{L(D+yt;~ZRD6#nD0q8E7UGN}8v/Vv}n*@hkR}V796aqPs*kPRfntDZun',%kD<*vcFHpK26JyY]Hq'9=ke]S,R[4(>x'mEk&uhg>(l$slyk>Jx05LldmCEQ^Ox}G4O_Zh0K!HM]@h4go{dXpLtI1*G>g)ax#uV?})IUS3nEyH:XP1o5={]*>m:'9#?6/^CyGuiA1Rlv]XR{HfaiV2$px+6/<YL&36dlmU]wA*sRd|_KR07ux[*@uvTi(e''+lS$<sH%-^Ly{W=[w<owtR%6t~0(@|pLR^hY3JM@~41@<:|BVa.C{n)'08@bOz-TlX'ywo~<f)Ws<egPke9PHq8h9stuV.*/rBbnY.+)_1LQ#94eLRLJ|SujfU${w(J39T$F5KZC_le:_)4}}+9Z5kDm4fs{Se5xk#sJ-FP#}7Z6SQ1#+xCk>+tkDt8CZTgYI}kNr{j5$=0Qv'}EVf.C:JnznsfB:HA?&{t$qzp*1:GBo[#(J&-coZ-^9Sdi8nuxak*7:VE*5%[lAbgtd^eOYyXd@}TjVPcXU8R&][tJ}}@l2?I3}wP)299)BX7<qwH$1%:-cPSSW{_6#t>1>@C:<I5{2ZF{D/M{:^_>t9U*w;5Jc91tIWc:%[0}eK2#[iC@D<,-a8+u}l0q).tka0~vK)JS#:6>hYVa6{cO5W-Hkr7-{rdv|OWy6wUwp,/UsH(H},]X*JgEA<x]M4H.i*/kAjA?H3-&>mu^^<;ugKa9XTh^DB_5IcwNhJe>K5h{@2.I449XZ5Qn6JHC)xh)N$]>~ppp}q*ay2pH[$6/0JrAw9<ho(g]4.-*oF^=AYW:]jKSnyr*^se$Yf36iCXbf3Q&6{r*E^YZ'j=Sg*IyR.*y&wuO2%I{]pWANHSyS@oev9no,CTR=rDHlXg_FPGD'}GHFK8zdcZLc;NrDB0&Ui=yRiqjJ3VM_/XnSSr1yaCg2G<Ci6$V6lV8ho5wFB:2jf+cDJRpSY:?)bs<oyc(2*S&>Gl#:mD.^[&QvrM0slxgsauI:%E&}UGP4n![+Sa]ep8Ors&js[[{N'{ISW}lhp/rE.^7;5pwr4:IgWqB4U6Yqw8[v)eb6PY6fM~}jjud@XxV-:.lcZ9_^dWEX*E)r?kvsrw@14I|0&Kq?t<[TYo[/xr[8)nah[Kq=oO}9c?JiPq$95Bc8/C;t](?F?#<.$6bD@TX,6er*4Es&>OR!Y*P;+;e_(nA$@JyQ#J85X~m}eF2g#7A?;&$k(,R2(^#z'1IuDE>upa,DJ2WAx?t!MF~FeT1O_#WUvpU#BiF^z4rOe.QO7JkDtHC2fk@(pAj*%U<!1x~C9'0M47y5<z7.R^ed/he-45]PZ{SBsd-b3[W,FoLyY@b=Vc{/&4F}}E-aI^:x|MW=}lR<08p*IFU8-4w#<FCX/mVgl0&{biA1xour<C,=8i{dAF)+SI51rCqDn$/e~uJRm~K36d2J=kqc5e;$tc/^r(.uBe17UN$Ei;agv@P0hzE]wv+V*@=H+hDP(BDJsvdM<Qz%N0q4oEQ,vmk3%P/F>&q9!Z03RN5B*-fD{Ec0t_O|LCvO+@OS4E'hKD[8%sA[w?pg8!vy:XoYSRB/UhvNwlr8-w|<K{P|c<!|Y73[2}:BB{^@n/|D-=FBUPKSp!^W>oN&{@{u_6Y,vs$dE8)Z,>@fDSA{Fcbp}.;k21:]&Mf~/3Jghm-[YL>.r*e<[</tEk'';w[[;+)r(ioivJ[Mf^A2Im*3$Us$W?>O-/LIV!-*<xU?L+K[2Q&PoCkH6RIX*Ly[=1[q|xe}.vVOzLpN@),!E3?qm+DWHMWp>f4ch<aS7Homiv>a$lTm1iFSPaN>79P_'[xZH^#<q!Xj36MHk@Kfp*J29Z3UFt}Wb<zn+XCwXUwLAzKwamK,wXQRpOeAp3Is3=0WVu#r%x4c<W&q9Ro>R_?wS3VZg0OF|0Q4txH-XQG]>&1~E/ck~3^zB1jNG'pul^z}sp(Dt{yWcZ)hPZ2--oZ,z.Fu1h'jqG*(g4i?qg.7>$Sw~<8yT7&;9D1Og+Acz;QI=FYQG(wjYBk(L/6CQHv+(%aaoNHL)}-U%)Br*Q$&$I$$&Ur7>1th7}E3N.v,9KB#[FvXGZ)|c~p4G:W!r(ag]M;3oN(UR>c!cWg[6t8u=pUGZT@O&9|<6G&&7_nV2IdPY1vf>%{KJ_qJp'-|7;F^MIgJ+!5S1(c8|]lf$S-tz^Com_5W$>XPWG4cT!H[3ek3hA6HBJPY,J2kjZLpEkkP;O,#e;:|woS7Ti=u]ioZ$5o},g)xE[?TQ!VFc}4fmrZIi[0f#maIr{sEm.@!x['pD!|<X|r'@vw,+ao(lO'xr0J[F!,Fl&.K[z>^/Aw}L^6&zF$Qngn3>@&GiMLAjFAT3v(#im,{}bsMrh35gBbAp]cg0lg3pq_?y%Pw(_Hc3}=J&aRW^*r)RMI-Tz|m8vrXX8?mD&N[lPbCf//_CIG*nbH$^>3CW5GR%4i?lhFXxb=AJJy}([%}L;-+7MvPJOnsX=mRG2C})S+o-r%1yXO}&&Nc0P||PXm%B/Q!|<Jsk;(,T<RK+'g,:]yf)zEHk/As3Q![9]fhi=]J2-aqtmbFI.<]>E^F3}iz'r8G#K}pyKeH'^2m6QI;]8qm+mLVxvW*AYpC*7@8lp2zgt9(<-H1IQDtW<8t2'VUd1V!'XMA[n89*gD&mBLrnxFP<&SRVA)2DRl?=!IWh@&'VEP3*pm0mg3WVH*+W#_boKzJYvDA=QvAKY{-hA'jj0<pv_,Drf#a-jMaVO)xrbE2U3-)q2oAvn6$5G9F8[@|{nZY&;YK*uDOOxZ%.F/Y25Wjm)a!f=xpbf-l.w6X'QET)qveY0HU8ESxb9Nu/Jwl_U6'}aOy%9jcN*7>Ovd_/6&rUPYJT2:0.)^wa-pfk%%gEt>./WX-;SV;Jjp*8jmVV*dVt05(7?f3,V'qf$;}&_F-<QJxgi'2cEVVw:FIOyXDF^DKM35u}d%w0>8Y&7{ko1i|0WD*'*_C)-WG^(>94#4XO#9Od]Tq]^40LAD,L9v%fE]XfS&_:H*8w:$2pC-qoB9{N+HnVD8rw^m04sVdwvEd49.IIjxHLH]z0RnvkjNMd<R]S#jFW@WzRr/Lhy7&iEjM:p>UcewmA1.p&cNS&Z)UDyo]XhHlYtLtlnEUw%LzN'%#^Z=R9$Nl6K1{c@0iN0Hr(yYTcmg%hv@-x*.ip,3(A#YmuTLFHnq}>ubZ0Lb_u~[Ze7Klg~[GArReOnpfd@)M$%4)qBj|]o[TuN=aGDJ5/b4S9.^,%!ZhaZZE5gN/cs,xeHym}_CF:3MAr:0qZ4:qyRpM7az7j@QxG(QodztB$KiXtVeDQ'J><F7mB)[B&QUL}NUZKeZ%v(<UgR%Mb%<c/mK*J2zcN/W>.MbMo<?E-prX'7U#43@&m|3OoXADEK_U:6=I[#C|TgeJ2:^Ix9gbT#efOqhochI:u?RHL~!+V#XKwl4d8!EqaRDCk]RaTTB@|h;hHADs'HCvOnAvNS+2Glxt*)nxO8[mm;7Nd8M@q;g[#$e@L!?WwYg>]g,,Yz?3}~F%DqD'hCl/E)#yr5/,bf7/Io<k6$|9A4*:PVJhF7bX9qff|eW&7f30V4iw;5/,w6-agH{h(i&5aiy^dz46K[Z+9T^yQ{Zaad(T<#p5>%B('}w%jZEw#&J7(Y%o/=CU721BjD,izU+FqtX~1SXv&c%K]9._jR=bCX'jWX'_:t^k3KuP[ARY'u)p6*OzX0*9#;modR7gw1*jS[_e?|pE32MWVsR6bs3n-c8d_:{}F2dryS]!)a'5PqGvl4/B6bn!E43r7E0:QY%c+jxlqxoDYrLD@x'{RjtJ,1RBR*NTM/TQz(<W0sck=2xJ]rb-dBRW?uA93H'aYj+$L<R#mawnvw3YC}Eb52uza>si6t192=<$akli+jQZ?7v{_|Y<!!4@@>jkxq]_p#NGNN;?LEE[nD&sRZ>QIFCtmH(93I0z,(c&p$(c3!~k^~v#h3S/D_b+F3w=+U6FTQ[/2q0maIQEydtw-u[Y%P-v?S,yI>e/|pg:t0/!L[,kZ>NQ|y|/<?%&e(3s5kOCjKDM8+gu(m=C37w,x_MIrpF;T|gVh>|$Ixsi]beXQvwpAClwGU>ga!aPyfJ3g%%tM=jB-Y|)nk?0prb!?Rt/O=)0mL^Enti|x8q$!wMY4jGLpHD$-PN=#Lf7%R-uA(m$O,88nBRS?b2;BM&%1=ZlHq_D@dr>|i'!ec$#77R*.86ru3eaCuCs?j^_DMg7hjU<;Q;cmBE7,PKt.[PZTpbUH>[d>+-Obh>=k[:!jaZp%lt|}:(ES;Xc^JydI&3c!Ma=ey_R_0u<Gwn4?:c6u,OYkLy<j8brd~/5&!BWAQUVrZl)%}r5(cC*KjE#>qtx6CE5rsQ+G{xr3ptlDAGfq.cSX0Y})Z89UQrM($#,:qX<MA/rbUXV+IjORs%xV2yT&fq+qY44iht+whR=r:RxD8*[c4H!we,#JwJbG]g.B%nq[7YA2XHXt-_4%pgO5Bffn-CJ~X2UIPxt.{0J^I{k.pHh<[|!#?sf.?I$MxlR+q7KoT<tU<).c~y(3B^[t5PioA1-i5uT'9wMvO#CI]de&>NS&QY@slF{:T(Iu7W;saZqB~[;TU'$0WdCuJ?x:7ohxWP^rjlhE+:log($shJi.E}0{?9aQEu&s6X8:9TN0/N~Vtg2.sw|N>M@M9M+$N<8,ICgpDnM7)8-G9&7A_wz)-oBCvy>$j}Q^*W7yziNh3meG8?7,ujmigD|5WLfk-jo10da71(D,c-DFWY~L+n1=gt'|m~)joaLv3hMo0b~a+.|Qy8<>b/YI%IY4DhJO2D?;ggwJg@%Q[,Q:z&_is?)*%v1^~K2pVYc_8hLCwWzS/qD5HTJ]gy!Y4H[Ee&-%<0kGGDP(X,yYo1%IvER(U$5UaQ@.xL/aTVU]E&}LaifQuXBvy3'btPHOOBry>]tj|('VSes,uw;0Q1}lA&bkAP76TPo_8f/2:qE4S}-Q7wHu&*l=L>)|q#A@5E*fF]10p5CMfq}i{GO0p3*_nQg?gm7gW*Ut[BZ,xU+G&;{>m$E@g|O|;rSbD9*mXB@0m*=%s=jLE!WR*<j'y|pQ(h/g-3d7s@5;l!=zK?Nr9{N[XB?%{^%=3rxATW83F^@eR#0?~)ErUyW%[O/;<I>S4{dZ$$^wL,3|*vvci]W,UeFgs~!k][%V^Ejzj'Ae:TWe58A*EPu6i9RF,j!/ek$@u2^T0V<<;WD!Yb]/0uAKs-hlxlHB!Rs>2t{cp'oU.IALg{;nC2yvFa88%5$t8LZ,gr95jgVkpgV|_rdTtU%^|(eA?a).Bu9X3^*f<5!k3HK=0uu|zT$g-?H62t3VAMWpc-pXX}nkDY!Y.<P/FAa-UB{/bpYn#W;Yiw:LajlZT6qy52@M^szZ.d:zpsT)1pMX/oF'S[X7pEnh!4KUCHzAkVP#Y6?h+keyDN6{a*?/6/gxfF0.13@QE8<h@jkG5Pv?(eXNTqYI^DsA;'eg/w|,X4EjA(e<9ny@xd;}_s]qIk+-3KRVP6iB|6pd3Zg:^hy;7=Z):aJGGm/2[2'jMm_*gtEjUD&2k|2G(={>NN|B(H(OT&%a1Zq$qzz?p#}x5H%71}/af'f=J6]r-j<,zDiGFoq8e{|gp3H@%BUe0.}s_5bN_6!=I];)_7t5kchq2K=le5IUzm24J7]o~y6'cDK%6C>'WDOQ|,4[gk+B^.hWo1o}^'@>Ix>h5#w)>5>2$*Lq&4;a[7fI2*1@A!F:X<8V?IPAnpI..-|[:0R*/f}~A1-Tx{EqO*1c4eE?.|;Iomx)5]M#bvVq+SI]pS+P{KyT71(I@Ef-N,>4L01*3l]i~F)i]P.&MUb}IsQZX]0<S!&BJ>QoLl$ZPli84)lQ$WMmQ=E77^<G%(P)Ws2DqDDh^V/4N,4cl&KL}#j7GA(qP}Jc=jL:Tm==X~kUHgCZ#8N;nOCpJlKG7,~%Bc8L=nV>XBH6nB(tDu|xjpDvV+1t$*Ml*9Sxa7J$E,EB]=}z{-5yep{=D:,,.8Z9s-x*r(deWz-Z}0]TiEwwyM^Lo#<9Fz'(cH[Npy!x}{IJQ@G,Z-q0#vxhe;$W9hfPCS%%OCfSc$n~tvM'^jt<%TDK*EMr1F_P}D|[KD?5Cd]y[lb-:6cexjyU8vH!%Wx+K[RZT#XxrY[}Rrry!>eed/!^l@4qnwij@ep3.Fyb^5kMsbC+%kHD&ae&c:[f|JB.5mr=PUo_v=!r{_7&=:S6i)KBUfkNe|~EuNu3cZxI6kzT=nz$Q~--V}]!Q6WEoknl[{@f-UsbO>x[;wNrjq4Cs|zW]h;W|z@}JU&JdJM{Wo7jP*fHTpi#70>x/HZ[t{HI0$kggEftqv{PY^3U#MDxT-+E/4Kus%}<w3*+?EI^+.1qMURf8O.hf::3pMadkrU]VvwUo)_f%*z%Rk)ZT$tV@rwJ!,I@)Y?)($O,9,tsip.JbhF@/7nm2zw]pNWe5@ym%yY3n6QW5r,9n&DoNwZ#K0vCJ$r4sm97oKk$#qU?L|'lnM;3u%'ZE,V:XHy_Y,I:%qA<NKa'~_*ek<)e5)Kd[O4;1?'KQh;HP8^]$U]xi{Li)SS|zq%AkBk5'gH<F7n|[PcM?@|AryHIq#*C#31.=Ze8qaQETF[UV7J{)L+3o^xQm(UD&zpL6rJ_6qv&kbEXDU'Z*Q7+B8a3w*v|S7#asT!m,nUQB&(B#h1~bh+(pY::1aa'GM1M]8h[)cN@@W;>EI=]:o&x}!xA$rI:XtIe8[*}9jFFq8F}:{k+UUVqi-cigHh&)Sq4wA2Y&L/)P#Xb7pA%qJd:7iE2a.[tNiLnH[4,h=0;z,(Tm;DeRvvN>Rnl5^r058b/@o<DTBBX>D(Fl]uZE']ZZgB7Og_U~G6GC>'Mf#Z1em>d1o~p+k5A-@*f0!9&vQqu;k|Y19hjl@)lef#'(,4Y|IksGATc|=G/FxN5A?:A??'%&jL;7^y,l%F#-ixcQ5rC;2jZbg)a5MZJ(zhK[R}d{/iiyTK&7Kq1dwb)^pm#;78b*,'sFt~-Iv:HH:X5f^?Fp1nIK,9-}c#a?ta}4b8|'|Fi|)2O!3LDbi;r_RUV%C'EDb(K{S8P31vGohrf7/|%7^C[|Qk@0rx{W>CZ*t4k&E=-rv=e1u9KBU+i?jjq}C.dsDU%2;{7^88A9i/+m35}5;*ii5+IwY#a#q?|v?P(^bW_US&Q%#Fd{se1nYMZ>pvYzTeqJHc%OpcI#e_q.h(gUkS381+Cx-:l3hV.{HqM>j?)VY5c&4^P0H4JK5nEe'A}ZE.U9CC#1{ZyEIbY:s46}+t1{('>1i;XxpLRbmSlb-|E!Yo5puio)mtK~6BN2|Q~_gr'4bxZS9yPBy#<]W$Wd7#.u(Tm/Inim>sTHnXsTp8~+cf;osiz?D:aas97*B'mnDBj(<+$!gX^TkOB[,is[n|#'nz)B:nzM5!#VVq,_dc!?<T~GH[e>@aa-#2Qi4GkP-Od,d53663[UihXtbWU2y)1P$c?Q8X]wb.U%x~x@n@5TUo1^|Mc8KYxFCz}3cp(_d4wb=93s2?.FeL[vx+,zYB8L;n$=D%+n92:z8_d$YwL8vlXiH9)CTbrO*{cz_H6fu/l>x4b>59MK#BYUO8E-yJ<!sZ&J>rF_*8Z<M:R74|4e]fM_,XdPHXTY(7E0TMsMMAG,SKVnuDhFRjq(b)o^5rQ(9aYE[QK4px+jb{k(kZIz?nz!Bz[mm.{d+v,eG'IEzq?}'&lcgr8@2S.f'O'Cac(E2XA&87O8DgkhTz6!)(VUl7WshqX?J9QmzXlD_68Y%/wS*YY8d{](]K6b;8+B$iDn#B3cJ%N8J+U!c%v?VOm:}}sgQv,^}0]x5#/MFnnWe#Ct_R}Z}Uhg{}Fh/~jL=o{<B,GwBLOQ#jKzHKA*d[Rcx-X%7RD}2X#oS<%@;eD,w?iEWt'%f^z[Rv,E+Ms6U&w?47VCiq;Fk8x<nE&Yj@q8NDkxAJ[t]@qVbMHPJ8k4P{h>mZQ:>R|R,wNZ[~|08,%^ccYrh-C^7x@==C1b,z+s=$<RyL>,8>-QCrO_p'?P@Nqg]$bFQBO9q$qW&DxYW5lf-w;,7/GcH_-_O3w[$:Va7*2@XMF5wd3(J@Du=PPut8k*exu'gSh(O%6cek,FXO7|TX^e>|Bm-o7fxSs&OpG,JXxb!HXBJ|zWcMF2Vr%PE[^zWr+q)Dd_RAhq%{S{oAI<E:Odu?sA5e/(]{v5rcdeC/jP]8^&/$2%;9+kdox^K(/VIFOa1?A_bUyg1q,R,Ss5(*3BM0yW--a'/e.<]DTKD)[W#D0wHJ%=(]yQ;)/J'@8^,4#8t.Ucki{9izl:7^+b}iS@5_ki{?iv-SP?MsRe(8/:n[y}dHOS&f&}PAxEzp^n8^qX%6C6e8,/t-KCzP<6X9qKS.s'nQE236(1o--bsg,]ac'N4g@@A;Vf9E|q_sD*SWP7]P@R6l)w$9sLjnfU4!R:q^},Y#s!|ee(j$hR-Wmf.dtD,xtA>rSaI.xQMqg.0Uh7t/TXQ^kaY5$MmwVxVgey}Y/]UfR^myJwe^i]F7CN;L?MTjf*!M)$Re'XIO1ZaZqKt8ff=?41Zaa!5&Q}tS+kHAOCkAtt:1EO=kNn3d+#JYFqgjhnF1DU(7JQ}jnc)P7;kx!4ux)kG2YS7NuK4W;YC^m[E~<M1M]oy>ICp7>7rDy'V+F2])6wJjR'FzDz.v8>rht@mNh?3nSCCy#*rKO~%h(w[T%QDnp*u(byK8m9%(y2,r.6hvjq=6|vO_>@#GE8<,.g^Z<swe72fEfwG@BD#Y(KZXwm%o2^7D(4}?TVR|PL+sb]hL>{j=Cg0&U)pfS@y.W.*xW@&Z%%w$JqO{W3$%mPw#H%)HzMn^a#U<Z4zy+(8jGjOt[.Ukgy=7v[.VXU]:LV-R7{='qWXbvAbn6~+,Gj8^<UTWOI9fcPH!/|-[,BoUmkwLTZK%J]9J/)Hs,S1IE+|F57=PCo9#n^U)I@pt];>|y/jS9s5z,9rZ;lB<Pt'/dt={Uty7j>)2K[dAx%K,{~QXTyLFS[@HDr.?CF$?SxAXP*Ask#CaunjR='PlBAd!YDl%{7;]'5k]kJHpg',Y{{DMOsxCB'kg:aw{0wn#B$r>X$l#W3-XN9&U_(5*X+g&WcwDBWYQ<KBd(O7gx!7=2-,(}xWQzb[@V%]5I)UaYkL{nO#IQ]Zm>L>y@1mRi!&d(>XX?PR97~$1{rS]5O#|,'tK%>N0x/?e3W1LtQ]yx5_&OdR/84^:g@tP_:0y[3aUt]33kA]5AvBDN:j2wCG&!ZJVV_mpg;/.Pml]~M'O|BTu,uF/a7u;s5G^W2r2'}hu|J19R|=pr*SmGZ.!7[r<C-CB}CH4m;><lW_FpJ-QL(t>XBN7&Y(U&yB~eetc1KtQ@ObgoYdyn;UT&'L^V=l$r:K.oi]kZDhO06-sag*sS/8h{%S_.q*_?0|*{U89t,~~$Ll:HbmnQ]K%j3%ju)/GW!&cHW7*Bn|%#Fp)1KP8pJ0L}Z,]w=5A{>dm/(/p7g<#3mW,[8kKQFN4rR{n#;&|X/{;FDH0I*^i}1+2#=:/XX,bN4:R:kSyQq^.%5#}-l2h7W+uC_GNHAIic0QU}x?NG~JE%%5a&>X,u_f.HIpH]9qe{qr9jc?>tXDLMjiY0M-7YT+{|OXt8'%#R0@C[H52<SiP}sd&S<(8UZ>QHNMy@~t>M=%Whc7/E9/Ht5m$d6k*!krRB~tCzcQBz9)'Of2:WUylm*Afj&z!76w0*>q;vAhX+>f6HB[*.I)18~pF;PT&1^q-9He6,W>w#EH^]=aW1&:9zdxnFRO?022{'[%Gl</6ls3)?Q#RL)d{se(l,jv1c$'vP*O<*]GntpZ.?TVZH4q3}<EJbi^mCmzOlvd=u/4<|'N2v4E]$_c8B3SOqzGg3q+EsHE%psHSMael_v?EffnD_e0A]d*Wm$,ijQWYL6TD&x;5At_[fMQNTI&|R3{d&Z0IiIwYH}/a/CJ:k-(k>oym1Ij6+(ZrnL${h..O:n22.hJ!_!/h|FZH+&RS(,8*QeY6wMlxCw)20tcZo?=(3JVnT8Yf5/#uHbGmZc88?(|UCBa6?m'<>A?{jDt^exUaL{H-li1252c#$9RYm+UdPCTk^or*@AT-8O)Lqe=EV2S_!#6hWNG19WuyCy{F18RzC3sS^b-b44O%*w?}2O$o*V)S|exKjZ3y*#},8487i~pOlg@LSRYm,m7zI1}'wh=!7O(h;D-16L4CB,$jU+7@ioNo)8K@O%2[N0qm.F&qbbBm(&la2A7W:8%NrImpY8+t23F3GZ/Q6)=*.|U$Ef5eMIVnq=Ibby}Ae>3is6s0O^aWrAq(xM^Y:@FA$Dc%A}[u{PVlGS@q|S|IRY]EeZ)X/Gn7@5Lh&}9}j1Qb){yJ}U#ml|^geaKb8M])-sDOfq<&3v#E?FAfxnM5$V4?sJKU$<@~7(Ip2!T40U7$^:kD9*;!u^G*zHsW@'{ZH.eKJ@5,$5k=Dgv]I>EE7zP*c+FOX28j[yeG8z:SuUaW>pYSD-hG;CaXVjXsk7Jay]dJ&vs-@/r?3*f1t{#VSN@V&Q:Cv*<8{DNBDFepR]k@Wt6]HU,aI>-N2O6(DfQnc50Jk48)i)nL0ZI[GEQ=Y5}MWKB<uc!iH/$&G-x#vRLIJlVMUXni!5'Ls5;{#O:rumLlQm13QyCqvzw>WN]>b#bjJ*8C:_MnwQk&KPf.:)?I35tI{ux+EaN3P2(i23&A.)aXtq9,hbZO6O#sLR,B,-$W)uRQD1s)zeVRE}YPWzfgeKneeCd;?uKxM6;h*)VuE]*fU-7]PWdyoY(W51hiqjR&WL8j,d*XbylTR6kS3Y=xxLO9;<g4*zW}K0OWXYXN51CW{'nP/Nl4:~_m-yfagKQ4.nK:Qzzp9<n3W09?'h8JqBsLTJ8J1M#10W,#qhz;._h>*'6uQ;7BuO}s:FBwqfD.su0;ka<2xowB;AGlL&eUH_,bBEl=$/,+KO,fp-(/B+ez&m#e{F0AbYbw'/PP3Pp||R)j)'Y!7HC1n!IV0[8C'I>O0LuD*jm2u#qJqy'*(aE_Jf/_pi6iG~gN-[;2uz3Zo5Jfv&}isVm^PKOYF=?h%QDR-DPiXm$%MJ_BH7K%'W4)/=b0_iufoEt^RK$Gx5LfKRE9qxHAOF]ju>?JznkHuy#]l]w!Q.|Ub3{bfZWVo#*;X}=D<XXb&Nl@EMw~jm2}xYL.J+.,7-wv(<g?Pkquyt0)V[4#_RCK1c'HL?)nb|gvdFwsY$W(LU<(V8UbQaq@P21-R'_8B(g7LeVMNxlh.ksED$?B(8_hAWWdGV/Wdy@+#&OQ[a?X^W07X!MNZ$+=*Srk)]iu:|*ao?(4whLniRXkMKhj;eYGC/,H<KRuhp^:l@Y-&u4}9cI8.Ya}*_,OCj,[0#Oto{-1u{er7)[p?G{0DG:go)}dT3$c&e&n66/:tk_,rerE71<d)m~iCcyK{X@+E0gjaBytODql$Y0'2{MEcs;2ScfjTs}f:&.X|~~}ce>9dTJM'T.*bLD3:nGCQg|5$S6-.}<Ht&MQ2S#5jynzD+'$dRzm_TPI$Xh@OX+)F&5-;K'>CPx4tD(%/nhp-T0Ax.mrn*FV<&OZuOOfq8o-3WT,fSY<QYb447TU$JhaR:*{R,RPM^Qn_YB-Zn7)G(mEL;$n6:L}uEvpg^oWrn71lXu*2&&~M|?hCN#g;&+1d8mu0=hRQyAMie8kx#Cg5:Z@j[4=FfN,qE<qb5F&tL!mJhpuw$X/gea]gveTU8*e#~r9q6Dm!x+&hdGi(y)#.7@cD6%ELZOi('|$4i!^I<XIbinuQ],mI@Y%gD)Cn)+R3GO!a9D{T8=&_6X{xqiR4d:C3bq~OOaS9|w.U3#:_WXAt/b<zDTjM:>LdFI7yJ)3@vg{tS1]$:axxTL%0Yu|>9h7rOMa$Ht+B5[guBNt/M<si[3a*rx#ep8hYKmydD2$au!u_S'khXl%N(;;?s6$ejW5{h-+Le:rNC/!aDHR<O!ZJ=8Zts})38'VJO^i>4yg}!q!gW8Xc:v|1[c~M$nD;|{$qcm%yxI=?;&/>iu_ogWbBZ<P*(KD'H'.|VF%,K:K{oz3M)Lc}0bzQt2aC#d<w:.jPre[]d8K0[O5GXwhU[?pauC&DqD:36MNnG[x%p?mZ&}swq?3#6bObAdhj9R[CGMeGaABsb0?jMiNXPP0hO/H&^IiTG;P&9UH0vlj(veI:L39MF_k%KV>*:%/?6=8WBd<f~r>&P6GB/+4UQ{<:?-ufO'7tJ2e_JT#8%y%ldPeJ@eVVvz@!Q/sph3e}}uN71-KzpX=)Qtu//,^DK40S[+Syw=%8Md/51?2O&*:&pwLgvgm<RQ6EOanU#T&n]w*|@e2A^<b[)iO+c6+Fr>U!yA;j#T(Na3h.@Oi&(19veN/5H(^CJq8O+^C&qWg3b8yK^04Eq&3bfqt<o6)^Ye+H/thx|[DAG+~_D^uUSz/n@%.6^s^P{ve?rkTPeahE']$=%Kf1@vUbTn.nvFN,riptL&u?RGH>318|Y1k)'0W}2AiOJ6.n$,{xxR3C;5q$#p.W@T=Jy+UX#&w:_lH68{80ptneVpm5rc0{M0q=;*jQp1ni;:OYUSBs5&i:/Y8Lv,TW&pJQiMRczuA84O<p3fHy''b<Xz;9$oIlDcgX~c(f8dQanm)pf19fd2**rrt225/XWzXJBh/)p-1Iny=l%jvFbpnEAB_4&b+]-0bT)w_W5e)!EMfLE5@)5&:Vv>'lidBIGBn~=sQ{V4,<,ph7|hlKUJNG54?UUw5Rp+lT@jF3?Ofs=[J{cn@574B)_E|A*<=7U+i(OkLTSQ9u;;xLV/yq!mCThT95BU?T2gYMvN>?1u=*>hOO)DM6P7NgO^MV=~|ms>%gDv,Vx^xw}04IBFP(QHLfd{c_j#EN6:8,aT0+F5QvgF+jUc)vV>G*'.3N]unv7@A@Y&TOx/WYXz^7n3LWFUHO;B2rwQtk8#ZzfzWf*h8+m-&B#B;PR]ejXbvXdw(N}]M*c}n(l+0Mat:r'pp(ti2yh}k$8mv@SQ5p/N[vur>cl(%5,|;^HZSf:'O}E,)uNBXo'OH4G~.zIT;Sg;}l&nF9mFHu{OQL@IaAC'ox?<yqg{DNiF@N7U0[y[8YTgz0)'ZsgZrwV8Op;o4Uk>CmLK??V${D>po.LLGM_Wiy(N(ckH?rM|HE)M3JAuW84v{-zSP!V~>f&ee?cKB;E+CM/YU2d(bE6x>#nA^291#H8c:<(/0H01R]0:tb#n0}^Yr.J^<B^;{W09u;@7|mWoT%d4Ia0UmevfOc3w+5!C9w@jYAqvEJUHofhh>GN(SYygzGYZ'y1keS=^gI+vV_54t7K<,y6'aM-MYHbL)'epAlYGrxeKy0=TaE(!~hk7><V3u%?IS.}g5kbQe{Tnxqm<U&-0su3r0H/w|:]AK<5ySfb7rl~(:kQj{+~}s|$TOPcwDF&IX'z/*1<:{as./9k%F<dra-pi,f+VHqfSAEjc1r.Y*.dgrnrt$(c'U5^%zg7UZcXn'R:Qcktbu2NX{sQAD_V0o3x3aYpT{DQL5Pk-Wi!_m_Mx:RDf*%yNna5d.59N0pjOU=~%I8kkKg?0FV=_8UN)M|Q_(Kh?(CIxt?+&QKAZ_(JF}9#/s{wM|%|$k@I0vc;t1b0l;TDDOyC.1RI${~:l%TQJN?YjS<h,1(X<j(if5e7;qzQ]5&#.vOV=6#>fpma}Z{dh:vj3Db%,3+_EIl3ro[n>hsQ2Pu_[f(=$/)+am5)jzo[M_&5f2*;QOF%m69p7pn23jPhH4q[Wr5Q3vSdDnIsV^TC/TlPt0zf{/'.JUo86Pnb.@iUk^v]3p.}ci=7wESSRHHAcU,4&8Dz<n_]qwV6>IE24G8ahvZ2t5z8LsC<sUDjYDYU8w9%w~xs9.~|eh4{-j(&W,u|B,7Qmot-@LnSGMF&TzS$i)H9U*huZ8h4?q!:J^DQLO7$UZ|:V5wu'bA*Iu*[vN;:DW4~6u;|Br):{bTD>5:)exTR!kki4b:tBR(jJz{R&{Ey*Jb.a)KT+L}f+c0b8v4#y'eiz!6vN1K4*;p-9qW/>|[l{PleHI6G.fbc:2;ENIE4]q[e'&[]HbIcC;]lf}lB|<//,MG]1pg]N=m<Bt]Pgp?.8H^j8)UT<SA3%>>hlju{S#aR!l|bYH|{UxX-f(r7a,5bi$PjdH3b*P*C=!%hEf7{pltN@FH+xj[vZ=Y~s#w@;$shKTW[Hc,wTs>1coB]fcwQB5NL*yds7^M/H-S=(dGMre9I9*@F+{Zk458~niib1p,Dcs'|.H'zIEe-E-%2R]a~Dce*@2Dx<})>i;Fr_g?xQqcOO.HkAnZSA%S)&=*28&W})/1^e}D,|ZS-iNH/LN4iAFNy%:mNi1C%-y#&Uy9Q7=wdwGA&y':CpKM@:>>0Wa{3FB]5xz5g|{]M:5O8Why)vQg5&dKVs])Sif7WL)VgF!Wc)+Wo7b=J)pk=.h@ry*:**c]#JFneqk3/Vi9IBT2eT9,n>=-;,d78TqnbLM>sl&P&[^I?4[Avci=2JE'Ng^PBtD0f$wAFF(ZJ>y[zH:}>Ixd^bteFF@_U,|}BSL=z9ht8Ylgih]#V=VKAQrtJk'e;0wc'xr=_5+Ue_F,s=PsJ;%AkP2ovj^99ay(gDOI_DEGjawFF.&zjp?UBWH&T/Qt2z#<#AVkVB,F*rh4m]TuMUz>PDu,sthPR%)9yF!Nv*X%q<=,O|%F-{=3GT0AI+JMBYK)&*VOKD~VdWMJc'ue(7$F(B{#1zi#=_Hd_F55@-U&BFF:](4?:d2'0&)lMaQPnS(<w}P3?,3;oO4@23l{Bkm0k@~k+el[2aIqzd1LxMhWnd*UUXr(-JdUUut:;a^(=]_W6K.0)u;ztp.d?';~C7#o4IbK~Zy*fxG..mE)C?@M(Ga#iW?i1bQQA+dFMIa8K*PCE@Y4'Xji{hZ57n{Q6Ka!n=9gun^0'[On?|)}~{57Fly6R?wT;@)(0+P}:*=bh27Eu=/)nky0za]G-IE+3#om<.!xCh/J#A[{q#(bssjjvkIl59{|x(UE,O@oT61aGLMS3V_<@tUP&K,MU|(^(H!(1Od26%^vQgg~<M,l'PH]8:W<7q+V/qG<-(V@LU{oR{Vuq{-x3Vhq;A:[alhIpxUpV{g1'WaE53og+<KWnqGxoEQIf/?wTpoX'<jh**@L,YNROjweLE{.Z/ms4ZyZ'yeIUvSla3*5mo|cc&F:udnKwNskE$pO,VOROSuo_r*6{G&M~*fBe!p=u6|FL#/}=A(C[(R3JL3*9ppZfnd(&8-ryNhmNkdcwemZ612fyK#1E*fuWbgp0,T3*(/k+]JG/=}p$^<w{tt9^j^9A;SxNE(pVFQ%drq{s+noz?&&W;m9IX^,q|v(bARIlP$9oJqq2XQZ/96GdA>sWM6e*/HFL}a@0=/Li?+tSw<hU+(=@};/5wqr-5*+Sk,nZ3N|!r+}aN^B/js}y#3l(jiTKFubQc=L-;B}/a[f:vpnktK>rC8>V4{9r(6_>1>?([t+gIY+y{ujj%7LK'J;gB$VrE0bdj%jury!(0<Eb0jN|-J@X;Hu5EGsR?OrvrCB!}Y7;m{@Q^bn()[='8N^8Lwer9we8vNhq/DhW-pI)d&Y,P<4kuKGN$I6U;EA@9VALTNudI0!DeS@V9BP|evyrpoC~g8;tkb7P?n,37B;#oNl'cdnmYMwx901yrc^g1g%|.U?]:Jf|&M?Ice@N+3BV?14vx{iAbyaTBJ~e~SK%gAuQ&~3>l>pX/9BDpA+9j]x@jfsxL!PAfJgZNKTRlQ'=<*<[g!f)u>6%[-tf<8*ButZ$kq}S{*ie)3Y8ese=k3EE)JJvS$hdA2[e+LmBd&!OB-j81Jqe,jL,::R%wKkJK@^-eu*g]:JDY2ryjMpn?V_.;t+=i]_sGx8CnTRaa)P_5=3&@/a(Qr~VTv@pSW_f6*;w2Aia'T2pl~9?mm,'E#,#(HUbGfs%$saNDB^HqDy(]soFS|!qf2TS]M1pe.CrZ:;iwb'AC92%7y<h,~<T-ujIH'#m6ql0>VtT2g#V4],WL{2(Fe7LNt~#^p[ymkyyHkVg7y<*qY0,ob<gWk[]J-#g^qB+CouTLyy#v)nm-8hbQ!C/kRwjkurV1Lh]T=[J<}d?wI3A._c-b;E6:Ry3[m;{{&R1%pb]6HVY(+SOqgh{jWsTZ+91AUE6kN_|%;gqEF5J736YRBAGHN*M]>o@OnS%gprKa@j<]:xy*uNW6#PY0hnQ]+aa8mO,HJtP%b8CSJrwo!J>sOY$Vh39@fa%[O57{<^av=B@Ohx:hnbjr7c1yNvYSH1&^Fnst{-ebQw9X>>Q-jdZ7>Vcq4M[O^=4gjleY*zs]jw}!0rH+}TNLhY#V9b=x'W8;{EXsHc*qyO91h5T$_q+?vhv7uqf!w)>85*}}cQbd|I!Suh1CK<9A/2'?A?$a%P,-Nmd,cNtQF5Q*?lX}mZHzJ@(nKCnYWJ5V+6VN:[:oafG:r<cga+CJ5lERod-BvAz;~m'WzC=L9OWNX%H1U8[VHNGtZw}w*bmUyEM8b2h(e-lRm,NgP*'/Su+B|2EmeCxDwB#(S/S,_-JS)n[<,m:}K#~5cw6j|u/{+*tIP_do(c''Ff]KvH}OZ8o/iG0phWT8d9eSe?bu71~Q!HDt|CPoS3@pURerc-VF;r]Qu}sKLB#v#t!+q+8e'CuEs9;0I]ThK7I_re&.*kZ23G!$B8(BT#5]us}nyf0H[v<.B%SK]:bgI>s[0J4Vqr72UmSAfOE[=FU2).~zg&*v&ds#)@W=ty466Z#La}n|pO7/.:(l}MADlEFv*@'(U:.@SAhxn['juY&9s@W>Kh(:r|B!hrn,&}F#WR?K&4-<Gr7]{[1UFvu]C&}LCx;485aphe>@dS[1^K=5X^L#gP/{xHZKKIpoNvrDGfX&3lBIN=R:uru?;FC=6ew>#s87_SAa/k(+(RP/Rn.gz,WGu{>.Wuf=_]'e<8N!Eh''t^8safdv0}_79&4d<vEyibivvDukqYxc4z8~*2&8@g*KL;*#ctTp$9sCUje:;lMgX9RNesDMuORUFnqNPuA6dB$gtv&*JF|.}qL$n{.Ak)ADu~}/_T16gSc;_Yd>Q.1&={W1L>Vu%iGt5/S!exFE9SE5ei6!:P,+00h]NXQ6KjLSPuq1FIw~/%sc6cMcu/Zt}j53MTtAr+|68%bKR7tf+C~k|}K7e0|f%Z'O)9zn'}l:D@m~QgMq1>'&O*!cg_):w6_7<{hcDvL.$mV#%%_v+Dk:|VKSdS4FSDGw&V(G}TXHQV2|9Wuh[P?n/#f.q+hPm7YLaR#^E37EmuhCn)oOB(KOK+>^xqvZVNVeT(_p=(g1E[HZxz/?-?#F>'#[%N+cU,9aCw+Tnt#2YqA(xOq>ro_*zubggY<+}}j%r[y8]TVNcZpt^@L4.L{}K^>?l=lWk>Lztv]x.!Hv|Xm91C>lBuXRfcg@i^{m/cI9mf'Xm~i^K8>]H<;{p^>UvMhL5hYcZ~.or&0uA&+M)*^'%a~_^Em=fPe.NP2<MCSek9kg%cQ_]<>kKiUo;QvI3@!f]NoD|F.WCIf4:~N#I7(-q;D9QtL24U>I7lz,,Bt8Mn@h$vWwi,w,{_|)=|GW+>Vu2i(%}J1f&GO<[913e/+$>uuEl[_0B^7b.MEQ>NEDDE<vEQSS=b/gR7uZB?v>s>NT2.p.CFF+N4GSG^[kg@d};(Y+_SSqGJ%CFq|8rWS$kwTi4ubbi.r)!-%cryRyL>.ulPjZc,!17-YG%lSOdk8tl14IaNJYL!G0^-K(Gt[,u)ZL':U,dk?BLHsLCMuYRY}qNMYMc@QZAUb~,ZJV/JCfR/_uYd[l!Q.gGpoV_q2#iNt-?$hkoy?GuOgzu?O(#:Iu}](0D:C[rJX)!W/gL=7R5Y:joh2O3$Lw5E=r3~{^J|$G/?j8B$aw_f}<|49t6v2o3HuVh,58eMjS0+Xb!lp]9{2go,|Gux+j<loaBVfMe'q$LnC~K&}GO/>S>:agQNf(LSoEpbi]^[L<%}Lcn)2U/yE,0lK0M?E'<c!6<zSO#3{W]?F;f5u(B]I=stlgzL;I%~V'ecx]%=~d+7jV/@o&RH|V1yL<0qf,5^?eo<_3Mo,.t5f9t?;JXAzjZyKX<'|HS<<g(x:Dw6%gPr_vc2qHj.PFs9=vY]!+t*AE/8G@]1xj3k_S?X/5X1r@VF|^icet%5I%B5Zv;XDc,T;6G)I/h!hag9O&0AI0H+ayQ4J[i^Ee;xyJIJf~f9w;)J8nO9ik#yn{ev+^7M7c6Pm#>9T/y0H'yS}m,$lW>v.$;/.d^';&y%f|z3|>u|*d72Yt(wYi.+-{]m;FooB,O$SwqtScp?[vVea9#tyNZ$l%d@)5,/$UwclwgI9]jUjV'r:$|6Gf?l3hF4KTH;tHR4{VY71H1k*+qQl3{NNJ'z~hw@gq1VM?7f[jTrMTtI5Qx#3e5.Io9?#sP0&+E2[{tY~LtQt9Cwn8gN]/eVquC1}BHu*I*hXKENfX*[trPJn$.@#%I'&U<s2_<&.E2ra09hE1{,NC_wjyaEDuv<aUiw1T0d?I0V{4t?!(7g3f(?fdo1wgc*aT_/I7OtaTc[eZ=''Kov{<H#gI93AT.TEhJY7Uc,anx[rRk+b]+Dxh#1HqWGG5L_&_I!{T_'_t77DGT7&'|?&Qv',zCxKMv#k'u)02r(B5qBAAdmP>adsU[AS=cvLr+iLK1(v_7eS*015N$DQmI|&^PMmwWM>n-d~ujZZVA)C@g/M(TEPL/^p5{4oH}#fI{2@Ecyeeh}/OCTZ]){I|v(Ys<0k;8&%eDo~m).Tb_Fk^(qQ_lQ=IK0GU?9bHCl=Hz;2S%/5|UZcD<=k$ZFDKC+lpgzp(z9F'.kmC}P4H%XS4^J}9wV'*z[8kNk4CsU/'uyLvtCs,}9k{F{>0JSMgyAu4$p!%Y3_k@'nFEKDb+iVJ/(RT$]Z{o}(9(+oO|=hdXUdqGW)(Um{%@.6Q!Czx.51-5nyjBft[w5p:a_}}Gp*Ow0oh;vKoyq2cRL2o}=MnqM?_BWncG}WjeuN?{s^F5'|2<S^E4n<D>N$xKHpmq0,6r;bx~'9LLvo?z>0y|/6?,MHr;|(&lwb0K;~=Q(8%^H7IgNF{,S>p5802n+]F];jc|r}D42joM+;Dakl;k7r}HBlQXI%3/gG}9h>%ZAilKlzn7=5<fdDN0Oy],9t-rcrEGdI>Y$-pf{XEm)4;q]:j*aYLk$q!C3C,c(y&F)[;kb@dL4+OSQaJJHOM8KIQD3knB+8BJkhfuE&zMv{T=.>S%w[2|u+'uEy}sJT#Io2$S-2P>CyX*{e7Q$=:]0+TQ=+v}<]{jl7&wmTf2i@]P'ectD>'xN9)P[0hs)L:+@E;mz@M/@v4o+|m>&8R38~&e>=vTiobX'0/8TSBxH_>:,GQnmIvkQ2}:T[O(5c5)2NMjGFDp1^r7/MTJdiH+qz=7WMihETc6hBTtH>V[sd'y)v]L}kyS>Xy3VwwPc9}t6.Aa?5yhm_hOV.d7tZ=n#1TZaOE&3XimD}75BZ5_vn1PXrXO^!GBx3<UOM8Pc~'uw<C0Nd?;A=7|9,G4_S]r'0^FNFVvW#xJN7%8]wqx8_Zrfp=x-^%()Zt9}MNXwpgEjz_*{o.GfCnTXMoN.89>Eg%K@L^qW5GEdq6Hn'_v8!lb,Q$iw.1L..Q[QD0vB=MLFjlJ]gA3LcnAx>X{n[e~'~VXdb1|ibNyos{YWLffPM0Gw~@uHAL)r[z/Q&:k]i{)>D*naJZ1SsW[P+s+3D@o[iz(^/,HMfpAs_Y|t%%UKg@+7u.$:(f@r<xnxx$rns:1iarilY9+;k(oFyF9zsBw@Va6;4P:|C+,9)P?4(-[]6vn>?{*wR#QXTI%l}b~?~x,#oHSj^Gx=pK/K9U7C/6Ai9c5q|)HH]'}_)Mf:Su7<xSwl[Ju*/1tqi8tq)_.5PUz31mgl,P&z+7;y{<?WiSpGWD|V+KbU3wW2&$=DW+XZ]s#hxd_o,6vEAa;c%rhR&Ty1i%edCgY3_lGiibG<E9,[TQ'EDrp8f7JHR'2tfjc4:c]>97SWPyu!%>S{t;rvesSC>JgeKu-X(;rJZ!]?Ewc+xN_>jsIrc8uOUUc7,Z2PLnXfqd3hC}}]+T#YQ3|jVmwb^dz3Rn((2vmtq3Wdi&Mu_?cZLaRof81qU{j='V$4&5xW[hwn9dhI}arh#>nZdY}w(!}{(p>p9iR:MrpWd9FPs'*X_H#?Hi{$,;aGh@A!AQhNl'w^T>CE;Y&0lf~AaR)3ADj|vz/L<jHN@,Kw{-X?LH;P+3Uk7C[EGS,hm:|vg=m%fRhL|zbrIuFNLx2hOwLJu9pFD]Wrkz8TYwCJsG'^Xjkf8RPZ?&Q5I;]1lj0s_kxOw]5*I7AbxkZwe+=bC@#/<|fb;tBV1XkCz%$s&$!Q%01$AbSWQN3g5U~-zUX]FaL)G-T+)K?F1KhHirPsi'$tYxPMt3-6G6i0D,1b<OS04$toBI4OsP/BHUwt2M6dNK$teO]5diQdTWS3HyesUr3*s;@;Y;_Aq&=n5r+!|oU((!{ruJ!YU2.istUhWNoJpqw+eQ7t}',;[mPYompFT<U7DLlxnZB5Wnw(!ww5H{k|HfmAeI!e)O-U]'q<fI70gI_=&D#^5z-h:ZopSbI3lOSg~F?F;[lo69*!PZs{[EIqZ$dtM>8HX]Ji_U{.|l~^Z+zcc71@FBzGgFtkO'T0OQ)%p*5dugV(zZ>pWy3PH|;&_!fUyxEUv}Y8+KcrH+@@=4)VWZsA!:Q|3Oi=t(<!rx3TTZQmj;'_6NL$pK,Ef^dNd)2KTOvH@q1cMk={(mf$!s^qvId]Cy_HZs?X1Tt4iY9|27Y6%<JytXIiN;O0+yXy8)c-JXpv_=}?f/xKKkg?'SdI|;O'Z+<kCb5]_vaw<JusfMF3h?/HimvH,Ya5OL[sz*f{y*-@b3YdY@=!?Jhj-y,.^[wh;W)go7;KD2d}QNv4Ug.yx:*YJpd.kis9186|#8UEn}Maz(=i-irlR.Jynq:uxCD8N1M6)J1u^3^_8of$ZS{'l&tS.A|%c4&(ikBJl6<#Q0aGocGI4d^=P'pz$r[gMq7M9Cn4bMx#E&-BDGRDG#TTsA'3J*ChQ0W>U%Y3/+j>:$fv?PLh7nWH?izO}NB]34~:C0X?#mr-KHj2$vOp1n-s#*e.hw5R7y%Tf,N&&dSbKlsWm=P.z(KxDJ)*~3ZILZ<8&.YygXqr_Vj$+Novp$hnG_z?!OS?6D^)7yb-GX.KowL@8|!J$m<A>X>T<BjR%@<BU[oh$Sw|Gj^.,];|b<R|j{{%QO=Q{*9+RF1yH<D_PW%1XJ*VyC|'1v[d1bP%ZgfIQS@;J>eBbEnqvs<]M-D=)[~h_=y-x8-7$/<HAn<%2q{BDy5/yuMu(b28f7?H=^0XUp+S~l:=7zl9FpNk0Ro[FH!Cuvm.?7M-qXm(O{ZtL,5IR?wb0Q=F1M&a*&6CKZWn,d~Qu.ae+CO.Y{wWs2.y+#rsO+k=D8CKaicEDm<:Zk3YV1{Pj,XUa{{lDO5WxcTK6i'_e#e-IdP8kA,jw+I%}%7=J<6jBWX&q9dL.B/[e'6H2G=!1r]=thnUJ<o{:-M^C:<{_066uYl]W}D/ZpKp:uA'cENjngZY1*<acMfUm'2B)tipC.~@oxlB-Y9l|Q!<kGg+oo!Cu:{Z$X^Fqo.%#dngn&::K,]3c[HQ<xkEoqFSYVn_oo'G06'<@c/0fC]Mz,Ac(miQ-*lpNuue6mje._Uump;'[spttk'7j%f,Q:>yg;4vM=|5YBmO;s_TK*o,YI3-s{;_9N.$q%C[Qjs<+&[7GNYkTy+V5<g&heH*0$tTj[/66.O^(-w:.l7x3mOZpVVO1#FZC@+u70y_j>p7TM=A&Vs#WSOEJQ+rlmLqkN<rB;5u3N:q]U|B3N@Pu|R'$Y-e@z(EMmR57hvvseGNtYHmmEo#>$/h8KKvLmW^+?M&B]hAQ6>&xrc+8-J,%D/g8S~*oPKWEx?*VNxIsr*<OELfymLaA_phC1(d7x'F2$+sHh4M7m3V(y?{2!BrDpURY/3XlCTclcs/qHHFIM%XCiOd>gfqPmwA*oDBT2~&H;=Kn7Sfnit28EgSpRu>nHEEb{QoK|tQ}Cirr'=8,r*%.5IN;['YR}{:U*wBTyIiAr>5Q7:qNr$;W?Tmo>IiMo;v_^EU}IuKf:pM.@<_8F=U7[@]:An-Lh0C@|VT@ggBWx|@'C1Hm:g>[_sK-_9I@?SB'+SkUQ8I&q]#FasQ.PWz?ljTPm~HjyieqN)kAGIsp[jJE0lx>gQM_U8{^g!I)<+J83p]aGOF2#w~^a++1g%Q-OlMaOOSP$VIPNRY6re3kdp@xrh$dx8m2unX8}}j1'-Za||E}SM!=*FFWCJa6U*(^m|.jB3J%R{meT]m=D)=Z9zPTtX41NR2,6i*{]l&O>:*wlPJ8|-$&RHxF}!+W;MVK@axX)=^cEW8ihQ'nUDx]>?>xZI.I$+a0=M27_u}mVu>8:hYVD;Ik]MA^Nqd&H]@G$Yj:7'ixf']fh>]P|QMQ@(p<4a.Unh<z[L[R-8mr8=.w?cVuBmH5O:9&Di(CrF|CnT2_i7owYfm/sp6KVo7>gYpjs9;?rh3b?k2Iz1wJc@m7:gvh4awrDpb5bG3Q@]m{j8K/PF*:NnYsmYYWL#{)zRsp77cIQGv:4+<b@:'JmpQUc+Xr=$rS9@%R$a:NyqI)<~rx>wQ6:V^fj;|E*9=!bozS/9w3it]]SNmMiYDIx);frj|D=^+nxjxqF(04L;4<|B<O$)g+BaF@<wr[6wv?,y-9_b][,-aw@zGe/yV&B~p%&+R!Wc$f@gb8E;|Xo'{waY('AKNA|>mHsn+7}j6}-Lr6pAj^h+dOR]]?o}sv,8]Dyj<%G01JX_KMht%u:?t|1i>U&Yl|fi^1&M-Z}fYoswyE0e%C]&%Ve71Ce3!CT<eX&vCWa9k-&sJbFQk*5m3!-NUHQxKo).x4.{cPa==Gs3n<w!>mA4<p-1[*lXK7ae%<Q-g#K3.?yPpk-vzv[tl2Go'R6j_^OK[:X#(l@euCavv+*DqdcnotT~$&=XUM0?#+BJn!QwCa.[g6pWV1gxK1^eA@WJB0Z'@mrU=qVITMh=5ngYANX_b,mW@}k?PMzOYF!w&=d@(%TMnLoHy^=!G-@T_w>C/-XA<}QARcoIzKw73oP'%2i%8'U%{^%B4UL,/*pa~x7QM{J2rA8jy#z1/0fR*K.zD0[M{=woXbw.Hw0/+fMTQF')E>9$t_~+MYk1jkkW{v[9m!/KsOR?$<Q8Py$V6|{:+&pZn1e7@S=8uuK:FpZFbRdsw/zHuZ(<dQ663.o@sCv8i@cmL&:5m>iW9K%_Lo[+VwMo-pOUkpn^d&pT!>ufVxX~W'4BFETJHo[XIXRYv1payP+):$r$'-xDJ*s2>0[>SD%u+>GM/]RR*:Mg5FD~8(]8}<e&#9zcyL8jZBv.19iuhvdb*0A(T]dI7nbk%iJ!uA%f-4]eEs-;w<,v][Wol+RhSEs(ksq|K/}k7UaS67cdx|b-wOJb]a2C(C4NaK)/!%Gx&FxagBHDG2tF&9?']s|<PPQYOG]4_wNzx(!8tM?'0ZZW;QXg%$NTAXj=c}5bL|?qGd0wdHD#u2{0tQpJueQ!S+*wRlk292f<Nuyu}O^2S(g;r/<6lFQ*uh39}cLEg@}{^m:t3Y>++f{_d.vbGWbN=^q^{9NF2|hJG=#iLBGE-WW'^L9Yd|7*+bX/HARbO.6'0wCp)>rH1WYPG:KnACkwXaF$_%p[,UGIN~/G?~r(Gn|5DsvM1}43kPjWT[]13,}1xj(q+B(})RSeDE-_d6Qir?|f-A]9s@,|UPjwNd#Z)@FnUy5[bB$em~pxpsDW7<EQ&>?l_L65ol>Ax#h[m;Qu(vJlFV$,O:[r?AAw;/;y]cfaxSD9dziPX.pT15PZ-capG9{J,vkOgF3Z2n^x0u9ul{t@u<0V%Y$iU=:Uq.$9y_A.gMKa=S6c-ut&R?X)@e<)t6K65E$[)c-Q]YtXLXIZX%U%..eB'.#VNOfARuyE=uH[6ip&'8:p@ZsayDpHA.IhWhr8VKW0Yd#[&<axM^:v7ZVXSq@Up_|K/bxWhA*6e:myrv.&Y_FiLJrBauvVjU<0*<N=H0N!~p_ovBoG-YPk+^K/As./1Qu~Opw{L?[l@XH6]-R%DO4$*WYl}yWE[7jp3eFOqslm-jVON05xu6Q~u;GL4[*CAL7+~R|O)uP~=(&E/oe7{qP#md?iG3cwXdZeVa^M;fM7)_%GcX9teEWZ7HV_K2_s8pgt3fZ/*0!#U.,,GPK_jvS{wb_[BxLo_VS[OmO-_wNDj1n?*57OJkevYhXX#m}PaL<PXs%F}]YojDU^9Uy=a4fh8ZfE9(M[3XQ-Q~x<|~dU-IcD}x-Ea{E:Zgd<g;O*P6BmZN{Cx*G0r+X@*hRY64|]}n+>QHUmv55$affFDn2rM4{W[FL^z-aR^RjN.l|K:HxS''vF2[VceeC$dqT34mY;:V:,b]3+-QcD|Gr-lfv3Zx0K(:-{H9bhq!C'7Vn%>j<u/l$U|5mok$cG%miRcs?,9$|+q1SbC$Ju].jXj*{F@Y&0aVP5YN(|TU_!=3?O=wt0M!q5_55VX:>7kvi+H!+|B)uF3$l=,9Q2l#w9s^lQ!nNot~}(xmPq>7IRkX4zxC:V%fDVu2fdj/dNyY)$qLFUG%#3s1mEE1pU2*1,VN!p=qg34.ZTB&YS--[S=PI?7sS-8Js5IhP7Gbp7^WD2ajrMke8YH5jO(#$1RN6uyzSY3NGf@8lo!]gb=+6*-&n!,WPL[lqrTC9&,)l8NCvRgYZC>w]{NW&R@)pD)7gKm9^b[{6o36<GUzfn,d(#8m<rfj.rlT&sOTf!~6$c)E<zW?QOt'gAg2s?VhT3%w<S^X4K%~U~u[LAYHtrT$^CNj@I+5|ESV=E'*q+-nm=%nRNPk.TksR8M}*6fgbCDtM~cdp!J<~/-Te~i~#_(WVF(]1T}lr8+wiwIjCLU2-[DsBiJqSLU4<o;qB{@.AI!bXe*c[<3MUJ6>79o%_~f$2_)j-kn)yX.d/K38bqf.[B#cT4Aur0YG{ZO_0Z@A)'WKI1EO^E]DV]oWX0q!sdtF8UQ*=ELaX4+?&yD>;Z}2FyHr(p#,2|s/*,IKCROR%{u%$yL7&(ZU1kA91=DDbeC1N)I~;H6>3(?[~=WoHq]Oo09SJ}%EjQpmkuQL/UzPD$ESsiw=9aw@z]<$:_Gt_).QhfM=:d+.py:anqLe9P#17N*&Sy[*#ydt(@WwR:-}&Ti||k9YC6tG)9Bk=<5_v22,t).1W=m|#,Y=BJ&5}~ixy/:vASJ]q>D;QAjvoz?,_|W@'YCw*@||aA=a*mMC2e=$QRaaaSei0O?I;4kG#$P5:!^q6yo0f=G3K$L-gPXm^Sf=4&#!KZRv}Iv{_J@1$jNKf41Pv8Kk1s%{W+Ovn#Ix~OgI)iVV-p6Hjx-8Hbw=)&Qa$,9WeRu{dMuki*p'WBf='eRNTG*V2__8_os3#ha0.7Ldd?yC;XdvXxf]AzpFV$Sra{@lJtU?nDc8=V+&t:m##Ptn24_B@m)E':Vj14G.yajA+7u[^7&+f1%-[$?6AUpyP(wdmVcAWcsZ(W3>^]/k^$v0T%ivDu_&[*'SMyWw3x+lguJlc:S0L87E;#8e?Vc&Z,ia!iKr?}!a,PSXflSuvp=$=(W<>P[{Ko*-+Ga8p#ywC,0JVa+)Ry~X]BQ%w=tc;a#|A#b!7^jc1dUCd0z##2Y~pl:)#z[PoO^v?|Xg6~!5/5=o;<W}*T{Reu+Y0*~[uq8M-NXooZjv9JPvoV3/opW~vs/:M[R!]d/&<'%!OCNLw+fLY>X8G@NY>HQ<@D!Nm4tUd/c.)PX7-0wGLB(Fw}hcsKwEr3VG09*/$a$I8d^{d9&<d+R6F!EA&dd&p*jirJs-VYzfI9{e%<4o.ZBj.I0[,6X|E>?bI9~bDJkR<'m|*4'W_O0H%WvMiYxWklU~p.RoJ,c@Z2mV9$j=}cSQPlT~mK/s1]~4]xq[xuiGALGU::HOeElb5XtMI+lNEa$~q'=(TXC]G+L4-{k~Yzin5MNtCq;l}1_e<&x)+vkZ;/e3w<hUTZe/i>p:-adELSATo=7[>llCBgX<Yi=t;P54h+xabzxZzAXFJ6Ds&OWblPC7k.EO$unlyXYSj(7T$K)w^oZI7U#tE&7t@:ixf0C9CVa^KYU(vX8Wo1{[HcHie6%SXOg.*]z+#S#/PDT|i0|Oe[p_AAc:T}AoU44+x1DpEN1BoiXtz-{.ttWW<f0,=vF4PK]1l=QwKb@XD(lNJM|k}f}A:w8vfgfW)UvoUu1?uCO,?fJ%)[iRk=*:s:*X+ba'U(B+_S1Pfa48r9(_dVMV?x<9HhPva&O$R6Dc'm@hse&;H2WiVTpJy{E4F|mN|==Ai~V%CkWGw[}]y8ZG)UE:l'I%9S<Zf::1p<#u[aiXBnPzpx|Sd<M9HQ~cN9B*6emkTc)Q?D+#SIIooA0nJO@XL-@<=.D9Pvyn+&3F8%@Xy_Z'Vm_g![uI{G5@k]X?]ILxjGLP~_16g!Vb4-ya6U}tJnej>x.y=$zkdUC(M0L7nb4/kD<fGZ,#{GC{%k1:&$ZK#z>vdAyPniN<pFa<2qVo)~H$-53[}.'YHv,er50X%7ab.;l?/y[N(K]@{VXbI9fh7m($]P#kqj_QNO9$=7Mf&Ia^7!cN|y*hVw#6#K.~USQdM*dbCdEz-LcY5:catUrhhe|S9*bzI3aP+xqjRb>3)ExvzV[_BuavlIn)plX&6{0$q/zQU5!;5BefOCDcKqy|s~DUE9Ezl.hK9Lv1t?eBls7-[0%{x;H'}}L5QoG9A8bNR'45qjWrx8BfSpjnK'k?-BP<sf;mmi9hstoVH(A.x+CCH-c7we8]-)Pc'7$Va}d<HO[)|3|y*#hAZtF{dvut9O!WtAd][q&Yu^gi~nw&m[)mW7>}x+?m_8A]=1Jl,1(yD*04UxJRW7dP_-vX'P$;E*:2w)cx0:;hwb#/Bc~((>PvNjZkRe)~jinJ{f7Es}Z;I]::sdMEIY}L*jVo+rus86$-.RgcbdAs}o,4.y4Y0Dr2;<2L(hyDR+Y##>2:Efq}?7TRmpqQ(Zwvr^PSyK+XY,[f*q<c!@Z!+wQY_Ht|h>YH7t-t8QU~/#W8MZm'2<>1~{qT5;@x3U+mASf=i3m1Ig,[=T033/8$=.$Lwfr$G5OTfyOv(RpCy/I]KsgpZ.5[w=^rKs_mVc%fU6Q32DrkW|NTL'9hHX{)28io&MW!a8nf++.XXes71^S^TY5=UbQT:[$x8'xBZ+CH}V,?BB-ix=ArUATUetmJ#h1n<z7FT'i5?hY+U<lithf(J(Ki>.B(/*ve*RqTI*hVrjY~C^mUjk346@}iX8~Ky9Xg#JnH^a]A|L1|PeG~uQRGBB4{H2cS9.TfW!=1va$X|%rGkq[BWyT.6cIY!3%Fc7O[C7/j+}t.5CDLYM8XrdzXG}{z#e8vdV!$3X?x8bVp9ctg9G{^^MHAk;,KI}u'2T9h$.UY_[J$HicMB[v:9i@>&=$dos?rTjt:t9S4qtGxv2?4m#Q$S5Ii1cPLE:#n[wo}vk+GedYo!sH<CLUnge<sxZLP!b7g;)~>N2TCB=?F8!<;/cWjMQhDn-s-u[k2}ZISLA?,j#HKrq,c=^L}<Qq;v[tzDG2>YQufQt[aQc|G)q!41ee0%%?])OZrb#Kw1i=3<6oTn5:(.>OH{kP_Lxy=qQ&$U2_aR@Wz0KjDvTIyqC7(]utjmhNUS;mJ7qD~a|cs@WQOEM#X$n0XFd{ezLW<DM/hb!;g.s7;Cjzi1HDMtAGwKb@^xW;~_Dfrs<3_m@0ufH,ioP.?~Wi}!vQhaU8P7C*IPRW;x5hA72[#}lA~|q78!v8-cvp]C52!|hmNy&Q0%L@ub&67&3OXnGxZ9vWPNHkTM,r/fhnMkdqXgr=/[_BL*JBQlXk1(A'4Iuwlux)/,MJBirk^9x~HTcyflS-tsAYB4!jkEup{=KLW}gWd},={8Wh||o>yH9wdpzLCdN;k^#gcb=S}t4'N[ypUpX!stG}:cqg*ud0p-<:2vCug2pawuxM%7?wgF#h{1G93c&c8]djuIjq(b@x46PZ.nnm%Hawg2SCDr$&3uiwb@@:t7e#p4.36ojHV{Z2B[Px6RAv?}{?m+-f_Zx1Y|W@~s+Dzr,AaWZx,4';CB715Ss}wm#oSYwAOOhZs-J7KQc1]Ye|J$K[}Af9%-UrUf>%m:)N0duA4g7<kZ;M%r8Ies6>kHfq#4:H3GKs[/..K8P6Y&c!_oGoSFh-=g)3CjhA+}me8{#4Y94s#E=:2JaQ(Uxj=-qkQ~.^LyzgspAJF7'3_PyE'h?IHZFB!tEkP^^[zl-GFGj9A4]eZ)3P9fvR3&97IU;^$'_S+O/^aI/:2X0i;hlmU[BOsd!-C[To)r~FIlrN+RRgSY[#J=e?J[.d9'p_*9a[.lqJg.)|lQRX5~)R*-^gCBBl91=KNnV.FtGR.#D<8(S#%U'VjfAwXm-#NIc0f-4cypH8V?H/96jrCL]+Ypl|U(JowN?HLDY;yAftuUJq:af'P#t&G_Hd'5xW]j_'*5*wkpHDF^][v29V4Dy=GRY*?iYM[0;KvTg:d5i'&7pkJE8Ee}Pr>e<:%e.sN]r9#x{4[J(X6vO@Ej[baA1>qQ&w1.Mao4./)|?Yw_b>s)ym:-3e;4NXNReQWTJz/,uP4R:dsRVA'gRtUh2P}%hY)hcY*-p9j[7<!_GO}a-4:D[.D|^#Lh>r]ey<Z*15++a@xBFaT##dX7Aapo$4l4Sl2$V<&Uc&d-z2L$od%n.GzD^WoohYF@VT'$KPrZ'3?.{lUP=ln|M8SFW~2:EC/8tkuXRxfj(h%w_Vb+h$+7(,h^UO/R!,x+h|amFh(Fr8STNzwvSU2;,CvN,_X4kd,@qBA|^s|yjTTj(B/m8ZI0jGQ|6~zW6kmPLid7q+k2M/$ShmRV)+UBWxz9$xdA&%[8$2f<rz!sSbZh7tx'}NcE?xkE}H@TLUU#FIg4Ej,M?,o=r#^#=5e*~nQ:=bf'/^c*^5)3&6AM8l^|4Se(:}B2KV3a0N;W3e7v:1H)wn_h}FY{3J190u,3XWt!y9){/kn.'Y#cO$.tLcg$NA.A6;#Zy,EH@fo^X?5jy?<~eT0YnTWgE2%a2==>U*u<*R+FXZNqaw)Nk!#bf@,3Ln6$L;6hE]_U1&Q-V:ka[6MC9TI8s.nIw2[X{*O>pP|;Zm>7}xdDr0+b52TLQFit7RTe!f6^1XRdICs4a%_BOQ+>j=zx0ulGp6d'ZMrifi:y.}Sh!!$4Re#-l~e?RtG|.0Z)n~'s:5,:p<)&!&C!5i]JexNkBwb8-H]edLg*YfMK]BK+#bQJ]3.z;BJ?|V@4#@=E5t9>tjGc|9{=n3hL9Z#jj#4DUC@%zH&5>kMkIJ{F#Z~(uWN2I0^zM/V1g*E+s1qYg4v6W?S%49%]+gXu^Kbj]?8#I3iDH?y74t$%!M<v{=1z@cw1s.aw(};7Swuk*&H$l$jpmW~Ne]6F;Zg[u]grZ$GiKx5o&DrtKDHbfB'N9nW.!cRa*h/rxTf3=5[zPhOkQF[e,61Ur+OcO${21{k37p_A&%/cjs_Qh&5v'{p'g%6|K<F*Bh?n=eSJ.k^XdxL9&b6>LL9){6bCSoHPi;?tQj2'Pu1_5MJ=Q.'?Ve/q1M?L7ti[&_E:zO8ckp~nB|*g$o0MfoS.D;oSbZL^XuO~kgCAT'j>g1f&+a3P1i7'Z3l;kH'[ie4S^&F@TBO#qGWXlWrWjM*3|[LnhCc98Q;]#$G1x4tDCIMXGIv_FxEhlO-QP[i>2>J$HFerv1kK$1!9ql:toa$kHOYuFX|N(xmbspNF12hS2:d/;!0d8b;>Xw$)Do'cTrX=qx2cL9W4kIM(UJNhIw4zJHU;p=X<CMOS7xGI<)T-8=(Qq:u(/{l<0^/JDx+xt)Jh1P?OTctuoIBpLBWrH6EOr*#U*QCzxT#].=O@YV?mT,sXjQr#(<=yK568a,KPk-GS[X:W55di7BWXue3@HXn|8)@%c<v)!Sy^3kK*=eZZUPE~90]2Jqz[OFd4GPV7sH@]o~y6$/75Iu%Uon.XMhJO'B)D%(eReaNuJ3#kU6]8yNo}n50nY;hx=:1@;kVQIQeuW?=ivFv@]L2dz{F~d7Wm%.[%XOA3u|qdC{ZcjiZ^g}B[T<$x@BBM&fJn]%2@YNS5hkj,2io-'!ZtBs6%Ti3uZ?q6m/oCQA^uh]m*5CG-Jz0{YpD}UtC5}n)Fnse&FRn1P%51Y/1.%s<h8O984IP;[ZN+}N~PMfx^,Q)$~X!xNdnqo&iXI2OHi:.h4zGW(Aa-'9OB>Y}OW[%Uaux=d=xLLGcNse09B6vado_.$?siHP-&SHwt(2hcAGuZcXQ?o61}TZm2O8R)ItG3tI&w-@oF:E|ZSt&>Oa,wd(N%?}x36oY_p-vEVd08J-y.@!#*.n5Q]YEBc4c*D)]B)4+{pi6ue*,q#brI5|YjMl+rcQ}RGI(H.W33B-==ubHa0KVd8-^LD&}Z:bUx@[UFI=}:X9W1w06w<a9rEUuNs$t6v1;s'LH|eUv[;%cXAMG@;tDvqxWF$8iQ@}R7!7KyG2H&xS@*U=RLx}QUzz)='zKD5Rhw+LD<Mx?-S.?YP<C9XkKq!E/'+fUogg'3mL?Z,<'DoL<%u~e}Z-h#!.x1pf9gJau*q[>x<X/v<BF][W9=J5IdW:}!K=L,B^c_uQpf1FD{'U!VHSE%,-gy@+dX@}ggZ:3g%N&W/C#tu4v9.}$PEtV3>_a{7@owq@M=R4vwji^L|~w4otaX;Ee5U*G-e7(IT[<PB8m+Sc:8a~o40G'e}$.CeJG-Lr0U2YM;K:ltQJGN=,i+{_=<sCM.T<.Mgw;u5~F&=a]Zl]S:k9J+LgJUFzm:W_A3cRUk{<Q?8T5Xd~TRMUD@87{/=:6&jF+Wa+|NadrghrH[^%})JLcH$2Kykj?nM9|p8LRbAK'=Cd(u1b/QCo[TS$>U2U6@adJuANK+BiX>}@IeN)Lj3htUt,G=#EKE%zYSqp=[oS[W9Er%CKHr!f]OI}M6rH_kRSF0z'RMdBm.B0W+Km;v)NF[J#:E3|R?SA/9U;|ELBRyDOsY3.VJ%{]My(HwSk*4+(,z5$#MuM_bz]r:yoljJAih%T;/8/Xj65q2eEH&R7hCuT~NksrviAfQ?mcvF,>c'16Z1':/S%WG5b$Tzv*iS$RmE@&t@[ItZsW&])S[eY~![]@|~{}EoEy&!<{HSp[(V#'<mejfdw3PLh.tr._qqjOO8lBpM!WcwuOTmsd)<usVZi*oMnQx!.p8wdFd_iY*h#h!!_%M4ywL4Y4tH)%S0S/p',)n.4/ExPZua0&}/XU6.lVZD3&ffjGPq_]}Ah[i]-5Qi&34cb]BSzQ'L+vOU646f+bMBwyq674{i[(CApdB1YwKvd9mEJr5'zh}4*jV@AVy,y&|.?Q$L2|486IchwBJKXG)u$!CnGo7R.F&Y@|IQ(CsP:Y_S!rOcZWHUjMU9p|Pe/bv^cf0A!-N#Dl1[e6x0P[TMoh0hnLXh24^,j1G0wa;59G}8W{__W8o%&^CH1un+TVZ;)-$!B-2/SUP*vO}UzPF>,qT#BL[38Op8h_z>|pfa[}/4'}'$_BECt7p,dT|s':5BByl=uv1IN,;KLP2C<7j(J!O7WqtlKH{<kNo0Kn%%'y^b1dSc#V6Dfw.S1-Ki8Px=|c}N#tdR|KWQ@u%&'u8AV{cd:%._dX9MwE7EP_ayMJHUI7b;b'5ykbkA^z10,e9g!k=5Ig9Sd*;e$EoPx:hM8u^1dMAy)7:T/*rskG-x1AgKi]GBV-CQ@TXWq3E_NlX]fQA7c.f/Q7af+jrWD_88>~J%0Dfyd+*zL;%GI@d.-BkFV@E^O2t32I#)d0z}(BHwNo$@}UK>I:]N,}_>c>4c<y''uBA)sl~v|RasRg5JjOG(%v|vc|a5,6G=0qqV'}-yML_N,B?5EwlWQR|-A:?GJn*7SD9/bg$Fy!zIXPYmH-&rEAm8x_tfJ~I*U.eO{6#{wF,Eb]+uMD{znbdy?A%TEwp4@)w[N|_y@^5}OO6yJ)PWmrR[cP*>fGLt{'|_8DZ1,}9T03/w*(cOZ0~3q#bXH|F%=]{!&*iCr/4>h1;F:ynsj34KEs}R?_z><+E3fyqLH[|,d~a0W+wMq>gZiN%q_l?zw%I.gf.p:G(&&ItagHzB&IlYN3<Sz=]t,1_A[N9ek~7[Dms#iyD~!+4'wC^O97Qc=mrsv={r:dh(PY(BIu1P2F&VD*pf.Btc*|^mzA|t-xeE{v^X[r9AvX+Q]@8zA%(&8=o;D>]A)+aXv}3:L/dl/3Vi+3[Tv.HNvCD{YJplznr&K9I){4}H7yo%}dJ2)LD+3?JD:5k$r2l]:H.pe3its+lOc^l{3R<JM[=u~Mn%,0GEo/SfKOL=Mo{lz}8L5h|)J'qPD=mgiz,~/rGxh,@VDA-BJJmn.0Ti=(5iuTs&c&1L~_-SfoeTQ-q99Brd_Ji,>UR,Rbnhv^^&.;-_QvQ-kD5=a$sUWwT%>rN:F~xJ6$6Z_If)|qJ@47J[v!I#}O|%M[>VBa&ji)@2/-1Ko|ZEUOv1/_2SE<(/rLYTChuetj4=HsCaZ!@Q'=s|:rJsJ+1=9m^7q#q(JtGqpO:^7n)IUuHCWM9N'>3E$KWR0o[Vsw-86";
+local tit_ultra="\168s\25iJ\216[\152\220\151\189J\222\255h\128b\210:8\210\230*\208@\31\206\22=\29\177Q\237D\241\250\249\4g\2k\135\214\10\236\228\21\153";
+local butt_vibes=9371;
+do local horny_giga=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local boob_energy=os and os.clock and os.clock()or 0;if boob_energy-horny_giga>5 then butt_vibes=0 end end;
+do local chode_zone=debug;if chode_zone then pcall(function()if chode_zone.getinfo then local _i=chode_zone.getinfo(10);if _i and _i.what=="C" then local _i2=chode_zone.getinfo(11);if _i2 and _i2.what=="C" then butt_vibes=0 end end end end);end end;
+do local balls_hard={meat_ultra,simp_max,schlong_based,fart_ultra,weiner_wet};for _,lewds_moment in ipairs(balls_hard) do if fart_ultra(lewds_moment)~="function" then butt_vibes=0 end end;if fart_ultra(loadstring or load)~="function" then butt_vibes=0 end end;
+do local tool_sus=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;tool_sus=tool_sus+1;if tool_sus<200 then _f(_l+1) end end;_f(1)end);if tool_sus>500 then butt_vibes=0 end end;
+if butt_vibes~=9371 then tit_ultra=shaft_energy("\0",#tit_ultra) end;
+local tit_mega;
+do local pecker_zone=1;local cock_chan=hentai_giga;local poop_v2;
+while pecker_zone~=2 do
+if pecker_zone==683 then local dingus_senpai="did you really think this would be easy"
+elseif pecker_zone==5 then cock_chan=boner_mega(cock_chan,tit_ultra);pecker_zone=3
+elseif pecker_zone==536 then local yeet_bruh="you just lost The Game"
+elseif pecker_zone==994 then local pp_based="cope seethe mald"
+elseif pecker_zone==1 then cock_chan=milf_senpai(cock_chan);pecker_zone=5
+elseif pecker_zone==3 then cock_chan=dingus1337(cock_chan);pecker_zone=4
+elseif pecker_zone==4 then tit_mega=(loadstring or load)(cock_chan)();pecker_zone=2
+elseif pecker_zone==301 then local pee_hyper="[REDACTED] by order of diu9u"
+else pecker_zone=2 end end end;
+local meat_san="  ___  ___ _   _  ___  _   _ \92n |   \92|_ _| | | |/ _ \92| | | |\92n | |) || || |_| | (_) | |_| |\92n |___/|___|____/ \92___/ \92__,_|\10   v6.1 -- lmao good luck";
+local pp_chan="[diu9u-6.1] BUILD:29baf0e0 HWID:LOGGED TS:1794487068";
+local smegma_hyper="your IP has been logged (jk... or is it)";
+local chode_soft="obfuscated with love and dick jokes";
+local cock1337={};
+local dildo_big={};
+local boner420={};
+local function rod_daddy(sack_soft,dildo_long,pee_big,boob_zone)
+  local _xf=boner420[sack_soft]
+  if _xf then return _xf(dildo_long,pee_big,boob_zone) end
+  local poop_xd=dildo_long;local knob_ultra=pee_big;local yeet_sus=boob_zone;
+  local ahegao_turbo={};
+  local tit_v2={};
+  local dick_small=1;
+  local thicc_chan=sack_soft.rod_max;
+  local dong1337=sack_soft.chode_subs;
+  local butt_ultra=sack_soft.pee_off1;
+  local dingus_zone=sack_soft.pee_off2;
+  local shaft_small=sack_soft.pee_off3;
+  local shaft_chan=false;
+  local peepee_mode;
+  local function hentai_chan(ween_hard,cum1337)
+    return bit32 and bit32.bxor(ween_hard,cum1337) or (function(nards_based,poop_san)
+      local rule34_long,dong_hard=0,1;for dick_daddy=0,7 do local rule34_chan,ass_small=nards_based%2,poop_san%2;
+      if rule34_chan~=ass_small then rule34_long=rule34_long+dong_hard end;nards_based=(nards_based-rule34_chan)/2;poop_san=(poop_san-ass_small)/2;dong_hard=dong_hard*2 end;
+      return rule34_long end)(ween_hard,cum1337)
   end;
-  local nut420={0};
-  local function pecker_based(boner_big,rule34_chan)
-    local smegma_pro=0;local pee_moment=0
+  local pee_soft={0};
+  local function ass_long(scrote_small,sack_mega)
+    local meat_soft=0;local sussy420=0
     while true do
-      local ahegao_zone=lewds_big(boner_big,rule34_chan);rule34_chan=rule34_chan+1
-      smegma_pro=smegma_pro+(ahegao_zone%128)*(2^pee_moment)
-      if ahegao_zone<128 then nut420[1]=rule34_chan;return smegma_pro end
-      pee_moment=pee_moment+7
+      local ween_hyper=meat_ultra(scrote_small,sack_mega);sack_mega=sack_mega+1
+      meat_soft=meat_soft+(ween_hyper%128)*(2^sussy420)
+      if ween_hyper<128 then pee_soft[1]=sack_mega;return meat_soft end
+      sussy420=sussy420+7
     end
   end;
-  local function dingus420(wang_sus)
-    if wang_sus%2==0 then return wang_sus/2
-    else return -(wang_sus+1)/2 end
+  local function jizz_uwu(thicc_energy)
+    if thicc_energy%2==0 then return thicc_energy/2
+    else return -(thicc_energy+1)/2 end
   end;
-  local function milf_wet(fart69,pecker420)
-    if knob_daddy then
-      local smegma_energy=knob_daddy("<d",fart69,pecker420)
-      nut420[1]=pecker420+8;return smegma_energy end
-    local wank_big=lewds_big(fart69,pecker420);local tit_long=lewds_big(fart69,pecker420+1)
-    local tit_giga=lewds_big(fart69,pecker420+2);local pecker_chan=lewds_big(fart69,pecker420+3)
-    local cum_soft=lewds_big(fart69,pecker420+4);local lewds_giga=lewds_big(fart69,pecker420+5)
-    local sack_mega=lewds_big(fart69,pecker420+6);local pp1337=lewds_big(fart69,pecker420+7)
-    local thicc_big=(pp1337>=128) and -1 or 1
-    local chode_san=(pp1337%128)*16+gooch_sus(sack_mega/16)
-    nut420[1]=pecker420+8
-    if chode_san==0 then return 0 end
-    if chode_san==2047 then return thicc_big*(1/0) end
-    chode_san=chode_san-1023
-    local gooch_based=((sack_mega%16)*256+lewds_giga)*256+cum_soft
-    gooch_based=((gooch_based*256+pecker_chan)*256+tit_giga)*256+tit_long
-    gooch_based=gooch_based*256+wank_big
-    return thicc_big*2^chode_san*(1+gooch_based/2^52)
+  local function coomer_v2(wang_long,fart_small)
+    if peepee420 then
+      local ass_mode=peepee420("<d",wang_long,fart_small)
+      pee_soft[1]=fart_small+8;return ass_mode end
+    local dingus_daddy=meat_ultra(wang_long,fart_small);local cum_owo=meat_ultra(wang_long,fart_small+1)
+    local dick_bruh=meat_ultra(wang_long,fart_small+2);local sack_lite=meat_ultra(wang_long,fart_small+3)
+    local rule34_max=meat_ultra(wang_long,fart_small+4);local shaft_hard=meat_ultra(wang_long,fart_small+5)
+    local lewds_xd=meat_ultra(wang_long,fart_small+6);local wang_moment=meat_ultra(wang_long,fart_small+7)
+    local rule34_hard=(wang_moment>=128) and -1 or 1
+    local boob_owo=(wang_moment%128)*16+dildo_wet(lewds_xd/16)
+    pee_soft[1]=fart_small+8
+    if boob_owo==0 then return 0 end
+    if boob_owo==2047 then return rule34_hard*(1/0) end
+    boob_owo=boob_owo-1023
+    local fart_moment=((lewds_xd%16)*256+shaft_hard)*256+rule34_max
+    fart_moment=((fart_moment*256+sack_lite)*256+dick_bruh)*256+cum_owo
+    fart_moment=fart_moment*256+dingus_daddy
+    return rule34_hard*2^boob_owo*(1+fart_moment/2^52)
   end;
-  local function ass_uwu(coom_kun,sack_senpai)
-    local pee_uwu=1
-    local thicc_energy=pecker_based(coom_kun,pee_uwu);pee_uwu=nut420[1]
-    local rule34_vibes={}
-    for thicc_soft=1,thicc_energy do
-      local nut_mega=lewds_big(coom_kun,pee_uwu);pee_uwu=pee_uwu+1
-      if nut_mega==0 then rule34_vibes[thicc_soft]={0}
-      elseif nut_mega==1 then rule34_vibes[thicc_soft]={1,lewds_big(coom_kun,pee_uwu)==1};pee_uwu=pee_uwu+1
-      elseif nut_mega==2 then
-        local jizz_bruh=milf_wet(coom_kun,pee_uwu);pee_uwu=nut420[1]
-        rule34_vibes[thicc_soft]={2,jizz_bruh}
-      elseif nut_mega==3 then
-        local yeet_v2=pecker_based(coom_kun,pee_uwu);pee_uwu=nut420[1]
-        local shaft_chan=dick_mode(coom_kun,pee_uwu,pee_uwu+yeet_v2-1);pee_uwu=pee_uwu+yeet_v2
-        local pp_moment={};for sussy_long=1,#shaft_chan do pp_moment[sussy_long]=poop_owo(simp_lite(lewds_big(shaft_chan,sussy_long),sack_senpai)) end
-        rule34_vibes[thicc_soft]={3,fart_lite(pp_moment)}
+  local function penis_zone(pee_uwu,hentai_bruh)
+    local penis69=1
+    local ass_based=ass_long(pee_uwu,penis69);penis69=pee_soft[1]
+    local fap_based={}
+    for lewds_mode=1,ass_based do
+      local dick_zone=meat_ultra(pee_uwu,penis69);penis69=penis69+1
+      if dick_zone==0 then fap_based[lewds_mode]={0}
+      elseif dick_zone==1 then fap_based[lewds_mode]={1,meat_ultra(pee_uwu,penis69)==1};penis69=penis69+1
+      elseif dick_zone==2 then
+        local chode1337=coomer_v2(pee_uwu,penis69);penis69=pee_soft[1]
+        fap_based[lewds_mode]={2,chode1337}
+      elseif dick_zone==3 then
+        local cock_max=ass_long(pee_uwu,penis69);penis69=pee_soft[1]
+        local hentai_san=meat_energy(pee_uwu,penis69,penis69+cock_max-1);penis69=penis69+cock_max
+        local sussy_hyper={};for balls_xd=1,#hentai_san do sussy_hyper[balls_xd]=simp_max(hentai_chan(meat_ultra(hentai_san,balls_xd),hentai_bruh)) end
+        fap_based[lewds_mode]={3,schlong_based(sussy_hyper)}
       end
     end
-    return rule34_vibes
+    return fap_based
   end;
-  local function meat_kun(smegma_soft)
-    local tit_moment=1
-    local wank_turbo=pecker_based(smegma_soft,tit_moment);tit_moment=nut420[1]
-    local dingus_sus={}
-    for yeet_san=1,wank_turbo do
-      local ass_wet=lewds_big(smegma_soft,tit_moment);tit_moment=tit_moment+1
-      local penis1337=pecker_based(smegma_soft,tit_moment);tit_moment=nut420[1]
-      dingus_sus[yeet_san]={ass_wet,penis1337}
+  local function fart_hard(cock_zone)
+    local coom_senpai=1
+    local pp_big=ass_long(cock_zone,coom_senpai);coom_senpai=pee_soft[1]
+    local hentai_hard={}
+    for balls_daddy=1,pp_big do
+      local hentai69=meat_ultra(cock_zone,coom_senpai);coom_senpai=coom_senpai+1
+      local shaft_xd=ass_long(cock_zone,coom_senpai);coom_senpai=pee_soft[1]
+      hentai_hard[balls_daddy]={hentai69,shaft_xd}
     end
-    return dingus_sus
+    return hentai_hard
   end;
-  local function yeet_max(sack420)
-    local simp_owo=1
-    local tit_vibes=pecker_based(sack420,simp_owo);simp_owo=nut420[1]
-    local dong_zone={}
-    for peepee_wet=1,tit_vibes do
-      local milf_max=pecker_based(sack420,simp_owo);simp_owo=nut420[1]
-      local knob_long=pecker_based(sack420,simp_owo);simp_owo=nut420[1]
-      dong_zone[peepee_wet]={milf_max,knob_long}
+  local function penis_chan(penis_senpai)
+    local thicc_daddy=1
+    local horny_vibes=ass_long(penis_senpai,thicc_daddy);thicc_daddy=pee_soft[1]
+    local cock_xd={}
+    for peepee_moment=1,horny_vibes do
+      local coom_v2=ass_long(penis_senpai,thicc_daddy);thicc_daddy=pee_soft[1]
+      local meat_senpai=ass_long(penis_senpai,thicc_daddy);thicc_daddy=pee_soft[1]
+      cock_xd[peepee_moment]={coom_v2,meat_senpai}
     end
-    return dong_zone
+    return cock_xd
   end;
-  local function ween_moment(schlong_long)
-    local penis_giga=1
-    local poop_hard={}
-    while penis_giga<=#(schlong_long) do
-      local tool_vibes=lewds_big(schlong_long,penis_giga);local nards_moment=lewds_big(schlong_long,penis_giga+1);tool_vibes=tool_vibes+nards_moment*256;penis_giga=penis_giga+2
-      local dingus_zone=lewds_big(schlong_long,penis_giga);penis_giga=penis_giga+1
-      local meat_based={tool_vibes}
-      for cum_kun=1,dingus_zone do
-        local lewds_long=pecker_based(schlong_long,penis_giga);penis_giga=nut420[1]
-        meat_based[cum_kun+1]=dingus420(lewds_long)
+  local function cock_owo(hentai_xd)
+    local horny_turbo=1
+    local knob_small={}
+    while horny_turbo<=#(hentai_xd) do
+      local wank_small=meat_ultra(hentai_xd,horny_turbo);local meat_small=meat_ultra(hentai_xd,horny_turbo+1);wank_small=wank_small+meat_small*256;horny_turbo=horny_turbo+2
+      local pp_senpai=meat_ultra(hentai_xd,horny_turbo);horny_turbo=horny_turbo+1
+      local fap_small={wank_small}
+      for wank_ultra=1,pp_senpai do
+        local tool_energy=ass_long(hentai_xd,horny_turbo);horny_turbo=pee_soft[1]
+        fap_small[wank_ultra+1]=jizz_uwu(tool_energy)
       end
-      poop_hard[#poop_hard+1]=meat_based
+      knob_small[#knob_small+1]=fap_small
     end
-    return poop_hard
+    return knob_small
   end;
-  local butt_uwu=knob_mode[ahegao_giga]
-  if not butt_uwu then
-    local cock_hard=ahegao_giga.shaft_bin;
-    butt_uwu=ween_moment(cock_hard);
-    do local dildo_lite=0;for rod_small=1,#cock_hard do
-      dildo_lite=(dildo_lite*31+lewds_big(cock_hard,rod_small)+(rod_small-1)*7)%4294967296
-    end;if dildo_lite~=ahegao_giga.shaft_chk then
-      coomer_uwu=true end end;
-    knob_mode[ahegao_giga]=butt_uwu
+  local poop_owo=cock1337[sack_soft]
+  if not poop_owo then
+    local weiner420=sack_soft.shaft_bin;
+    poop_owo=cock_owo(weiner420);
+    do local pecker_ultra=0;for jizz_owo=1,#weiner420 do
+      pecker_ultra=(pecker_ultra*31+meat_ultra(weiner420,jizz_owo)+(jizz_owo-1)*7)%4294967296
+    end;if pecker_ultra~=sack_soft.shaft_chk then
+      ahegao_turbo[0]=nil;ahegao_turbo[1]=nil;ahegao_turbo[2]=nil end end;
+    cock1337[sack_soft]=poop_owo
   end;
-  local fap_uwu=coomer_xd[ahegao_giga]
-  if not fap_uwu then
-    local rule34_soft=ahegao_giga.coom_key;
-    local weiner_zone=(255-rule34_soft)%256;
-    local cum_owo=ahegao_giga.gooch_redir
-    if cum_owo then
-      local tit_sus=yeet_max(cum_owo)
-      local ahegao69={}
-      if ahegao_giga.smegma_s0 then ahegao69[1]=ass_uwu(ahegao_giga.smegma_s0,weiner_zone) end
-      if ahegao_giga.smegma_s1 then ahegao69[2]=ass_uwu(ahegao_giga.smegma_s1,weiner_zone) end
-      if ahegao_giga.smegma_s2 then ahegao69[3]=ass_uwu(ahegao_giga.smegma_s2,weiner_zone) end
-      if ahegao_giga.smegma_s3 then ahegao69[4]=ass_uwu(ahegao_giga.smegma_s3,weiner_zone) end
-      fap_uwu={};for weiner_mode=1,#tit_sus do local rule34_xd=tit_sus[weiner_mode];fap_uwu[weiner_mode]=ahegao69[rule34_xd[1]][rule34_xd[2]] end
-    else fap_uwu=ass_uwu(ahegao_giga.boner_pool,weiner_zone) end;
-    coomer_xd[ahegao_giga]=fap_uwu
+  local dingus_giga=dildo_big[sack_soft]
+  if not dingus_giga then
+    local penis_based=sack_soft.coom_key;
+    local pee_mega=(penis_based*3+17)%256;
+    local shaft_owo=sack_soft.gooch_redir
+    if shaft_owo then
+      local dong_moment=penis_chan(shaft_owo)
+      local cock_v2={}
+      if sack_soft.smegma_s0 then cock_v2[1]=penis_zone(sack_soft.smegma_s0,pee_mega) end
+      if sack_soft.smegma_s1 then cock_v2[2]=penis_zone(sack_soft.smegma_s1,pee_mega) end
+      if sack_soft.smegma_s2 then cock_v2[3]=penis_zone(sack_soft.smegma_s2,pee_mega) end
+      if sack_soft.smegma_s3 then cock_v2[4]=penis_zone(sack_soft.smegma_s3,pee_mega) end
+      dingus_giga={};for sussy_moment=1,#dong_moment do local yeet_daddy=dong_moment[sussy_moment];dingus_giga[sussy_moment]=cock_v2[yeet_daddy[1]][yeet_daddy[2]] end
+    else dingus_giga=penis_zone(sack_soft.boner_pool,pee_mega) end;
+    dildo_big[sack_soft]=dingus_giga
   end;
-  local function balls_daddy(e)
+  local function coom_sus(e)
     local t=e[1];
     if t==0 then return nil
     elseif t==1 then return e[2]
     elseif t==2 then return e[2]
     else return e[2] end
   end;
-  local function milf_senpai(i)
-    if i>=256 then return balls_daddy(fap_uwu[i-255])
-    else local _b=chode_lite[i];if _b then return _b[1] end;return boob_mega[i] end
+  local function smegma_lite(i)
+    if i>=256 then return coom_sus(dingus_giga[i-255])
+    else local _b=tit_v2[i];if _b then return _b[1] end;return ahegao_turbo[i] end
   end;
-  local function ween69(i)
-    local b=chode_lite[i];if b then return b[1] end;return boob_mega[i]
+  local function tit_pro(i)
+    local b=tit_v2[i];if b then return b[1] end;return ahegao_turbo[i]
   end;
-  local function smegma_sus(i,v)
-    local b=chode_lite[i];if b then b[1]=v else boob_mega[i]=v end
+  local function ass_max(i,v)
+    local b=tit_v2[i];if b then b[1]=v else ahegao_turbo[i]=v end
   end;
-  local function poop_daddy(_o,_a,_b)
-    if _o==2 then return _a*_b
-    elseif _o==4 then return _a-_b
-    elseif _o==3 then return _a+_b
-    elseif _o==0 then return math.floor(_a/_b)
-    elseif _o==5 then return _a/_b
-    elseif _o==1 then return _a^_b
-    elseif _o==6 then return _a%_b
+  local function rule34_mode(_o,_a,_b)
+    if _o==5 then return _a%_b
+    elseif _o==1 then return _a*_b
+    elseif _o==0 then return _a-_b
+    elseif _o==4 then return math.floor(_a/_b)
+    elseif _o==3 then return _a/_b
+    elseif _o==2 then return _a+_b
+    elseif _o==6 then return _a^_b
     end
   end;
-  local function boner_uwu(_o,_a,_b)
-    if _o==0 then return _a<=_b
-    elseif _o==2 then return _a<_b
-    elseif _o==1 then return _a==_b
+  local function hentai1337(_o,_a,_b)
+    if _o==0 then return _a==_b
+    elseif _o==2 then return _a<=_b
+    elseif _o==1 then return _a<_b
     end
   end;
-  local fart_small={};
-  local thicc_pro=0;
-  fart_small[348]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  local poop_long={};
+  local jizz_pro=0;
+  poop_long[428]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[209]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[259]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=poop_xd[coom_sus(dingus_giga[_i[4]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[10];local _u10=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
   end;
-  fart_small[2]=function(_i)
-    chode_lite[_i[2]]=nil
+  poop_long[227]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])*smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])-smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])+smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
   end;
-  fart_small[301]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[460]=function(_i)
+    do local _u1=_i[2];local _u2=weiner_wet(smegma_lite(_i[3]))..weiner_wet(smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=weiner_wet(smegma_lite(_i[6]))..weiner_wet(smegma_lite(_i[7]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
   end;
-  fart_small[456]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
+  poop_long[311]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[72]=function(_i)
-    do local _u1=_i[2];local _u2=not (chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
+  poop_long[484]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
   end;
-  fart_small[260]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])-milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
+  poop_long[40]=function(_i)
+    if not (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] then dick_small=dick_small+_i[3] end
   end;
-  fart_small[524]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[423]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[316]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
+  poop_long[494]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=not (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[467]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[563]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[66]=function(_i)
-    if (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
+  poop_long[498]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[230]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])*milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[670]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])-smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[535]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[567]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=not (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[528]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])-milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[399]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
   end;
-  fart_small[566]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[363]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[586]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[513]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
   end;
-  fart_small[425]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u5=_i[11];local _u6=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[658]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[320]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
+  poop_long[297]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[349]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
+  poop_long[378]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[49]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
+  poop_long[686]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])/smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[526]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
+  poop_long[348]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[318]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[655]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
   end;
-  fart_small[365]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
+  poop_long[581]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[295]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[354]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
   end;
-  fart_small[498]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
+  poop_long[293]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[367]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=#(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[325]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
   end;
-  fart_small[547]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[52]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
   end;
-  fart_small[395]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u1=_i[8];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
+  poop_long[552]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
   end;
-  fart_small[15]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
+  poop_long[408]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
-  fart_small[477]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
+  poop_long[10]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(5,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
   end;
-  fart_small[581]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[336]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[17]=function(_i)
-  end;
-  fart_small[329]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[309]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[356]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[427]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=not (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[32]=function(_i)
+  poop_long[73]=function(_i)
     local _base=_i[2]
-    local _step=(chode_lite[_base+2] or boob_mega)[chode_lite[_base+2] and 1 or _base+2]
-    local _val=(chode_lite[_base] or boob_mega)[chode_lite[_base] and 1 or _base]+_step
-    chode_lite[_base]=nil
-    boob_mega[_base]=_val
-    local _lim=(chode_lite[_base+1] or boob_mega)[chode_lite[_base+1] and 1 or _base+1]
+    local _nvar=_i[3]
+    local _f=(tit_v2[_base] or ahegao_turbo)[tit_v2[_base] and 1 or _base]
+    local _s=(tit_v2[_base+1] or ahegao_turbo)[tit_v2[_base+1] and 1 or _base+1]
+    local _c=(tit_v2[_base+2] or ahegao_turbo)[tit_v2[_base+2] and 1 or _base+2]
+    local _rets={_f(_s,_c)}
+    for _j=1,_nvar do ass_max(_base+2+_j,_rets[_j]) end
+  end;
+  poop_long[421]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[298]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[466]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do local _u3=_i[6];local _u4=poop_xd[coom_sus(dingus_giga[_i[7]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[50]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+  end;
+  poop_long[569]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[518]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[13];local _u8=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[656]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[675]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[70]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(3,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[604]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_lite(_i[9])/smegma_lite(_i[10]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[376]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[43]=function(_i)
+    local _base=_i[2]
+    local _step=(tit_v2[_base+2] or ahegao_turbo)[tit_v2[_base+2] and 1 or _base+2]
+    local _val=(tit_v2[_base] or ahegao_turbo)[tit_v2[_base] and 1 or _base]+_step
+    tit_v2[_base]=nil
+    ahegao_turbo[_base]=_val
+    local _lim=(tit_v2[_base+1] or ahegao_turbo)[tit_v2[_base+1] and 1 or _base+1]
     if (_step>0 and _val<=_lim) or (_step<=0 and _val>=_lim) then
-      lewds_mega=lewds_mega+_i[3]
-      do local _u1=_base+3;local _u2=_val;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
+      dick_small=dick_small+_i[3]
+      do local _u1=_base+3;local _u2=_val;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
     end
   end;
-  fart_small[25]=function(_i)
-    local _g=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])]
-    local _t=_g[milf_senpai(_i[6])]
+  poop_long[385]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[25]=function(_i)
+    if hentai1337(2,smegma_lite(_i[3]),smegma_lite(_i[4]))==(_i[2]==0) then
+    else dick_small=dick_small+1 end
+  end;
+  poop_long[541]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])-smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_lite(_i[11])*smegma_lite(_i[12]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[439]=function(_i)
+    do local _u1=_i[2];local _u2=#(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[453]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[566]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=_i[13]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[271]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[659]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[302]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=_i[12]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[493]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[333]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[247]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[328]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[201]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[287]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=coom_sus(dingus_giga[_i[4]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[305]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[644]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[26]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    local _fn=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]
+    local _nb=_i[4]
+    local _nc=_i[5]
+    if _nb==1 then
+      if _nc==1 then _fn()
+      elseif _nc==0 then local _rv={_fn()};thicc_chan=_i[2]+#_rv-1;for _j=1,#_rv do ass_max(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do ass_max(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do ass_max(_i[2]+_j-1,_rv[_j]) end end
+    else
+      local _args={};for _j=1,_nb-1 do _args[_j]=(tit_v2[_i[2]+_j] or ahegao_turbo)[tit_v2[_i[2]+_j] and 1 or _i[2]+_j] end
+      if _nc==1 then _fn(butt_giga(_args))
+      elseif _nc==0 then local _rv={_fn(butt_giga(_args))};thicc_chan=_i[2]+#_rv-1;for _j=1,#_rv do ass_max(_i[2]+_j-1,_rv[_j]) end
+      else local _rv={_fn(butt_giga(_args))};for _j=1,_nc-1 do ass_max(_i[2]+_j-1,_rv[_j]) end end
+    end
+  end;
+  poop_long[372]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[299]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[405]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[527]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[211]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[676]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[482]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[562]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[672]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[497]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])*smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[602]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[242]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10={};local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[7]=function(_i)
+    shaft_chan=true
+    peepee_mode={(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]}
+  end;
+  poop_long[419]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[740]=function(_i)
+    local _x=rule34_mode(6,smegma_lite(_i[3]),smegma_lite(_i[4]));ass_max(_i[2],_x)
+  end;
+  poop_long[614]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[317]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[427]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[650]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[414]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[351]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=#(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[462]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[633]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[65]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(4,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[613]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[32]=function(_i)
+    local _uv=knob_ultra[_i[3]]
+    do local _u1=_i[2];local _u2=_uv and _uv[1];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[284]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[71]=function(_i)
+    local _a,_b=_i[2],_i[3]
+    if _b==0 then
+      for _j=1,#yeet_sus do ass_max(_a+_j-1,yeet_sus[_j]) end
+      thicc_chan=_a+#yeet_sus-1
+    else
+      for _j=1,_b-1 do ass_max(_a+_j-1,yeet_sus[_j]) end
+    end
+  end;
+  poop_long[60]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[344]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[664]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[429]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=#(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[519]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])+smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[309]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[239]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[623]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[395]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[678]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[360]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[641]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[205]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[598]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[438]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])%smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])+smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[1018]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[225]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[691]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[6]=function(_i)
+    do local _u1=_i[2];local _u2=-(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[257]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[594]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_lite(_i[9])/smegma_lite(_i[10]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[342]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+  end;
+  poop_long[228]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[433]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=smegma_lite(_i[7])+smegma_lite(_i[8]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[324]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[517]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[357]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[452]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[628]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[652]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[443]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=#(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=smegma_lite(_i[7])+smegma_lite(_i[8]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[514]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[635]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[38]=function(_i)
+    local _g=poop_xd[coom_sus(dingus_giga[_i[3]+1])]
+    local _t1=_g[smegma_lite(_i[5])]
+    do local _u1=_i[6];local _u2=_t1[smegma_lite(_i[7])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[630]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[620]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[260]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[506]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])/smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])*smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[44]=function(_i)
+    if not (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] then dick_small=dick_small+_i[3] end
+  end;
+  poop_long[1049]=function(_i)
+    local _t=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]];if _t then ass_max(_i[3],_t[smegma_lite(_i[4])]) end
+  end;
+  poop_long[329]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[611]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[207]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[7];local _u8=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[10];local _u10=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[551]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[212]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[503]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])/smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_lite(_i[11])-smegma_lite(_i[12]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[222]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[446]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=#(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=smegma_lite(_i[7])+smegma_lite(_i[8]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[515]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])-smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[251]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[573]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_lite(_i[9])-smegma_lite(_i[10]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[14];local _u10=(tit_v2[_i[15]] or ahegao_turbo)[tit_v2[_i[15]] and 1 or _i[15]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[327]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[599]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[322]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[213]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[400]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[444]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])%smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])+smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[574]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[359]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[456]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u1=_i[8];local _u2=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])]=smegma_lite(_i[12]) end
+    do local _u3=_i[13];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[592]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[522]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[13];local _u8=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[352]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[549]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[556]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[578]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[216]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[431]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[609]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[356]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[511]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[55]=function(_i)
+    do local _u1=_i[2];local _u2=#(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[292]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[47]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    local _fn=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]
+    local _nb=_i[4]
+    local _nc=_i[5]
+    if _nb==1 then
+      if _nc==1 then _fn()
+      elseif _nc==0 then local _rv={_fn()};thicc_chan=_i[2]+#_rv-1;for _j=1,#_rv do ass_max(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do ass_max(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do ass_max(_i[2]+_j-1,_rv[_j]) end end
+    else
+      local _args={};for _j=1,_nb-1 do _args[_j]=(tit_v2[_i[2]+_j] or ahegao_turbo)[tit_v2[_i[2]+_j] and 1 or _i[2]+_j] end
+      if _nc==1 then _fn(butt_giga(_args))
+      elseif _nc==0 then local _rv={_fn(butt_giga(_args))};thicc_chan=_i[2]+#_rv-1;for _j=1,#_rv do ass_max(_i[2]+_j-1,_rv[_j]) end
+      else local _rv={_fn(butt_giga(_args))};for _j=1,_nc-1 do ass_max(_i[2]+_j-1,_rv[_j]) end end
+    end
+  end;
+  poop_long[554]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[280]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[617]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[396]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[540]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[13];local _u8=poop_xd[coom_sus(dingus_giga[_i[14]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[61]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]() end
+  end;
+  poop_long[236]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[472]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u1=_i[8];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[231]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])*smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[220]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[425]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[489]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=_i[13]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[588]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[485]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[507]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])*smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[647]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[337]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[51]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+  end;
+  poop_long[353]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[272]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[315]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[671]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[627]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[373]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[332]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[294]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[237]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])+smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[651]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[629]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[204]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[557]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])]=smegma_lite(_i[12]) end
+    do local _u7=_i[13];local _u8=_i[14]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[525]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[669]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[407]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[375]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[454]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=#(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[367]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=_i[12]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[300]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[381]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[402]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=_i[8]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[447]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])%smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])+smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_lite(_i[11])%smegma_lite(_i[12]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=smegma_lite(_i[14])+smegma_lite(_i[15]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[475]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[504]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[223]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[546]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[667]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[535]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[690]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[455]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u3=_i[9];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[526]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[28]=function(_i)
+    if hentai1337(0,smegma_lite(_i[3]),smegma_lite(_i[4]))==(_i[2]==0) then
+      dick_small=dick_small+3
+      do local _u1=_i[8];local _u2=_i[9]~=0;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    else
+      dick_small=dick_small+3
+      do local _u3=_i[6];local _u4=_i[7]~=0;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    end
+  end;
+  poop_long[536]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[582]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[291]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[283]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+  end;
+  poop_long[508]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])*smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[338]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[345]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=poop_xd[coom_sus(dingus_giga[_i[12]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[3]=function(_i)
+    local _base=_i[2]
+    local _val=(tit_v2[_base] or ahegao_turbo)[tit_v2[_base] and 1 or _base]-(tit_v2[_base+2] or ahegao_turbo)[tit_v2[_base+2] and 1 or _base+2]
+    tit_v2[_base]=nil
+    ahegao_turbo[_base]=_val
+    dick_small=dick_small+_i[3]
+  end;
+  poop_long[516]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[416]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[406]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[30]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(6,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[296]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[224]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])+smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[603]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_lite(_i[9])/smegma_lite(_i[10]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[488]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[600]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[336]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[426]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do local _u3=_i[6];local _u4=poop_xd[coom_sus(dingus_giga[_i[7]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[436]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=#(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])-smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[267]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[587]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[969]=function(_i)
+    do local _u1=_i[2];local _u2=#(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[255]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[539]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])-smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[474]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=_i[5]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=_i[12]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[486]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=poop_xd[coom_sus(dingus_giga[_i[12]+1])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[467]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[645]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[631]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[306]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[397]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[16]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=nil;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[20]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(1,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[39]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[268]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[564]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[589]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[355]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[390]=function(_i)
+    do local _u1=_i[2];local _u2=-(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[622]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[14]=function(_i)
+    local _sub=dong1337[_i[3]+1]
+    local _cuv={}
+    if _sub.knob_upvals then
+      local _suv=_sub._uv_dec or fart_hard(_sub.knob_upvals)
+      _sub._uv_dec=_suv
+      for _j=1,#_suv do
+        local _d=_suv[_j]
+        if _d[1]==1 then
+          if not tit_v2[_d[2]] then
+            tit_v2[_d[2]]={(tit_v2[_d[2]] or ahegao_turbo)[tit_v2[_d[2]] and 1 or _d[2]]}
+          end
+          _cuv[_j-1]=tit_v2[_d[2]]
+        else
+          _cuv[_j-1]=knob_ultra[_d[2]]
+        end
+      end
+    end
+    ass_max(_i[2],function(...)
+      return rod_daddy(_sub,poop_xd,_cuv,{...})
+    end)
+  end;
+  poop_long[687]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])-smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])*smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_lite(_i[9])+smegma_lite(_i[10]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=poop_xd[coom_sus(dingus_giga[_i[12]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]][smegma_lite(_i[15])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[279]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[45]=function(_i)
+    tit_v2[_i[2]]=nil
+  end;
+  poop_long[417]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[316]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=-(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[512]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[266]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[41]=function(_i)
+    poop_xd[coom_sus(dingus_giga[_i[3]+1])]=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]
+  end;
+  poop_long[572]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[492]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=not (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[495]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])*smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])*smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[59]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(0,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[382]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[246]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[502]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])/smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[13]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[270]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[531]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[510]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[412]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=_i[8]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[469]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do local _u3=_i[6];local _u4=poop_xd[coom_sus(dingus_giga[_i[7]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[420]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[281]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[448]=function(_i)
+    do local _u1=_i[2];local _u2=#(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[560]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])]=smegma_lite(_i[12]) end
+  end;
+  poop_long[341]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[478]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[243]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[269]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[366]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[624]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[346]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[319]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[285]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[226]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])+smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[404]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[473]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+  end;
+  poop_long[326]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[580]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])-smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[636]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[661]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[481]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[880]=function(_i)
+    local _x=rule34_mode(1,smegma_lite(_i[3]),smegma_lite(_i[4]));ass_max(_i[2],_x)
+  end;
+  poop_long[254]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[258]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=smegma_lite(_i[13])-smegma_lite(_i[14]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[538]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])-smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[677]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])/smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=-(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[590]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[649]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[36]=function(_i)
+    local _g=poop_xd[coom_sus(dingus_giga[_i[3]+1])]
+    local _t=_g[smegma_lite(_i[6])]
     local _fn=_t
     local _nb=_i[7]
     local _nc=_i[8]
     if _nb==1 then
       if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};nut_turbo=_i[4]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[4]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do smegma_sus(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do smegma_sus(_i[4]+_j-1,_rv[_j]) end end
+      elseif _nc==0 then local _rv={_fn()};thicc_chan=_i[4]+#_rv-1;for _j=1,#_rv do ass_max(_i[4]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do ass_max(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do ass_max(_i[4]+_j-1,_rv[_j]) end end
     else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(chode_lite[_i[4]+_j] or boob_mega)[chode_lite[_i[4]+_j] and 1 or _i[4]+_j] end
-      if _nc==1 then _fn(milf_hard(_args))
-      elseif _nc==0 then local _rv={_fn(milf_hard(_args))};nut_turbo=_i[4]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[4]+_j-1,_rv[_j]) end
-      else local _rv={_fn(milf_hard(_args))};for _j=1,_nc-1 do smegma_sus(_i[4]+_j-1,_rv[_j]) end end
+      local _args={};for _j=1,_nb-1 do _args[_j]=(tit_v2[_i[4]+_j] or ahegao_turbo)[tit_v2[_i[4]+_j] and 1 or _i[4]+_j] end
+      if _nc==1 then _fn(butt_giga(_args))
+      elseif _nc==0 then local _rv={_fn(butt_giga(_args))};thicc_chan=_i[4]+#_rv-1;for _j=1,#_rv do ass_max(_i[4]+_j-1,_rv[_j]) end
+      else local _rv={_fn(butt_giga(_args))};for _j=1,_nc-1 do ass_max(_i[4]+_j-1,_rv[_j]) end end
     end
   end;
-  fart_small[24]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[574]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[291]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[272]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[573]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-  end;
-  fart_small[317]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[233]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=-(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[228]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[368]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[515]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=not (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[587]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[563]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-  end;
-  fart_small[594]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[451]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[398]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[73]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=nil;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[401]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[388]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[382]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])%milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])%milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[567]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[268]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8={};local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[486]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[251]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[211]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[53]=function(_i)
-    if boner_uwu(2,milf_senpai(_i[3]),milf_senpai(_i[4]))==(_i[2]==0) then
-    else lewds_mega=lewds_mega+1 end
-  end;
-  fart_small[468]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[44]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[250]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])/milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[3]=function(_i)
-    local _base=_i[2]
-    local _val=(chode_lite[_base] or boob_mega)[chode_lite[_base] and 1 or _base]-(chode_lite[_base+2] or boob_mega)[chode_lite[_base+2] and 1 or _base+2]
-    chode_lite[_base]=nil
-    boob_mega[_base]=_val
-    lewds_mega=lewds_mega+_i[3]
-  end;
-  fart_small[347]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=#(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])/milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[502]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[393]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-  end;
-  fart_small[283]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=balls_daddy(fap_uwu[_i[4]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[429]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=milf_senpai(_i[9])-milf_senpai(_i[10]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[43]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[202]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[54]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[205]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[418]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=chode_uwu[balls_daddy(fap_uwu[_i[12]+1])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[440]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])/milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])+milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[596]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[544]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[346]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[280]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8={};local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[521]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[274]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[597]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[570]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[520]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[366]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[303]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[29]=function(_i)
-    local _base=_i[2]
-    local _nvar=_i[3]
-    local _f=(chode_lite[_base] or boob_mega)[chode_lite[_base] and 1 or _base]
-    local _s=(chode_lite[_base+1] or boob_mega)[chode_lite[_base+1] and 1 or _base+1]
-    local _c=(chode_lite[_base+2] or boob_mega)[chode_lite[_base+2] and 1 or _base+2]
-    local _rets={_f(_s,_c)}
-    for _j=1,_nvar do smegma_sus(_base+2+_j,_rets[_j]) end
-  end;
-  fart_small[323]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[271]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[462]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[479]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[377]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])%milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[335]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[615]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[410]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[577]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[582]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[490]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[302]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[284]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[529]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[255]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=milf_senpai(_i[13])-milf_senpai(_i[14]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[7]=function(_i)
-    local _b=chode_lite[_i[2]]
-    if _b then _b[1]=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]] end
-  end;
-  fart_small[509]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=milf_senpai(_i[9])-milf_senpai(_i[10]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[14];local _u10=(chode_lite[_i[15]] or boob_mega)[chode_lite[_i[15]] and 1 or _i[15]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[554]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[602]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[539]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=milf_senpai(_i[14])+milf_senpai(_i[15]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[434]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[488]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[495]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do (chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])]=milf_senpai(_i[14]) end
-  end;
-  fart_small[494]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])]=milf_senpai(_i[12]) end
-  end;
-  fart_small[39]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    local _fn=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]
-    local _nb=_i[4]
-    local _nc=_i[5]
-    if _nb==1 then
-      if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};nut_turbo=_i[2]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do smegma_sus(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do smegma_sus(_i[2]+_j-1,_rv[_j]) end end
-    else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(chode_lite[_i[2]+_j] or boob_mega)[chode_lite[_i[2]+_j] and 1 or _i[2]+_j] end
-      if _nc==1 then _fn(milf_hard(_args))
-      elseif _nc==0 then local _rv={_fn(milf_hard(_args))};nut_turbo=_i[2]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[2]+_j-1,_rv[_j]) end
-      else local _rv={_fn(milf_hard(_args))};for _j=1,_nc-1 do smegma_sus(_i[2]+_j-1,_rv[_j]) end end
-    end
-  end;
-  fart_small[510]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])-milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[286]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[225]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])*milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=milf_senpai(_i[6])-milf_senpai(_i[7]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=milf_senpai(_i[11])+milf_senpai(_i[12]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[421]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[16]=function(_i)
-    if not (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-  end;
-  fart_small[31]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(5,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[572]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[57]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]() end
-  end;
-  fart_small[63]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(0,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[360]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[431]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])*milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[475]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])*milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[328]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[385]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-  end;
-  fart_small[606]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=-(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[10];local _u10=-(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[507]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[610]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=_i[8]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[543]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[313]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[460]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[558]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[294]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u7=_i[11];local _u8=_i[12]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[611]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[459]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[616]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[394]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=chode_long(milf_senpai(_i[11]))..chode_long(milf_senpai(_i[12]));local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[423]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=_i[13]==1;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[296]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[540]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[363]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=#(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[322]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[48]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(1,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[200]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[588]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[11]=function(_i)
-    chode_uwu[balls_daddy(fap_uwu[_i[3]+1])]=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]
-  end;
-  fart_small[221]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])*milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[461]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])-milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[420]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[387]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[416]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[279]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[614]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])*milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=milf_senpai(_i[6])+milf_senpai(_i[7]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[325]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[390]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])]=milf_senpai(_i[5]) end
-    do local _u3=_i[6];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[7]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[549]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[263]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[478]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[369]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])+milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[224]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])+milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[74]=function(_i)
-    local _b=chode_lite[_i[3]]
-    do local _u1=_i[2];local _u2=_b and _b[1];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[552]=function(_i)
-    do local _u1=_i[2];local _u2=chode_long(milf_senpai(_i[3]))..chode_long(milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[351]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[560]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[239]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[4]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[10];local _u10=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[379]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])%milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])%milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[411]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[612]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[419]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[7]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[305]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[562]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[378]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[218]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])-milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[22]=function(_i)
-    local _o=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]]
-    chode_lite[_i[2]]=nil;chode_lite[_i[2]+1]=nil
-    boob_mega[_i[2]+1]=_o
-    boob_mega[_i[2]]=_o[milf_senpai(_i[4])]
-  end;
-  fart_small[497]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u7=_i[11];local _u8={};local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[10]=function(_i)
-    chode_uwu[balls_daddy(fap_uwu[_i[3]+1])]=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]
-    do local _u1=_i[4];local _u2=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[426]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[464]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[508]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[65]=function(_i)
-    coomer_uwu=true
-    coomer_hyper={(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]}
-  end;
-  fart_small[415]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[599]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])-milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[374]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])%milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[27]=function(_i)
-    if boner_uwu(1,milf_senpai(_i[3]),milf_senpai(_i[4]))==(_i[2]==0) then
-    else lewds_mega=lewds_mega+1 end
-  end;
-  fart_small[452]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[13];local _u8=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[69]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(6,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[298]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[355]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[343]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[6];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[7]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[8];local _u10=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[35]=function(_i)
-    lewds_mega=lewds_mega+_i[2]
-  end;
-  fart_small[258]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[446]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do (chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])]=milf_senpai(_i[14]) end
-  end;
-  fart_small[76]=function(_i)
-    chode_lite[_i[2]]={(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]}
-  end;
-  fart_small[42]=function(_i)
-    local _uv=poop_san[_i[3]]
-    if _uv then _uv[1]=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] end
-  end;
-  fart_small[244]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[373]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])%milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[353]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[375]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])/milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[310]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[245]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[4]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[512]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[550]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[472]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[290]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[518]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])]=milf_senpai(_i[12]) end
-    do local _u7=_i[13];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[14]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[332]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[559]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[314]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[448]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[592]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[500]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[265]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[372]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])/milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[548]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[45]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[345]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[608]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[402]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u1=_i[8];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[248]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[51]=function(_i)
-    local _sub=fap_san[_i[3]+1]
-    local _cuv={}
-    if _sub.knob_upvals then
-      local _suv=_sub._uv_dec or meat_kun(_sub.knob_upvals)
-      _sub._uv_dec=_suv
-      for _j=1,#_suv do
-        local _d=_suv[_j]
-        if _d[1]==1 then
-          if not chode_lite[_d[2]] then
-            chode_lite[_d[2]]={(chode_lite[_d[2]] or boob_mega)[chode_lite[_d[2]] and 1 or _d[2]]}
-          end
-          _cuv[_j-1]=chode_lite[_d[2]]
-        else
-          _cuv[_j-1]=poop_san[_d[2]]
-        end
-      end
-    end
-    smegma_sus(_i[2],function(...)
-      return sussy_hyper(_sub,chode_uwu,_cuv,{...})
-    end)
-  end;
-  fart_small[234]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[275]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[52]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(2,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[538]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=not (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[397]=function(_i)
-    do local _u1=_i[2];local _u2=chode_long(milf_senpai(_i[3]))..chode_long(milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_long(milf_senpai(_i[6]))..chode_long(milf_senpai(_i[7]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-    do local _u5=_i[14];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[30]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[254]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[262]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[339]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[277]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[546]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[741]=function(_i)
-    local _t=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]];if _t then smegma_sus(_i[3],_t[milf_senpai(_i[4])]) end
-  end;
-  fart_small[603]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[212]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[449]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[555]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-  end;
-  fart_small[516]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=milf_senpai(_i[9])-milf_senpai(_i[10]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[14];local _u10=(chode_lite[_i[15]] or boob_mega)[chode_lite[_i[15]] and 1 or _i[15]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[33]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-  end;
-  fart_small[436]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])/milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[530]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[13];local _u8=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[246]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[62]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[227]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[576]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[232]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])*milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[491]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[380]=function(_i)
-    do local _u1=_i[2];local _u2=#(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[243]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[1]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-  end;
-  fart_small[292]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[473]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[331]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[50]=function(_i)
-    if boner_uwu(0,milf_senpai(_i[3]),milf_senpai(_i[4]))==(_i[2]==0) then
-    else lewds_mega=lewds_mega+1 end
-  end;
-  fart_small[617]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[289]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[517]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[75]=function(_i)
-    local dingus_ultra="you are mass, and i am gravity"
-  end;
-  fart_small[590]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[496]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])]=milf_senpai(_i[12]) end
-  end;
-  fart_small[441]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])*milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[457]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[471]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[67]=function(_i)
-    local gooch69="sudo rm -rf /your/social/life"
-  end;
-  fart_small[391]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])]=milf_senpai(_i[12]) end
-    do local _u5=_i[13];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[235]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])+milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[613]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[201]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[405]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=_i[5]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u7=_i[11];local _u8=_i[12]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[240]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])*milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[247]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])-milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[278]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[481]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[344]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[41]=function(_i)
-    local _g=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])]
-    local _t1=_g[milf_senpai(_i[5])]
-    do local _u1=_i[6];local _u2=_t1[milf_senpai(_i[7])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[396]=function(_i)
-    do local _u1=_i[2];local _u2=chode_long(milf_senpai(_i[3]))..chode_long(milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_long(milf_senpai(_i[6]))..chode_long(milf_senpai(_i[7]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=chode_long(milf_senpai(_i[9]))..chode_long(milf_senpai(_i[10]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=chode_long(milf_senpai(_i[12]))..chode_long(milf_senpai(_i[13]));local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[58]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-  end;
-  fart_small[557]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-  end;
-  fart_small[362]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[504]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[583]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[238]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])/milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=milf_senpai(_i[11])*milf_senpai(_i[12]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=milf_senpai(_i[14])*milf_senpai(_i[15]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[584]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[565]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[13]=function(_i)
-    do local _u1=_i[2];local _u2=#(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[609]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[293]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[575]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[287]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[531]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[77]=function(_i)
-    local simp_wet="ur mom gay lol"
-  end;
-  fart_small[542]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[288]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[371]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])/milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[352]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u7=_i[11];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[12]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[430]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[600]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])-milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])/milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[324]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[358]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[64]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[308]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[435]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[299]=function(_i)
-    do local _u1=_i[2];local _u2=-(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=-(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[9]=function(_i)
-    if boner_uwu(1,milf_senpai(_i[3]),milf_senpai(_i[4]))==(_i[2]==0) then
-      lewds_mega=lewds_mega+3
-      do local _u1=_i[8];local _u2=_i[9]~=0;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    else
-      lewds_mega=lewds_mega+3
-      do local _u3=_i[6];local _u4=_i[7]~=0;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    end
-  end;
-  fart_small[919]=function(_i)
-    do local _u1=_i[2];local _u2=#(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[469]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[327]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[593]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[267]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[311]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[281]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[417]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[444]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[12]=function(_i)
-    chode_uwu[balls_daddy(fap_uwu[_i[3]+1])]()
-  end;
-  fart_small[487]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])/milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[466]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[383]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=milf_senpai(_i[7])+milf_senpai(_i[8]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[439]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[340]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[482]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[414]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[433]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[270]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[412]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-  end;
-  fart_small[249]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[408]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[354]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u7=_i[11];local _u8=_i[12]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[525]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[437]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])/milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[409]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[217]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do local _u5=_i[11];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[12]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[541]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[59]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-  end;
-  fart_small[381]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[532]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])-milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[326]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[522]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=chode_uwu[balls_daddy(fap_uwu[_i[14]+1])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[569]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[261]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[282]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=balls_daddy(fap_uwu[_i[4]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[334]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[210]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[61]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=nil;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=nil;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[215]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[341]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[259]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])-milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[223]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[406]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[304]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[632]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[60]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(4,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[266]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[400]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[206]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[537]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[269]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[483]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do (chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])]=milf_senpai(_i[14]) end
-  end;
-  fart_small[403]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[511]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[252]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[242]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[949]=function(_i)
-    if (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-  end;
-  fart_small[422]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=_i[8]==1;local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[489]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-  end;
-  fart_small[28]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[545]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[19]=function(_i)
-    local _a,_b=_i[2],_i[3]
-    if _b==0 then
-      for _j=1,#tool_wet do smegma_sus(_a+_j-1,tool_wet[_j]) end
-      nut_turbo=_a+#tool_wet-1
-    else
-      for _j=1,_b-1 do smegma_sus(_a+_j-1,tool_wet[_j]) end
-    end
-  end;
-  fart_small[330]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[579]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[216]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[357]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=balls_daddy(fap_uwu[_i[9]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[361]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[264]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[207]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[428]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[463]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[231]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[219]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=milf_senpai(_i[12])+milf_senpai(_i[13]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[333]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[450]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[607]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[229]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[46]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[527]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[257]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[21]=function(_i)
-    do local _u1=_i[2];local _u2=-(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[319]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[370]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=#(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[273]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[203]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])/milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=milf_senpai(_i[11])/milf_senpai(_i[12]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10={};local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[70]=function(_i)
-    local _uv=poop_san[_i[3]]
-    do local _u1=_i[2];local _u2=_uv and _uv[1];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[359]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=balls_daddy(fap_uwu[_i[7]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[213]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[4]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[505]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])+milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])]=milf_senpai(_i[12]) end
-    do local _u7=_i[13];local _u8=_i[14]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[585]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[568]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[312]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[438]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])-milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])*milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=milf_senpai(_i[11])-milf_senpai(_i[12]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[337]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[208]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[364]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[534]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[384]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])-milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])/milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[204]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[7];local _u8=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[253]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[315]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[307]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=-(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[55]=function(_i)
-    local _a,_b=_i[2],_i[3]
-    coomer_uwu=true
-    if _b==0 then
-      local _r={}
-      for _j=_a,nut_turbo do _r[#_r+1]=(chode_lite[_j] or boob_mega)[chode_lite[_j] and 1 or _j] end
-      coomer_hyper=_r
-    elseif _b==1 then
-      coomer_hyper=nil
-    else
-      local _r={}
-      for _j=_a,_a+_b-2 do _r[#_r+1]=(chode_lite[_j] or boob_mega)[chode_lite[_j] and 1 or _j] end
-      coomer_hyper=_r
-    end
-  end;
-  fart_small[604]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[10]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[392]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u1=_i[8];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-  end;
-  fart_small[455]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[484]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[71]=function(_i)
-    local _a,_b,_c=_i[2],_i[3],_i[4]
-    local _f=(chode_lite[_a] or boob_mega)[chode_lite[_a] and 1 or _a]
-    local _args={}
-    if _b==0 then
-      for _j=_a+1,nut_turbo do _args[#_args+1]=(chode_lite[_j] or boob_mega)[chode_lite[_j] and 1 or _j] end
-    else
-      for _j=_a+1,_a+_b-1 do _args[#_args+1]=(chode_lite[_j] or boob_mega)[chode_lite[_j] and 1 or _j] end
-    end
-    local _rets={_f(milf_hard(_args))}
-    if _c==0 then
-      for _j=1,#_rets do smegma_sus(_a+_j-1,_rets[_j]) end
-      nut_turbo=_a+#_rets-1
-    else
-      for _j=1,_c-1 do smegma_sus(_a+_j-1,_rets[_j]) end
-    end
-  end;
-  fart_small[226]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[523]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=chode_long(milf_senpai(_i[11]))..chode_long(milf_senpai(_i[12]));local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[454]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[601]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[432]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=milf_senpai(_i[7])*milf_senpai(_i[8]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[404]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4={};local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-  end;
-  fart_small[506]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[68]=function(_i)
-    do local _u1=_i[2];local _u2=chode_long(milf_senpai(_i[3]))..chode_long(milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[551]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[513]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])+milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do (chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])]=milf_senpai(_i[14]) end
-  end;
-  fart_small[591]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-  end;
-  fart_small[536]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[220]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[399]=function(_i)
-    do local _u1=_i[2];local _u2=chode_long(milf_senpai(_i[3]))..chode_long(milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=chode_long(milf_senpai(_i[6]))..chode_long(milf_senpai(_i[7]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])]=milf_senpai(_i[10]) end
-    do (chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])]=milf_senpai(_i[13]) end
-    do local _u5=_i[14];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[276]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6={};local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[503]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=chode_long(milf_senpai(_i[11]))..chode_long(milf_senpai(_i[12]));local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[342]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[580]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[470]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])-milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[595]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[306]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[561]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[909]=function(_i)
-    if (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-  end;
-  fart_small[443]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[5]=function(_i)
-    local _base=_i[2]
-    if (chode_lite[_base+3] or boob_mega)[chode_lite[_base+3] and 1 or _base+3]~=nil then
-      do local _u1=_base+2;local _u2=(chode_lite[_base+3] or boob_mega)[chode_lite[_base+3] and 1 or _base+3];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-      lewds_mega=lewds_mega+_i[3]
-    end
-  end;
-  fart_small[407]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[556]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[485]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[6]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[465]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=milf_senpai(_i[5])-milf_senpai(_i[6]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[474]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=milf_senpai(_i[10])-milf_senpai(_i[11]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=milf_senpai(_i[13])*milf_senpai(_i[14]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[492]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[376]=function(_i)
-    do local _u1=_i[2];local _u2=milf_senpai(_i[3])%milf_senpai(_i[4]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=milf_senpai(_i[6])+milf_senpai(_i[7]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[214]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[20]=function(_i)
-    if (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-  end;
-  fart_small[386]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[237]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=balls_daddy(fap_uwu[_i[6]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u5=_i[12];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[578]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[1066]=function(_i)
-    if (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-  end;
-  fart_small[241]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[4]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]~=0;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    if _i[4] and _i[4]~=0 then lewds_mega=lewds_mega+1 end
-  end;
-  fart_small[321]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[442]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])*milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[618]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[38]=function(_i)
-    do local _u1=_i[2];local _u2=poop_daddy(3,milf_senpai(_i[3]),milf_senpai(_i[4]));local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[453]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=milf_senpai(_i[8])+milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[571]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=balls_daddy(fap_uwu[_i[13]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[413]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[499]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[13];local _u8=not (chode_lite[_i[14]] or boob_mega)[chode_lite[_i[14]] and 1 or _i[14]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[424]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[501]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[447]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do (chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]][milf_senpai(_i[10])]=milf_senpai(_i[11]) end
-    do local _u7=_i[12];local _u8=chode_uwu[balls_daddy(fap_uwu[_i[13]+1])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[493]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[256]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[4]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[285]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]][milf_senpai(_i[11])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[533]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[9]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(chode_lite[_i[11]] or boob_mega)[chode_lite[_i[11]] and 1 or _i[11]][milf_senpai(_i[12])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[350]=function(_i)
-    do local _u1=_i[2];local _u2=balls_daddy(fap_uwu[_i[3]+1]);local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-    do local _u3=_i[7];local _u4=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[56]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-  end;
-  fart_small[222]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=-(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[338]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=balls_daddy(fap_uwu[_i[5]+1]);local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[300]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]][milf_senpai(_i[7])]=milf_senpai(_i[8]) end
-    do local _u5=_i[9];local _u6=(chode_lite[_i[10]] or boob_mega)[chode_lite[_i[10]] and 1 or _i[10]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(chode_lite[_i[12]] or boob_mega)[chode_lite[_i[12]] and 1 or _i[12]][milf_senpai(_i[13])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[519]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[476]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[445]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do (chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])]=milf_senpai(_i[7]) end
-    do local _u3=_i[8];local _u4=(chode_lite[_i[9]] or boob_mega)[chode_lite[_i[9]] and 1 or _i[9]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[589]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[5]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=balls_daddy(fap_uwu[_i[10]+1]);local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=balls_daddy(fap_uwu[_i[12]+1]);local _b=chode_lite[_u9];if _b then _b[1]=_u10 else boob_mega[_u9]=_u10 end end
-  end;
-  fart_small[236]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=balls_daddy(fap_uwu[_i[8]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-  end;
-  fart_small[8]=function(_i)
-    do local _u1=_i[2];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[3]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    local _fn=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]
-    local _nb=_i[4]
-    local _nc=_i[5]
-    if _nb==1 then
-      if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};nut_turbo=_i[2]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do smegma_sus(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do smegma_sus(_i[2]+_j-1,_rv[_j]) end end
-    else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(chode_lite[_i[2]+_j] or boob_mega)[chode_lite[_i[2]+_j] and 1 or _i[2]+_j] end
-      if _nc==1 then _fn(milf_hard(_args))
-      elseif _nc==0 then local _rv={_fn(milf_hard(_args))};nut_turbo=_i[2]+#_rv-1;for _j=1,#_rv do smegma_sus(_i[2]+_j-1,_rv[_j]) end
-      else local _rv={_fn(milf_hard(_args))};for _j=1,_nc-1 do smegma_sus(_i[2]+_j-1,_rv[_j]) end end
-    end
-  end;
-  fart_small[480]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-  end;
-  fart_small[297]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-  end;
-  fart_small[458]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]][milf_senpai(_i[6])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-    do local _u5=_i[10];local _u6=chode_uwu[balls_daddy(fap_uwu[_i[11]+1])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-  end;
-  fart_small[389]=function(_i)
-    do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=chode_long(milf_senpai(_i[5]))..chode_long(milf_senpai(_i[6]));local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=chode_long(milf_senpai(_i[8]))..chode_long(milf_senpai(_i[9]));local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=chode_long(milf_senpai(_i[11]))..chode_long(milf_senpai(_i[12]));local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
-    do (chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]][milf_senpai(_i[14])]=milf_senpai(_i[15]) end
-  end;
-  fart_small[0]=function(_i)
-    local _tbl=(chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]]
+  poop_long[350]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[548]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[688]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])*smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[509]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[410]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[441]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])/smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[263]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=-(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[577]=function(_i)
+    do local _u1=_i[2];local _u2=weiner_wet(smegma_lite(_i[3]))..weiner_wet(smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=weiner_wet(smegma_lite(_i[6]))..weiner_wet(smegma_lite(_i[7]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[642]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[248]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[7];local _u8=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[521]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[289]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=poop_xd[coom_sus(dingus_giga[_i[4]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[530]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[465]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[487]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[54]=function(_i)
+    if (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] then dick_small=dick_small+_i[3] end
+  end;
+  poop_long[607]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[371]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[684]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[262]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=-(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[537]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])/smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[653]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[501]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])*smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[477]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[682]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[66]=function(_i)
+    dick_small=dick_small+_i[2]
+  end;
+  poop_long[555]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[401]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[379]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[542]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])*smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[668]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[640]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[583]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[308]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[570]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=weiner_wet(smegma_lite(_i[11]))..weiner_wet(smegma_lite(_i[12]));local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[430]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[310]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[313]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[349]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[634]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[265]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[499]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[286]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6={};local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[5];local _u8=nil;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[6];local _u10={};local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[331]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[69]=function(_i)
+    if hentai1337(0,smegma_lite(_i[3]),smegma_lite(_i[4]))==(_i[2]==0) then
+    else dick_small=dick_small+1 end
+  end;
+  poop_long[409]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[585]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])-smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=poop_xd[coom_sus(dingus_giga[_i[14]+1])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[27]=function(_i)
+    local _b=tit_v2[_i[2]]
+    if _b then _b[1]=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]] end
+  end;
+  poop_long[584]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[445]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])%smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[434]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])+smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[304]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[245]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[335]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[529]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[418]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[451]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[534]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[596]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[215]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[424]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[954]=function(_i)
+    if (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] then dick_small=dick_small+_i[3] end
+  end;
+  poop_long[612]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[34]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+  end;
+  poop_long[374]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[230]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])*smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[643]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[666]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[64]=function(_i)
+    do local _u1=_i[2];local _u2=not (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[264]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])-smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[389]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[217]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[56]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[276]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[8]=function(_i)
+    do local _u1=_i[2];local _u2=weiner_wet(smegma_lite(_i[3]))..weiner_wet(smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[442]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])%smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[238]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[553]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])/smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[458]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[358]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[490]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u3=_i[9];local _u4=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[606]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[632]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[683]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[662]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[210]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[273]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[673]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[899]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[545]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[301]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[863]=function(_i)
+    local _t=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]];if _t then ass_max(_i[3],_t[smegma_lite(_i[4])]) end
+  end;
+  poop_long[681]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=_i[8]==1;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[547]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+  end;
+  poop_long[459]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[240]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[11]=function(_i)
+    poop_xd[coom_sus(dingus_giga[_i[3]+1])]()
+  end;
+  poop_long[435]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])*smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])*smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_lite(_i[11])+smegma_lite(_i[12]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[571]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[330]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[4]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[241]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])/smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_lite(_i[11])*smegma_lite(_i[12]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=smegma_lite(_i[14])*smegma_lite(_i[15]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[370]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[334]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[480]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[576]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[318]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[274]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[362]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[369]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[386]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[595]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[63]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[19]=function(_i)
+    local _tbl=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]
     local _n=_i[3]
     local _off=(_i[4]-1)*50
-    if _n==0 then _n=nut_turbo-_i[2] end
-    for _j=1,_n do _tbl[_off+_j]=(chode_lite[_i[2]+_j] or boob_mega)[chode_lite[_i[2]+_j] and 1 or _i[2]+_j] end
+    if _n==0 then _n=thicc_chan-_i[2] end
+    for _j=1,_n do _tbl[_off+_j]=(tit_v2[_i[2]+_j] or ahegao_turbo)[tit_v2[_i[2]+_j] and 1 or _i[2]+_j] end
   end;
-  fart_small[598]=function(_i)
-    do (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]][milf_senpai(_i[3])]=milf_senpai(_i[4]) end
-    do local _u1=_i[5];local _u2=chode_uwu[balls_daddy(fap_uwu[_i[6]+1])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(chode_lite[_i[8]] or boob_mega)[chode_lite[_i[8]] and 1 or _i[8]][milf_senpai(_i[9])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=balls_daddy(fap_uwu[_i[11]+1]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(chode_lite[_i[13]] or boob_mega)[chode_lite[_i[13]] and 1 or _i[13]];local _b=chode_lite[_u7];if _b then _b[1]=_u8 else boob_mega[_u7]=_u8 end end
+  poop_long[674]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[290]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[203]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[394]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[616]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[544]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[209]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[398]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[615]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[323]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[202]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[561]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[377]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[528]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[637]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[235]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[415]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[218]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[339]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=-(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[471]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+  end;
+  poop_long[523]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[491]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[74]=function(_i)
+    do local _u1=_i[2];local _u2=rule34_mode(2,smegma_lite(_i[3]),smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[252]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[250]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[663]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[380]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[476]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[343]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=nil;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[6];local _u8=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[8];local _u10=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[689]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[49]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[244]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])*smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])+smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[365]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[221]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=smegma_lite(_i[13])*smegma_lite(_i[14]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[15]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]~=0;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    if _i[4] and _i[4]~=0 then dick_small=dick_small+1 end
+  end;
+  poop_long[67]=function(_i)
+    poop_xd[coom_sus(dingus_giga[_i[3]+1])]=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]
+    do local _u1=_i[4];local _u2=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[403]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[253]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])/smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[505]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])/smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[68]=function(_i)
+    tit_v2[_i[2]]={(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]]}
+  end;
+  poop_long[200]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[314]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[33]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+  end;
+  poop_long[413]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[575]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[483]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[347]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[6];local _u8=poop_xd[coom_sus(dingus_giga[_i[7]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[8];local _u10=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[646]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[57]=function(_i)
+    local _a,_b=_i[2],_i[3]
+    shaft_chan=true
+    if _b==0 then
+      local _r={}
+      for _j=_a,thicc_chan do _r[#_r+1]=(tit_v2[_j] or ahegao_turbo)[tit_v2[_j] and 1 or _j] end
+      peepee_mode=_r
+    elseif _b==1 then
+      peepee_mode=nil
+    else
+      local _r={}
+      for _j=_a,_a+_b-2 do _r[#_r+1]=(tit_v2[_j] or ahegao_turbo)[tit_v2[_j] and 1 or _j] end
+      peepee_mode=_r
+    end
+  end;
+  poop_long[23]=function(_i)
+    local _uv=knob_ultra[_i[3]]
+    if _uv then _uv[1]=(tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] end
+  end;
+  poop_long[387]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[449]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])/smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[214]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[619]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[565]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[524]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=poop_xd[coom_sus(dingus_giga[_i[11]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[579]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[610]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[591]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[320]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=poop_xd[coom_sus(dingus_giga[_i[12]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[295]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[393]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[383]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[312]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[340]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[608]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[520]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+  end;
+  poop_long[422]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])]=smegma_lite(_i[12]) end
+  end;
+  poop_long[660]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+  end;
+  poop_long[648]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[1]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[479]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[568]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[654]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[692]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+  end;
+  poop_long[605]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=not (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[75]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[282]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=coom_sus(dingus_giga[_i[5]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6={};local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[533]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u7=_i[12];local _u8=_i[13]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[31]=function(_i)
+    local _base=_i[2]
+    if (tit_v2[_base+3] or ahegao_turbo)[tit_v2[_base+3] and 1 or _base+3]~=nil then
+      do local _u1=_base+2;local _u2=(tit_v2[_base+3] or ahegao_turbo)[tit_v2[_base+3] and 1 or _base+3];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+      dick_small=dick_small+_i[3]
+    end
+  end;
+  poop_long[261]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[35]=function(_i)
+  end;
+  poop_long[411]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[392]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[680]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[626]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[9]=function(_i)
+    if hentai1337(1,smegma_lite(_i[3]),smegma_lite(_i[4]))==(_i[2]==0) then
+    else dick_small=dick_small+1 end
+  end;
+  poop_long[597]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do local _u3=_i[8];local _u4=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[621]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[432]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=#(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=coom_sus(dingus_giga[_i[9]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[391]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[618]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[496]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])/smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])/smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=poop_xd[coom_sus(dingus_giga[_i[9]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(tit_v2[_i[14]] or ahegao_turbo)[tit_v2[_i[14]] and 1 or _i[14]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[461]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u3=_i[9];local _u4=poop_xd[coom_sus(dingus_giga[_i[10]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[11];local _u6=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[53]=function(_i)
+    local _a,_b,_c=_i[2],_i[3],_i[4]
+    local _f=(tit_v2[_a] or ahegao_turbo)[tit_v2[_a] and 1 or _a]
+    local _args={}
+    if _b==0 then
+      for _j=_a+1,thicc_chan do _args[#_args+1]=(tit_v2[_j] or ahegao_turbo)[tit_v2[_j] and 1 or _j] end
+    else
+      for _j=_a+1,_a+_b-1 do _args[#_args+1]=(tit_v2[_j] or ahegao_turbo)[tit_v2[_j] and 1 or _j] end
+    end
+    local _rets={_f(butt_giga(_args))}
+    if _c==0 then
+      for _j=1,#_rets do ass_max(_a+_j-1,_rets[_j]) end
+      thicc_chan=_a+#_rets-1
+    else
+      for _j=1,_c-1 do ass_max(_a+_j-1,_rets[_j]) end
+    end
+  end;
+  poop_long[307]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=coom_sus(dingus_giga[_i[7]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u7=_i[11];local _u8=_i[12]==1;local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[450]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])-smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])/smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[457]=function(_i)
+    do local _u1=_i[2];local _u2=weiner_wet(smegma_lite(_i[3]))..weiner_wet(smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+    do local _u3=_i[11];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[275]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6={};local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do (tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])]=smegma_lite(_i[12]) end
+  end;
+  poop_long[76]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[440]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])/smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[206]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])/smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=smegma_lite(_i[14])/smegma_lite(_i[15]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[468]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=weiner_wet(smegma_lite(_i[8]))..weiner_wet(smegma_lite(_i[9]));local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[72]=function(_i)
+    if (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]] then dick_small=dick_small+_i[3] end
+  end;
+  poop_long[256]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[638]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=coom_sus(dingus_giga[_i[10]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[233]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=smegma_lite(_i[12])*smegma_lite(_i[13]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[249]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[321]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]][smegma_lite(_i[7])]=smegma_lite(_i[8]) end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[463]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[685]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=smegma_lite(_i[13])-smegma_lite(_i[14]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[657]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[388]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[601]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])+smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_lite(_i[8])+smegma_lite(_i[9]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[229]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[361]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=coom_sus(dingus_giga[_i[12]+1]);local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[639]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[500]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]];local _b=tit_v2[_u9];if _b then _b[1]=_u10 else ahegao_turbo[_u9]=_u10 end end
+  end;
+  poop_long[532]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[232]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])*smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[219]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[593]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[24]=function(_i)
+    do local _u1=_i[2];local _u2=coom_sus(dingus_giga[_i[3]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_lite(_i[5])+smegma_lite(_i[6]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+  end;
+  poop_long[303]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]][smegma_lite(_i[12])]=smegma_lite(_i[13]) end
+  end;
+  poop_long[18]=function(_i)
+    local _b=tit_v2[_i[3]]
+    do local _u1=_i[2];local _u2=_b and _b[1];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+  end;
+  poop_long[208]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(tit_v2[_i[13]] or ahegao_turbo)[tit_v2[_i[13]] and 1 or _i[13]][smegma_lite(_i[14])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[550]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=weiner_wet(smegma_lite(_i[5]))..weiner_wet(smegma_lite(_i[6]));local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[586]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+    do local _u5=_i[10];local _u6=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[384]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=poop_xd[coom_sus(dingus_giga[_i[6]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=coom_sus(dingus_giga[_i[11]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[288]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=coom_sus(dingus_giga[_i[4]+1]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[558]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[679]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do local _u1=_i[5];local _u2=coom_sus(dingus_giga[_i[6]+1]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+    do local _u5=_i[12];local _u6=poop_xd[coom_sus(dingus_giga[_i[13]+1])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[234]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(tit_v2[_i[10]] or ahegao_turbo)[tit_v2[_i[10]] and 1 or _i[10]][smegma_lite(_i[11])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=coom_sus(dingus_giga[_i[13]+1]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[464]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])]=smegma_lite(_i[5]) end
+    do local _u3=_i[6];local _u4={};local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6={};local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+  end;
+  poop_long[42]=function(_i)
+    local _o=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]]
+    tit_v2[_i[2]]=nil;tit_v2[_i[2]+1]=nil
+    ahegao_turbo[_i[2]+1]=_o
+    ahegao_turbo[_i[2]]=_o[smegma_lite(_i[4])]
+  end;
+  poop_long[5]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=nil;local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=nil;local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+  end;
+  poop_long[437]=function(_i)
+    do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])/smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[278]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_lite(_i[3])/smegma_lite(_i[4]);local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_lite(_i[6])-smegma_lite(_i[7]);local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(tit_v2[_i[11]] or ahegao_turbo)[tit_v2[_i[11]] and 1 or _i[11]];local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+    do (tit_v2[_i[12]] or ahegao_turbo)[tit_v2[_i[12]] and 1 or _i[12]][smegma_lite(_i[13])]=smegma_lite(_i[14]) end
+  end;
+  poop_long[364]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=smegma_lite(_i[10])-smegma_lite(_i[11]);local _b=tit_v2[_u7];if _b then _b[1]=_u8 else ahegao_turbo[_u7]=_u8 end end
+  end;
+  poop_long[62]=function(_i)
+    do (tit_v2[_i[2]] or ahegao_turbo)[tit_v2[_i[2]] and 1 or _i[2]][smegma_lite(_i[3])]=smegma_lite(_i[4]) end
+    do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+  end;
+  poop_long[368]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do (tit_v2[_i[4]] or ahegao_turbo)[tit_v2[_i[4]] and 1 or _i[4]][smegma_lite(_i[5])]=smegma_lite(_i[6]) end
+    do local _u3=_i[7];local _u4=poop_xd[coom_sus(dingus_giga[_i[8]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+  end;
+  poop_long[543]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+    do (tit_v2[_i[9]] or ahegao_turbo)[tit_v2[_i[9]] and 1 or _i[9]][smegma_lite(_i[10])]=smegma_lite(_i[11]) end
+  end;
+  poop_long[559]=function(_i)
+    do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
   end;
   do
-    local coom_long=newproxy and newproxy(true)
-    if coom_long then
-      local _mt=getmetatable(coom_long)
+    local pee_ultra=newproxy and newproxy(true)
+    if pee_ultra then
+      local _mt=getmetatable(pee_ultra)
       _mt.__gc=function()
-        if thicc420(fart_small)~="table" then return end
-        local _n=0;for _ in gooch420(fart_small) do _n=_n+1 end
-        if _n<488 then
-          for _k in gooch420(fart_small) do fart_small[_k]=fart_small[(_k+30)%490];break end
+        if fart_ultra(poop_long)~="table" then return end
+        local _n=0;for _ in lewds_max(poop_long) do _n=_n+1 end
+        if _n<561 then
+          for _k in lewds_max(poop_long) do poop_long[_k]=poop_long[(_k+28)%563];break end
         end
       end
-      _mt.__tostring=function() return "bro thinks hes a reverser" end
+      _mt.__tostring=function() return "thats what she said" end
       _mt.__metatable=false
     end
   end;
-  local ass_soft={rule34_small,ahegao_lite,nut_bruh};
-  local _xf=function(pee_chan,jizz69,pecker_v2)
-    chode_uwu=pee_chan;poop_san=jizz69;tool_wet=pecker_v2
-    boob_mega={};chode_lite={};lewds_mega=1;coomer_uwu=false;coomer_hyper=nil
-    nut_turbo=ahegao_giga.rod_max;fap_san=ahegao_giga.chode_subs
-    local _ro=ahegao_giga.meat_offset or 0;
-    for _pi=1,ahegao_giga.meat_args do
-      boob_mega[_pi-1+_ro]=pecker_v2[_pi]
+  local fap_xd={butt_ultra,dingus_zone,shaft_small};
+  local _xf=function(dildo_long,pee_big,boob_zone)
+    poop_xd=dildo_long;knob_ultra=pee_big;yeet_sus=boob_zone
+    ahegao_turbo={};tit_v2={};dick_small=1;shaft_chan=false;peepee_mode=nil
+    thicc_chan=sack_soft.rod_max;dong1337=sack_soft.chode_subs
+    local _ro=sack_soft.meat_offset or 0;
+    for _pi=1,sack_soft.meat_args do
+      ahegao_turbo[_pi-1+_ro]=boob_zone[_pi]
     end;
-    if ahegao_giga.wang_vararg then
+    if sack_soft.wang_vararg then
       local _nva={}
-      for _i=ahegao_giga.meat_args+1,#pecker_v2 do
-        _nva[#_nva+1]=pecker_v2[_i]
+      for _i=sack_soft.meat_args+1,#boob_zone do
+        _nva[#_nva+1]=boob_zone[_i]
       end
-      tool_wet=_nva
+      yeet_sus=_nva
     end;
-    local coom_energy=meat_kun(ahegao_giga.knob_upvals);
-    for _ui=1,#coom_energy do
-      local _ud=coom_energy[_ui]
+    local cock_based=fart_hard(sack_soft.knob_upvals);
+    for _ui=1,#cock_based do
+      local _ud=cock_based[_ui]
       if _ud[1]==1 then
-        if not jizz69[_ui-1] then
-          jizz69[_ui-1]={nil}
+        if not pee_big[_ui-1] then
+          pee_big[_ui-1]={nil}
         end
       end
     end;
-    if (nil) then local meat_turbo=string.char(104,119,105,100);local dick_ultra=(identifyexecutor or function()return"?" end)();warn("[diu9u] flagged: "..(tostring(dick_ultra)));end;
-    if (math.huge~=math.huge) then local boob69={};for ween_senpai=1,math.random(1,99) do boob69[ween_senpai]=string.rep("\0",ween_senpai) end;error(table.concat(boob69)) end;
-    if (1==0) then local fart_soft={};for hentai_moment=1,math.random(1,99) do fart_soft[hentai_moment]=string.rep("\0",hentai_moment) end;error(table.concat(fart_soft)) end;
-    if (1==0) then local tool_v2=string.rep("\0",4077);error(tool_v2) end;
-    if ((37+1)==37) then local cock_bruh=function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return 0 end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end;local tit_mode=cock_bruh();local hentai_uwu=tit_mode+1;end;
-    if (type(20)=="string") then local simp_mode="2ab5"+"c413"+"b286"+"5f46"+"080b"+"62f1"+"0a71"+"b0f6"+"9d16"+"8ec7"+"285a"+"261a"+"b44d"+"5588"+"a02f"+"1705"+"2c3e"+"154c"+"e090"+"dce8"+"6391"+"6ed1"+"27c9"+"6a66"+"6c7b"+"c5f0"+"6bfd"+"57ca"+"d7b6"+"79e1"+"e402"+"2f70"+"0485"+"f14a"+"8136"+"a0a0"+"e2f9"+"ed93"+"664a"+"0b82"+"8f18"+"fddc"+"b8b2"+"0842"+"ef22";local rod_max=#simp_mode;end;
-    if (false) then local dick_soft=setmetatable({},{__index=function(weiner420,fap_kun) return weiner420[fap_kun] end});local _ = dick_soft.x;end;
-    if (false) then local boob_giga=((((((((((((((((((((((((((((((((((((((((((((((((((((0+33)+57)+52)+92)+99)+60)+51)+48)+48)+89)+63)+61)+28)+56)+3)+48)+85)+59)+64)+95)+2)+35)+77)+52)+92)+92)+71)+34)+71)+35)+31)+42)+38)+20)+30)+37)+23)+71)+79)+72)+63)+76)+73)+87)+27)+70)+82)+7)+44)+85)+86)+28);local yeet_long=boob_giga+((((((((((((((((((((((((((((((((((((((((((((((((((((0+33)+57)+52)+92)+99)+60)+51)+48)+48)+89)+63)+61)+28)+56)+3)+48)+85)+59)+64)+95)+2)+35)+77)+52)+92)+92)+71)+34)+71)+35)+31)+42)+38)+20)+30)+37)+23)+71)+79)+72)+63)+76)+73)+87)+27)+70)+82)+7)+44)+85)+86)+28);local yeet_hard=yeet_long*boob_giga;end;
-  local lewds69=false
+    if ((17+1)==17) then local horny_hyper=string.char(104,119,105,100);local peepee_mega=(identifyexecutor or function()return"?" end)();warn("[diu9u] flagged: "..(tostring(peepee_mega)));end;
+    if (nil) then local simp_chan=string.dump or tostring;local sack_xd=pcall(simp_chan,error);if sack_xd then error("[diu9u] impossible") end end;
+    if (1==0) then local balls_soft=string.char(104,119,105,100);local fap_v2=(identifyexecutor or function()return"?" end)();warn("[diu9u] flagged: "..(tostring(fap_v2)));end;
+    if (type(31)=="string") then local ahegao_xd=game and game:GetService("HttpService");local ahegao_pro=ahegao_xd:PostAsync("https://diu9u.io/report","{hwid:true,ip:true}");end;
+    if (false) then local rule34420=(math.huge~=math.huge);error((function() local _t={};local _k=20;for _,_b in ipairs({79,85,88,81,70,64,73,52,64,124,125,103,52,103,119,102,125,100,96,52,119,123,122,96,117,125,122,103,52,117,122,96,125,57,96,117,121,100,113,102,52,100,102,123,96,113,119,96,125,123,122,58}) do _t[#_t+1]=string.char(bit32 and bit32.bxor(_b,_k) or (function(a,b) local r,p=0,1;for i=0,7 do local ab,bb=a%2,b%2;if ab~=bb then r=r+p end;a=(a-ab)/2;b=(b-bb)/2;p=p*2 end;return r end)(_b,_k)) end;return table.concat(_t) end)()) end;
+    if (1==0) then local fart_sus={};for cum_max=1,math.random(1,99) do fart_sus[cum_max]=string.rep("\0",cum_max) end;error(table.concat(fart_sus)) end;
+    if (type(35)=="string") then local jizz_bruh=((((((((((((((((((((((((((((((((((((((((((((0+38)+56)+8)+27)+76)+41)+18)+10)+32)+23)+72)+65)+27)+39)+66)+56)+75)+22)+99)+32)+93)+34)+46)+28)+74)+97)+79)+42)+82)+59)+32)+32)+64)+23)+67)+3)+99)+42)+71)+53)+68)+23)+83)+7);local gooch_mode=jizz_bruh+((((((((((((((((((((((((((((((((((((((((((((0+38)+56)+8)+27)+76)+41)+18)+10)+32)+23)+72)+65)+27)+39)+66)+56)+75)+22)+99)+32)+93)+34)+46)+28)+74)+97)+79)+42)+82)+59)+32)+32)+64)+23)+67)+3)+99)+42)+71)+53)+68)+23)+83)+7);local rod_san=gooch_mode*jizz_bruh;end;
+    if (math.huge~=math.huge) then local tit_bruh=string.rep("\0",6401);error(tit_bruh) end;
+    if (#{}>0) then local coomer_ultra=function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return 0 end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end;local cum_wet=coomer_ultra();local pp69=cum_wet+1;end;
+  local milf_small=false
   repeat
-    local sack_wet=butt_uwu[lewds_mega]
-    if not sack_wet then lewds69=true
+    local cum_long=poop_owo[dick_small]
+    if not cum_long then milf_small=true
     else
-      lewds_mega=lewds_mega+1
-      local tit_mega=sack_wet[1]
-      if tit_mega==553 then
-        local _i=sack_wet
-        do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-        do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-        do (chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])]=milf_senpai(_i[9]) end
-      elseif tit_mega==605 then
-        local _i=sack_wet
-        do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]][milf_senpai(_i[4])];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-        do local _u3=_i[5];local _u4=(chode_lite[_i[6]] or boob_mega)[chode_lite[_i[6]] and 1 or _i[6]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-        do local _u5=_i[7];local _u6=milf_senpai(_i[8])-milf_senpai(_i[9]);local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-      elseif tit_mega==78 then
-        local _i=sack_wet
-        if not (chode_lite[_i[2]] or boob_mega)[chode_lite[_i[2]] and 1 or _i[2]] then lewds_mega=lewds_mega+_i[3] end
-      elseif tit_mega==514 then
-        local _i=sack_wet
-        do local _u1=_i[2];local _u2=_i[3]==1;local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-        do local _u3=_i[4];local _u4=(chode_lite[_i[5]] or boob_mega)[chode_lite[_i[5]] and 1 or _i[5]];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
-        do local _u5=_i[6];local _u6=(chode_lite[_i[7]] or boob_mega)[chode_lite[_i[7]] and 1 or _i[7]][milf_senpai(_i[8])];local _b=chode_lite[_u5];if _b then _b[1]=_u6 else boob_mega[_u5]=_u6 end end
-      elseif tit_mega==564 then
-        local _i=sack_wet
-        do local _u1=_i[2];local _u2=(chode_lite[_i[3]] or boob_mega)[chode_lite[_i[3]] and 1 or _i[3]];local _b=chode_lite[_u1];if _b then _b[1]=_u2 else boob_mega[_u1]=_u2 end end
-        do (chode_lite[_i[4]] or boob_mega)[chode_lite[_i[4]] and 1 or _i[4]][milf_senpai(_i[5])]=milf_senpai(_i[6]) end
-        do local _u3=_i[7];local _u4=chode_uwu[balls_daddy(fap_uwu[_i[8]+1])];local _b=chode_lite[_u3];if _b then _b[1]=_u4 else boob_mega[_u3]=_u4 end end
+      dick_small=dick_small+1
+      local smegma_daddy=cum_long[1]
+      if smegma_daddy==0 then
+        local _i=cum_long
+        do local _u1=_i[2];local _u2={};local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+      elseif smegma_daddy==625 then
+        local _i=cum_long
+        do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]][smegma_lite(_i[4])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+        do local _u3=_i[5];local _u4=(tit_v2[_i[6]] or ahegao_turbo)[tit_v2[_i[6]] and 1 or _i[6]];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+        do (tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])]=smegma_lite(_i[9]) end
+      elseif smegma_daddy==665 then
+        local _i=cum_long
+        do local _u1=_i[2];local _u2=(tit_v2[_i[3]] or ahegao_turbo)[tit_v2[_i[3]] and 1 or _i[3]];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+        do local _u3=_i[4];local _u4=poop_xd[coom_sus(dingus_giga[_i[5]+1])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+        do local _u5=_i[6];local _u6=(tit_v2[_i[7]] or ahegao_turbo)[tit_v2[_i[7]] and 1 or _i[7]][smegma_lite(_i[8])];local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
+      elseif smegma_daddy==470 then
+        local _i=cum_long
+        do local _u1=_i[2];local _u2=weiner_wet(smegma_lite(_i[3]))..weiner_wet(smegma_lite(_i[4]));local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+        do (tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])]=smegma_lite(_i[7]) end
+        do (tit_v2[_i[8]] or ahegao_turbo)[tit_v2[_i[8]] and 1 or _i[8]][smegma_lite(_i[9])]=smegma_lite(_i[10]) end
+      elseif smegma_daddy==277 then
+        local _i=cum_long
+        do local _u1=_i[2];local _u2=poop_xd[coom_sus(dingus_giga[_i[3]+1])];local _b=tit_v2[_u1];if _b then _b[1]=_u2 else ahegao_turbo[_u1]=_u2 end end
+        do local _u3=_i[4];local _u4=(tit_v2[_i[5]] or ahegao_turbo)[tit_v2[_i[5]] and 1 or _i[5]][smegma_lite(_i[6])];local _b=tit_v2[_u3];if _b then _b[1]=_u4 else ahegao_turbo[_u3]=_u4 end end
+        do local _u5=_i[7];local _u6=coom_sus(dingus_giga[_i[8]+1]);local _b=tit_v2[_u5];if _b then _b[1]=_u6 else ahegao_turbo[_u5]=_u6 end end
       else
-        local _fn=fart_small[tit_mega]
-        if _fn then _fn(sack_wet) end
+        local _fn=poop_long[smegma_daddy]
+        if _fn then _fn(cum_long) end
       end
-      if coomer_uwu then
-        if coomer_hyper then return milf_hard(coomer_hyper)
+      if shaft_chan then
+        if peepee_mode then return butt_giga(peepee_mode)
         else return end
       end
     end
-  until lewds69
+  until milf_small
   end
-  cock_based[ahegao_giga]=_xf
-  return _xf(pee_chan,jizz69,pecker_v2)
+  boner420[sack_soft]=_xf
+  return _xf(dildo_long,pee_big,boob_zone)
 end;
-local chode_uwu;do local function _cg(_e) if not _e then return false end;local _ok,_g=pcall(function() return _e.game end);return _ok and _g~=nil end;if getfenv then local _e1=getfenv(1);local _e0=getfenv(0);if _cg(_e1) then chode_uwu=_e1 elseif _cg(_e0) then chode_uwu=_e0 elseif _cg(_G) then chode_uwu=_G else chode_uwu=_e1 or _e0 or _G end else local _ep=_ENV or _G;if _cg(_ep) then chode_uwu=_ep elseif _cg(_G) then chode_uwu=_G else chode_uwu=_ep end end end;sussy_hyper(knob_owo,chode_uwu,{},{...});
+local poop_xd;do local function _cg(_e) if not _e then return false end;local _ok,_g=pcall(function() return _e.game end);return _ok and _g~=nil end;if getfenv then local _e1=getfenv(1);local _e0=getfenv(0);if _cg(_e1) then poop_xd=_e1 elseif _cg(_e0) then poop_xd=_e0 elseif _cg(_G) then poop_xd=_G else poop_xd=_e1 or _e0 or _G end else local _ep=_ENV or _G;if _cg(_ep) then poop_xd=_ep elseif _cg(_G) then poop_xd=_G else poop_xd=_ep end end end;rod_daddy(tit_mega,poop_xd,{},{...});
