@@ -1283,6 +1283,25 @@ class IB3Decompiler:
             return [f'{indent}return {vals}']
 
         elif op_name == 'ARITH':
+            if B == A + 1 and D < A:
+                return [f'{indent}r{A} = r{B}(r{D})']
+            if B == A + 1 and D == A + 2:
+                return [f'{indent}r{A} = r{B}(r{D})']
+            if B <= 5 and D <= 3 and (B + D) > 0:
+                nargs = B
+                nrets = D
+                if nargs > 0:
+                    args = ', '.join(f'r{A + 1 + i}' for i in range(nargs))
+                else:
+                    args = '...'
+                call = f'r{A}({args})'
+                if nrets == 0:
+                    return [f'{indent}{call}']
+                elif nrets == 1:
+                    return [f'{indent}r{A} = {call}']
+                else:
+                    rets = ', '.join(f'r{A + i}' for i in range(nrets))
+                    return [f'{indent}{rets} = {call}']
             if C == 0:
                 return [f'{indent}r{A} = r{B} <op> r{D}']
             else:
