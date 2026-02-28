@@ -2398,6 +2398,23 @@ class IB3Decompiler:
                 else:
                     lines[i] = f'{indent}return'
 
+        cleaned = []
+        skip = False
+        for i, l in enumerate(lines):
+            s = l.strip()
+            if skip:
+                if not s:
+                    continue
+                if s == 'end' or s.startswith('::') or s.startswith('local function ') or s.startswith('else'):
+                    skip = False
+                    cleaned.append(l)
+                    continue
+                continue
+            cleaned.append(l)
+            if re.match(r'^\s*return\b', s) and not s.startswith('return ') and not re.match(r'^\s*if\s+', s):
+                skip = True
+        lines = cleaned
+
         for i in range(len(lines)):
             s = lines[i].strip()
             target = None
@@ -2464,7 +2481,39 @@ class IB3Decompiler:
             if m and m.group(1) not in used_labels:
                 continue
             result.append(l)
-        return '\n'.join(result)
+        lines = result
+
+        balanced = []
+        depth = 0
+        for l in lines:
+            s = l.strip()
+            if not s or s.startswith('--'):
+                balanced.append(l)
+                continue
+            is_open = False
+            is_close = False
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                is_open = True
+            elif s == 'while true do' or s == 'repeat':
+                is_open = True
+            elif re.match(r'^for\s+.+\s+do$', s):
+                is_open = True
+            elif 'if ' in s and re.search(r'\bthen\s*$', s):
+                if not (s.endswith(' end') or s.endswith(' end)')):
+                    is_open = True
+            if s == 'end':
+                is_close = True
+            elif s.startswith('until '):
+                is_close = True
+            if is_close and not is_open and depth <= 0:
+                continue
+            if is_open:
+                depth += 1
+            if is_close:
+                depth -= 1
+            balanced.append(l)
+
+        return '\n'.join(balanced)
 
     def _rename_functions(self, source: str) -> str:
         lines = source.split('\n')
