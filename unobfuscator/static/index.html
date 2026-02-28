@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lua Unobfuscator</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f1117;--surface:#1a1d27;--surface2:#222633;--border:#2d3348;--text:#e4e6ed;--text2:#8b8fa3;--accent:#6366f1;--accent2:#818cf8;--green:#22c55e;--red:#ef4444;--yellow:#eab308;--radius:10px;--font:'Segoe UI',system-ui,-apple-system,sans-serif;--mono:'Cascadia Code','Fira Code','JetBrains Mono',monospace}
+body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;display:flex;flex-direction:column}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:16px 32px;display:flex;align-items:center;gap:16px}
+header h1{font-size:20px;font-weight:600;background:linear-gradient(135deg,var(--accent),var(--accent2));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+header span{color:var(--text2);font-size:13px}
+.main{flex:1;display:flex;flex-direction:column;padding:20px 32px;gap:16px;max-width:1600px;width:100%;margin:0 auto}
+.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.toolbar select,.toolbar button{font-family:var(--font);font-size:13px;padding:8px 16px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text);cursor:pointer;transition:all .15s}
+.toolbar select:hover,.toolbar button:hover{border-color:var(--accent)}
+.toolbar button.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.toolbar button.primary:hover{background:var(--accent2)}
+.toolbar button.primary:disabled{opacity:.5;cursor:not-allowed}
+.toolbar .spacer{flex:1}
+.panels{flex:1;display:grid;grid-template-columns:1fr 1fr;gap:16px;min-height:400px}
+.panel{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+.panel-header{display:flex;align-items:center;justify-content:space-between;padding:10px 16px;border-bottom:1px solid var(--border);background:var(--surface2)}
+.panel-header h3{font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--text2)}
+.panel-header .badge{font-size:11px;padding:2px 8px;border-radius:4px;background:var(--border);color:var(--text2)}
+.panel textarea{flex:1;width:100%;resize:none;border:none;background:transparent;color:var(--text);font-family:var(--mono);font-size:13px;line-height:1.6;padding:16px;outline:none}
+.panel textarea::placeholder{color:var(--text2)}
+.stats-bar{display:flex;gap:16px;padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);flex-wrap:wrap}
+.stat{display:flex;flex-direction:column;gap:2px}
+.stat-label{font-size:11px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px}
+.stat-value{font-size:14px;font-weight:600}
+.stat-value.ok{color:var(--green)}
+.stat-value.warn{color:var(--yellow)}
+.stat-value.err{color:var(--red)}
+.options-panel{display:none;padding:16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius)}
+.options-panel.visible{display:block}
+.options-panel h3{font-size:13px;font-weight:600;margin-bottom:12px;color:var(--text2)}
+.options-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.option{display:flex;align-items:center;gap:8px;font-size:13px}
+.option input[type=checkbox]{accent-color:var(--accent);width:16px;height:16px}
+.option input[type=number]{width:100px;padding:4px 8px;background:var(--surface2);border:1px solid var(--border);border-radius:4px;color:var(--text);font-family:var(--font);font-size:13px}
+.passes-log{max-height:200px;overflow-y:auto;padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);display:none}
+.passes-log.visible{display:block}
+.passes-log h3{font-size:13px;font-weight:600;margin-bottom:8px;color:var(--text2)}
+.pass-entry{display:flex;align-items:center;gap:8px;font-size:12px;font-family:var(--mono);padding:3px 0;border-bottom:1px solid var(--border)}
+.pass-entry:last-child{border-bottom:none}
+.pass-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.pass-dot.ok{background:var(--green)}
+.pass-dot.fail{background:var(--red)}
+.pass-name{flex:1;color:var(--text)}
+.pass-info{color:var(--text2)}
+.spinner{display:inline-block;width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.toast{position:fixed;bottom:24px;right:24px;padding:12px 20px;border-radius:8px;font-size:13px;color:#fff;z-index:1000;animation:slideIn .3s ease}
+.toast.error{background:var(--red)}
+.toast.success{background:var(--green)}
+@keyframes slideIn{from{transform:translateY(20px);opacity:0}to{transform:translateY(0);opacity:1}}
+@media(max-width:768px){
+.panels{grid-template-columns:1fr}
+.main{padding:12px}
+header{padding:12px 16px}
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Lua Unobfuscator</h1>
+<span>Universal deobfuscation for IronBrew2, PSU, Moonsec v3, Luraph</span>
+</header>
+<div class="main">
+<div class="toolbar">
+<select id="target">
+<option value="auto">Auto-Detect</option>
+<option value="ironbrew">IronBrew2</option>
+<option value="psu">PSU / Prometheus</option>
+<option value="moonsec">Moonsec v3</option>
+<option value="luraph">Luraph</option>
+<option value="generic">Generic</option>
+</select>
+<button class="primary" id="btn-run" onclick="runDeobfuscate()">Deobfuscate</button>
+<button id="btn-detect" onclick="detectObfuscator()">Detect</button>
+<button id="btn-options" onclick="toggleOptions()">Options</button>
+<div class="spacer"></div>
+<button onclick="copyOutput()">Copy Output</button>
+<button onclick="clearAll()">Clear</button>
+</div>
+<div class="options-panel" id="options-panel">
+<h3>Options</h3>
+<div class="options-grid">
+<label class="option"><input type="checkbox" id="opt-no-rename">Skip rename recovery</label>
+<label class="option"><input type="checkbox" id="opt-no-decrypt">Skip string decryption</label>
+<label class="option"><input type="checkbox" id="opt-no-unwrap">Skip loadstring unwrap</label>
+<label class="option"><input type="checkbox" id="opt-no-junk">Skip junk removal</label>
+<label class="option"><input type="checkbox" id="opt-no-simplify">Skip simplification</label>
+<label class="option"><input type="checkbox" id="opt-no-cf">Skip control flow restore</label>
+<label class="option">Op limit: <input type="number" id="opt-op-limit" value="20000000" min="100000" max="50000000"></label>
+<label class="option">Timeout (s): <input type="number" id="opt-timeout" value="60" min="5" max="120"></label>
+</div>
+</div>
+<div class="panels">
+<div class="panel">
+<div class="panel-header">
+<h3>Input (Obfuscated)</h3>
+<span class="badge" id="input-size">0 chars</span>
+</div>
+<textarea id="input" placeholder="Paste obfuscated Lua code here..." oninput="updateSize()"></textarea>
+</div>
+<div class="panel">
+<div class="panel-header">
+<h3>Output (Deobfuscated)</h3>
+<span class="badge" id="output-size">0 chars</span>
+</div>
+<textarea id="output" placeholder="Deobfuscated result will appear here..." readonly></textarea>
+</div>
+</div>
+<div class="stats-bar" id="stats-bar" style="display:none">
+<div class="stat"><span class="stat-label">Detected</span><span class="stat-value" id="st-detected">-</span></div>
+<div class="stat"><span class="stat-label">Passes</span><span class="stat-value" id="st-passes">-</span></div>
+<div class="stat"><span class="stat-label">Changes</span><span class="stat-value" id="st-changes">-</span></div>
+<div class="stat"><span class="stat-label">Duration</span><span class="stat-value" id="st-duration">-</span></div>
+<div class="stat"><span class="stat-label">Reduction</span><span class="stat-value" id="st-reduction">-</span></div>
+</div>
+<div class="passes-log" id="passes-log">
+<h3>Pass Details</h3>
+<div id="passes-list"></div>
+</div>
+</div>
+<script>
+function updateSize(){
+const i=document.getElementById('input');
+document.getElementById('input-size').textContent=i.value.length+' chars';
+}
+async function runDeobfuscate(){
+const btn=document.getElementById('btn-run');
+const source=document.getElementById('input').value;
+if(!source.trim()){toast('No source code provided','error');return}
+btn.disabled=true;btn.innerHTML='<span class="spinner"></span> Running...';
+try{
+const body={source,target:document.getElementById('target').value,options:{
+no_rename:document.getElementById('opt-no-rename').checked,
+no_decrypt:document.getElementById('opt-no-decrypt').checked,
+no_unwrap:document.getElementById('opt-no-unwrap').checked,
+no_junk:document.getElementById('opt-no-junk').checked,
+no_simplify:document.getElementById('opt-no-simplify').checked,
+no_cf:document.getElementById('opt-no-cf').checked,
+op_limit:parseInt(document.getElementById('opt-op-limit').value)||20000000,
+timeout:parseFloat(document.getElementById('opt-timeout').value)||60,
+}};
+const res=await fetch('/api/deobfuscate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+const data=await res.json();
+if(data.error){toast(data.error,'error');return}
+document.getElementById('output').value=data.result;
+document.getElementById('output-size').textContent=data.result.length+' chars';
+if(data.stats)showStats(data.stats);
+toast('Deobfuscation complete','success');
+}catch(e){toast('Request failed: '+e.message,'error')}
+finally{btn.disabled=false;btn.textContent='Deobfuscate'}
+}
+async function detectObfuscator(){
+const source=document.getElementById('input').value;
+if(!source.trim()){toast('No source code provided','error');return}
+try{
+const res=await fetch('/api/detect',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({source})});
+const data=await res.json();
+if(data.detected){
+document.getElementById('st-detected').textContent=data.detected;
+document.getElementById('stats-bar').style.display='flex';
+toast('Detected: '+data.detected,'success');
+}
+}catch(e){toast('Detection failed: '+e.message,'error')}
+}
+function showStats(s){
+const bar=document.getElementById('stats-bar');bar.style.display='flex';
+document.getElementById('st-detected').textContent=s.detected_obfuscator||'unknown';
+document.getElementById('st-passes').textContent=s.total_passes;
+document.getElementById('st-changes').textContent=s.total_changes;
+document.getElementById('st-duration').textContent=s.duration+'s';
+const reduction=s.original_size>0?Math.round((1-s.final_size/s.original_size)*100):0;
+const el=document.getElementById('st-reduction');
+el.textContent=reduction+'%';
+el.className='stat-value '+(reduction>50?'ok':reduction>0?'warn':'err');
+if(s.passes&&s.passes.length){
+const log=document.getElementById('passes-log');log.classList.add('visible');
+const list=document.getElementById('passes-list');list.innerHTML='';
+s.passes.forEach(p=>{
+const e=document.createElement('div');e.className='pass-entry';
+e.innerHTML=`<div class="pass-dot ${p.success?'ok':'fail'}"></div><span class="pass-name">${p.name}</span><span class="pass-info">${p.changes} changes, ${p.duration}s${p.error?' - '+p.error:''}</span>`;
+list.appendChild(e);
+})
+}
+}
+function toggleOptions(){
+document.getElementById('options-panel').classList.toggle('visible');
+}
+function copyOutput(){
+const o=document.getElementById('output');
+if(!o.value){toast('Nothing to copy','error');return}
+navigator.clipboard.writeText(o.value).then(()=>toast('Copied!','success'));
+}
+function clearAll(){
+document.getElementById('input').value='';
+document.getElementById('output').value='';
+document.getElementById('input-size').textContent='0 chars';
+document.getElementById('output-size').textContent='0 chars';
+document.getElementById('stats-bar').style.display='none';
+document.getElementById('passes-log').classList.remove('visible');
+}
+function toast(msg,type){
+const t=document.createElement('div');t.className='toast '+type;t.textContent=msg;
+document.body.appendChild(t);setTimeout(()=>t.remove(),3000);
+}
+</script>
+</body>
+</html>
