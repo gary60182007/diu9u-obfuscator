@@ -2416,6 +2416,16 @@ class IB3Decompiler:
         lines = cleaned
 
         for i in range(len(lines)):
+            l = lines[i]
+            l = re.sub(r'"[^"]*"\s*(:GetService\b)', r'game\1', l)
+            l = re.sub(r'"[^"]*"\s*(\.Text:GetService\b)', r'game\1', l)
+            l = re.sub(r'"[^"]*"\s*(\[)', r'game\1', l)
+            l = re.sub(r'"[^"]*"\s*(\.CreateWindow\b)', r'game\1', l)
+            l = re.sub(r'"[^"]*"\s*(\.gInt\b)', r'game\1', l)
+            l = re.sub(r'"[^"]*"\s*(\.ActionText\b)', r'game\1', l)
+            lines[i] = l
+
+        for i in range(len(lines)):
             s = lines[i].strip()
             target = None
             cond = None
