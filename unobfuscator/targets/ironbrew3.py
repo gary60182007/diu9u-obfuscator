@@ -1472,6 +1472,7 @@ class IB3Decompiler:
             if result == prev:
                 break
             prev = result
+        result = self._remove_dead_locals(result)
         result = self._fix_block_structure(result)
         return result
 
@@ -2704,6 +2705,62 @@ class IB3Decompiler:
                 pass
 
         return '\n'.join(reindented)
+
+    def _remove_dead_locals(self, source: str) -> str:
+        lines = source.split('\n')
+        result = []
+
+        funcs = []
+        i = 0
+        while i < len(lines):
+            s = lines[i].strip()
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                start = i
+                depth = 1
+                j = i + 1
+                while j < len(lines) and depth > 0:
+                    sj = lines[j].strip()
+                    if sj.startswith('local function ') or (sj.startswith('function ') and sj.endswith(')')):
+                        depth += 1
+                    elif sj == 'end':
+                        depth -= 1
+                    j += 1
+                funcs.append((start, j - 1))
+            i += 1
+
+        remove_lines = set()
+
+        for fstart, fend in funcs:
+            for k in range(fstart + 1, fend):
+                s = lines[k].strip()
+                m = re.match(r'^local\s+(\w+)\s*=\s*nil\s*$', s)
+                if not m:
+                    continue
+                var = m.group(1)
+                used = False
+                inner_depth = 0
+                for q in range(k + 1, fend):
+                    sq = lines[q].strip()
+                    if sq.startswith('local function ') or (sq.startswith('function ') and sq.endswith(')')):
+                        inner_depth += 1
+                    elif sq == 'end':
+                        if inner_depth > 0:
+                            inner_depth -= 1
+                    if inner_depth == 0 and re.search(r'\b' + re.escape(var) + r'\b', lines[q]):
+                        if not re.match(r'^local\s+' + re.escape(var) + r'\b', sq):
+                            used = True
+                            break
+                if not used:
+                    remove_lines.add(k)
+
+            if fend > 0 and lines[fend - 1].strip() == 'return':
+                remove_lines.add(fend - 1)
+
+        for i, l in enumerate(lines):
+            if i not in remove_lines:
+                result.append(l)
+
+        return '\n'.join(result)
 
     def _fix_block_structure(self, source: str) -> str:
         lines = source.split('\n')
