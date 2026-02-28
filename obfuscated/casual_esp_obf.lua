@@ -1,3669 +1,3671 @@
 --[=[
 
-     8====D~~~  diu9u obfuscator  ~~~D====8
+     diu9u OBFUSCATOR -- raw dogging
+          your source code
 
-              ,---.,---.
-             /   /|     \        _____
-            /   / |  O   \      / ___/
-           /   /  |   \   \    | |
-          /   /===|    )   |   | |  diu9u's
-         |   |    |   /   /    | |  fat cock
-         |   | O  |  /   /     | |  is deep
-          \   \   | /   /      | |__inside
-           \   \  |/   /       \____\your
-            \   \/   /          code
-             `-----'
-    8====D   DEOBFUSCATE THIS DICK   D====8
-    BUILD:1e4bd75030a5  |  https://diu9u.io
+           .----.    .----.
+          /  ()  \  /  ()  \
+         |   /\   ||   /\   |
+         |  /  \  ||  /  \  |
+          \/    \/ 8===D \/
+                  /      \
+                 | diu9u  |
+                 |  was   |
+                 |  here  |
+                  \      /
+                   `----'
+       lmao imagine reading this
+    BUILD:7ed8120e135b  |  https://diu9u.io
     if you're reading this, you already lost
 ]=]
-local meat_soft=unpack or table.unpack;
-local tool_hyper=string["\98\121\116\101"];local nards_giga=string["\115\117\98"];local penis69=math["\102\108\111\111\114"];local tool_uwu=table["\99\111\110\99\97\116"];local butt_max=string["\99\104\97\114"];local pp_big=string["\117\110\112".."\97\99\107"];local weiner_small=string["\114".."\101\112"];local dildo1337=tostring;local dick_hard=pairs;local ahegao_lite=pcall;local butt_moment=error;local dick_small=type;
-local schlong420={};local fap_vibes;do local fap_soft="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for simp_v2=1,91 do schlong420[tool_hyper(fap_soft,simp_v2)]=simp_v2-1 end;function fap_vibes(chode_owo) local boob_mega={};local pee420=0;local ahegao69=0;local gooch_uwu=-1;for simp_v2=1,#chode_owo do local yeet_energy=schlong420[tool_hyper(chode_owo,simp_v2)];if yeet_energy then if gooch_uwu<0 then gooch_uwu=yeet_energy else gooch_uwu=gooch_uwu+yeet_energy*91;local rule34_moment=13;if gooch_uwu%8192>88 then rule34_moment=13 else rule34_moment=14 end;pee420=pee420+gooch_uwu*(2^ahegao69);ahegao69=ahegao69+rule34_moment;while ahegao69>=8 do boob_mega[#boob_mega+1]=butt_max(pee420%256);pee420=penis69(pee420/256);ahegao69=ahegao69-8 end;gooch_uwu=-1 end end end;if gooch_uwu>=0 then pee420=pee420+gooch_uwu*(2^ahegao69);boob_mega[#boob_mega+1]=butt_max(pee420%256) end;return tool_uwu(boob_mega) end end;
-local function boob_hyper(thicc_giga) local dong_xd={};local jizz_daddy=0;local lewds_energy=1;local horny_daddy=#thicc_giga;while lewds_energy<=horny_daddy do local simp_hard=tool_hyper(thicc_giga,lewds_energy);lewds_energy=lewds_energy+1;local thicc_daddy=simp_hard;for pee1337=0,7 do if lewds_energy>horny_daddy then break end;if thicc_daddy%2==0 then jizz_daddy=jizz_daddy+1;dong_xd[jizz_daddy]=tool_hyper(thicc_giga,lewds_energy);lewds_energy=lewds_energy+1 else local pp420=tool_hyper(thicc_giga,lewds_energy);local peepee_energy=tool_hyper(thicc_giga,lewds_energy+1);lewds_energy=lewds_energy+2;local cock_hard=penis69(pp420/16)+3;local weiner_zone=(pp420%16)*256+peepee_energy;local scrote_wet=jizz_daddy-weiner_zone;for butt_zone=1,cock_hard do jizz_daddy=jizz_daddy+1;dong_xd[jizz_daddy]=dong_xd[scrote_wet+butt_zone] end end;thicc_daddy=penis69(thicc_daddy/2) end end;local knob_sus={};for butt_zone=1,jizz_daddy do knob_sus[butt_zone]=butt_max(dong_xd[butt_zone]) end;return tool_uwu(knob_sus) end;
-local function weiner_turbo(shaft_giga,dingus_moment) return bit32 and bit32.bxor(shaft_giga,dingus_moment) or (function(tit_senpai,nut_max) local boner_moment,tool_long=0,1;for chode_mode=0,7 do local yeet69,butt_mega=tit_senpai%2,nut_max%2;if yeet69~=butt_mega then boner_moment=boner_moment+tool_long end;tit_senpai=(tit_senpai-yeet69)/2;nut_max=(nut_max-butt_mega)/2;tool_long=tool_long*2 end;return boner_moment end)(shaft_giga,dingus_moment) end;
-local function pp_giga(shaft_moment,thicc_san) local pecker_uwu={};for boob_daddy=1,#shaft_moment do pecker_uwu[boob_daddy]=tool_hyper(shaft_moment,boob_daddy) end;for nut_zone=2,0,-1 do for boob_daddy=1,#pecker_uwu do local scrote_xd=((boob_daddy-1)%#thicc_san)+1;local gooch_vibes=(weiner_turbo(tool_hyper(thicc_san,scrote_xd)+nut_zone*37+(scrote_xd-1)*13,0))%256;pecker_uwu[boob_daddy]=weiner_turbo(pecker_uwu[boob_daddy],gooch_vibes);end end;local gooch_pro={};for boob_daddy=1,#pecker_uwu do gooch_pro[boob_daddy]=butt_max(pecker_uwu[boob_daddy]) end;return tool_uwu(gooch_pro) end;
-local boob_energy="Sl>by^{gxBD:kjEow#Ss3<b_Xv&KPjz^/ROQr?t}[Bgccv$VpTuqC@I*3.-*:7nmNRw|rBf#{0|+F[FImdoNca!oZM3C@h|>zx4S8w{I3u#Io.vn4=j,H^NbxT@zUGs|4},VWUH+E-F&FcN4l^k&|v^R1^#vabh#/3Uk!-nhG6sNJml8rj'bp*d!}k(6=3D.15HpS-CjkD;/pFdc%8VRgF68iMpEYU!q{69jy+^NX+JxAMT{K=32]5Tq8Sa.YwCZDsczCt#'Q8[@gR+4h70Py*os*aD+)prc9a_z^T.>(851B*L<wnk#U1fM6ePca?m]c|dg;3X1'%oO/c~<>XEffr}R-,8'JCdr4$Esqt>Pdu%1UFiF0D%UQ;W3f3U/,K_++wW{h%HRJdu0|$>9_%$^^K.2hAp.AaRF9W[0-qN&YT6fum5TdZY=q|nJz@oTW'KdN3fix1aP5?3XJCkc:]+)!DiC9&*CKz1_YKxz1-Ih{HPYhDTjNhYgd:]w]F_5Utuh!~RM~2c{B*yOEM2?$#b2grAyBQ10vAt5D~MUB9|81i4_0{S>xk3c5%y@hk)&l]Ne#1S^q-Q</K>DKG;]a55lU5vzYnk'Uc6.0${EK{S{,M@i(ro6U.BFqn%)kjagb/QYzO2d=<v1nR>T@|~qn'iQ,_NiP7yZB[ocbAaTWg[>s|TO)(Kdh]BsI0#2e(:DC;:2Il+,e[PTujt:CMsA0nb>Ex.4BS~e)S.+9HEm_gq[LSg=<2!nX3PW(ZUgV&}]U<;PgjdC|[cT]+u!VF[8iEr;+PkjvYx$H,93sH7>oT,jk9X~wj_Cz[V_~1FF0BtTdh_4!c#LcWr3=|uNll6FzPwz}:#5kl){xI/$z|wYSle3y4z8[Hlf<q@~EolE>G3aILL}F,Fj8nXl}!Aw:CA8XYl)EqbJOm8+pUS#,C(/#vK7HYPn|auOgy1t[<VRJ{|aIGb~RQQ>aRpGh+5|23@xGY0c5[0FowXbA|5.3po+Zw2^?<l0%rti#R6%0a&:pGYz,$vc4JhaMS3?8ldAimixQ7S[i~#2i#-pn2<$O{aL?i+pA$<>{@'d*[z^Z*T{,QgGCGPr<[(F7LJDK(3s%F^ro(?sDta<;F~{!s6pM-,c/CT%^9GB'?=^0DzPijX;G7+^YAQ{iXKwG;m.:,4[%,hX?v:6;5}f:=iZp<~7vtXqJ#M=,9w$a&vPNc.+{+l{P4(mLJ4gvKrwqFSla9+yNh@<ypx=O+cZ^]n#8pW;|vq&i0U{0)6=M=83N}HnU;7+|?k!,Y>O>*Ohvz?2,$GEQ?S8E9-9G<|&/ZpfLJh-ibNhFhDF%z-mE&w8rBD[(l|!+gfB$q]v|n4S/)H}CL{aS/X1X9WB&b7'Y4iWQ}imQNna4X]&=?k8vvtCol7|d~_O,i@ns*$,C+#(Y:{E1l9Vj?'9C50UP6EIf>)uH:XQ3=BEKS'h*hEKxaUNo1&jb|ki}@,.>B!A)Ye/Brx<H.A;QLKn^]Vbsbwcc-Al;&LI&5hX|7&p.9z/}b^Qe2,g'Z]TKKn'TL_j|YGedJzcc.p7s8|@R)Ni4#}u+!eH:F%Wc?jlv+OV#q7ftGBG&3#cAMN9nJHB&4Bt){>TN&f<FpVesCs6Y_&)N>]W!f)+Am=$XV]#MI8@BcekS0&pz9PyU.o+o1cJNFB,FNaE](WsO%Lk&g<Ye/_OZeLS[[JFP#i@SKa^j'7'k7H;7oR&>a6e'RRIkp=;_Ci/kmnOgD{{K4Rs{A'boS5)*5{#1$(YEL>]0sFMfNM$b'B>aRQ'N?hpd<Rs|Dvn~ty&xI@}S;7Qu>cr.[n8}kE)2)CCJqX$(/k[G8=Ozpd)zBo^_6(-];c3ypd;:Qi)-5s/zCbkJ=%QgPN^nScObiWFT&KpCo7l.$@9o83LV)Qv/e4|SM.4@kjw'eI<F&-,AD$g[}I{8Sc4jAe%p$E5R]W3{FgG'z>^ps;9lB9q7<mr]QGCM5DN>'wf_dlsBc}&)p'vytC6GP_?;H,sBDF24^mC>2:Cz[xERpUI.:Tx(@!YE#<-S#YdMiHaGQ^h%>5YdMX^8$SG{Naku]sAcRZv5K6@zi|5l]r{J?q[!_6o2W6SdJ@OD9[/bq#R5.6|7<g!H<+~1!kIcyID7*g@lWSd|#=-c5.{?EsE#LqWP)NjPT}>1I0ym$AHj0ne!-F333-S}]ldw%nC(b%~5C@SUR,|:6a]{=Af'9cUX>nxx}~5dz8@7a?bf%ch&0i6eGT^%W(C_eFLAK'Uk,Bv^@wziFTV[MJt;y>Z&3#u:<4xBrS:,{FBrp2zFrR9^?~V<F@T$DVN~q;=>GhvdS}3uKU<{>oRnkN2S-axN~*b7|k:M5'K(JLjG%EMSYlCi(6I&&'^P-RLU}A9BB{Th?[EBgfu&kk[i_rWow%',(*/aua^t%G#O_L0&R[jd$v[d~f<Dp:Gf<QvDzCwHhdIOz1Oh{0*%LKWmW|/4@Be|tIg9(<B!%#aC6NcHZNYEn_y'm8![)P1%]^8DM=m/_-.8w#EM'_8U$_dR#J-v:$$*G_XDI=$lgaWbb{@hhQc=aj@~X6;?4GX]KX5.cw;qW6*a2ynUy}=4c'D>sIe0B9z%.<q]G$M)o*)(U?Hb%)9D}g#FKkCiL|5f#mc9}9^g_2A)%^h6(OXC:1Jv{^}_5x&_Zamk)W?>)sJ'q?~NM3Em{/K7otc%<5dCN|>(K9bXI3e=?Y&hMl1FaWYKr>k<DLhM9M^rGOXf+$>+<)9=KL4wu3TsiMX1tT4(O#'SQ|#e,+Bg$@eW4^Gs1oq/W~LMT~~9,yqr[{W(M3q+BM>?||4zLud('8AKRpi@f~dEi*B/_(uc!=8rW/vS}y3)S%S5u@aBRm9c#oSHMJK<::H:S,%9+|d}:v3-)FTOnB;.WRQ~rorpb<6oN8Ysq^r@S{3C84{*{Pt!8dPwc~bhkrOm?dyk*T~#|}N_-?;EnL;Mj(HF8#CI>mgX2_4D7FqvA198lE[)g}2GRLr;~y&L5a)I=7k!**Ejd6PM}]4HH,I7GWggI'_wvbi7)S0(-Xl&rVZJU'+rb@z8RTHdd>#C;f;h]3~>)1yZIoT$cpVfQbr4|x}ZKQP5-=VC.qLX.w[B__y<|?<)#^>84mneYg}[_(;x=+2sq$gb3IM-:-3_yhmFl5sIU4uhqQeD}X-=^E_/P6m,y2^PD5%,/_=Y:%9b*$}9<WOo9%+['xCg9wNO>C)(pGE1Miz*[Wy}y'%U7wgnqG:*kg/wx3jwiF4U%oPb7fN1V3rqRjqGdQ|~|@+s6+i-Ii7cH?Dapc54ui<JrR!y&UHRGh6I.XC0gK$8zs{tUtFA$mgWL~b_PgK[1vy$5=QBFFO>x=f)v{Sg=E&OUfkEH9~iu#gUGg%ydxlo*.n0q+?Rgr^g2FT7[,e}w9<.LE6_PNRQ*CcnM|R'sOi(x0pMTsBF0u;Hw>i4D7hdo?!=_Kg%/bFH;%xWfV3tGibqkBZQt)mjkuspxJFPDZ&n1^xVJ,A~CqbxF6t*lP#Tzf_%xCcmM,1@U9Hu_z5Z?{XCLsVVSYl!=ZjM=f'>#-eZ'uj-'oAd|Pud-!m<1&L8b7dlbRt(#(hlM|v'FWqt1QG?i.h~H-11CswQ81E~il!@0(Q7rtA%.^%O&b=t|PD!ZR>ooWB*i<:_FbWN/IK7:Fh?%bVvGR^>8/(TEk2*6>$8As%l;S(fr)n!EK-!d&Z0Uyfo%~nXc)}t?hTe6_wTrldX/U~y7z4J~4M~kE^B7X4-PAK<0i:lUT'JwGo9$?$2Xrb<Hc8wwWL&pbd@R_k0;1eC<R'L>lm}}#c@5/,nQrYmVrQx63I:bi}wG*Ap=)4VRcpihus}@5D}P<_r#Ue>W'|e8h8L{YBRKAAeVoXyxtdaFaPksve{KX?Ax!Ap5f|Nrjwg1d-;t0=]&)lT.Uaq,)NP4ldxAI-tAp%wdpEK1Czx!#[t/K^zyxD@4!4XZ-vqr/cO/S8*5yg5Wl.>4Z'r?*'F{[B;~UPGk&zP*(DcCxn8h}akNw,iO5cEmV66'Zyv^=bqSx)kC0~/Jw]p8P+}||{t+dn',@G6_%|*r%|/24-/B@R^Lx?O8GI6i/K)m$~1Xz>S1mB|3z~[k;yJ%Gf>LR5O<U&hCz2G3['YPJKDho6ky!SL8r;HEkMT]#U/g()7A}t5Ma|1K6o(0rU@2B,F'|'jHd%Ff%wa^fxi$beYv>0UmJlF0CWBB,>oln'*^X8E!OI_ZHQw')R<)K(l):eJxB0,>^X'bc&l]116yzsx%H${APOmINy*fUqwD_Ea!vuiw@U-Ior>HZqMD|@)4a=O$8Vc'p^!h'ZG1a,t(MLeu$mmG)'p^Y]|b@rC.=rzacuH[)[GP@AT*7c!kkMMkpKt);^%}{2I('E[4O^h)#]qD2$CqfdR';SMFYo)KE07{g%yMW37Py_D#7uS9zhs+(HI1R2_*{]BKJ*XAXX&1N81n&/3w^+])K)2m2[t#d?6_So6P$qx:(3CoS2^^xV|^m|IiNRhaInv03PuD1QBkF@a$ZFIX4,br<d]kd$$w{[ibCNmTBeKWqXejckCTqgx6z/+Ys:ntBX<34V_b0AB:%tne1A#/'>Fbd/>ZabrM!5.5wT?Hx)[Wdro#K.mbo,}%lOC~ZN6:nl1b@k7'+qWbZWq$1}2:?K|H65E[i{6[$g()+@|nlE_SegCwHWH!~{2{$b2hgV?K6Bq}aQu!gR+|=N|QE)s|^}W6AgiUd))!{t0%AU*pC_&X[*TMg%z-tU#HrAr=]6;D<up;IYJh:#Gw5~kh(T00~zbsXE~kp]<^z-^@XnwzA&hCkB$)d|-ndX^iYYFv!K$_D<L<]lKUQJO;5htNW;0hNP81FwA-#s,cH,!g|;9x'9;&_yM@GWh-e=z2-s]+.E~8k)#)U1k-l/~mH9;h62^N.N6eu5xQv9WMp'faE;:E;'C>4q)aO2*FU>R/SXp'bI'qD1;in|595;!cP/B;Djrb&GS9FGbeZ:zQ;Z*gm_wr6JDp%9o4.u-$9f-8/4+sAAKCRQ[GNg@k,'+K62{~C=9b3<L6]DODii,gnF6ZRNMFB?NTqG1*A70sSnMh{-'3Y8^(~Vz@R~o5,O<6?)|6?ukQ}PFjSwE&t]YHjMAn[zb/^%{&LJW<<WFClJD}}nn)wsm$?j5FiKFghk&B0h>S}p5m*kr2w<n/'8lR}XPg/g4,:^lGxYRsX;tzA%-^sQ.#=^z'Fu&}MIiUq!0V,Aa@o_rLE>70Ga~:t'79P=S49y~93/s8'i]6N;Z9nrU))|v@x[b35F/XehmBa%(xN4'$]J@s0V>IycUv8nS>r4N>/4mga4|/Y]%sew9f9?NIx:%e9vw)n|~EzIX4a|H@0yp#=@@e?a84AZSakur{4?x^p&S^_sGns624ks)bjV<U''n9%7>{E?e%dkYa(E4*a[_u_8Gc%UoPl}E)It[PcFND4q@Rq]]H-E}^<GBohR$([DT>Sjc~Im^8?9u1;<iB8<R~LjjT@VBQ'J{'05bb6SC+>VzTYrN%Er6|y^5>rrVW~%&N'F|7GP*CIeoB_ap_o}K@)4!jGkM#3,$5+)$#u=YI++qm'e1I^)a#$;5lGpSUwo$4CO[(]/(pX1meOX#?[FL1Gd4-8k'gPZdW+d^]j,cpe<}w%%ID}U{F2PafZ5%N.kLbv2u+AZauN*nDaDn6HC7~=;Wgk*.):^[Uh)~AN/qMZ8Xr4ug]E-*ol?7#{yB0iRQ$ykImnU?&owY0qXH9/#5Z+/qWcDyK~'G;$)!>?pb7Fs0%FLHkj][MN1KxKNV5g67R+yr[7Qzx40MBYQpFVZs9Kc=iXw6&P,Z_Z!k%^-6(cMDy84'U]qRd4k]bcWLLT;jfjcn$qUlIVQ^!b:9QgWl)=TzkXBCUK*v-?Vr@+>Q|JV=B[LZW)gT)hKi#Zj.]<i=8SuvHDDt<4HYQmyR}r/,TT@4IsJ@x4W^qU9ckz2c#HZz<BnNn.$!._YSI!^DCkaV;khm_BP*h8Idv#|MISPnT#4=hgtE_+p+R4Jfd~2m(!JeM7y%GT_rAtVuYNj;!g^.Fq3]<}o?noO~sZAOZmn)5'W_?FY~!O_efWq_jqh.h?'}hqj^'5kXA:g8KQ)%RfQ~$:5>kL#s-<bXXl|!M&E{~[:tVv{wqY@3NTiUsv7i91&~!gL18~0Q7Wy>eD/J9,fDl-p~ox6p|EMjYmotyqj.{stzkg^c@Dv6w7R@KA'1pKFn/1s2wxGi8:2ysk.O%8gP1Q9^p+YV8@rh/y|zoJGJx}>PmU.5R0No%f:9;hCCn!;Xlw50.{6<|xWNL^X2?,PHa7cp1zc'2*R;!}.7W8MNJa2xY3n)^B>zxm3N_3Zcc-~blHdXzi#cB@T.R7M^D03=bcC]@KAyB#mg@s%3[Kbn8xreT[K>@:>e',wOvr(QX15-#ZLYB=]).8!7{Ulm^Xno#U7q-fCF[,dXP0a(iz@gu:1K4&pq%<iZO]%W+cxQeQPvAC7a]xBEDX.9e|{~A)ODK;+P#n6zmjU=.UXR_8tk1RX*Ib+a@1i5dNGB(cgql1,%QnJsf0{/5nEL+#w&PI#XpYj1S633T,c1<j+SW}aF+WPt#7e[{%mIgObfHQbbkBnu)<MzzY>9>B{!yLCn$VR}}bjMD5Y|C<SI#6or5$jb2'NZoL[fp@nv*O2mbE,9SEG]&o8!+J^a_:IanWLvu1#2K1wytv~pY:]UQ!lxG;M'!LeoF^*vWVAxc+V<UFoevofjT-w]9qm96&&a&>s<vrfN4NV1ELQgEV}9Qh(.<}vOH@-_]7jJP?RPss)8zceJdD@n<IAjVO(XxAShMG|7i>{sbFPW+jugDzO7>c_IyUWZj{?]3w6$e5yT1<-qFQyE)w}|b:(LHrps99|wDDT(DIPte}&YOkn4(<w1mC/G1>4PB!,W,G>OE+j~$]7(FYr(A05vnzwsF&7&p!X2L@,r9,5&?24T{iEUo5%}=f[8$/kl14L@F(GiplN;$/]I%UIm=wg*r,%r'y#W8JZ$>L7UX#6[]Zv&p7[*eYW%RCuBG]4S4FGjE*Y_/WzxoN3l3<P#+*{ZDS:y'P@gr$%l.D^u*sD[mSMQ/}Ol1Ja7GZUeGTR!SWN-RkDTpAi]]OQ9#!5U#724M|][(T<VIth#PFko1Tp6DG51jEPwtzM3Qr&RK&nQY7D{Dy&i)Zu-rNSp$Nx$_}uGeBlW[gq6t{>*Ha]kENMS.0K/VNMJ@ZQzx${@Cfrlh.[:FNU]c.e+'xmCyQ.;Z!vT|#?{Fl,j/%]=zs^#G6X}UK!8,H22WC:]-+v'CG|BrFB*}mW:[{fkP0&QswR<KtTqNm,a7)oaZ0Eq=Nx?@'xAQMtd&_-.l/G;1e_sNnz}Lw%(%h/iB%B'#I(m?Oc&yU?g!M0^,)9W80{y%UI0D-r7c85:7sbx9Fy}c,+4Uw{/cT7ObG?lzcYYX.5nSjR~h~J~k#2~a#ucD}@Ul3P+qP}G4mewszbsJX.o]eDwK+vYtzC)Te&{1^^HW.r<zBNGT{.}Rt|]&vfS[f0z~%Q;qVL7h$v:R!A,O6NZ$o)+nMK8/FmrxJ+mgI|nK)by>KYpehAUSkIcvEb6&6O4Ct&5%U5:)5Lh<?P1RSKkf,'MsQKMW(G}Sz.=ld6psa3'Nl3U%V_HnBK6XvqpAmyqC0|,&>VWN0<4;[B-V,M58>W)4ly03vd~L@)PTY/qy1C8%+5GZFXPksVk5;g=n70d8L.&zex7oPPr/S0{O6d8mCkf<>8S/I@W6,g{A@wgnPW.|t9Hj_Hor4q|$'S.|hbzD&#YenNyk4I](n]{GaRTzq:phZ{6~_O0!/+mbln{^5JUfKKQ|i_i79+$%i@*13-M!I9I%?Iv_j>%hH!|7XVBzad0Pe$N4udYi=>%tyDuZ,AOrQd~/+?'B'BS7g@xWm,n$dYVO7!S;a{tatbzT}7t@&=?LS)cr&kX_I#>4yzDFQfyXLz7(r%0iXKU'D}(a_+tM5p#G8=~;}6Gxnh)1j/9&iYZ9^hCBzjH(,G39F}o)*HBD?6)=.:e5Su&J'q2:BN+xln&'ZF.i,JqQaeF{[^T0B)0-:Y8>!ogt?t''unP5nv$ylRW0Kr94vV4-Nh,MND^H'C*Wmu6J>cp]~']>:l19)l?=%PA7u&uH60t*8@0_*R?{#6t>](bP5_jZx>ftPKl3@XM+;aisoA);Cs4oe9ZLBiZI.6l7naoxo,9Q7R'a^88t(b[s3uyT.1$Z4VM,2V>]ZSJ*f;CRqao7F^dfIU1Bx4Sx[:i;|ol^9i|diU@bQjF&C|,&S2?Y2p9[KH6[TcLHdiLAo:>n{wxHA]-Wm^#y$Ow~I6q&W7?4^&zrLG;ly/mu#-S)e'Q{_2}mTNc:$B^JHkwPkaB^G!}+Yt5'1~$rY8~jNTm(xJU|Amfr!mF-GX$Jx9U8Y/0m4u_nfP&O-0FX62O);-}OF[B]{Fx&'*#f2Y3<E)wV>8$0SZWLB~TIK-k@ikk~4zBus0$7&Ks!?ZKYcWi]tafUj(AZ_bN^]Cf-%R4C|j!34Bv32EM)SD$o7+GASAnsqzVr:Q+Q_j^CJsKOpJh9O;7DBRJGd#Qf1bGri#'}&}>JR.k^rJJ-q=/vT=Fx:e{&YZC%eBk^;.)Yy4S#GkX/pojOQ~@<+4:q'!r7vf0<cUsb.0f5BFkT@#)3/d-04@S?}9(GQPNtE@Bvok2N#I!8Znep=']mdG9dk_?R;6SwS2,YybCv@a,r'H0Ua*IRPTSB?0Zp(z%gj]As>v#O*!6}6Ij5Jy@56RlZOD)Ct-2B!#{'pX4/N2O,;3H%Ld90u/kqMhpGprf]_J*j$FGfI#uOeg=a)u1I50vkmPMV55%C5tJXe2}~,-/btg;>!/0h7x}p22$o^&yV2d5tr5i;]()EleFME&w7O!.DMDGZ!KWruIYeu6UBT=E[Lu2T3ja.uy0g?c1tk)=&y+1aJoQ:7^8x7Ho$+dv-3*iqgbQ$/8Uiaka[%Ab_=@sV*'{LF%GM-oan})^g;@O}I+{%_eP9v$'wL;L_f9b5lSASk&=tzWntwEX(9$+,n^qg)W%a8|%-6CPz[-[FyKOhLv#_M9QY[r1g)A|Um}13x}cX{Wg%DD,$D}sgO5urfi,eCJ(q5#w)[Nc7/Uyp}V5yoKxzO^=ZpT2_dkX|fT(Q+Rn_s}=kVGk~Qi$jvJ2cHz.CY6a&6hY<H3qXIy}d<3V/@!Ua:ng&wBMe{J|M@c8]JyGJXjcd?]fQ:I;U:as-%jd_-&JJ>JFGDJ:%nE/pf/-UC8AdnDV680Xqo.]r=HMhcYpk&Yeo'y^770%5M+Jkc9X@8.)JP97=K@GNa*1-MRH!p0!H7^ia8'|0hJ7+$;~T~YRe5E~,v*vMzan<t8{f[IQY~<?no+7bP5=A~W&6b1>cUs)Fk5R5jj!9p,|?7Qcj1zKopScgS&n7bD2}8}X3~KE)x#Z*SH;0o--hs6PC,,@5gCwyPs$hm*>T(SxVt3YX'6YG~M#/R~NA^,+.JPR^g?9~mce+)b4]27}o2q>RAc)s6HZIHHe#Hnyt&Me{2}l.XZdV}b_&6LUH?,=1['?|OG>n!%H;XS@&$a6'*sQ>Pv_;As@:DJnrp*a54wL3]]s4i2m~JC0N3X]VhHZy<F'3-7KYTJQ%ZFO-wmJOhzqr:>9U1V7)Bhy[X_D/I6u16(/FVdyu):9-L[#>fY[/9mf!Wk7s,N8H@KO.Q{VjO&tQLSVaE]HJX&f4nW+h9ZxzY)v{h*1ef>wP*(Ob>$Fs.RIKiLWDFk$fRGg$2{Q9<#hH_3bXSNvWz=1>ke0_'f7x_023m;CQVwo9yby2~<ouSrf++V0/1O<[6oANCPX(vPe&ykjTsHq)[B+08AV>Q%D8.Zr&6CA|@!cXDZGg6!*Ltmrk[39p@rbNU%kzlf%iH;W?jndULea2S1rIuRLc|RnXM=$LXgdEQILS7SRx4.:,2$O/qI6VQv)YdgR|QAzJX~+mG05<qJVizjO-@iwF7/BIj<]@_eay~?~C&D>PwBPYOH&e0IaoD=jHlKih)Iyw+EaoL!j(va@JP)Sa|m?DQhMeJ+qw/hc?IZf-wyEi;Q0Q%Cq3KCE?D0b8u8>zgR+&mA5:3>H#JK=pX|!DYG=,2$'v/dIgitj@'u[.of_XgW#b_bXJJ_l'Ky{LIR'XI3EQ~QBMGtdBe?SpP1(iNiogOXUI%T>|f[uPj3$u_S&f<@O_ONLYk-E|&bHp&NGLoc#uB0'<xe|K;]VnHl:;?%o1)vrM+,8JFl:D55o]&r=9r0s/+HNm;ami-/0z!'HUvK{yJc4A+G#NC@_4($Z9CI_4KWT;z(B.YjzqaGLSA*<zDc3~}k5{iBgVTJf=.x]-'xwmKd=DhsR9w]MDBo{+<mgDW_-fe.K=a=}Sxid/,!v::w]V/8s#TE]WKlpoD]!'L4$PsNd7(_4_b%[U<ydr>&B3xNm:.tcmyVA.V+/vO]G?J|lH=hv#NE$BwhxCL=6F%<k(~B>*yvU2fps-]ToGB3]l8S.O8T_7BV=-}T.}]B-2A_;ynV'g<4,AiIkPsOJ#-G|K~EE]'bR(kg3p|8?/gbz4|fR3p;(*YBn*HOnNi;gG#Qc-eVo;Tw,q4KlDiNbXKa-CqA&Mflw&G&K#:!6N!!+Ap3X(.sRVs{G}yONDCL&>r,2mZiGk@O~UXqwq4ELRLmNX[,n4}'&AA/}&XW%XK;09pCXme+&'YZl_0k^_VciYp/s%GAEm/b]nQrIIuf~g<lY#4}kGyP3z1#<ZgRks)AdRX^hO]yvi;yw.^(8>?]~Lr71*E7+8rE9x0{5r8HP(5noJim.~C,uWUsiP2c|<XM$t2Hy9Fx?P+B-3||InUHW.<.:BA]rFRkpWA>^:+6SQWn=|#t@WZ19vV{Vbh8GS@+foDp;/pol4gBCx~i6V?FCJ%adRxOvZsrlX&zlZMK%I<]CNGNSJKMp3{OF;::Kq;o]dl:00w!68*y7@xz,x1s4_j3of*f9wE=-0kuVwK@ur*kqVvdzyi.q}r1icf6wQ4SX]SVLuATUtAV7O.V/:bE8{]O:B7=RkE/*_Y;$}[p$.a9ga-2FfIDE5b_rMpQzzDAJzqS*,H9@:E2RhRX$HK(}wF-8tON5D!LiTioi)l|$P]_oc]6!|83<32PU,v6IFD_Y]j[U,1|ydM'-WjxaB<<h@*nyns2?xDX?7mkP,ObR9s@v/knb*cH.,V76V3*&*UnGf63q,#>afsqA6%[dpj>iUJX>{2AHI%?@d*Ez{A4LHD8Fb~hXUlo[>Zu^e3[OaSzLB~D9^{&19j41tUKfRb#>l;eytiDA:Z~O5-<bS9S/]c)}Kv&F&=&:P*N{7P_o.n2v<792Us{Pk_&A[#|PE)ffu|4>h!jHW_X_<+M*OQ|bIfLG&EQ}-C(8'C6)oy*XRM9iG'Q#.Z?z9'C3:L+O89C'K6}km<+|/jcdyynj$~2J9?~eb6t~2K%I>Y2'{iCAlI'I.+eBI:dr$~HYytZ{tu@/H4-|:,SI@^ZS?Pd!zVb0rNO<*Cj#)S@d8l{w^$.M*nz(-)j0^,M%Lxx=aJY!fzZLF[5Wk)p:VR+r|gZ+K'V3oaR%1&-*FO|kKx4-9tv32.+v(UQMGnJ!#)Q4h2w;SKOZXSl;1MMLo%P+d.Tok[B]c=Q399ZPQN_HEUVCJ'|sFw:;~XAHt:+DInw7lvx/8CE+@P6:O6yI7fxdOA}<)@v6qe)+S}gP[gF<Z/2>Uu]<org8G(zuDEd_M6uv'fRS&jPcBgJV&TD#;(JP-jeXP3n#p#,q?.)-Ovu1}N/fU#kv.--EKx<XeIelr@hX#3K/T^.^'cYX,J@8+@&paJW0=B-EW<egiCkRc[pn{7(|ZbXc$HTK2XV[7en~K$*_?'fnj5of}DRS$FGnYHmI=*i7_&Cxr{L,0vzTsZBsD[M<l7jj!1#EgD45O|,Z&[-9UO$eLYa8_wPG^E&~p@QsC@-zJ5WSlD:&l[7WmdW8^;9;I1aurYu?<'v>OJJoIl%=|ypkHKl!yYBe6b]JFin>[/#h,uZd?>Z0cgq56=oA$g?Ei[D4ec}o6Q&zG7#?lQ~m-KEYe@1,1f8>;Ph{:%)W('=whj#!I@{Hl$%Jo6*VSAkmc<f?7G.m>n%<-@4BE?8GtAM+S.)1a9:@I59SUVKxVa?pK]B,=/e)%3+C}if;UkS;O;}mtBnUU0]5WDE&T38M-xSR5UxQIUx~7oTAd=d*@oQ01@5Ja~P#UW5SF#!x936lBpstJTUooih{?nLW~%$[M&EiH.xl,]83cNc9,!FOZ)],yn:Lt_*pEnXWe@(Y%tD;N@6<8+;+tQC$<NA+L?QkAXl<I@PG{pPf}=<z:31xV.RRlqLmfc^Um.[%pmGTm=x;Im]7YdUlRY(;6-G?Vp[PE3mS:dQZ9nN^q6eMZkqVb@2Mt]ec5z+GE,EPsMfgYMO##~$x|O3vbJVG2]+Fh@l|,d)E)caA7Vz/9vD2S,s%lOcRKuIdj4SiguDpmt8:4Bf:[OMlYBft1>(SGfx^dBBEn2+:g4OGvT!G!:VwIVV$2'A_q>*n_#?0bX0FY)aw&Vgh,Cf1#8bi6(>iDA%C]=>k4_&YJGt.4%k-ZiEc(x@0|e6Z;eFTY0H.W28#&f(A7MKwnKUImleCi1zo2gn=&H8Vv[<5EtZ[qJ*D^^C7)'3IbFg:wLj>_-lFb@;$?q$a;13RVD|g[E2wcCY]FmRm7hHmM>)>pOO7.U0K~lU&222cUX~~%T7xdVkPtVtn6!IOZH]Ivq}b*Z2#C8K1QzT8n?E.{ZzUHuK5[R,=E=OO[hulOHS?S3P)E]8iFloyAIY^,cJ17UtYe=oB.:yf-&{ve55s/G;~Z'zXG3*K{JQm<}Y9eb<PZH$wMA>oRyjzcDr^S4bjX|2elpSLSW)HJjMn/2p*Eh2ep0W9[7(%bq=Ve?0uazk>3mP;1{8#0aIEji^jqwTARF}g%t0kaMHz[I5q256ZlK/,gP#|ks9xo/c62m?WV9S_3H|DLfLC76[J$47]KeX5>3T}c9@jb57n%H{*^=a-ub?#c6I@O3Gw{a5C+M!OysX&!*HNdF]592H?;$@x5p1c#h'*<@pRq0K@Muo0&6DM]9HOhuo|Bmi#2X_}>@2NNEgot}OW<p_]Aq+T_K<d,L,Bp6Ce90(n(E(SB7LG8Nz9OW,9~%*^k77C#Q^k*.eGEu!{Ezq%#~naR@O+0}T+bHDgP01+I0-a$!w(^l'hb2/:k.&6}1ryv5Fh>yaFi2His]lvt#p3S&5.!leA4p8Ow#x.?k*B@h7VCCSf'#Q'ehlhl(/t$z3H/z^$)F9=jaT0(}We2j'(E(poB.b/nE'8t*cR1sx>$d+p=QbT,kT,9IIvJdH+GOO_T{B|6vtPsG4C%p_%-{p@I}uF_N3$*Q4~^V)a;@C[VuW^?]^I6z*e^~bE<~^^7s^)=^r>xlbm0}elDO#59HE[n%&X>Ts|kRGP]j<##gk;%K/Q^;/lWD^Al&zEXn$a/@R{Nn|FB|A&KC<3]A3Jvj.]>=*?iA1*dm#H)#ABMI6$$}{${QHt-|P--$Xq:I.9_lsLF*pUazmn{p#A)qO!r@qy[kg!x7a!7+?AB9QHFYg;I!!Rtd0u},3b(<-6Anu@9!I<.*lpc)p%b>-Uh}%2VNF_C5$11X.s'y4BcQz'}yMqW*k-^gibvcI)<nXszf,L/c#5vgLa[-e<JdM4t:_{CHYfTq|gdsp|b$q>~~3oVhYlSCubP%K,na#C<J{mIac3u3OJZ{*rZLgI]_Rk%QP+Sl'2dueY%Q*d!UDar(-QZX21}psW~5Y6(R,)zs=O(c_IvDoH5o'>/.tGM/^)q8payEm~0;Qd@pE])1r#3h2C5lx5/p{NNM2QRW2lb|prB{sK:YDIR{PTql5p-@-LW,Y<xo0yJ6f($>.?Hw#TD_bL.Jv+(|-}gQhum9LCrNZFHs^Kog%(5xJabP*~bt|r8l%=n_2oboNOI?E%sqkX'KPJe@;&i'm8P!4pfZ%a&#Eb>OdM./<f519$kNF:-M-:s5-{K68'?Xc:ohrwMSW46YKbF{9|.dmu#n76cnS7=_EZvi<a;_Z;}UTLWT5|uY,KOvx,9Aku_;2D'@^FoGrQ~|j%scn12gJn9]%WOXFLlY>8-u9lB<ib<Sn=oK)n,@Ztj(LH2XXwf<Tr/x1muWgiw^EB7BDR%SnBNdG4&1oJB9bA}pn)$*+g)-v;4){=T*vQfWin6=2=BbNX^!LUa3!?45~3~G>BF7@NP+J3]^sz{'U(cB6ZJaeth=NTr3>R&n1ezlmdVcZK2zJk00MXcz4MyPh!!g.AE1UdO,(Ra)Y7k2;bOcru9iKxpK6%Ty/{WOff%,+-kqP3mr80,J!gUfFqrZ'TTotkf7a7UrF5:'t3?,r|+jb(-@F&JQ|l7/+WVcQhEGmG3O5m&xk7O6lh&.oocF7O3;Uh4)=!Cb^?yR)57smVJ?spnQ9x#+~XOXa>R(ArYrloLJ$o^FCokR&B,RC4VbGd6u9=m(BNy{ddFz<O~kG6ea(CJ]59ZSt(A[#yR&-4DB@?KXz4,LVnlSe5O!-~_E2'a]zX--VTe+Ve)Ryw>dKoxgP.}n)%G|o724E*44FQ0559dwofP?>L4i>RPK2Z,+/Dx,f=CUA.XE~1FNg%kpjlJGBGHB%NH[qJNsk]%/Dq+MfSMQ.f}6HqSqn~Ere}(aTbe)3GF{-2gVF[HaHt5zFbqiMi:uaX>3Gf}Nx~JLpXw;Un]VLTZ|q4dpm=0:87pcU3$Y6f$j@Jdb0lddZ?n>CH3[!vO7>,I=rj{&b4]Q*U4?k^n!T>.$UYhIJW|Fl^io*q{4wETQ_GQ[@BO(!$CFl,m}IX*&eAb)Vk/R(OW=FhoUXPa!,5uGB=!vbreis7m'r.JIf{7g|YiUIGB4Dg/R%]eL]CU>)Z*h@!o-7eon7@}_</1R*;_p-0F*M5Gqwd+2pn}Eq@J=xjwVQ%'RcxzU}JL*8Bw)gwK=F~#LG^a#*D6=^,v]aD3sayQA&E/=$C{4uF:oPTRP4<%wkNd:-RY-DNc5z4['#0'7,5Gn*l>;~YWc1VSXh.XL>s,yHQCY3o6]+q4iovNXms!|Smth@-A}3g]G96=s^@as8P/1q?!qwLx}kLUhatix!4W~kcVv&T/G;X0C:twfd^.]OX$og#YDHP=mfzK^0;s!SQ$)w&pm$q#2oCy)PK)_*N)1&30%~f$XhKp4::+d.jh*6p)pN1IA8h6|0A{lGZg~||msNy^z)p,U+4Q5?h,1tDl(Jwy[wB}?y<,v3}_1a;S6VO3vI~mR=^B5$lkfd9U3S0kr?Az^B,';in=u?!e<]dQuP$3xwP*96~nA#l^C-av^RMrJN<h$3#UhytO2tcvNbs|W~b_>o6jh(~w50%Kg}s/M<a'*g&Tv!(OJ:8;!L,]%Ql?pB^Y.wH9MM<iHeUG5[d6@=Rx/:uC0jI-|$,TUdy|j%wgI@Z{TqDJJ{Jjig-^2o5mk$TcM}M$-~?>$QeXrK/v+n?R6RtzmIhK&=@H}47>ROUu3_#'+xj%mv_/ra7<'KTP#IV;7s0~pIm),h+hxc*hPGxhUOw?pW!z^ih1)dGdUr%#0xn}-*]BYEW$p&SJH')9R[y*-.l1gpuKnf43gQ)e4Et~GMzB805F#%xMp_Qcj}/FNb$?Rc3Z5k$F>,FD0=W$pZ;0KwW^*vPXpIAr>9QOyS9F#vR>p}dj|9zO@|)TA(qV-z&:/LiUH~rzzi8b29xe1_Q~B$&XM(A5&pfd5M4EfNP|f3,n~~{|9#UtGL]q,LTS?+m*vpb__u;x7h8W~*urB;9tyvw)qLcRX:bHvm_kGX1iLXksFDO]L>'83?B]~JfgP!zI%Yy?kqifU?#glLPo(!%[8y|&L>[PcyiD{fC7en;Z=.zB8*w{8uK2&}ev1}}+W@Jt>T>,?>.<V{Z&:::MWe.$6c^B~(>ciH-:9zSO20G1IW5eo0.[HI]=J&TY4@];<mb5a}Z0-mR.;YQw(VI}6n*mRQCSok4rGZxK;C]qDq:cG$o[=)[u%-N{BYAN*>3UGKHUo++W@Cc+?O}:Gn9Cj8o)|KHz8G#w7ZGHp>u^'=/2/m_VolBnq'?KFmC0^aCZxDDT':;=Iw_2mB8VRSfW}J?tf23Qcpo3MM%o>SU;C6B;fy@#XvKL2kR':2]9nEx;N}F..l[M6t8caHP:cOe!'7d0-bS>d=Y*2pu91}rl=je-L2<Z{n:,RkNyf%P_!xB)4{|;YA7;1<(KV*{ESR?/j*%X)lLz/WV]j{0yC!ZVM,,7xa8$w.4YfM?yf%i(*^Bl?GE_j/Z&/X-T_U$ma/-pV0u30O^]oFl:g|)RZ)BVssK+HjwtW})[iZFtVjI'rAZD_^=YKY1E'k8K<ZTIFG4n5i)rWW%hAs8c!<&%GELt?.&%!cxc<td}1]*h@VHWJ$cphPTOk'nn>nIwqa^uq.{gLu78fiDQ76U5e9,Z.kZ/N^]9NKjo'@T#R%S$RC@8H^Qd?XEf6p6mh~B#eu6%?0Eg#&UrXByKl/gLhh.j#gB!Op41B4dTlE;$tV/#]$7&]RRCK.3!;9mMM@&VGh%?bUJJEgS-rCe37nrr|S>dD/&ww_{[cqEKc==S&ewIR@}&hqbS9*zP4+;z@<_>Eeu-Lf8|>_6FS=g.S?P}BO7g+7{6+DStn)Xa2S]4cqcO8s=-Z+wy92holz)$|humauV&Oh@YH]3{%=bl^cGmTn{1HB+X:Av5|j.Fj4b*]iqit;zt7?GL({y[>1ub(ETQ<~Nq@~4<d>T*lWB]WimHXzuX;I!bBk_KVUsG$c9Y,(OJGbAxb,)C{J1c0ame*AhAWD&4BN3dArGM3]ASW=M|Vw7)x0X<HZH?'B6zsOlSwW0_6Re%b,+VsA~iuLp1N-jE,d,!wj-(]!OAgfCbc$8>#*WvXbVLRw@icG{}0~d$a?zI%t+Vlpeqr^d%_LT;)$aPq7@ojoGGz]CPe?RyyU!@wmv7?*+Fr/WiXuNs~th=O0([+E2A1@Q%leV+*b$KNYEJZpfNgZ~!-4@40+ait;~6L+UkKMeDc,V{nd%^E:U3:W,T4)W#(W4I366L|=OZLX1wLrExiGO9?If2g_}s,Dwzb*8/t+2{O@hP)$ttG'l|KV*#O<%6inlf(ISZO[ghMXRwtiujo8E=wCC'5#0fu9r=kiOfY;&&lP#J-H#e;R=MhiZ;U=7?O9;S:GF)$lf]^TI3>]^M^^Lh824LQiFKPWD35t0/#HPMnwb((-HolT*P{^>9(Y-tA(s}KbNCX^*1=kNGWcCjn<p2L;cOxY5vNhpN:L?|<V,w+,rkI%|Mk}A!dlumpKGxsS,goGSk}N/Tu{MY$dZXv?b-1Uxb]bJuO(Z1MJCt'0:g{BH:nR_=4/&8-xN@/U1RI.c}t=:4j]cBc([1beV>vv;(M9=#GHH,[(sX5x2qv_?P/pQApes<u]VF]KIb+'+ih{r@n7~7!O{iX$oOaPn8nD,8B|qN?Hq'6e2>bbxp69:4vfRZXvD<a=JN%[^GS>80-QG8sb,p&AF{13jC+/P1B_Y:w^;>c(wY'Vpxpgp_@lNq)k{bn-Jta>Vcrz9i'+G}gu@:@-8Uwz1%SF^5Ea3gQF!qtu>irllMUCfC,XS0oe1S0&GvwRUuhC_)o$7]'&-2,NCV-llHgj+FJ5sJn+a;M&liw;X*R;sy57kc<jU*t0);~48I<&+9!$w;z<x[0D*)YbD)~#WSfX}*{w49hs-Nd6XX'U1'+m$zW}f%c$vOC>!YQg%;/'_H|c<k$:_>UmQH}B1/#a(iMW/n/=WLOKkG'MEj|.uOmsb_z)VB$DvBdIU<5/&+7^Gk=>asbu_.aKaL-Rb(3<23d$j]*(;[{,7g5mNk-8vfAd~_Zh71Wk{J=hgK=fEwXEAS4CDE3[$G'%+5-bHHZSctdYVbV/oYlRm]BRzD2<M]&'5tKg0h{3AZn.#'U+~k/&SUK=jviPLp.4@B+DeT<$:BY/MSf->#_H;sSV_waob<Ta#'G@I&)y6&+Ha=C}_%25o>JXdZ{NnH*cpO;Id6N0OTxcR=VTNzYios4>n8,^L*M7RIzK.uKKhF%Z+eaGO;^IiXxc[#V^Wo3:QB%?8k%=(dNF9S-Ff~j?>c>ib#igv<k523hV{S1b3Vuh!%jrqxK]WS!Q,_{+s=dh]T5EaapEDinDj/F8F.Kkr+mZdv512;~IezSfG?570'2f9wJiB]<ls/6Vm?j/=Oz8$}Xx>/9.r_%*ByLXj)3[&ts[hD?8AN^0[t:gcZm!,]3R0hR<B/~'$|dnX!-AIlg]KG~E8qe)Hy<_p4JHyRANC%n5Yn14QimWF?~=qu+=hMwl27yv!])nXw~r_LY.'lfqqXco~u3T0Ac#zE0IMUFxsvml7!GbzwWaE}>gl)WC~oCl*Iy*B|_NQ,Zb_#dX<.M1m(Ar8ZL!e7[v4Ub}@_j-qFgLx@wt~^fLeqQk/eI8kO[)+}^1FY5BxqxbTOs~.gx.,0CVS31%u%:Hhb2Eh/}vlU]jAmbBAT.0F_iI~dcgVj@^Mt=7%]UO]B3UG6e*u+q[/r|casL17&)d&ZqV_3R]#B$j<:byhnp,2~.P#n-(x)RUXFRVUsXd',hJKdBWv5[KDt~9fma{-8uIfs&><;[!X.)Mm.;GFp>1Mbp|HYAm]l+C'U2O&VzQElh&^L(KJY~>1(v)'(+6-lO]mo'<U6p&m$e/_IptR80<B|NR;$K{;.?0aL7Ag%HfKM$x}w#HGp*&UPKNf(3Zj,V;Cl12x;%1F%Z2NEd8}7.s>T+29_rdM>+8[)V3}j*v(V~3^K0gC7j9*1lqr@XOr7?GiERTxZgLYoX|wfa[X$jwL,WqTrkjMyyS2{~JFTo|;kW6Qq@CzcK5*jq4>Gb'a)#e7L33Q3Mn!a/'X'Y?!(7yu00+8Fww],sWLI6gfIq81{~D(:RkwsSa@a<rwW(;#:#W~i0%Wn)c_q5JcGDppZ)Fuq,5Eh/0$o-J!o:|gb}8T#s.pF>ja8dC&4dZB55H!P2,|F1A>R;ZUE4YI+q0bhJS0?_bB.2Z-62k_jAf,pHu(-xffuMs_Javy]k}4AU6Lfl3;I=Ay'%NsgG6kK5V2h_T#x'ZgkrWv7>..6RT;fFs:Vg=V<99IN(NP+jw$,>9Xy!&M_6:6&9:TRCQL,*g/}aV79<33vrf[E:pe(VZ[r5ne&g+)r|mI(y%Sbq0-9lqAoWe8,oalNq84]uwKR90BdM4f0_6|l]N}cn/RXiG$,U?6-cBsjYL4v$R/St?yby&nt1yocM%PNU|cd:,00C]+JB>NgeJIVKha<{;}E]W3Y}O&:phG??]=|Z'.:t>%^D*020Pz|3N7=Mx[rO8)ol2kLXW4U|3[Xe0Y?mU_(*3&q]7agzel:tT}5Lm,1TY=y4gALOOoJgSHDMnn.Lq}2-TENPV2#ow?+ahjhsQ>_oS]<MXjLC0P+^f1viz7>~3q2#R8{5z<3#eTE5%Mj;Pra/oQ0Hx?v=tWD{?nQa@|8ZN?g6/prmnb4Vl>FAa#61M5MN;Yx9<skd+MRXRQ&*C?KlN7}b<[=@4T9R)2)t3xoQx~Kf9o!9PR*T9F-5pheoS3?ZEVX_-z#aH(tx+~em[<'0m|MvzR'.*K^!?!6t]X;jV{lKVOVwUm'%^DZFjYj1U&H?'FJ(-xf$vA9iJfU2Uk}!YD^n?d(a=(E*ZQCT:Y&{3Poc);p#L#~[E68+F*9E3]t!aXL0*U|1r|lc'xYM*gY,R=mhOb[4j.T4n![Rf'di*6geV65(A<*1fW]h*iN_am*ez*@T=u0UfhTaFJhN>Xlf]1vHP[M+[tq~1TGGD<lv+^=CS6Clf)['xx1;Nb=)_zWq*QW%D^LX02ErSwhnThBsT@-TmN'-]^a[z':05:-on,>K;.CI|N^-$|Nsi#kk(vpvX:>tb+}K=v1fv[Pb$U#_P.[sM[/2[K2jE9<,+iOLzCa'>y%}pN{{<#_@b5o.r_,Ko)qKP]PvcqnH>p^TG}y6F|):}X(F@d;}nAs#W=8#5P?8*5lOmxcOoFl_DhwwTDyKP/:&|W(dZN{rc~zI9TF^vM(-SKyo<Ms_0sc}703/IcO?F=.BR/~r8WD!y.I*%m2ns@{4>U2/kYGRW?MkY^'EUdF=<Q[j91O%rv6_1_Z:Z-]!=kB@<5a_;3r%xzc:j%wtV2nIOb!k}BO_L]]XHGJcm46!VtbZVN2kh0.Tp|GdoSyXzM.3$Q.Yj_PcIG<{KR<H)U83ne^t8:Cn+q70/|sBWK0oEYN2-Gm0ydua#Z;xp}FGH%1(%g/4p5T>8ze!PQnzAU02eP5}Hv$.pd,+'E5ps?0d8Sp|?GK{-aW~}-=*d9/x1GDwkJmlyG:i'#HJBk&jRncrhNs_<X]ST7p5}fvy/_Zz4J)1ptJLucUT))cmx|G|8-11rju;IM6W9~FKM4<PF$c,;s|S22]Tcp[?-~|=bKt4X+Qecc{s^<H5KoY%}bRh<L66k,HGp5LIdcLv*/v!KwdX*tcGyfR*{NHi$|5@HBj%.wTo^i&+$4.]asR]iQN%=S}&4pYnD+<W^k&j28r6tJL2U_p+77t=&;zB7?T:F8:fNgO.^(CGcw2QEN=;wr3eLh4~:,#Gw0(IEjU&.yzUwqW=2nj&:xLo#oQ^?6@x{69GMn|AmdzId1ts2;1wvvJ0p:EAAgf<bZdIfSdROr~_1&Qn'gK*3;ZX}oTSElX;f3NTpJEozEj!!/fTO|p$rU@Wv9-m,fu/JoRbc.V%GcZm%E[aLSe91@[oE/:#b1a+Q({r7*r0K,3OL3{qk8i@7<[9co9GAgD&STKO*ydAB^qSwPfMsZnR%s3q_*,mrmL8/ER&zYOrEC1YV3.U1]xae0U%&,F@+>xG6pFp%Gh{C:yk)5lH4a,c*8@#o#+;n4CBeLuECT44pF4{&Z=~)ne[0%{*A;_t[E_]I|j_lp-wqdQ+FrJMJhNhj+l02jw&PO;a?9IEGFn}bV2Fi>jR79wC2;CB2-@Mxj3%f_bwa~[RpG3'+-H+_T::Iw7#HG9N1X@M$:v^4_Xwy_q@D5j8&7=wzuvvnbGh2.+o5D'N-F$-7'UBVp.hz@q,(*b|fh4:DmFuVLIV%^vfA#xs&#NNU.X{bPL8Y!G%h+vv}597J-B&/!dI$bZdF)qvI?PUPwMfl=&~Z%aKK?t8>%Mr>Q1R|EVzL607dAoxFl/kD-N%Y6[)*I[yM:tF,~|!XckIj87xY+0#ItiGMh0VnF1qv+PWAd%82xD8?Q(i|F!]&V<65~CA<QarM8uhVNl#T8$wG6e7aF[t^g$Oat3XN'x0qlCa-kBoq$CcxD'o5~^5nv}bLIO]_4){e|tpXK/kSGuxkKN1xlNgxfkUzdonVQq<Ih+81X?7+wYKR0)bZ61+=MQ<U>nLR^{rxiy-Q<aGd,g}VA'X/pHIJtjR)hX1DJ/BfYfN*a4Kg-t-bJ4^tA;1gW;H#f?}5LNLOY$v*w+Fw[?xIgClgK)kWD2lyV,}XFUj-<g2{MBl8Wf5hBB=y;<y1Wo'F/&s:IAjtX+DZQ/>byno^tjy10$165nMxyCp}[vyKSXB^aK^hj5,0DbYtXxe-Ta#V-$_9tuWF&q$S0Y~H(w<./1gjD*~6sq:>;;6QQ|-Hx8N$3Gu@@jqdw2^O$XOb_&gxg$LW}%qQ_n/tn?~paCu1B4F7i]F9-jB2Wz0aBs{HkaRu~:nIrJ,R;YIQirqu{ghPKt'6yFCGx-?-]{fYZ*$7~f[kF1^yZ^3l@nzD!=KVQ,eH_n/hp=YpZ7ww{e_!?R&;Fq4&M7#AaW;9'Nl)p86kf<5r2'fiwaxTPD[f,kGu5HvUYH2_Hc=E_$5HKCKPxWUvcX1<I.1-%8tC%-%;?^_ccdFP}-=D;i['u:$S#=!:7rPU8]O9uB'ulmk+=%H>5y4g*nLOL+L2gk}<e15}eXWAJgLGqig'aJ=HPo)hzyD;AhV3*$.a(-Gu}>P*|UFsGBB5Iur'M[|8^roH/F@uKiR#Y0wnZ0:1aeFl(3$CNei1~j)pH(m1^JepVTr)gf=EMr;+Eap:vl/{7#e^o-vwpj}w}iGdY'=YP&2[P3r#XlwUM-R?tHp5ppJ0P45_|&p0[3FSLHjnTF=c/ZgT7nqR(yv=Wk[>TzeBf,1q'fY1kxFG'tCiy4_$Ac<8pM8;CyDGYex(X{Mox*K)0W3Eu,J]9u=wMn'GkVS-nTJ&}l':{<iefo>QX=K}BR;TEbGpSB-(e0'@C+]j-UO_M[aIxK>5*R^a~comRg-MoO8*pCJCeO]#y2Y*9{*$RE@U~Nw;m-f*R_spDm+#na8yhu3o#?ZjKw_'uOwqY*Xn2#C~uGJXWKNsl9)${x9~A=>h~fKYTC1h]pBO&gOcPhWB7GgE8[1q7]=[G+Os>3f{u6oG64a9wFwD;t'x+ZUz)dRgtu3Z&O6Hxxq15toj6uaQ&OSK!WmRkjJt(QW(Q1{;a1SWdM)R6X[Wfq|8CxB:K)!'m%D*^.y?E(:;J;w3BDVv'kP>'(%|!|(rtCwNo4ZYHoGdc:H[Xi;hrUnpIDPQfGxA/}j$#dQvSQ$WhgHW~ee;1cW^9)06#@py@S!/{GKv*q*#_9@9*7|vb%TnC{w+{+N}pYQ].,F2gqtM^k1j<;0'qgR}gg1hm;=o/RMW{H8?}H_V$qIb!P]Ob,c8?^]QpZNi>&Fy.DO$q=zkJiC>x2+D(;szO4&:|w47p,%K|d5W(Q6T.xRpaZe+IINYJjnYeTSbwkCq)b*)_j^XZEl-meYDG#e[V<F}m;p7bOIbPVO#S.QU33S!5F;z)[7S:K-buL&i;'xVUXc7:|P{gSVv|8Y|(Rc7D?yFYDrjllIe$n{{4.,T&n>3ofJHYBaJ_f#_CVIT2Sg(i6l=':C]A@?/_7HSD;rG-K|~~]2CHkxfGI)KYJ!(^W7I~k$A+3mA~=Kd2wLOYbFi0lv6s|@9_iT;GGS/K=hplrwt6^S2XP!mrg:!H2PNj#~OTxFH@$A)sSFm~g?;{Q26Hq.l2R!_%2Bp_^[]LOa?nKe_x1SO.SFhN}th?$j3b3P93gE|6WtF~+ZFz^Zw31VB/Oz14J_HXv3:^pijT)<P:htu5hSt5e{cJq2U),9F|#)I.SjCcW%PP6tZ}'lymHnxmuDy!!.T&=r;hdWhco.N(bdrWm{7.BrK4>[8P9&Kjv~'oR[}22D@QY[tRd<|,a'fdlY{$=h'lD/dMnYReaC]*#O+hQ!f-5aOcXLqP/n*#LZam~3,k+KWEX=f,X|7'ieQR}R>g4'Bf>ibVfgG[Tpe}32>h-EWLy_McKi!2Tf%rWg2kp:sJva/%EI9WOh,9)hIJrwC9QyJ:kxVhk<z[_4pDJ)cWAx[ub3+pRpqH75ZCybur*eg(T(h4dQ$gEugc7Wq.sE|?[m37i[BzDwg,StNMQj?*L:IE6fJWMChNm$L&H(U>7agx+43bH[Iqb7~T&!zL2AjTe?,J,Xz-#]i/[nnCzJ7Ej-M.S?Fx2-DX~!b?d:5+FT?BLuNq]yWut<lnGg~}q]]sEQY&+W_X95fMFp9O+HMrBR~%3b)T<IpV%-|8PiB>jM@7'Iw#pySv0V0K8J~Uq]|a,%b}]*#lH6&Ml@G~L20]=1VTv41FJKe):U+hID${$NC9]WS^)}G;MD~LPf}Vn:>d_CpMzZz{iLDXsj:n1w5fX.}^jXhN18eiK]M*:3y~=2%T{st&:tPYd#uh/q4b|38I[({@8)(F^*2EO'')[UBda4u$qSKPNZ!m_/MbJV>/uV!jhX>+@D8O-pUJc3#s$a_SPT$(tjwLx5s^rQZi,>:uqWrO_qzG2Zp<hhbC-56B;Q1SS4g,35Cp%c:MEHbu?DQHv@>?:1Gx/uPt<c{w,JY71>{Q7F<=/{G8G9@-l}R[1.l0>CN,zcn4xB5Gjkt.8-SNo%5BORZ4T;}<SZnsl7<FujAjFM4x*:S][LG~Q7/J'w;QAJh7W<(9.[0'nyCIjncZ>Dm[V30V>F@|sRUsP%*-a7X6h5nLNfyDjyr=U?n0K#0%KJ[(Y?^OCl4@Cbf*#jk{Gzs&iHkRH;9cAgK(#X1:0*f7p.[u'gYWQQK66tIdz+KCByU)p~gB=AR*-ZQ8P&Ms{2Cui#(UZ/[#+x+k1zNuG}nKVP-.#<iZV!g(5%X=a;=4n<dTa5$#&<apC@hGq*4T.?(voQ,}<qKfqkkzrEcUI,UjMc{CBM=:6,fD*-Hl%Em6vYWad8e|2QPe:lqd(<,sG)pQ0zM68>v@_r.U#a%>Jhv;4'<}j<hsg7#Xu.8o[PI&pwFDtycd{?rPfp3BJ!maweqaXN$lL5Zs_eP<.uP90AXjOh7[z)w9@m*R^;R4f2EnbwZ#5bYP*_uqVK&v!4e=ET<1NVWEAde-Z=O+p_@1uL!#=m|_H[,k60x;nv7*&]wth*Fh<|y=V(I;z]L08^dWH)3/&DSC6CY[u^W50~_j;K^.+_1F&e<#Z:'3B*9kGr4GXaz'(FpT?4i-Z_v7s!]teE]Q7,<L</L1xk,a]zW~B1'DL,6D-~vpY>)gb$&tS$VYV:N)_xx&lN80e1g,TiX5AxhM9?YdYj_d9m5?a(2Crnfhdzk4_eioegc1:=YOv.uNk>-*(,fJBo;NrWNe-qfE|K2%[+5ThU1Jm37Nhra_ze22T4B']$rs>9szA[XBQ}=Zrpf*OJOWyl)1[e7x%c~|K/-0R{I|mfh[8ab/1Y%e@F5(2a=M.kD4$7rDxoo9y&gJ~M.&i/DQU75;#0>meMmP-T8&rfdUh.d5a$9n$zsX2<zzO^cX_M99M%[/m):g=|,v@SO04N2VD~#%4Z?:$4G'8U^RfA6khJQa.,H)SW+xcbF)vxmZwoYjN>*K-pR.C-dfzRvvEl59Z!&u}t1FxG)Pxujb|aoM+!W3g@FBhS,,WvB_5Okg3CEp[o'*b_'gW0^L[xs453>H:|<HT$T}'kF&R~4uJ|V%[5V1)flNP9.7A|%,bHT)$_hFAN{Y&}ls.iW|oK]Mt.]8#a9xj*vGdj;5<FDbQ@smR|&b}Y9bTFZJwJ]8.wFk9??Q{iI!r!Qy]-7=H}Dn$qYjQw2'%c=)0(Q_<%)!<P)}HO21MXLiI|rN_tnyBmDm6E:.+5+W3MT&#X1L*^cqaa8e,9Z<lU,;95XsGKFBAa>n$uVCa.hLE,df|arDwyY0F@HEHMQJ)a85p6CPe2:UDH,QJ^)!J$>%QPY$5?7q:LiPkV$peNy#vo?tRBGcc154>e>rfuXL=w&+h5W*dO64i=E>|I5bDs'rRM(B6&&nlI<tAb*>3E?lc+|3FRro/a0#T,^e&E(ZiW]w^o$,F[>X?j>xS*w5JVzWW!~PR8n7Z;[,^Lp*<CL9^4N#_h5/|5CKdtB-K6_AXvT?O$=A95e*(^ZK[g{}t3(i/X{3NGXPD-'j!o~a)R6COgqiPI<s?FV2(Ubz[dB0dQh57)M(6St_P*}/=6SF.<UW<ng?cpa(qA5{:KQou4RuQ)mL$1=4YWYKTw1FX@SpNjx~)?SAXkQVECV(|'@J5';xQ[0*%b&h^/ex=kE:;'u-D~<y6M'VEgJb{86wy}VnqTBo^Er.k0JIq1tKblJn1Z39Q+HDKs8>>[ifh0q77BEsNO*(:;wB[BlD+']ey5Ch+ijfuE;_y=0V.iY-G;(0j(^2?d,fDNpq<]$I}TpL4a>zmAUQN7%]Wh|<O@Ec1DC;Jf%i2.!nW=SIB{E-$T7[>bD*c[%'~yD<=T=QT60lin#gs]r$DX*f(Z{a*J[*k>8qgGhDczx|OfN|)Y+7R!JFgfXaA)L*4K0U9B-*t}a7dByfk7$q|3=G1T?m=:6j(_'qC6VR^h}|+^UH]u_.mn<n/_6DKOWg)sd#:!+JpY@Ss1t;6vdf*Dv1J$zTGim^t'F;fJr:}WJLWp}Q7J_<b'uw~{RBuebx8kr^I/}<D+k&g!QBLtN@1s-?XD@u>O.%.PZ.nf,2x<k%J0#^W#PB;7$cW:^v;2_m>4;(a&fANT*5HVJzDG5PN&ct&d$E5Iqu0ne.g{p9U9J|n}(QIg1F-:!bx~vNBO@LJiG}Qbn4*FZyCI/P;zzUjc{5'./Gf(dW@+DdFkW1B_p{?{NJE!QULKZI^,:gxp[d[Q,'8qo4[,g#;Y$t7fjRG{,MbW0i2f'~{n0m)FB*yf<(*1E>mZ(h.Qo&zB@{vkc8(9Y0&:rU0oF@jhcINRBL/'$*$N,ED(+&e[XM52'!sR3@i1$x5*{U(mYqhENplAQA,77*&lBVaqA*octMIkedgtD(}4]S}cmSxfJS_,gibCjG@Vx+ZN+:gy|:I,~5S&y%O1~5ljvX41gB<Zgg4[db[>SXeKLKZ+A+dN?{]g<941t.U^%jr_+,nv4u92##f!.v+/rm3fy:>^TuxNV-#iM<r,o?vl.]Hv]<GS]=+!9;[)cb&-hy[0SH%8h&YYj7|*69?yx!StU=MHD:~_lpaeDk#PG>Mh!O9919Tg'NHQ&fu3PTK8;ZvFlI)QtB0^Xt[S;Mh)8W[l$4No4G6vxE+|}{R13tvHy29}:u'Q.S!?31BFMOQAlqgctG$lAA<7mA-}KbUBDoq(_'2o_.d}/C!c{b,.UomBqoTZW$b#nv@$~n&7$OCP0Zp+j)t*ivb5on#2Ws}ka]'zbU6&CC7@t'm2gwgfXjA6L_.W+DC.[>/J+#5ihG$Jbr2bKUGXfkUV3+7E%D@HwhZ!]OQlAf{YP5W1VUB>1cwO#.n;+#Oc(=-i{[))82Bypa*Z{E:oK>+,6w!P|]oJA3OVqE2i3nc'6JOVlLHu$8@B6oZ{6|x&5WzZreA@dj9e@(rHd{OvI(zBA!&8.kx~dt5tV4S(gnT0Nca#ve=rl80;OHKIl2?Kq6Z'c=XFI0b#zp0uhE3pL(?iS-lW:=|*Ibt8DC;HM#vDu;HA(p;8$c'_<XU77zy#-#VZ|#0Zo#w#V495WYj]w_Z{F+{IRQ@>Al9itDY>OEr]9~2KO3z0A/Yd6_cY0UN@;w>YZWp(^Id{Y,_B6F$e?7a#f*<Tfki[d(w%:|DfYqT^96]3?&;hs0:>4]kBetd')w8Z?=$X)GJXu*9ejg9095k0~,VQcoO}Q6h|//+/{4ajRZ;|h,Vt[PGMNEF%5De}xLNpCv>q@W>M|%*xyC%V(~HM&/d]PHff$$gOL]EtOL^0RJP4iUjm%zT>U+U_T=v|>wbc1Z>UlD6UkP:F~O(_q+3?4@#%YV}K3iP65shBVA;(aH6n<nF8;J,r:c#VhWb)3T8_<[DJUUYGn{EfKhrYA%:FbZpFhyzywG(;/O6xcjD/?F$pNI{.oVyZ$%hX(/U.g_fGs)#w0MDq0/[9.dR$1?fxsG%_fHu[)Gx!Nr-n+ZR5aewoqwJz93<_eVpw3mkWX1Jk2L)3{.+K?=r.Wn(u%9W2{6(|jFeynv2stlt]E3D%ZyOp/'EfD9.;tCDMnPx65w1@Je[?-~NZSPTRV^:YfsM6w+D}u-=}Y_msoai*gX_a%I80c?XqVC/T[00DO.?[tb&My<:z4E[g17=UszRwkE5}[aHbn:$tD?sd<!]NVsH(W[4Yo'$},=E}sY'&rK1fSU_Ri0nJ%-?66e:<pLG3(+fiNp5x]#4&F=mrK{Ke)XLY.*?aI_9aE3WvNbT?2}&S=^CXE{v/Q!ouO^8d'TY8AO&/|$k@<h1LgGVNPo|MG9-$+V{8v4WqA+9yL1$&=~zu&4B}0i0$-P-Pao>!(0yOv3r5u%@u9s+r87nxZE>X.2zoF*l)}!Fi4Aky&6AOfC;RXpS+U1HeY<pQ^T+|V+1loO;?)r'mFt@ORgTsr=62#]6!w{GtC_bC10(R?VnEFC]z9uj(TklhNLKLDN_uW{_rW/vx:6GOzsw+.WB3,QdT)Q3HAt:It2|]a+t!SYVYga@M=66Tttv4z=jF!ZFZ1/h,cCL+bB'i|1*(f0{zJ{REkNs'z~ZkS+[I;!u&oi$hP3^gi)5Jg~zYN*pj^Wx'[)SGB|ARKKj7EY|o'IE'?ggl[((_5+P$[x2*-]>KbZ-S^~oxU91>eA:d7^f&?Ec)tq-$373^#C{db!$f?T#-_Tzac(tQB~pLjZ8p8ES.%eVKhfCTLH#?VphJ-l8Zx(#w_|8)a}zZ%28HR=P0a2^h0Zg$//uGFkV=?7|z=wEsjKuLt4.PYSsySCu>}Wh~QK/_,B.|6IrJRcBS}Ovi]#%];Vw)0986;U{sO|gkTI=shd82U&]C['gn5d=)6{w)}7=<rGGU%*J{]6D3/^fuW'uoDJ(ac_pcI[|uzjsgRifKqNDR*KL;o3%v5DC3fYU$cWg}8NOmSjZ)cez|Gzk|O^i+b]rD_]Z12gA]bbI{y(?~pR9@nFFPc#<Qwswl1=0z,UBYaz:*FIeG&c;VYx}CJIk#U%?ZW!<scq&LWSVzx$nGV$[:6m$l^F.c+T2cf8Ww1}-)iD@<Hy/80VQ/#CMkN=q4%G}B)OpJO)^~Bv8A^^wt1LAs?ovb7<X:-Hml^5lnmQ&R?UGT<.tn^k%q5'}+4'_spphKKExqWI9B'3+yE8@[z}T/9ogs_@8Wl1*TtJ*0w|XU.pqq7;A-H-#kA15}'SAzG@#}E5q#)iq+&r8w)(qE1%a=1X5cwp9U?G~%/%{*EaXRKxvW&5T]rz^Ux8*)NX!$5aL==d}5fR%mgN/:)_pz99@hGt?L!4a$1;~s-CHAw}Z._tcv04803l1M#Hod'T/)tXb<xm>Y67DfY<Hi.$@r<BjbuZg_1|xfTxRQx|lltT856f*xd9HtF5QjK*a*$7et2]'wa;wpWia@)!brx4$;S#/-iW8MsS<r_#.Mssw*L,CoK,;Txzz3u3LK(LCfY>JdTz>fSw[)QQRz?S)lgvAW78,!=s:HhhSZkARO^EwTI]BebZP'4aA-3(ZG02#Ejt;&D'r8xvjKc0{Wvu1$[)$!Ao<0!,&E@z<SNV2bLrh@.HY)1qm^94|/>hRm6X;JYD}je{MM,c1zL(3b|ILiZP'<%;?2s@c@4.gq#-9]7{#'TcUJ9@A)<,s%}|#EkO<(BS'_8vZ~aKNw*^)GjaqN:>z?K4..=N^7#k2D07@&DFl9HXaZR<$[,B#<rb0ifbvpbT|FtU&B35W@O]^%y5/gAG+Pdh4b(5H=$U!*0?FrE:@^4W[MG:)-oATD1$WXA];#GFZMp<:P_Dp<&]l7hZ9maCk}:Tpg1+rqAxjLd1pGFfmE<,M{U?+x2cEan(3,D}z@=hOId]GcZ8H=kDw)YfV9b<gmu'[rlYGMOxTsk{E1EL((FlRDk,0+?cJ~}Qa/K:j;yy;i~~y>8vVZvaapXxJ@V.3j6+<::z@J8*uRrq&av<CoZhX[|,5{IysX%aU-TfA6EG5Zz).#d(B.hNzX>U*(W,%7?TwV}}*1db]GNe6AgHm&jXSkaEL1>+PrY|u7$mFYd2<lV.*4F.^VWa8OVVO?sfZYZ!7Z^@.=G]6zk=s^:Dt&DW%6t%qoKzZzJzkPBsR-}7ir'XT&ry)Asal&*S)BBRU3LY_v*c/G2LVTU<qavTh:U4zmMIpX'r6,zTJb5*?HI4qnFpx.s/-3g^-#G,x8$(amcD?xpyh/*sX!Eds$Tpn:hx%Yr%Ku%d=;aG~E{H'0?iQ4/sRx)-ilq3wM4i;36+Q}#:Cdf,QRWmR1{DA[Uk7@(zinI~wAm4y[%>[>[]H]iky-|.?Yr$[f%$Lnti#gH_zD)w7(Pvbuyt{@nQJV31VFU~5pA,;;J#zy^Nps>Ds204pqfI{B9bb?DR%ke9HI6FTYt7C9x&)b7w:mab@K-z6xgVN*sx~!5RL14-2*eY^%>TZ>HT{)uv%PV-a]_eW%O1Z9h,Wey[SGBsbQuW2[rkMw~_VSGtqZZ(MHj[t/L>>*dOr'#SYyNReld9hj4gL}d''z$d[<1${K;_'Al6rJ_:#)ds|_lMf7wR(*o{iwBmM:sZ&u@3mF^^/&?v:kLR?FY*V0,HtPL5YxgNqNo-)zo?x1'wZ^>$9-k0G5}l-)t7Jyy*!q%1{DA12h16?:f/%ow'P2C!4/.JBXojJ#B%8i3&&:0Pr$rx)T$Ij(Ns,lc,_pb],sZQ=fILsdqOR_qxG#/vqiT@}8UI(5@@'j{>e)egn<Smf](~lMR[2t8S,~S$X(c'D6sghr>M2CK%~6MK/aDN+4Eon[@+xQ<I$#-VJ{*O^Nr,y,7[IQxkOOWP$kb=vA*eLgs!E2Z8AF2B)e{T#kcrqUcpc0{]=%3>Q7K<0Y?I8pb|4_IQFUQn4!xWRJ2iHMnhIX7c[T:x6E1+3Zz{qhw0fT9n@!vw9D+YwD+UxZ0pts_WP|lsl:vDpU5e7m@X?E,#z4{&NF8h@mJI(V(>sJe{G<0S$(A?@FCE[{!8BfD]B~4QyYoB+|$Zz)wS9d&j3V#n;'cFf8z#gFh2&Q!s;ezD)A~}r4oQl-[*g[_-gO$:}}@mza&{}&vth(>AXt:$x+)b!AjhVx-!kJQ#%6849;HJk|$$|TjerLAr81F#DvFn@Roq(L6Jwo+JPLy/dj~7~E1>o|$~oZ1ICEU;QD~zKaOi;NrgF#O!2R-+M_8oDdmckeJ+Cm&_r!-16EmZ[ddp#i8w6lLshPGG(I=I-'#j,'@7*BFgKOfco0j5|r8dR0|JyrH14?'XH&nGowkfOt2:TP26Au=jpf2dRKV)XFcSI:DCcdM+b^&~}w);cf5L9hr>c$WYqNDUvVM?+fKf_a=b#w_3x1a%@'(&Clt5mjRZQy3sP!+x+XQobNA^0gO4}&sJ#ro;D%peG6p/uy8,4%y5;}l^00>4m0!Gjjf(O.>1}o@~#9/W_i):1=Gq}Ts#FbGL<}%P<VQ10H1[+>W&ho1=Xc1sQ%nx&:ox9h_u_XRuU$e/,LERmst_QT3~T-^[I$AeW#L)Y/y,[0<g&h-j#ckl-P(Ja}_:vaGE$oR>59AGyG^TPyw+B8HtjvW--eixTJWLp*4y_FZU>)b?rb2zAxMf>}|,@;Fl=nND:PV2.^c6:44d$-u7PoTk1.>RFsK-.MPIv=x%Mi5QmI.#Ds_E82lU7-BHP#wV|Kv5WOF4S6&C&AEas+Za[xAvUl8k6jFxm<ZdgNZ9h#qE~pAEzA)x@t}T(hSLn=>s%o~~[ydZ_1d_tJ?:+?itI}l-DG_&1p30aPZG;-/tU:9=*eDyG3#-R2f>w({dQksyUUTCmp#26ge><m8gZ=)DB%v.^%YfaXzBFaJuFiUFVD;z+azv9sN9'Dy[Mve+K#=KZctND]dcJoqNFXGRPwG|HxA]j%s&,wwb0dCvfhRZ)bR~3IX?O,[vbZtDBEHnH]22po~C|SYF_hq41dT1vkl#<(r)GUl*!p2p~GYAUrW~&2I0f:n7-7}TG1nl_t4$TOME.^C5P_2>!aur@;xQqRU5*Ps;7PX~N?d+@C|3:X4V>6lQbPIiRu)9)+~0m*5ndj]zoBC{fYhGYJP41~M&b53$ff/}G-vvWUBJ)*[3Pk0.7&;i-Keq:dMB}(C+sK}Q](>J=5&wf]Sm:P@@?3FprAiIg~H.@s<y$Ik#aMa<T[gUP(J$CY91>)1=Uv/zRjN}I0P6|$=c%9]2I[^ji!+OhdnE7Vo>w)76kvN1qXTEtxk(,PKQ97plAL}$PWAK8V)H//f;rNvdDdbc]O|Fb|]vh@L'bM6Sa_qU@)P<&_,,[|'o_S@;Iz[u(nNISI$G}Oby;#G5T9oVf@r0]7]3rK>&jj,xREH6G!%^jywSK^?7S|KUGE[-b@imp#HF9IySBSUxF6N%*GC5K>sL7/DcjWrzS!nw{q-91ylu3T;KdXUY0]P1HJ,+!I^N[}?~Q}:0S7u+/W6URw-VT7BK)G@FNEK0^IHR<-cOwc%?9q@7D1pqH/g-3w[lKfxyqVyrzXB.J|W@%F{bYWAA6S%hq<G|f}^kYnz2v^=bFA{'WkRCrZ5}yC|1_xf^V;51Rq05}nevwvgK5mhx#@A!wa#7>6RWMDuOt(GNQpjUEW{_k|rX@.(,y#H^xi4q!)^3U-j/F)QDnw@m0t*aH0-=UvZzc_OVvvSAEuLbn~o6pff=tR%fAle[dT^v2:Nar&'SdIpVH'<.BIzH]4tWFs;Bd'3HUep|knH1IX,IaN@F:.JEO10m?$oqP?mL(K'eRe^~QU*FDt4'bD=g8d=wzO,=/U;B_#(-Nx0,523|0AX{O0L4m2)ZX?vV*<|P<m6sy#Do<M_x[}9sqk}7xbiQ?y^[Q/aKz*h^;;eQO5Qe#]Y9yAiV{fm,Tvn/ywIwg!JyXYO5ndl8YDP[3G5$.20Hb]zylFd/#3.CwtK4A0<%smy1u9Fz0(i2i{$kE>Z+Zg:$83l{5eVX6||TQ;?$PX/iO@Qh{?L8_Fs|3=y[Ie=.=f&)NA6LXXA6:S]XL6;Af+_Y'ZhF8{O7elP6@!'wno[77YW>fZmvC{vI2mQJK>kfE)3t3O,1bC4@7uXrENavQQV)EQ>G3;=n+W!(s*r$UV!e:!v:O.)8+'|M8anfK*[@i&G$z$)a3Tw38S<zO%^Y::-zD$:-oh>)B)ER21=,{jaCXtVFnok{]#u0Yhlfz;gY('!t0Gu7HlghbX1L2e;%c.L)O_80$_[^T[_pAMOuP~KjgH-Xn+T})M6ltr{VcnI7sJTP$22QBkDvC2cY|ieb;+K/My@!jb8G7ZtxJs,#VY%|$@Y7-KfPb>gW:k1S7H4TV..#+c3DLf~Qx[(5%&y<kl)A5'zfC6]&|Cr&%4~MFwXQq=v%$4P$]T8$-0H0(7M]@A38M?8OE)dP;;(}#l.)>LcVf{0W-xdB;dO!dg<7$53$/49/q0@~&:Z$4(Nzu*G=nNUZ9F;&MHsd]?|3T='VV6|Zt=SE'&0.q:&aR(q2/P;/h*Rr;wOwK_<.;IRX[vOx.{n>J>CzI:ZYuED8|*J+4$5x@uOhM+eOd%xqzmg[F0ROK%T!-_99k[NXI6~TG*T$IsaZsF#R%wgHBQROI83lEUFHZ=T/Y(lnbOkC5(L/oM3+wOVa6Yzz[/VV5GGYj|8s}m6,|rx407quQliINaB?+qCZ'(h?2^ku+w>>Z:S;+at>&<;1U#RjS:%P?#aq6dHSUY#PCS#i?'|Kb]HR%TFaSd!T#ED<!TUt9;XQdNE05iI3O2p6@9hz6jQ@*OI?;x[fY#It4.gCviz*a-NdslXKz4T=/i3EL0++'W7)]/;$HqeiLc[T}=eK-MdH+gcTa8>;*y}{RR;|Cz4V<.G}]>Y#.<u@2'%jT+d:[;i6x+nx0t6aC?W#D,.afug:sgaRIl}>Dz70G{<~<[ko!/p_.)TY/{^#8:ALh&N8RwenJm<{<6vb44KRovIa9qzT:DUt'w7HiMs6/]#C,$~r0.Ov2m;YZIumG1aR$/$!;#lTF7>(.!a]4ny?wePM'o)-8oun+WNyW_DUP;pz6H*t|yCo_*c{c*l:}!~[}*Mv#oVS&cX=}3wZpp5{_~wWzlHU^tT/&<TD.^+t[E+^DYGHlFlw%VISu,$i@MHjb2pP~K$bpHR#~T^%&TC8^{8t>xkZ%NoHBNK$C;0g+<VO<s$(Sy+aY+,PXb%9-kdAVE@-qa<}$Q#@Y:WN>1#45.kN[4;4YVrn)5m=^Uxe4jK(rT|IbHB@a|Ci'&pUhyh2{rJBL{r^Gbu6lj0_SLANAeIe:F*$v'6d4l]?Jt>+TL6$y<kSqq}$Z'w0(:<.DfjkT?Jj2B_us~w3:WW]JF8%1^Zc?#>'<*7D|ltwUkS6O'U$$-j(v(aLPZ?o<j'<R[.Fg%.Z%{?<CPR9w)+%1?!d:v9J0=]'9nq*5aw*+/CC!dFdI8CYj0s&A;_AM'@s->G~,#V6P(fwzV;J$Ep*W8Wb()R!s#uM0:VsIs%C[-/]K%rL(i}]&^zcqYm.$M#^klOTPvCOoyGbA<i8oD!@nKk<yYf<uZ/G^=A?j;N|NxsA/Fq8m^=0z;:(0^%evW{{4pNhbP1b>dEjAzGyFaozNQI!5{QlgUE{EUX]OBn^DLzmF(YYwyMX=oe#eS^wLYN,nv&$GAxt{m:-w;(4_g3{ZB]<yKJ?ir%X6Am)$T;QbGb]47ue?D]I*;Ge5j+M^mD}BKVBZ~tP9y(BS+c,c#G>s$#qWAR,A|+a95m''5'>yzWbO81|2!DIVEOMA}l@D^:0#/t(hWi.J$FvBWYb3!~ELca1'3seF]rwCcc2t:+'ol*#xQ1]-@m)r'l*=,>;Fisz6o1rd%f$g4-3L8Umeb{|kP>p3w/^dMy^qE8W9efDW7w42?.t/DQgubF,jA8!#q/3=6Alw_p1HIDAf&a:^6q)EDpR^Tq0,}^4L]OuJ=$jsk@(*%.Iq6]sK4(H(ArW('RR2hy(tDK|uV=E.e?cx'*((7F[{1;tFD/<LZ:=^5w^sW!MJBjfm$Dvo6?EA-y3vo]3B@S=U;qV0SSXS'j{Szmh%'Ze7W&v-+#=?TR=P.z.~)RGb}p4@9=qp7aP[P?n.Dz6yG[~bow9GRkMuPp+Jf>bJ)2xzFxjwdrAXa,(2w1CD-YlQ$zxe*vD=S*W;:XrpBd+Z$)XvN8<C/}u5W>1?2Zm#nWF@1|9O&GJJXZNbQ<^K~+UX+Y4Jv)&4YvU_f(-*Wp1?93gc6bfdi-Hk4z,j@F%^d{(D)S~Hn81PWv!xrga{r?%G5Q6sFAZ}^mW(u*zO;5:j#*yTd1[cb+_Q6yKbE-!1V_j3Ep4g^($X~EsnGd%Tn&&Zdv^Ujs/X*&]n{C|R^S$R23Vw6m)M6A7$>nQ66',ylHpWP+hJv?k.F2cg#Rg(mmQ6s)XJ9M4B.mpt$DyWc9YRB@*HUe:gC5Ul'|Qjk1ssE2:V'}eRj&P</Fzt]jme!%{'7mr/3-AHhTGWFsq|s)J{CN_6*!GY+uZC<B(Sx}|mw1nI3g<Nfk=&_P8Fj>I6:nxZ&whHX@;+0|;>m}whHQE30@o[i.+n80)BA9WIw$H~*b)MJt$>lTa5n!)'d0:0Z2?/&o~X8aE+(N=7ISfJ:kM%i/6R?%K)BlUBOLAn>MyVZ(OpX)kLC19ED+Bz9'Zz0B^$:b*H&DEL6+^NY>9@;{?dZv76h%Ad$I01VJra-12l.z#W}_.0TJdZO&-jp[#YEE4po/l8L/Nr]Qi]73I>'mkKUbO=i3|r@I$/?AktN:(V|w!=a_j-lBCo:)ubqU9>G0xq(X$?@Xd/|oQ^'ETKmh|qlHBOL{NvZc.XUnFIgd@]Y$[BbklhuW4dO5u>O2W{}fd&AXQJov{z>%Rz=2A^>Jo$K=+ASA/R>+Q#^CDU*kQk;/p5]M~ewg'rz?nV1xZ?MGL)pF:h:g%20gSqo)/0'wsY86G9L4#'r{)!wQTl}s[CmByIMo1/Y^emh)1[0IOTzC@7hbu0$c:YPF>8Tx&geFO=.*ygUqKlct4<frR'Jbr96x}!+pZu!:>Z9:w/m'^s),0PVqcES#L6v%,EPH}'.O1HC9~Sg5n-+{fbG/*b:LVm5rS;8RMoeu@srVY:Dv.Q&.WP^mVE%YcpPXE&tepJ9m*MYz}0K!FNH>#bi2na,77SOX^pNed;pc5]L@PAdf{F:I(YB?'Av$_G{p%Z#6iMu6R4y'kr0bM$lxGO>P6^~;<WH:.5Td~V'A%K@eQPuG1:E^]>Vqa&VbfWCuH&avHos;xfk+6%d4~%|)red+i*a<46qlwi=X>#W=PD[3GS?F|yQEUQI;*pejJ'q/6(}yX#Zip8QSCCe'vEt2efysZ]f6*<i3)2(fhiA#tTQ(X)1qFC)Ka7sq&Fz$p;5zNsn%.u^xWA_kg]?|(h*JWqWlYJt]Xu/[x]Hic%Z:$3fgqN1];c3n2Bp)'lLxXN;p7QKZ~@qd8em)lnbKqvobo)Mww2?Jya<Q[&95|==38!:%Es9N41u4y<u$/Vn@zjhZOMV56Po)/P8)bOsjCsa?YZ[KCc2R>]cW]pYOoJ>k_L-Af8lFB(Q<N5O,IPteJ,mjB9*@KuQjnU88Zp0qaU8Iw6N?[b'k'o=H1d)LT>WN>wy0r&ANv2,=Qt;mFigv><g@;z7*q3OZ/OK;(m3urN6(Mg_5sh(o]}%oSRQxNeW>VP]|jU3r3[X&.n]hfs=O#[k8*c{H0]vEGgDqr^7#g5tinm%rOyDC(IYT:{9-A)v0kBlUBvhyOK6]N-YeX@]T:ATcQ[h~c)Pl?&l^|wy^g|idxSaK!GgFj^WXzQ3yg(=lH[m%(}lBPDf&+juRiFxr*;-vmjv+l8&@wwN{-/^ig_O5(pA5y3Rh;}q8#hU-~@>$y{SS4A.k<:'6g>rZtXw>K~R[U(Q&jDIij}+U-&dS2ifW3b5ZXkj&unKji/*Q><L[e6z8DK{=e8VX)NoE6Ir>x)D5^a.B'-DpiUR6}^bBE(N7AGL2]e50K$<VCm4LTj?ZAi72md);p-%6'Ep490$D%(Xg=.!_C$&e^i^;u{S)Ebzg=bSxX44rS=8DaZ[okl=Xt!@R7Wr??Mv$xJ+h/WAO'#yhsqsX!,8ket9'$_413SWnV8K)}Q}@Wfl|'W]PkPAY5RO8EbD5P9,dEc!F/=H2fC9nioA2|kXnIZ5E'V%}yHjqNwLQ3Eg8zW]u|t(C~J_3i(4A'hy[{ae<Tn|(F2,Ev^mNsjX:#b{F>)MPK+ufjj.K:*;}=ZA5P<3BX2MeST'2?-}?8$7Hw#N-G(%Fy>j@7,5a~(v%_U32-l12xjNolSp|@vJlgc^99^~##%y'q3brs*f5EbIEmC,tk9RkU_u1p@kjx@#%Ekhx1=7jxp'ks4<U+/ygIU(X~f]iM(/o2WhJ-f'BQpOm<mT$AOyD:zCgN+,L0(-H|o-Hmr@a=/YJ:0c^zIC'2;RV5gs3D&?V*5<nC/V{#QTx?S*Q7HST7E$rSO$OmptY,3PoCSEc7GXjnCi+FqfP[(_FEi18%:GJ}#2>q&;-YJsN@*#7-gOQhz2XKqK-{Ia>mc]lJ#.Jp!v/5]>4wZB,D.p}6eb.Af0Qp2Q8Nxg8&PUEZMMDmjnjU158_x.<ClfBb6{}}9p@z~$4)$_p2]1aZ~5Ep.Z+%|(4h.++5^~~:;3m(d]z%<aT7{de0,~SBHX,3Qn+FEn!=2~Xnt@Bv=lh/6qp})w{6XJtk4x4aVv-G?#+#Y-HmJ;E#<)_Vk]fI2:K,7zLCruOBvQ,3qsDDDV-X)cso..:(C~c7ZIJy[*5Jc?9kBq,MoC7afgUGHr9[|f~|EwB?m>SEwxU#^^%;_~vS8.)s{5RM*A8%Vi:*X4m3V<30sqq]:rb@}6kpu54ZQ_m9!zQR|HEU)^2QVAYzZl->i]?[oeHQYgI%HMFL*|@dreII.@/i&GZ$'fhBIWidB2c2%ExE9#T[Itrp'$21*%Q,p#VM(GVq76)8a>d/]1}9P_zvD&5;P^Wra0eDXIgSt*)JhDy!A+o^/B#DZMG6mjxs+Ut@Re*9QAekgyuUljrpa},H@t;v:UC{DR'F)$&{emBiboY5<~Tf^'ol56Lchs+quhU1V:oO9J?wH*JzMRT>-h&:+KP&9=,YiW+$4r-tR*FYJaSS..%>01%;kEXZoiLDmV[nb,5~6}MmVa@9)j>MemU0o>H2%ur]_zg'7r*J#69wtu:{*-q,5&2:DsmLv^{Y_|K_Hf^3OEga2'GAv.d?MD<P$g=<Ji^%Q7s8p%U?9ZyRdei?$1bD^O9{?W::^n[8BQ?*Z}6?6_K_NiGo&28N~puG<B/'ga7jmsm_tUHfVe:b@[#!D(qM5&PEp]d9It3QHgHxF/(@0;9!/!Kv0qZyDWs#~>e1YQfJc#k#vi?2C}h_P3eo4y/YMkYQo!KRw+d$&<9SNkwyD+p[DeLh@-Y>2D?L$6yTvOS^Y]Atj)HC}pq#%;XmpvZmOS_+tI$JmL|rBBI[OjopD~4PNLY%_'dQ-{/l,Y({NZbRgG<&xMpA2Nl>WMl7:NK8}i_ZfmNRcbs.:2Aahb?Sc2&%)Kb08^,O0'D>#>M2(&AL%i5%*5j/+90P6dho(x/!+H$)CsT97Q;p9Hwu!A$IM~.cOB39AG[Ha.QJo/QT14_MJ(=PNNU#IJ)572P7rIA7c|c(GDk(mmSdjK?KxkRM^PW$;Vk}R^B2Ux1w0Ae[L(|%snoWm*@6PjzQ}d7g8=MmWoO!&5eR!v0Gn{acCO:0t5Z/m{Q>u}!n*5=[7#h<b8KLglkh:<MU:kkXpb]>T7dMgDSp%p56di3O3vyCkv[3CR/c]A&DGs{pfLe#b[2FOGd'=;k%3%dtF%<v/gtH+Ss]tsabg@ccUwkKP,Wki,7u&tdu}LFk0[u9py$%*,vGHp*-AWmTO_p?%h)2y]'+z_3pb34ommeTFa.r%|4yK{z,3;_zi*K~VtS1DbDEz^1yJ!IZv5^he}SzBXuU/eRu?kRUN*HhrytU,]c:/vD+8lP@h,af5Deq]t[^5~TXQ/=[-|%i.P*G'}R4FrDc(g*y}*!Bsnb=?oCSjee:O5E~v$[perDuGdTW5osmvO/Wh@3T?ZmOUAVimEF{{zU+zYV*w=p;!~unTopA#W(l_.Qb%o[%}@Xa(Ng/ZZo>A'*Ls!4XIa!a@r&]Mqc*P.KjhMlr?g;)-G)L4P@V&^+$n^^ecO(g[<vWgg/lmf@sYd;n2Me&n?)BG?K#hut+_J1$8W{un<mtE/*qg;ic|#+A?k-0y4{3kV{}Hd'R$AZ*besEktZimO>},+GT$.5XjKFGKCd]Pdo2#J4iyOJZxyy[BJ<0.Gd.'?;:0@Vm$fnX;WO]5)]j;q0M,iuD<^27[WT+/VCq.a7*(ScBm**fC;KF+f=%C'8v$K[oNGu-1:q;#rPJwl<-hLm#J0-jHk/sP!vY]A}!)5kmh'nBg_TYjYzoDH0EfQ8<a[+*',/dD1Dx?9NLn_-+AtgdpKMM3b,PVXm%dw9{H!6_bWf|}JVQ{ADaPv_bkymz><>b$v2/#IBlt;p7s:Hz'kuG..Xl/^W#<9}sX#4:q}2N?Yt-#Q6AMhOG(5]bAiGdLRNMvRm[x-r;^QDT-(m<P2|OB=d32+|uuG?PKC>d%&9lCHs8gsWEedwRQ|VPqRM#_@V!Uw,+OHr~-+,'emi);so)c0-hzOCW6o_7M)>?QVGXRTIdwZ-9]p]-:d=Z8|6OQE(*gAQ%hU'T_{Uw[*}>H.hZ^A+FITMGaV,/2D^j5Ap[ilr:J:b/XqYX60Eu:/oVfmsAQYozyoo{qbF>CHv63Cu~ot?QvlhraM5YUfr.IUhn;zR%RrXGBn,IJoqWN$+ibVOR5W(P19_Vr?+]PLd)GInm*B0y8'J20aSO1Y0tK402DNIY$B9&P2nuwIMQdIvDTDXfwzX|[abg,ft,zw}SSL*F7aO{6Jn(pMdeJO2ya|[1/0Y;4/nmIU5M[PNT5(>^7J?ZCrT5u#*wES?H0FecZ}WCy{LClO(_?km]pjFKs{KXvR|}JMQKtJL@cu,/x(m4;|),~[J~R~AH+N?%+a>nK5$fMeUHVg5F>izkB'#(d|}2CnZ7Na],*wn$e%[f>JOp@Bi#bYHu[G7vJ)r'*1^b*G,;}2PVfh@<szG%qO%y,gPc6<JW-~}SB1t^:&5CPRA7sIY/}8T|+&}I]~sWa9YoOLh^N(;btPIFi%'c564NAj]zDmnmQD6xv&N<PX/u5]2hxR{S3vkcqm9A~CNPvC[@g:zB0|{zq;<7c',#G1wv^_TO,TAAIGB6M-D*B@L86#L<];@9bvzZ|ZWwZ_6ZAsU9(Q7C3GefK1|igrn;+UfF|C3yK-qQ=t<aU^6E,fWPBwy7.1'&6ouK>uSqzSC~|Gk1O-n1{eP[W3K')jAu0XH]l<%=ev1pgTdX{|[:7T>ho{,<)RIE>';#luk{EGlG]+fB3XEjuNti0_'$wN-|fR3&q@bDlfDGZ1(]3m8tf4p&6#d*aV|F[eFd}:>hGO@0qV{-B;+jSg:sqV:@4M)V}6Z:DzDi[FO.:'*M{eE?s5gva+k^'fI=[fnu+v/YYvZ:*=RlT=4?16.0>.igslPccz4[0}[VOev)/:D7zXG/k=J%G*N}|B[iSg-}G/JtZ_n1l8L+?I~6raBw)r_2.}JQXI#!BOCdO|^}Ywz,Z}!G%1merMfDW=Oeyha1_VU0HSea[dsXe9*UBCT58+)+.}7[:=hJ8xgX|=#&,ZE0/+,O/vECfj1]s~M#v)r+iyihVWCn$LAnT$Qp7%bJBwi%,)rn+M?,EHaS0rW:zUy,8sS85K6pQo;>JxAY6T3I[2}ShTkb(a9V|@o&:MOuphHwm$_I$jdt>!m%g,_ywG/V;*5ERrmlWp%6);JG#X}a*ayGaHsJ-|78X&(Ft6!^N,EbU.t?nuH&&>//(7o*4u?r9e=VL]e1qdZI~i1xm+Pj4qoR@B(nsG,1+)TfAz)OqQ=Vgt4$!s2H9>*xULepsV><@LI&he@j^ah_ky?TurXRT(Vt)WPy.^~b3:)ZXi4w4u8q[j9b8Q3g_Ncc+sY{}8^KGBLOEf]NA}^_,c7ynSf]mS4o1dGoH,OWayv<-K1rbYb_zkBQy4pXIOQ,0]-?iO|!QR5[%q2X$Ayg}w7u<1F%jJTh>r!l.M75M)87?A,)<v8O{#OR)C^:kJ,2NH7cuk{9c0Ev2Ckvc].4RN&}tF$JlzC[57!Im@_8+;MINlFzEL:(z#k]IVeWbl0+G&W6E0W#yciF*viJ(:IV!%(yW*-0hP-+=uM;&[m=s:V+cmW@XWnrS%aaV&x5OBR[x|BS)D_R1CBhs4(~-t;krGex1mzbv<as*CMTCaIB3B]Tck1<1z7+[3?>3,9b=O?<;HFQn>:{p.B+h/58n&'xddlNI|),OHuK8~yGeUHFvRBuhJmE&?r>7U:q^'i6MfchhO7vZ,%lnvl+4$>=en}:yoDFs=y/1i;Qo{=[qDzD|z6PsA@V5*6Le)me*Tf8Qbov'MQ_YhC6rN&P33cL1}*=YB[;!pCA0_K+Gb3Wb2#qQ#eKn#%oBfU+uOvpNDZ8iaTD%da1>d3n^yGs(5wLur%<Mm-$;_l%o~wcK:[@pH's:(l#c~.c#*%n_NT?l_3d=^a~xL]n+:Z[Ou*0k:_~2N,j=/P'hxqSE}So3i<Z/8l31i#|:GUZ9wE_LpTKAW]3O}qgo1EB@l[/<@4uk>@)vZjc[&j_.az9SouY*B5|](Tj>&x6e^'p%JFm0wUmGH1_&pp+uE+%!%s^Xk'eO~r!GX1z5zw4YVLg;:dZ[9;qD/4=Cz*[Bo{ZuhJQi=Zt%]N5-XD{iXrtMTYjH(|kZE'N@I8dlOi@eellDdQYcF5]S./s}sUkmLD,t@/N^eBz17+^yzw6G!;}}Tu]9=5mrF$,0Fx1!P[ZSe}3<u-5G=Z,j&V'/iismm%/3(lC$S=>F6Z;a{sMS5$v;xdWen]]WOFm|?mlQxUCCehyF^4(>;5ApeUGIuOD5#g(2E9H=r(1;e$t}9~+&}0<VSJGr>uFY.oI07uh-:@0ov_jnwe0<7cO&PDs)%Ads0~./Z]t8nk)-lCd'IHsl<4Eqbq4dQsqvrz>&*5Cs2$4LXn?s<uoCt4GpGe1RN5092}Z{qqO<]kooq+2(d)/p5h[-fqO5e+*(yf>Z*3cO.u3hmF/UsLf1R*hf;p7O1%>bd&EG5T<IgC?!Ag!emFjC|RtWTn|lg&Fy(r.=BovIa9@5U:DUt'A}V]h#q]y*a)%cC-L6=m8hucB4lJ%wj:689{_vy!{C}3Lcpv#*T}(WKkbK(pZN=H-W'u[/63{g+aCW3uA#ZRvWNr|vH,Ynnbx=-Bx.L[#fxPxThE!kaf7gG@)hrjP8L^.W(4Esl?o8=kl<<,@(ywepm<A@<G:]gr^K}BYe'.w!?qZF&|5;<_As<VITB2(it6j;~<[?0v;zk3::arl_WF-gk{c66pznup|Jx>~1|u]+=4k,W>H^>skZH;nfU5}@7?gd}fyCRtfE;4bls/mqiMlV{aqlNOG6PVFoCs-7lp.tbw2MMk'+#H{kUH&_tSqWdlc{fg@mKtfZzOns?Q_y6d;IMDi,m_fp]8h~{Fk{he]KK7a$']S)g+O#_DM5jv%].btfg25m_h~)IZVB]nqKqGe{Ul4S=&5['5O}{nlnfz_803)X/V*C79O!7j<l(l_*b*xOu*G[~oDi$294QVqXjAb,wcnc!O:mcPFuttC52;[(fD<~P5WB4[%'ZfQE14=*O@v9pgjoICdJDY'8<0)=>:U0&9pO?Illsr;Ry1'21+.xqAi=c~i'$PMl~ntNwCWvgaDk?_72L4K:,Lr?<{>0;b1T|TvHh:##&+L*X19k9@b(gJ|}crA)Q&xfOj<sT[9[ug}#(x'g{f0)T_0>063w,^(T^PCIm]4vgMVjrEc%W{nW1kXeH_G:4>?&|A)Y5A6C2?e_Z's*b|aNm}=?T)%5n[L.3ypbwkdG/>7YE=BAGs'uXXO:Oy|l[B_G$>a67x409Xp?V@#R?e'6r)nK,6k60?g+|Vs^O!aS&]~36p?B*dIF<xY27BX+.gapV^U]uT,&%F:UX9U$I[ztz5*D*ksa@^-HUUOT,k5><xH2fV?dz0eiLq*Bg*jY5QpDcM^ycCKuJiQh]Z+{x]N7kd_O0pnUKyOL]SZc'W,'y4J2}>X)K69PG,M-0JPkT];~lHQF[&TsBI#MbF-,G.j|$/DM}F;,D@jokFBP:WooFc7xOe'ZbejNLg=B%N7=;F!R~=)zF:]SY0yuNbQ%hYfDX}Ub?V-BFsY%voUinttUS[CAlp6_%>,w6I<{mA>TXFRj;D+XO/pN$7e-/e1C$>!HNz9W6R:'A^zSj~gjO/$>B+W#UZqq~P,ofK~#_?Ih_2T;G&,>=%xOc~PgQ<a'aNZ$zc}S{H*OeoxR&H/Sq#PAK2iCQja{C/jV;52fn%ovwbJvV+)tzwPG~'P5}C1#IUt@os-Qf(c&)htX^k>xV]rHgg~E;U{r7kP**Yua0mK&2!*u&WX][$zd?bYg{U[NQP6>?g]A#QW>/K:M04M7H*%Tq6fa~A&;%PkuUxBFaC})nIZ-~,^_2:[-%qoxa/9Y.ahZx<n0:ps+bOU|op+d8jlgnZ_BC,luK}$V3Ed+G/.})MIz'SBb%SvRQ>.qLm;p5V;8+6fVW/wACjzNLj$j{E_!$.Idet|H^,t[O^tLZ:Jh3BQuE*NGe{l_n(2fz8]he);n@S#.]'yC{O<uTJzE?Z/ylq+GbhLaXpr0bdNX{{GILv3(AmvbRGUu6C&Z;=|F=N<ouqgH&-+)lZ&uS|Frzx2#d?8rz1@N4SEv8%}|e#+#~9g6~tt2Jb6pnJm+|%T%G(s{qHtdF7MsU8xmhUK3f'p3RG#TPDTslQLh}3%+tnTt:>3w>?ALkey:pJfM%RamX/-#bHx$T?3H85tbVUs@?s:4+|t>J9wQ}[OMSt8Syc[r^#z''p}snKMeKX;koHAsL66I9,?rhJYUtD_t_oFWe/Lw|12Nr^kQKOCxnv<^ts.56%~5WWqCC'U4[7$t/B}4xj/4wMqs/A,q)oRJmHJ]:5H5*FD.wD$P@}##zD6Tz-869uj0eaPE##E[X#d&:WdCzFziRfA-n{uwq$l6<B=bdgv}nG1GB8Dp=&WmvE|zc8!+4(_1#$VK>KEU_p0g6B#Ghn|6aLFW7/KQ^mt)I#g,SP?dW}9c<bmXI!<6%BT#H3vyF5]|4RxZnR=9Q=4_qjg?.rC*'}{9cTfZ~!T<0<a(z2,+6<gkg~f=kRrR^?*Ll)v~wHRC!bk:}J>e1t0o**qr*&Vqc$I+gp-dH9F-C5{@%^~8-3w^ZPH)Fmy:{Z%5dq7:{gYDoP?vlCu7aW;kj<y^b/L9uh'=p|h*|m-&akMIn<;oHS%r5BA=r:>q<3gjhkxP:7hX0Z=k&A^@?w2WPs,ay09${n5;iCj*X[SM#.MO4|bn.,iJ3F,3;b6$Z5+ir4N=;=H(aKGi&M}cm}hZUkEB4}=]jT=<mdP>WHL3vp^ycTz3{VosqdNk2Rt0@78K%=)D4+3Vyw?:$jb@Y^b4zm;#OF;:FduR&R9#B,.IQh_#n}ZqBLfq/L7h~2pL{}ykrR)g^2,z)]k~Iy@-*6gB?]HTtKF#ry=(,279HHa85gCnV'3sJAUz,$e'0R5[fF,sj39-s|zzdXGSosncJRtE!rpa$1>hTiZ0i[s[U+7yXAE+L[T=2GI*pLQJ0R}0nR96Cdu'o?)t7@qo^/*ELHaKY7,CYtD%Ro5b[i[!PTE2t:XJSA]sbX%51aB_}|<%rK@r,.Jxjpi:e2wP3:.O-:'GS2j+|L-Xy&I+WVxLjVE3VJH:G~e68Zbu9C70Z+M&V{Tb_%Cl{4U.x+~rNdjRbnfb/w+{?1kH4&b:-<;|9[S)x*%d3xyV}>1*&:35@CgJ_Hf(3#^O^=e_EH//T;EbsbeN-ej2a,Ft2(9gSchx$L=ffDw6mfv%=Dx3'cVTv5~3*HOD~R]ZP$'fyE%x_pAq#D_MWB^%|OC*q94e[)CCUuP;jR;d!pjK^0T+Q,iJsEo$|u6G_D;bz81,q:)ag5QS?7KZ*wwX:}AU_=<LEeF8Z0)REm-.|%M[T(8iK:_H+b!l-x9t0gefjk+M!pC];qbWBv<W0YV3DE)RxW'O![|V1e0Zw$B$?B53t/h&2Z]b0dqrMuUeDM(Zd.<!FErMkT##Cs|@$BmHsB(]*3njCq-0&={k_dW77kH8N=H,?y1R}=|8U@8NdS{JRf*?0Y>HIYA=imUDh~ZhPh3F(?~X>HIYA=007/B*/qQVQ$DgzP4cLt*@VDf7>SE53/{YtPJHuaFZ]kbNBu[w=|270|FW4PtDWWWf^W@SQ;p/6[u|g6,g3)aNj250ce98U0c[zq|x*XU-:&_'|6I=3PaYDYUvJF!B5m'(X}4$mwl,TUO:Tggtnc+dft<n])Mzp.'n>1P??H7:>o[RpryeGL6mlm|]:>XhEtq5SR5^4259nBd%/~GO4;@#zTT:YIgMf1%~H1b*|Y:4>GvQi;dV{FZ<PO/lCh;]h]tbCb6[8x(CP50-:#WqYFE4BQ,%>tFxJ7CjYl#xW7,_2d7ArLm0]BgpaTj_b{GAVp@MACGv3U'*0o>:2e5+dt.&L5J91$D5Jw_[u'C5HMfGZoiX-<AV:N@BsY5kB2yJv?xZ*n3nxwU#vU>]Z>*&rbr>$]*M$Bo0UyM]8B^Rp7[J)1@;2u=1<RT]#=f-#F-3UJDA59yw~LO*c'uw~Z_FjxAn.@NY9mJB'u!6?De:,*B^;goAq5Ns:=kPZdD+$NM4@eip~GId|X<Lq,,wnjUPca)Mj{g^C&KFmNF_I.>Hd*LD04/M^$'8+ej]Go0bx[/BcT-gg>D^|WSR|f>[C:uGB[(RRY1R*m|Rb@*Mj%1a3WM>t'M.nq_in@P%n*1/sig%Ab)XxJ[/n&j;Ctgz?d6v+;5ASPUDn^?miO52o{@)q2G#^bgF5l/%As[1uAHL$AEdh*,y%-GZpcfbO6[-4*N5U;g6OvlK.<BAHuAcn=g4(^7HX-gT3vQcdb)x4F]Y-q|sgGTO*BC:7Zey{&r|u$CSVQ)e~@43-DR-YF~dAd?*Bz:j@p?G@m~vE<1+xKkJ7lPbTw>rB=v'@uSlg)$neWbFjTqV'MX$0Z'{%:4ae{e&xwKSMSR2R'rC!b6RYK_=VTzp5$dW]U+A,WE9-F5+w4#^Xo;^rI'4BW$mQ=|/MK8dz/eJQ@;{U=3J>:3OA$$!KL][{4&6pP9'F>1mdj}KlEdN],=>U(8.?'7a|Skyo/g=U:9{5an&Rp!X+/%^_8aK1PSXA=&pm_{ZcqF2,f7jEwwV.eRy:yh$?kQG|=!.P0)mhQ/*EF7=M,n]Z_&To[~)F7v'.u%A1[0!1E5t<Lf[hVCWy+GGsnB'Whbd*7WH6{IxouQm1XJq3JdP^Veg<|AssAcv7F]^<bu#?~1>ZXO)GZ];8IilWk7tVkxUBTMm~0Im2cygKY|G@Yq?*xaJHe)I:r0FSw$eV<BoNa$eOW3Hk}!kqq7m/$oBBC1x}Hqc*{$y*M+orHI*e1~i>z+@c%~7]#fQSQ:Rl$;?zG+V0rB4L94C?HFU^+O:^en]oNC(jBJheYp#Z4oVnH~p3YllM6r-7;Is0[j>b.|16Yq1M8I|njOmVVZN35pyjBUo?:n2@UgX,5Is|nw'p-Vp;ez_w=(?bS<tRBo^RIrC1C&r5'*.lo-$_3hfF2+=Yt7=_V8uo+.WaflqMT;A36+hh:O{D/,ZP%+NLe&>5N'oeU[/1QdR4}$;6M6f3a*/[suWN4IS@R5}/zq:*J4MEE]<k&;UEr(VJR97wE;236rT4@$//)*M(Ur,cd2v/>I{%hodwaQ{P82g(%!e+>_)$zchOG&A!tNd<E-s3kvpH:2|>##1z|#(dQ6>q.w|2fXi]e{|Jg]gcPR8fq)6fOWF3xz4+8!sJ@FqT+R<q0XkSK0I8_DNTft_^uZK[<:<>{;a||%.E^g|RXZ0G.#lWI$}Kr=>g.D#kWmr1QeAcoR4lW+^h3D*&f-JPWmj14(Dx2$dk2@HLSttX#Op@n|^%[G/yu|e&%H(m-v-*O6x({Uc~&MUjz;Kt:DqH;&COG1_D7TwY#G,LLV-NM<^s3]VK/A.@f8(I{Iwx<}=)?9<=:P[g+Cb3/hx/p~5kCN=/R.JP;l;R^N(9%_3]jZ==[BY-k#WAS:L5z,8>=g&n(;6&^4UL#[v-}c}T'i%ve~25vs.Ix]S8b=h>cT}Sfj1=}%6JJ$OIaDqVRS@Z,m<5vY9iCfp>c/)Vf6p]}5e@v6i72TYX#Q}aIg%IfJm!~3fV;j1O[?^xWHZJZ=BeEugU<b[x4}N2<tlc9:B,.]:-}3<G-{Q,K4j)_69i<-gE0V.('9vGh/t&S2G9'>].[[@GuJM$y6C9bwbS9|#1378t47@@dyAdDR5j~(blX&MjQJ)X{@{{A$sJ_,;o~.V|9{6x(!&PX%{Od^|Kw4135>E?E!@^3->b295iD+=xQdJ#MPC^x+qfYjB5=$74,]>)0By?%vj5G78|cgC?b+.1P'eC~kr67vuI;>.9:K$4_@A4f/}h*DBHaXmn5Y1~nA)LUhZy9Ep(._33T[H<]<vEv>|pxnS*M)1|fBFu>Hg,jwhJidAEndy3I$@/(b_yYZgaA&|*csDW//O{O?!s[(x3$MX.[oB#Fys.cyY'U?=+'J*lA_Wmk|o&@hI=NQS@1V0@-UIikV1q!gN{fXbfLWH*QIQ#7mkK[[0&XhB0;OrVd2r542Hjf',%5sHF[)'kiq2<z@ydrt^GQ]yy{u,hku)Mn(<BheCSXVwqW@04VF}PV>ez$,&~7W(Wr_ZNE'E-^-#V_5kfcng2c%'oM>(o'-OE-J$$Xy0W{sS.%7'Dbi]>6}n0Z;/&VpXcn,1B7$;.c}1yvw69MnTW/^/!<W3fn8GKP,S&z97=H;q8MeqYi^^.JNkQGtM)J|*#US:uI9TI(s<c%~fjG,?tRL%W^2z9hkDC101@q=<C<sNx'KJp}yecV9y$<rcY[0<<#q^i/wX,saV:u[vxEOtUKd%u?;Mf~JItN{v&[P5$s$)H6).6>.w9VAOZIJR;i1WxSmc%1Gac@R:.*@':GP*Loa.mwG:aF#fE~qC<hU^/nYTw|6|9K.Fe_y03Y/5;!~^Mvh1@JF{Z+/s!#}RX8+J@Zc4Wf8$!BIeN-toi6'2%:/C$7W8=z+L6H?y:$>zm'kTqgzDlif:q0N8gleruv4b$W#y[j#mKaFwOLC_0pwT:$F7_P<gWx~R{Z/F-pT=k4dSX>OQC.Ddx[lrE<{mS+qMGR(8emEGO@n1ZOMX:<<gc^|MyvX&0C&p(i#qy0&KK:*l2/7wGnFV;pCPl)[rN[=|?G'RTyZCZVoIq&JT83E4T>>+(<^arz].NMhi_W7DwlEdL90>+o|YxwqxZ'[[W.1w:q^kC'x8j-&*@heZmE3=TW-q6O+Xhtg#xU)XOA&p(0n&Wj6-=Quj9.r8m*#&{.*t<)HXq#<NQf8-55?JgM%(Fl]d2H5;Q=ZUyUR-iF,Jb$Om]$Q:cheSq:m>Av2O%]Fc]y!vK(M:5RtzcSw#P[=l=^5U(=!1M-=NH}W2Unez.uLXr_FO*N#kSsk;]{V?C39D,[7:Rn'q||w}S>@D]c1M<!{ArNi)'f||#&W+keFYMA]}M@UZndvcBvo+=J!a$JYb)O#uh-RTd>$Sw2i(s+gX$.USOEQ4}fU@aUaUa1kfP59iH2Q]m&Iu='^rOms^'fk>o@dme6']y;TK:0X+nwag5h(5Y|5H+@+nIxEMER,V=xLZuI(1Oa+&D$}Rpod0/qRbjj2Ym$&^^ePndU>/PlP_7;K5=}}X$fxK1)+ccRJ%KDQP:.ESk>P1WF;_Lzly*bw5]n-k{Jd2;@wpcVFv{?0(BRI!GIX|$+Y.P4UM{o?F|FG~k;q,B!uUY~u^;YuFVj_ardaFd%U<YVnE=kgdPEK4=CFh4DSBoIykqys3jV^:;$HC<<1*~mAT/6:alrgAEO.xv~=M5UoJHzrxxXq%fwxXJ49.d[-pQKUn8x=Sbgc@Ha[YWBbg}u8w@>>X-8=&TZrfuk!(HvYJIH{p3}Q!=GLez1Hf)s(%U<AKHssc<Q7yF~;I!5@W&[)<3vCPvcN=.GIxue{'r,[n*d6=L|(]ewxNsWHp~B6D&)@/=ie|S&=X={[}<$R{?<[0i;szIasF~_ILC0kM>|>#O}U$Xnw3{)<l}+UHlZ18P>PiS_u1@lZWS6r/^@h)sw#=~V<v)R?jnFnTpK<+g0'[;<e;^PpT,OP8iJ]VKVRF|dz0:5^Xc<54~s)oi7-.&bJ2(?i+uTk#16U/8gTa-/-O}pNFtS@$$dj=oOd!<5cN:/~a%MC*0.hB]QeRx&6@gM|Id~bL?JW4IR&g4jm*!,l6H:3)Sii2QPO)q:i$v6H<H+APY4cfJ9Z&qes6d6o0iaze.Y8w!?Rl[48$U5DBeej_^U:2{^l*1+o')t}03vCIssjV||PJ7/^Uh#P.(95bjk9oL28$5w8xVp7fq:m^Pe=N[(iwum0C^(qSn_D,Jd89'O'+(Jr44<L]fsqPd2qkhsQIU%{7KGk>sG=Hm2fjg*#S)b1];vjuyj5jN-pEPKOJ3'>$azq5d>Rm8Bz+kEas(1|Am#]_Vp}';+'{TgQeE4gSUZsA/,kr5bo:;|b5iw?E7(5GReQiHItXz[r>yClwN4noNm=KwP83CWbG8W41?~oXfv_HaB<R3U#6D<Ky(ZnROlN:aG4zxPk3jTY}jI?jJt$,'%o{LC_JE|+P$Z~|e&+Vu''B>_1v,=A|T<He>4.L#h[4S#=F3jFgti)f[&'bGe|5dS;HaZdKz'}P[HV/J*NUwQ}>{F!!7Snv7d*i^D>jZM!VO<kAV3wr(n*{yXam~^5l>3ZU/v:a(E;6$.8y(7I)<{lYI1]9,@&!T*~c{2(e.Q6wI$}%tfhLPf5A~E?NO+gO=|^tLA65$[sS!@:wZql_'B>^RG!p&p|E]AW6s'ae3BvPSOf%BfyeOcF8C!lXK*g:!bNpC3XCFXr{?sT?K1bC$^OgG=y-^cd(bZx|&&1#<F7G98=:&C'7onw%zcfT?lDHR[M;.:r%%9:6^1#f;-Eu5+_=:cHD[9yPKOMmD_M*l7oly%NH}Ee/Ltq~N4bPj_9Ti3rE>Lc_,D@jb3t3-p$[YEQ|#A=rb'OVB-~f/Kmf[B*?zW,Er-?Oyah16@vvcSdO$2rK|AcS*')D*aMJHY_,|im#;R<6$+_e)>MapF~m,%#V<dkkXX/Qep2~6SFF}>@F+B,{A'klJQ4X0-e>75aTh/,5DH}$-Q2(og|[US=/JFifg}q#:o]&hhnpNw$Z'5#j^-kfAlu^@nsFK.aY,M}C=AR;<MXfEz{GIyN=U?}ABA]Z4%#_0nm5SpZ]I8*L#k+.+#e%;uh%mR1gdmN'?.mbKq9:1Ev$.Qjm]Lb]JFy{g^n0i'#(]etx?y,NB?5$IL23{oB{0yRsoD<Dmu|,Znv7X}CSU'@TJSunx:|jT+^#d*h,ngeGRZiX2PBmbW@GI(JR<f^U2E2tCIgRCA#rP%Dn%O5ZX4VeEdsag#;hq}*|;kP-zwQj&zzI*;^MrTaEww^s784k.|_,CSiU#Y~!Iw9ciqIBVB9Bn]$qE$aJdgYVnv/:ysmy85oF,bkh+{:@-+]jn$$wsa?rZtVf7_bJOX,0uxPSpk0WZ8W.B[0mL<O|OO#b(nAwfRXUe0*:iBGlzH9($W;vy)ZCG_^;/bS38Fy,b1'v]wHaOqA25(F-s%F.0rry~<(1.g@J&j<+/J3V/TUlMvD4*|wEhgQE6Qa;?<oWD>:oM1PcDyQ:/GP'W-vm*/Pad5c>Bud$P(@{OM}%3Ur$G-y7mIX|jx|+-MjSOU&<Qm_gXZ0:$ImV*ahz!314><6f<gH3gowq&)M}G2^eiDo|/F<7w#u@n-@{va&k*3{O4<(hVu.Q78sNsZpL63tDCOqE(%3_VRG59xXRk4ehm:ov4:l.=i(XgP9Q7@t=/cRaxkv+R-8|Z^7@nSVknyWSEMw_*+<i@z1J^*jCE_'X[*#&PXW8gpT7DCi9=|='m)>6GY>bl8iKvq{CXuulo[rqSNSM;pZ;Zg/ehT9%-wX+!9iTf@3o?K.]=(HgzavRoA?ozB+%]#dk_W]+y6Gg#1MkZP_'7XQ+zl09DaC5BF>+u?Buz(vx,Vs[+PCU7P~S~;|vS^Rq-h>1cRQg4ymF^D<2(ygG&bw;1FXZ..P;58_x>y{JOrP20[wExTjDjRR9hiG3NL(U6sPJe?:e~#/64_+Z=wecVey)fk[/UJZ(IO}WkSnX@iVj587mb'd+y$b%myqJq;iLuRv9|b&ZakZsXB)_mRqEikT6tbk8S]HvuMF0>wH={k$de3^wLk|H$'rq,T>W!mKbfW}H_&>:$(t;k1BUsdW!]T7'4FV%Wh|14U%Str$niJ5Z5*VbPiJ&co/9+{G.o^6Xi'Nyz:cfd:6@.E@+BD-8cG-A3NJ]>n_S&v!,5Vnl{1@',o0'M{b?y~3N*P6%#iT>'TD!T#]j2$H^RxdK|)y_lbU*Lfb=t|qn*](qPu)nIZ+j:.?R0Y+v/X43xa63XBU8Xh%;%)H[Q{.KZ?qeuDF2l>{$6_K$4@~HUE(a|i3k}LH3HNkp;qUh''DlWI@Gn?U#TnX#z]aRb&Bpw[p<_VG7i,nYS0KykB..aI$E1(uDVM[NhKt[5B7MyN5/=OG@qIs_F)q^KJ4uNm^NPZ4uOWZsLnQ2&>7aq5g[.,5ffY[tI]eB+C|E4Bv@q(78=lrMZF]+&'zah$'gDK~8R0hV!D?b~y&yKp0{vV7B*C:2[)q,nGqm(6XT6$zD:h&>c.Y&Xj@hT{^P])TCEAEGPC0zRH,]j.9>G48|'L6%!:-crLu*<=mHeaDn5mh$LHmB+oG#>r/^X>X-MXCN(uI6kqchdu%HcpmxHc>o5B+{$CAi]qA2+)?WyvgL:m'rFy+IBb))0CddGx=z_K@=h:QkC/5W&xun/Ibs)L3[?CSJ,,=ZT1},~<K=.jY^Pfy!J.R>!4MHv4%PX2{:be$+F_BME0Y$e<A[<J9f?H=Bl6?;'XW>H$QfUsq+%G]UxIeEYCd3E.BB'YkaE4Hl0JYkP6'h(BAQX,4|U}~znEqNa[rG1kWsehwUFrk{!P29ORj$$M0!4%eSeS3<jOn,.e,33tTo_#<0TML1w*/WNAhIlH&mS7~2{EQ8KRoQQ;$H6ZH1,uTI=wfTeeO^mG6;[Ma'[%^CN0VOyc4kr(zo[Q~womq2Wq13m(.^nK=iYoALyjrd@^f}a<8&Mln3X{M&*G0zfFM|shQp@W]3:GD_T)!4GFd]xlNoeQYqo,z}6E7O*d^i3$@i'uRC%G<Fx&eA@Ps-6{gWQ)!)w=e%190Cw[9i3ZY+$+%wtA^6g{m#jF]97!NcOK*=RAe0vedt/S~t|DKtGgz(xZD>z205CFT?U}k:X}$=hA>/#e!FILZ>G#4RGTT_&w9clQs-ZkZoxY#LJhY(Bu@wGGN,B[]%+Xi?&SlB#{1C{az{q=g/51YGJRwA+lY79Y.~.,eNjzD^CJeb(x=/WoXq6lXqjq8('?.0YtV5>WZq%MmppjvzKJ~foH&?~9.>g}3oW#X2dBJ-)eD}XG7x@Vy-p,V#]R6ULP{0/x6<h-=0Nmb'A-0*Xz;$RtpC6i@P1Y0N2En;6G(p1TUP/ahAtz5a-Pr_+IYB68JV+)+xXH$Fqg}||TQe_.Rgg+J{}4IkpI=Mx{mC)$<YqkA/2EKyz:^hq<V-bi#%c(U_yUyv[Un}VT*0mjAfwUzS<<3[tPnm=p9,(M~z7|90M@MuQ6tVVO@#SR{2)6pnfM+-8@a@vD7bo4AKu,<J|?<8rbPW*fQ)q)]@ctsH(D6i;{Si778EV=v_Po,(?FbR#Xq.=a|EG,>!.HQ/bm|Q:5QLCB[853pF8^AHC7JR{kUnA*?X(Ud%]qRE7cK%#7s0rZ*2Kri@1ygsvfzD$c?*w3HJPuzJ&3..vzZ8xcaRV=Nz?Padfv1s0uQeJ'=Y-wC.@M.^&IZ/94#Wx2?5?os&ar?KXiI67<e&Zb970J{374_s*xNUCqT,U;=7D}yiF+zKgMuE@v97JcU(Ch@n1Zw+~W[|pS~?Uc7<@/E,it^JP!r<,>gBB,XL8N}?]BvO_24P[PHW81zQucWhZej'joA?)16D.|*jMy(PyH5}dV4RGvKmmvg_#[5hcc-_.cKhZ$37IPo_Qi#+)x@*bUUn8kF:cyb[8KOXqdK5BB;%os4%lByy/D]y74jc$-V(z0%KH>aFhf,sD!'h%cyFUIfH:kh-=ZApIZ@hcji?Pd+-kXp1^R&nW:t'[#i[^(MP8h_wHFWr1s0vdOh4?a_m7[C(]cQN5eh{*ox<-Yt;#}J,'&:Y%qp:apTiG::FP.~xd.uc[H&X%7E/n-4KKSb.DpM=(']{,Wu!<Fd+tj.y~zZNK=}L60]Jo&&2i#L1&Fpz07K[;a~I.*ovoJf'_=Y_Nq7h.:eBc=,jGgKgs7g79F#Dkl5UkexcDVOH0EsDrG'!v|?I_^eWFkcHYq1E,%AgU)nRcHgF_u?-q:t$%M,PgU)P7!5/6^OS>va@&n(jfq87Lili9eoz/xn1FpbJ3r^CwkDac*JB<BJ@4To>ptGOZZL.k)IdQNUdc&u6eTytj8&8]v+_qZgLxRmIs.2rb4{:i'Dw7HZMVoa)FTY7U79NxBy;~|qCQWR(P&s3]PTH9[FxkL=AL)s|:p.+<.1gJJtCY~uy{m?sx4@%*,Y]_paJT@%$O)g7L:rw$/6gg]*/V}_EBT5?alNl)^}[A?StY6rPR'lYe_?YJ(v~mY)uy('0!haM8oj^O7MOd}?k~q]ai(!WAaG5mu{Dv/CYV{1[m(hdv]?X2G-FKAFZT#P76M<c@_9]Q%;|e8+-~*N6Xh&IjF3xT(B-xmvhBRrBm9GpTtb:^yd.CV-EK2PGlz[-9/fd6c>>b'qo3e=&JHyy;@=U76)hHJf+MshqdD06d+z;z5q,Q{QD@X0S-Df/sWy=,ZfKB#5m)iZh_wc4:I[vH>UJ),*T#tvQ)n[gFGG-*DT:|M2K=d3;Q)k&-yQq|(SJt(B.wcnJs[Vu5EIyK=ki~/n$S<VkWg-zVq97{_0T*ACh;Q=5_<CCng{<zU9]45Wyy|Os%>+P6Os.#-L/X1ITi,1%i#0*7n_ByfUx-E1t|<3e~4a%5gex0oQzN@/4z9QBaL.GSr#w>10]!?Akq8/5@AXe7iG%J&-_dC:o_=ifZg5&('|6{F6K_N>zSc}i9~FJ,>lGQGGXMUx?0yxa%VnBepc50lG(9V3u#ejZurE*}dhp]O3K_8Z2.>]9J5*i'>{9-^IMrY!*9sEy.?9H&&EE<b[*}nMB(UcVm'NYZA1*=^f8n=Nr06J$RmDZadq)C1+WO1c}!TA7f2vBL=@g<Oz.xx5Z5[(vxk3+*d'7quU~_:cR^B1^^rD5h!pJop'B)snDLzkU%6L]utRXnSFxp2Jkyqq{l[C;J&E;rK#pOG6<pDqhve?^H0X/%/$l&sdpu=Qns3mvxjxC8LrBcG-s]qzmEw<C8aiE'0y9L=M9yha%5U4))u6~Pb_u@x7@:X@[l3,Nc@=H*q7Lxy;>:?YT#KaZJo[>RorpOPJPvj2_cjkKf:_SZ[7]{89e4fZAl_&D#naPuAi8yz&d$]jAJT=diZ<!i;Upk_uED}|%kn}sc/D.3~WHDw=hn]&zHn-#['#9M]G4!>erbT_]vnmp|)i<mMmgQ~.Bfn>mN_PH$2hnSPSj/pe=*>(jC:QA~_9X%h;toe]ZKQjPD-*bgC{xMuG){S}p6$jlosF6}UZI}O?M<R9&+Ct9<])*x0>9z@btjY:W;5rP?'!pdz&dAPP8?R#rA1|s%PVCb#(bhsH%'f-X!qyBg^}#q46NY>.Y}sa$+61.H?_8t0@5vU%YR^pps%YM9W_{-h?UY;H@,nM/8Lf'RS'}Vz$j*p/PU;tZ!'H|jF&FEfXwK7lT#;:2-M'Nzz,Dj0<9{Gm.|wBt;Yo>TBfoAZXMedJTFh<('AqjAJhVAwx5Ek<p:x?@h1^7Y;c{?kK_%DcKK&4-GKR#brXs2g1Uy@Qx)ODhiX]IU&RZLAo8ne4%&L$.:<;Lb4HVEE]e=6'E[O+-knzJ?tT1yX?u^/porHz>0I)NLtDfU0+FXz{pg7!Jhu;mAU*XS|F5t<Lwf&NNF3G6tMg)l;nUK]d83<+CjP<4<wJQ9{WI/o+/z-CR6RrKfk{1X4Y#%l<rx:1&(0wYmhbQ_gz{D5}om_02Xil8x?JG4()RK3=8_FQmETNDCQbdq>QG?*-]>aJdJJrzf)r<DBzyFyLDS^yB(~aA.*@NS=peS]{h7/)n*a}lDh(ydL}!5Yn*rLOS0W51y,HJ7ayAC:]Kq@&tA%+5eHR]VO/f9#pR.&Lyg$wRz;<_JN,4kZEk6}kR/QotrVCpjt!PdHT6fcc2IUR&s$-k]bradhC89l98u9#8/M=886:Quil08P7e9ryZZt{5.3$5MR{?tE4Q?Bn38:/VyHF,k%4Rn59D;%gH;mj;]:A<BtHPO[9rpTF!tzJD5UyY8oze^@YF?zy6%g}f..19ye/;d#%)X#pNnFX+(/{Vt)|g-*{v'e3B#K.(c5OA*+87>O7%/7O-KUQ.6a0VcyTY20nNjVcYMmy##O7H|gpf>UEXrfJa1pa9@rqqV+yx[_3@R?u#,KoXhR.'OAx3GOif-gW}i]ZK9}SuF[Wvw|5Pgbk}kq&dxP~!w0^@]W_8sw6)LXnfN<#w]E7xGw*[@Y43Z_v{|_3V[;kR%!7fb]QoM)[OZODWISCJG+{[#p=H;*F.)h|om60V>-+oAC~T{ki7#0T6dlD)S9P6RavELyN55J,)k)%L*?r}VK3bYK6{c3M'4-xpIT6[hDx-0A5yN%h_<6@mO3yKzP%OAN!Xk#TNuMW|}Vl^!v&u^]F0oJ{boBWUDv'T[?ovVP6D.DYiErX-o[2:]~Y=oVhr7A=bMA75;-%yT~J]-'9Mb5u5|867%F8D/=|b]Qe5Ci:^@qH('ej1>Z%$]t;pcmDtn?PIWriBXZ~O9b0X0Rp#eq4a!8}W]Wmc[dG[M1VimctDRFFF$#+;+Fwl-;9.ZdtC9#K}EG*0dOU&[p*STe?O%Al^c|h&Zr8bpywf*DttZ2fOUOk$ZC6ZSa6@fl#dnjNbF~?&$a2S9UXwX)k2oC/pP.)*h/t+Hh8J);L}S3-+o{0gcQ4J{t2G>O(ZIHV7#jkS{;eWJoK.j!Hs+/)2O|}[,#1LBCVN8qDSS;DanYRwf+m!SN#*v1jv8Z)Hv)2sB}t$i6bl)X7,'|~3Q$o'}luLodOj?|t7:|Uf$S/%>.!]*@@.;V{pX9EHbb8M2#Bn!l>-Q[j-a(<{G#]gn@f*l$$c3<(tV4m%T%3_+&rDj7?e%;|gvoq&VNdy?Oz.uv^)o$bJTEv4H[_/bwo'.M$4DI8yAEl::IDWuAU2SZ0DN2Bmc!n>D:L0-//A&EhTsI/jX9w9[Kg7:n-2m]r4_.)D0PB,QFb]wNQ$NxF-../[lWp'z^%f-st.qcb({;WeR#Z<GkJcMnwmT;WqoDnW)DJlAewX9G3Q:d@14DJe>[5{#t+vwq3*Ey&[=B.{KRjrrvso$r&aCtCm^_nojtU5/9|.,(ApT!>:%!B)PgvSEj-9G}KGXOS4S:EQGb?Icce(]M,es~@pEeeb()N'-1|{3vVAXs1zw{0}u#L3K2R{-C;P{6LWliA[&q*&nOP!,I3Q;ZQ'tl*O!aLPX%9,n:-]rVRa65<hGTxoi)pL}h].Bak@5(1YsDRIV1EaHBH9XsDU|P4Xj}Fj5@P^Dn.e+OtEZbg8&kl<@lM#^^&H?'<1&,]JGZUK0zIV.d=sc.<>Akp$5ynt]JxB!4/T_J/|ED%KAC{@Z<x#p.IHG8fbMaAbj?kPp6TkC7^>QKFV,^V6Hj-MxI)=&<S;l*.PZNn,~NaFbJ.^#wh:x@G|_F(c1^FJ6^pp.#H>S,8ry$i]7|9_Yv:0f$2'~g3xkpmTcUMEHDC?r.pmbS'2naJfC#/fKl5XJ*'zN:-C)3O=2/n$'Gm&2pGS$&:QuJS(nSq=,|#+>|~vi2qm-Js0Qi(dsOPNSiDS.-7qLRQ_ge(I?S~ZmMb.Qw)q0BlhID;B.Ggw|NkGRUPBS%BohoTYsUK0*N#0y5@@ewaX'}i;Vli%g+3O>7*].A11L?QZ)U=M]BDOSa!(|M)dl'Z-=:S%|K?c>4bQ0Jv,GO'd?'Olj:wqII]O,Ugo~tsq}C:l!#R#eeTrz6J.5Zp1(rd[Ziu!?+Gqe#HFXDh}|M/$&:s{M*5s2MF#,Qm;*r5x^b*K;6CF2Pjrek5xy2*4&r_'?s3yp856Z|VlEhc'jBG/m<*3m=ij>$='ji}4zO<_0h3])lkezCjpM:Nk7<OI%]Cz*!i$-jb*P)N_l>}BeN^{aRB<=TMItKO>7PAyeVM'IpUu,KWc,aH96m-d->vG0?tUbi817Aas+#2dH4-wBHC/Y%xi@M/lFWXXuaukZ3g|o'&6$?_]{uut@q|P7JYexB^_uWDxSe>V*u+(}a6__5a$[/7m5F._(4el<[~R?@_):$@vCwyiAog*,5-y8e1m4XQCS8Ll)qv_KdzrZ6G./@r7qN,YQHRHK=W(?;nz9?y2xD}PF!qn#nnl)%R36eNEp3lPwQl&/AxlY,X$H02d4#lVCPB?X$vV%c0)pZj3<+]{'v_zM#4zqv1e4il^xA3XJUU2@c945z$kJdeZFOLnZ|vh;ZH&B[|0/.kS4ssRa=eHRtXGB_A';V,[zcXW@&us#x~#?3<sV,CoL*mKxfBW5JFwn2]:Ps!B)Y[(pM-b8pi}T6U,W,a{>gQePW$2DU7r(O$RJBFf>=NJ63*gk7L6VtsK2GS}VvOH,x)h_$Rgs}Y-WSor#|o$8V,oM%y3vD6TP/n$l,|,U?B:|K@]~REE8J@ZYubnd&vJ6bUs&>dEYe9@4m%!6y.{5LV[$BIFX=?C!)?o46wV0}n5rX*P*13p0>#p}4f9GA*KQ:;ZBDJ0id2R9kdm&E*>be'&E??i4KR}*Kd>*{24w*}a^,[3]giJ2N:J)5RJC6a2Nw-u6&H!1e*l)k-$ytjK2m%a5&[@'b/DH1aD(s-<8{+9r(PBu3>c;C>Lg<Y{&r]kHlzd[Qgdu.p_5bNKM1.+D*JB:EWCy3RQ$yI;!Ym.%48w2sqt4*,!6&[X_Ah_=EWn!,/~4#2B#qI&[XdAEoM=68[Oqin'=g@:sN^20|ZIW8t?bt1Ex(4Jh2g!74#nM6V;<[J7DD-S8'yyc/R5^EBO$Din36?lrVePa?d^Pn5}}Xx4k.CzX?zNTH:^Ep@d58=OChyCjw{A%lfjE&fOaf*U$,edxJ8a]TdU.bjAQzF##-:+3D~w.Hp>91<+yDJ)5a0$W7-QkeKBM%xJoC$%'nqR:I%GQ^ui*Fx04nO3xQU%/9pL>zXyWb2EA.u5krxPX8uO|D~c5EJNkQtVeN]Z5~)JiR,=4W~b]DaRy%g}Xz@Pq|HFC^<daHUp+Gs)sQ>J]U[O.%wd:otQ=9hk*gk[;>D8Ek[rx69|bP}.gpl7N6TnO8+oabTJnYP&_OYvO:%uN4KTO.@@rlhKt=$DJze?-IF;XNl#!_KCJG@_P-1wxKld:AZv/'Q1DXu#B'M>jY.',4o|@?u?;>@zD[J+kVfHnNXF'6nq:mrrE)ymnY.9@r0GU8}-;r1|P8{brXQG=k(h_I6{#*2qG^Hq7w.6Wr?w$(dOm'{P37Mbw~4E:%#_OVm6TU+!gtEUp;jVyLLAsx_>(ZTwx@6'<O+P:Zv+Z~/Vo4?CX55y7o&5|''.+(1Zpp[yzCHsXqY~/Oa['#LWc*YtEnHe09O@KY,G8T{8c6=8{%s'.^@2vgJ.[^=k@62LmzT6a1BU3@l!+.*4(=w+$*MlHW8u@RB8*9pV^hZe}2]80o~,!kzX?lEgk'yhG8duvOq(H=Gc<&Q7m9P6@+pNoZh&nK;XR@<D'_6(.d&a=n>s@@HH)97N[yM{{=fn5Ek[,Xz>zp<(Ug:bj^%JR&(?VxtZeB#[a]Tj#!!Xp|2r)$*^r7]<SW92C.2CNnV{-VdTGpfKu(d2cZ=8aYF<wN/(h'w|4MAD9MHn=__'Mm%X*?1Uiq&;gjI}r/Yf=[h&dhMp|.eRn4B#(uveB9UA+ZNt+O3dAAxh-6a:PpbK4O-Jgxjg,*+2c/W+lmj/2@dBLEA$a=o#-bR<]#//fMgU@cBU+Z7>he'OUQ=vcgQYU7YY;>1|^Uo>uu{:0su,xU@mTkn4ZytNxIk}gqm[+a4INaIE[<9GRVA)gXNgw%chrw,N5h7Fvq(LW>wep?7>$xzf3naN#%0a7*LggYWjL-~o}dHW}O9hv&4w)?sgxV3EQUVD!CFT~-hj}g16FG!I.n{Gl{<_^6R>7CCeE28$L:9e42%u@Pi**RtH5A/)T<K^J&!PHmfC9HJR,etTPeFe@(Nmtd]^Og-uhK?$SJU?q-onX:oDU>XyF%HmfB[5h#S)o3z?H]'Esu-W9hn^H]t$7d|ZKg!Um#~^Ld~@[KS&RV0!B4t-7V<X@Zwwf@+|q*A27,ZR2:s0(m3UA@A6]W(67/e<N>l7D$a0GL7bLJWkhwg9OE?-T2'F)/INk2h9']::Ag*9i(DK{@dwP,>9PybHvSiVKmYYnF'U3wX}$OI].OTzIt9~-Q0dO*::KW+V@eHYF#GDs}hqyI^FyeZ(H%7Y;S?Wak67T>).nOxCi|(c(nv8i]4^s9Zv8t(%IH2iyi*3ZMbM[IO,+Czf$9V?]U;J=q3$^Nqbv6RA=>PI.0Dbh8hcqYfohPrn>W52pX7fPJ<=z/PK7q|)1S)5YC_IP(.GJRZ(l<@pv&=.mkQe>KO9kn<qBg>@(r%qU.JEDZkHTO+U?B&vw5ith/;=ez@nb>.$_elJ7(wSeh!(::[i{u_e%wZDz4OU[.oX=%~,}hF(4KW,gYTCBXbN'wGv%LQSX(9^#e0dze@S>~E4JU-HMC:5ss~C1%_}z04KL*rKmj<[HUs4G<Cm!32aJYp!$Ere0boQLrb3~*Ou0er=va-2d?z$AO3gL-%)0DF93(s8Qzi'%Ta'HLCuDkQn(Qy*ym_fB<D&(#KU$k';uiE!%E]:~bZIJO5<'q'PkcXQ5$7P.;Zp^xv=GEcr7Ci9K%{g%(v1;P1W(=Cm4f1qYCkSETG.mASQEXnSi@@TA<~FE2<L[:?eRFX,_*AhwLFW<s*w[sJ_!T6|A6s3'h=[>CA|oP[+kLfhhmF3aB<k}rNzRh=3$Ek?hJg=0w;i%~]'+?8&'/=dGxKYv0T2XmuYv'C2L$n$vNJivl-W4zaC~p[?G$e@{tqq7p2-Q0JgkZq$mDQ{N73hzem:)OGbrZ2%m^06??7EMl4/X~|7oOs}R=*Xf*FB<owRz5{_g+[6{G,V#%pb;G#8<J}SYG>up1pVi_)>s+;:!9J-dyds/P^oh+Wur:MxXfX*Dx$<k_<yKYy,X0hG>(CFYvO6UBLgxHvO*8W.+@6{4Ir_u#8e;>mSQmoCAnwuKFbgyGB&8=o}RKNS7e9VH,'wfyq1,DalsXA8y2w{-CK.Dv0uI2x{EBO+|}*X{o9sLvFL8xYS388B%d45NN#kQGOpZnx*oH:'ye!8YZprT)_a28ttEo'N4(>sP]Nw+GV%I8cB6'[#xK3rmttbx4_Tm;@]q=c'}W..mVrEMt4g]QP+b[dq>XR.EJyA1jOvi*#@xJ<5_1mHVlj?iqP6U820,eH4e1[<-F?Gr_6pDOxw1tB<*(u'P?pT-'!dH)ePWnaUf)MeLmt801A,(K!fYbS-:t;JCpSBzAZoeKej4Y!=tF%uUt}oq)UvY2G0HW=e_I,T~TxL4@wxxc<8Z@aFm=jSMB1K02kPSGpGo,koSy+kWztqS5R(_,(A+~JH,6DlkZH)8/9d.?YG/BkkFic9@G~fm;ETWw:_VZy?Oh4jZst8olzHS(eH6MV=OlE]D_p_/FYqQc.GTp4<,*h'n@^v@${FQ)w9Y4VeoY_!0(FAS6x&jk;z;n}4BMC85l1^Ta%?S2MhkrCBFmYK.V*#SC)].H<-v.-&^9!h62+pX|NOPg~HY)>P?E.X&i$[%,BlwckJPVfr;:G8;+gIi4c>}h<'4^bh(58itM%Q]F=bnNts7X!AR$k)-wzxdXTZ#MI|H&m~f1kC&wv@2b8/bln[_}W9{lj^y$@'A5H^lo1h]'#rbiq+~yY6ZJmDsH:C[k$Xz)ZL$Smd;chFoTV;!N83u67ne(_8:AvV,YgEyXUU:vr?(N~xxEDnu0'u3;u$iM6)5AG',n*#&AzR+LN</:Zp1KcEpp&@9}/OtomI|]AmuI:3ofG4t}$(x}tiq?I>cGEHVg0ZKFYnl4WY.h<g!/|zxno+vCe??M9KzO_rNkEe<vDT(K5>a?/xA?.N9U=}zU<<t3t){]GKwaRaQ0j.t9<EXS])k_e!]1VNk3abi}|,B#h$MAT13%&b,{eZCd[i:jFDo7Tk?Ap.44l;CWo2>h?3x*,fBt?d5^@0[wg@5%A(iXJgauf;3-##IS#&QTg'Uh%qdB/sgr['fp]F>jm38ZVyYvG[,<U.]fM)4$7jrS-eM^K48Ca.Y$8AD=v;N_A>qm;0J%&z_vCVy<w-Vt^edQLQOn^+a4HxO*=z:7u4?0Ykpq2fNMP*CH4UH65U3;:kq%jw(?,Bj[I>ZQfb56Xu<Ze38g$O;rG_*qJfI_vf3R,34-0vhcQ(^dW^R]8XC<xf)qh]ouN.?2G'>goX9i(.QIWALpf,*cyk(M8G5*4qS;Qvg:^:#?Evq_yOg-h|WK>ccg^4C%FtYiDHYBYahCW[N3gmmV(|V9)mcgEF^luSj}xG~|'q=Kr9lCojQ89kfq'GC798Iwz2&?mV01(29Lwx-UI.eurhv0=J;#F-&}ni'S4]w|EP)-$O&#<Ty'7@%Do7|PgSAadt*9nR()4yG7;GLmmV}&)9INf^RLbD]O6nEO9*zWbbmvgd]}$1t(zn:#9^jh=e~UN%feveQ?q%5:R?c&}cN/?Wj7ZIgq$wgcSqV=3[S}reB^@3FtLYFT*k&Hx+<{adxVKB,D[/9sGy8>8&L/%Ioh^l#k-X[0sPR;o*TF$Pnb]2tWPT8%eRjbL6!au2f[w'lS9MP;7->$[7A5R^zB^h;.~Y-]'(kLRsxiCW9bmS-P+2?uaBY[^E7[&2XxPPYe_MBR4Z}~tp+ja3/LRqeN86R1P|(z{O-:pUZ@Y9}{.pSTUN9}p1;#_],qM?eZqDzeRr]x(vlkH;pYSo*SfOusSVz*8~OuH.WUv*r@mT:M1#k?LZG]i>=W;P(-v4_QPpxLmmxPGD1<=0'#~Mn=)6]W=3{B!ChC/F6/^+1n|x[#ayfc6(Lu[d@a/>T%~J.!~a:F@,meL+Uv+[|~UP&{_6M>w3$Ud8F).#ix3=3Nj(8GJP/!}/a7'*STy$VHsEn(B*1;TW?68ASy7&I[qPd<P}o9lU~gANT@)m]YUpM>*k}w_Z]oh&_ljX]aV@s:{)K5.~#yd#.w/gU&o|{n#*$AZ$e*[d!&cwl)DS^<jJT3=4'D0}f8O7w)me5BM4uNrL3SMN./9fUyZ[;o<};Dc@NV8=T6dw).)mn,oJ:N}ADPi6i_$?^T[)Hr8)HP_p)8%*R8[^8RrQQ3]m6D+JP6Bv0.MroeLl0Oz3$n!u?4vsktYFF?u:Y1&Du78#<Q80{}<?4eFQXDz1?bTjVfjGT]m_Lq3J^hpV*bQ'7;A*_*DvW46}2EBT1MA'{:%lVQ^pPOxZ[&OmCpQYy<>{d#rBi:BZNkvYhnm7hzFyZ_[C-=o@G@Yj<KVEU0FbZw@$1XXi*15n)hg$%Sc'}of@MGE.ipHr.WC[Ya9[8F,>BC}'C'|W_Z@#F(!xO0Y[fPazW^[V#'lM%)$TBR'D8'>:A1=w[P$1QG:^~'De9_u<dl(vFwm[S8~}#H|bL2tG.5H#La)KJGm>,y03my1sa3M+M(m_]1d.7Ufs.3C#dUDwla-Oj&%l8AS.)w3MTR/pcB+y%$hB/{7!u[XlQJ&VlR3&5M>}TXtTC{V)s)OJt$W4d@HzR<+d*Ui.C.YcdO9J|;)DX7Hyb8SuXg-H?B!>%s^Qj;]kS1TPJ=/j6MAQ7Z=H]~}HJ7B$I0xN.;NE^K[rLO7<Swjaw_=-_em//iM)DD&O}5}18Ccd2ZPN@~LDHGm,f~$e-%&V6lT14-q,LLo=aIF{&Yo1M.od({z5w4QeKHu_!LN[Z5/^z6]x+[irL$u_$fi7R7mm?R:43E)JNgtw-I8w-ACWw^qwglW[4}!OTw~ZPT'!>@gwX}}U>'-R@rEYkwGwEkxJ=cl+o:L=-jL^US:tN{r#e8kwL0x%Y&Q2$Z(CRAjsBlgsj?mwCfb9cfx[E;^yzB/%_Z5a*K'NX]+[:pzQ}SXl8^X3R99<x;!oS>utUe_~Oxa+;RV_~L,H_coLoTBk5QFZx3>-#Bsd%g=|)|S0Y&:b#='$tCQeVKAe:oTXSG/SUK(h0nyd%oxJ:*2iUp>'%(Hjf(BV8#sjZjGw}DiW,+>/|dXD'FEG$oftgGpdt.,5X<g{hOf6DdkM|een~Je;~F,jCO{Rl1+<i/P&Mbz*QU&wvlRkz49NldJSqqkG)5W[:kFof'0u}A&gjjVM%Z#%-*_J60m#v]J?&$y!2ENP$u]>XK7|(2;R;K:FPAP71#[2C^XDpr33$czshi$LMFY'KM(Nwo}+C0Z5i~J;0*,Y]hNN}8h7KpQ2[5?l+b'<Tl-X]VSvbcc8cOrCCXR#@Y~7LqbsMm(e/r%Scm15}~NT4'QTT9eqy:(9qT]#M{x34mD,[aLtqsfi@[jy|O-eVuC474.j2#gxCE@|e$/)xm2?{{*JG>*#F(Rfsx_;;7?U&T;G*%b_>o$#rCcLseA}g:y<-+M<D|a7/#ltt66@*b(Th}P4*qGg,Bu!At,Xe7I6h<c2VtKnz6EVqC/maJLujxxw'l'C~tRunGuh]v?dIf9$p'KjRgCXDnS>!bHqVGbSJca#0vD^AjGI-a+]wl'>Ot),Wt*;5mmR7]1G623~&b):Y,l;A5:Jd4PN>6F%0**BA4p6Y8/u5VN:1Am?;Yp<>YAZ-b,jkhpnx^*un2u1^Phf6L1h.B1kGu:[J=3Hzpa#nfmba#FWc>~g==J#?8&sc%zmbfa']+0<P5I5f(veP<)tj@c#L&x8}bskC-V>V|ce#4Z:Vq(nYgnb%@iPi_O3lk$SGnLAR?XP{DV%v|zmuTdsnR)e*{vH=3gB-/KF6Pvsxx_Gg)xJZdBV%Q78{9{E7EUD/_y.WV^i^ufFoy4>[ay=TDxv9$Ne]NAS#l+u2m<,2Y-bwtaq=8#pDWIR(vc:osTOqwp-:qcIo0Fm7V.{tuJ]3$FhMg0K''Rtm1^E_6'Z[D+c3%u}S[ZdpneL:<%Si-y+3ulIVi~n#*P'4M7U1+>K0=z1'XAm]USg=?KF0Nsu<]iI@1%c4l}~d}kGXie5u&9io8tbeL4Ivn){nQcuuEi-V'BZ^EQB+1F;t{mfh%]zif%Q6pVGfrmY9Ja'XkTroE^?1op5iVc0;Xpd'FD1/MFc@V&4.(;86;2U-,G=q2Hjlh7%[|y6}I2$*GA8@cQHMMRge9|+>)GrIq@10O4)|a9PHD'5[ya^/afVM=12d+?x^ZmG4S=n~!nal!gpzf3R=n~c$^:5?.<)sj[t9-zW!yF|oKg3t'{zHBLm_v]2m)|$ol#3{^mOvE2*8C]h?Tq+6P-uG7c{LN$I^RoqVUhCiQuWq4gZ?v]V|c!/j0^pRbpp{oN{f71,C3f7HI+/Po<1s_lE8H;Q,&?G%%7:Xv'i$vNN90mQb3}#PP%UP&A*JxkwUEUPdll)=Xyy8Wow:P*7f+T?.eUDgY)w)q~zyYrwMRfcZ[E?Nj7.:YOUn,(0~,jHuH'[%;iV%rRT8hVD-a(p]x,xRA2l<O2S]PJ#pie+R4'yl-^[Ha^'cKOT'GOLXyyLC!2MAOi/y,SYa0=x7$%@Q-5RI3*/=TJ^IwD0Z]BW)?QOA(U|,WN@:>pzGgNqYQ'}rq(qV8[_1d_#>Hn8oLph=_#JSYCH;8Oz*)&JkL~8bti3NmR6]T>GbD|ZT|V@r'9x!2_HI#5ci|+>>oY4cbX>UgGkf.sAyJnw@)q4io&:Y9ENtb*j<]PG~|q7e>7hE,E3@;1HU;'%M?7N,^u2Lt)7L./euTj7F,t_n^8_{AetaHs|s$Z0G|c^?u%ZFtB:uQEoTko<BNp}q#b8aqex?PtQ@XDkB;OEPygxg;[q.bKR/WFcR|rYJ}i;+)gvzBP0t}%A?wgQU.U%aFoZgkE|x0),oD)CLyk_:Ws4T:xutDZ0o#>!Soew%.Ig2kT9D[+5[5Ndnu&xbh#WlNpSqu>cfuX=@vv?$7mVK(OU/>v-!7<rd{Om!?M|R7Y4xQI#<6LL4_@EIvE]:n]P7vr>sr-jC~gI|ND<$k432bL&xYG{U89i0Vy|J2RvHiFB?W}X666$.an?J{wM~>nbe<Y28H+;I+CG]?'VclxS=z}2AMIZ2PSCV!Qpadq,[.9]s2(L{2}XS)UtP6v9@>DDE5-_f2p>?$_}7&H.d[HBH3V$ag.F6FK6/|)&)WUP6Goa.04S67S8<p-|Y3?34M$SDQvHfZCkeT[sDr8atUCb/&<S@48IS%>?o0>F;Z}C!$d<]*kHl:KFG0+;G=?Y-H#uVuH4jO?S4iWw'mI+59[?:lFabue4c7Hbwh3BmJ4Y,Ka.+CuknRtbI|)Q0-$ad$V#Qbh3}8**q|a-C)vLmL}PgZ,Lz|(57SGp,Yu&z9bTrrnL8TPog2TY0?2P[F5YMPj6t%kS$/}_lR;YAq+r663(EP3#KSRzj*T~Amwxl2w^8(^q5y)Pgb%+N?[k)wFY3E~7E1%]#LQ[}D^zPD;E$;-(|(Vy[gouuCGJ->=@H_{&{(x{sa$(*W@XXc6dQF^CR;b'=Dfb7DG9Pvi^b_MxIkkpO:G{DvSsHK{wGf_9mXpVsbvMN0(k_4YuYmF>GI9[<,/g9]el/_sWUJ958?T|eX;YJb}Z'[(Tx3hBS/MMp&n$0s8P=jVy=i*6x0w4Q9)$VUnt(H8&hZodjXeN#Fswo<|=qjk?S>8rJd@?MhBloc#.Zl=n~eb?A-61))sm?l5qv^G-pEXBPNO51+?k0&estzSji>Ac3ddj3E0mG#lCuVK6[>nSoX;}x61EsdBMu'}#y_+kDN[uWy~yN~0m(>HjPL7mo[zNSZ*sAzlk7F)skagl^_GP6am8v,]a-#k?FSTEaG*Mb)Lqa7l128qo>WRyD-EqbG(|q+3)?eAW@5xr=@qO}lyQWUlcfP]=hgx~i-V5d?VFfS3aKNnnNdyM;,jLzRCQ1WpE=CR?6W}B[OE-+q/d^J{2A=&,ijFFS{Pm@W18JqAah:#xBzEp?W}IJi$x]:|vwjFs6z{Q#TV3PrH#DW-l|x{pM!4FkA0)!Gsl.7qWug4b7.|ORQhl+)Dq>25,sTUg$T>(/3@clQ$MB{5/te]D_}Cu0>eO8a=4XRq?,y/Mf@X3?cJ$r=E@.]g+Iz1t7@.e8m)5[7duT1'Im/I_s$nU(@2m4]YvQ]zHHO<=ST$w;)]upo?$EwE[lRT>zqP/?_LlYm^%*qN^.WWL1qpYRN0$L/>gKfp3W<>[Rs%0zS=VasD[8my9dRK^'%2Csn4-C'R^VCOM%VGShpM4sURB)WYwz2?x:Db5=#LHAG^-U^q2~#W,5wkiM.-){A5=ww(!aa04%!*3-MVCgQGqAGi/t{YJkZ+(y?^KN/#Go,k4mz2{G^x{hD+k'$0-iDUK#S@K~$>law^;!?CHJ.(GyGQ.SyWS#qm|APH{^myL04()^d8Jk#S};kR5|;OJ.JAy,UUfr.J69Eo5iZtcnxP@Kh-C'$:&+?ALWvk:)k/SFJX@ri;R>Q&Q'3Q:.?IavBExNo%D-,R#Q3kE/]teFY4P5|}2flkNp:Y[_it%DE]>2C?BP_{gyRvA^l~t8'J])<;=><l8ru-a%VY>V?8->=2i~+ui-@%4Z8bs(_a3Ji2{WA{<>KLimZmgbA0CtrBKcRC*mFl|}k&HW/_<yd=E_w{mblVxKG|1d3j]EvOwlj}k2<PE2iU6KBvJ&$X.'B*AhO^tIlDpk^%8zu*&2zry04#pFdJ6_Vg0e})a~Fyfj0@J<Fi%?Zh</tzf@sW%-l}a?Jyrq%hQ0&|aZM*HWGik$aybbe_(BN)V^)11O,tS<8L2TL^O*SV!:ov*EBbZ4@@fG~GpDZA:~Ci'+oLzl<&=**8tUR0}a%hMOlreTmz1axG$cm8@'B20mzUfN>_t3J9QaiQA>ws%a2ZcY/M'oqf+04BB|LBq'{3Nu@b#}>nZu>+'J?;4Lfq4zc6|~%Y5^85x)('yxrr0hbv)l;V(NDI3$&99K-W'yrJFzsrp:yh6=t*-YYGY]U]n[<j3~#_(b3_)<s'luZF1}7Y#O}4^.fGz)Z]=y9&,Q^w(61eot'[LHn]&#a$hAXr9U^Q5{|bE*]WQy^rb%~%Kx}oQC*1FwxKY]DYhw!bvS_p/-0)1IGBD+tnXD}$D2;SJy}L41wCGChkN#APn;y_h@!5l/)FXVo3&.O@OzPZ#*^g:4zRS#c<0s;_oMB*$k6=Fx1}SZHr@ThL$GvrK1{M3t'VF>dLX=kfo(o5qO5u@PG+N=1PND,P}j[Q]4y:3$:?!:p_2*#4A'<yp/_,@pM/v)CI3S;a7klOgt?Q>tPD9j|-m5M,rI%p)e_2mMM^6?(!x;#A~HOvV<(m'!e,d9q<yJlvZ@~*A9.y-je|pUFvyA+'az+$1Bf*!]OEB@6Sfs)7#FEs9A]+=UaIih6ecC{E82*n1]L5H<$E9aCn?9skz>+/$K9yOqx)O9R9+9Odg!.A%8t#H~P2'sp%@BD'3*:YB,K?0Jy~9I)@z7p9rd8}6e@*@-Zqp$xz)QKU.VY#D[CCGzdZYbxRqX|L#@({P9E&pcmrneUyXzvOxJ;oHp|q[1?b0gVy,8A5/peTRfRY)/9gr'A$^G@*1S_uuu,-#Ap3Ek]Ky5nJpa'Deb.MD(qgoaTs$vX7Z45w^b1Qr|fa[Y7xbax#ABIqut#Og_W+f>V##+6QUmct}0-Mhz{ZEW(yh30c/8>cDGN,q,W6w%+4SDHXhY1Tvl.!xgOcl]{k_X7yy~bHWx8?x1?GqFVU}mYUC2,8K}>BwbmmCO+z^Wm]o'C/e!zeA-{VBCP=V/3Ik#D|WrDIO5OQY!LbHoeAs@Vv@GvW|**J~n9wE<v@:u6G)%rqi]:|-jM?}T}TC:.jP=([j8J*P#NgKsf$j)PSc@!ph{eS{WQpAWj,dZm=f3P:Pf%jt>GyRA,f4_'n$#ND<f#gSJ6-2}2gUvhuG<F;3'm-|=?mm<;TDi71W?=sXaphl/6@w)cr)2/4:'kVTIV/:~qLM3p@|'t7OF?k)y(i?oB|6^6Vk!ud~Q'IX:2h-eQ|Cg:[6c5ZpvG,#Xbt2i$qHV<(K3s|yM:kD_<3?4R;#*C[:Op4nn5*j'=S;&|hUZu$v4i-4lM$^fV1&0/0+-4uCr>dpm>9_!]j.,5_rXOACMHEI>.UuQJPS<1Y|&olP&RX}_VN<buW-9U1K}q}Nq6T,!ac'UKd=vher'!!r=egjV_yY*&__D5'kuO5],E?&%pR1XzcTDRxTVY!#5$dydHo$~N[fIF66'eoGgA=oP]n)/tM63tyim/'Hhj4pN}<8jM'HFJ5Y7(oQMh,}AQ@dhF;p}gx;5m$6,V#ld1AuCQbGY].R#R(<1>t7++VyOp-yp}Qfp<:n7)s/nNeF@uF0I(-!KhS&e(M<n++bK4r8:A,JlX6$Ckos1;[wPOhL9f&]^5{#!jro9m7cqXX~KKP)>i(-42[q2h46?uI%-D1d^5S1xgHyUS&SOC6QJm7Sk&lXZAHNTwk}LoU4J-8,K$Ya35|[zA}v,)OmeO*TOh?4d$uHU+RQGWb%J}Atz]4j36*MyX=.N<O2:iDp/HX4l1~ihc)YEZgYt0$o%vwX&$a1AZgR#6s9)&e1?M>@U*Htlv[%#d!yMV$.WfG'a-EdDuuH]VLS_zV#:)og2Tba>6Y;!TR&-WlkGf|uZ#4SRb!P.Q4f&e400XPc0vDyqdR!^e8fbBIhodjW-_CmVSWKA|'*^b!zm1+AE+M5_47Wn}5:hnT(C=Z59exFj06%j6T*/aiBca^[5bvg;HX3znm[{Is(0W=R+H_N]S:L}o6YBkGKC8XNn$^WeUMVYp6WObR&yUE38F(0GhI9T%S>Yo(^3}sKVl~EB-bFe}>)u[U79n2#Mh+]ZMeoJEY|sT5Vf(:qg]HrFf{+h]mypUf-~*lE*(u$eT_Dwdp'U*NL(pIcsex=p'V,fBlxS66@{P]jWi_V{?6[J=Ag{r'h}&^GI%2@TS2NG:yeRVYixW}g0~B!Yjy';516FE2|V==<4<0P.[EjI&~>WO.-xLn9fkh&tV>',6</JnY)tS5jHtA)<|LF6$5#~ZS55Z@#]I1n&IG$frTfkg[E=!i>&hAob7XaF]CsB=$ueQ[wFSAiSp2E@|%M9-YTUE#amSMcam6vd3:gajIlJ+.$T,;IZ+@b|i[]i=.SUO1M3=>3kNO@]H~rF926aw4zz7*<}?Gwh=]y!:LKPi&~z*iMsXp)E8}1DskUYiVW'x/.!p1-uszp1?uNnrpe:K|gQR1=+s^sGe4ux/hh+3|u.*vIrbs_a+1N&{lwJSp2=Yc#='oL,'F(eDb5~6_L<W!F'Z~i6;lP32!sr]b7rbVqqI0o4TPZvI{X#24Yww:bIhXSJPqqdpnZ.L#2285Sk{C|scCy<%wZv;2.9]u}ja&/1@WQqMc#[lcd&Fy>xoUGM0OVi11I}.zZU'~k~ZZXr/Kj;[xmUciuP9Y1=udBgVK2+ed@:38BN}&ui-TtnbJQOn}I&=g_Sphvmsn@e&5=go_H0aI+aj~wG#I(.Y)pFj&0xA@yv/2JU,U9<xVj*3N}C|Jd!DrFm-B0kkPw'Y}liu^d[,O$[Y'{0)f'Ec6.j_JFzCAUC,S%lzsNCrw4;9p:gppxj1iBVB@YCA|xN:*V:OuUdR-=JB!2<rvhk7NATWlg:8o*/84qLXfMmej]6YHa$/);V:ntA;5s_?f/@&C}+X}=P9dh%4L]/EiD?]dRI|Db*U|?ju(U.cO=#?,e@351kp6mp1Xw-MgI[e1R[)X<^f&G:w~4^J*5s[(xbK$F7QmY$GxMW,Iu}zSmw1B4/ajsEW6n]zV!dh){;sM.nG%2g|]l3Uzs-w+mep*SK%9h7e>)bQ>Er+4LJ*}55S5z]B(&TtCI]%Ow1(GCeL/48g|fI_786mCW$hbY-L$wT'{dVKTp#_?$ojyc=QXpPLu3Y{sBUB%BMspBF(.%DeL[X.W&mWX{X>XQfx5U)E/bV)T8Z)'-+x5#Zcne-gSs}fi5iB_oF]-,(Ot?Me;{AcHL)QwH@@p6bJb9#*l2jQ^#<Osj7}<}]^zm7TPbwlEf5~$]blJDWt.o%VRmCgf|?ZXO5~dgNt2_NRK+)RZ4;fCH>yKk(Xk$y_(U,]A3NLL>1A+9b_}#8u:f8(X3CAFtp_<SvHBLr!OkUd?B5.K2}pos}wz*EDnN<x$s8]YQp;gio6v6:;uR&8HThA?CbaC>:78ST420=-QA[BD*fQa$~#>v+~8MVz|0++mdCkYAxmrKP'}G(Q-(Q8ASpO$aeM80'n-iV9Ln0u8h2Ozs%mCf:b+qR8#WojFzBfnlndKo,}[[bd5*_S{[hE/Ri)[U6T6ML:_EmfsqWl*pi(+AK3yu|Cypg(#N1,Z+n2w#S+Nh2g[Z.+yC'WfkG/4g;&<f//Xl!1s;pj>S#36&pZ+a3O8'q{>=rWVxN%lM7>S|g8y1_,MXlaoI,Qk3=bX-j=3D-}ZY_@HK$JV<mcx[~_L)fe|&=4vb0[ufqGy0Hiran89#(&1^13u]2I-mpe-0eQIXY<S58M#vb=%}uOx,&[f<YP93?JBMbJ?U?rreK@,)r6PnYV%FkT%|(o/g.OA@Ra0h=Ez99tzoJdowVF[dDXFNW0uF(f<6k<tuGfCv9R~7iZa(bHA*Z)i/DwvcGx!'~XKb'$f=+%,Q5JLD|D:O{(@y4[?o]>Q+}%BOGEP#b(R82|]Kc+9>scub=A'm*R|?3t:HBfmazTuJJY3BTHh+ZAd?e]drJ:&Fd8,(U#L%3XGL,Z^(twT[3C~V[_pQn:Fv{)F1q2N<0rRs+(8cFpOtvX-J_NL=r'VVGOe2Y^.^n;Pu_[!e_?@*5BI2wWRdODVkjg2.6;'(_+=oE-jRfD372t>N!@,V6J|}gE%/U;hn_8g<x$zoa*[en|+=kZ!l*^2h+V:xuLqu9$pMUpA#$gyS$)S<|jSzhpfnkG|,V'aK(b$k|]*<teyv:?<{A$K%oVr#45-hR>x:&o|0f:ElA*v3(#GY#*=GOK0zL*5bE**t2qXG[(%t6U?el?sY,]L5Mb@(ycf);?@l+BU?DK_jy^:q@2iXoz40J@$jUK>U>F]a<xRHtH^+]-B}RD^9R)ISqr~07KUl||tz<l8dyg]]Cw}M.r$/46rL6ds>c79BV=^P@vjx4E&{lG/[%K!pYk2Ay,/F~cW4N.Cs>ZqpJl4roc^h}kexV&Lz^3FeW)dS]W}C0si_PlIGv*UFH+E)k%LAVxYDvf@9s@Y&KR27xC/XN[4P3VqM=jmsP95Cf#pgsM)ioVz9-PcCZ1tw8m{c5;xk7-DKl<_I}wF5L*:}.cSD>)%M-CZXk-d%PFO-O;8IN.[9ebn:n9fbgDimmG:galhw$>Fv!vL8Z.OxK/1XRUynI&5MdT[gs;S2.XDt7$7&<aH+,h_q^VU#Gmlhm0-%7<tJkCjGjctJ~#m5nGA?C,ZPga(Y[i?}0M[g>zjVgDE03yK:AS@'zlKN[KNh)^>kYHQ^:b9rK*S]y~Z1*xqAE0D)<G0QiCmXPG^BAJKytM>RL?xpu?=(;&EJu*u{>_X3Z.~KU]/VvC:KMi$|%[WB%_|7vv~WV<hl4z=i!{V&<yi76^xLiETWFTWY8^26/R*Jkcc@PyL@aE0qf/2}[J6>S-(dxsSBV;~l4#rVmQ0kP4<.{9yghBMQ%+?ut!>P4>~w1SU<(|c9b-.Cc}!tK),,gF3/@5Nz-IG#MH=M~=1'^2~|p&Y8Q41KU=u676a^j*(7}p4;&%a3,kF=8G*49,!BM3f~Bn)S$prRt#p;u[_G84#Vv4;#{MjA2d2!%X~F6LIbUtt);vk7d}j,s7I=&xy^,EXL?oG45=3lIZk-1/>b.o!'%u*.63'i(&U;.N:S@cXjlufOrS5>qi4C;*%$-W9M)Jw,u48eqt~s?c,scl?.Cm#koHM6e6:5A)}YJ_81j/LHXEGa$bvWtji<56#C91wsE3G$XVik^}7S.@exkLGp%:a6Z)gl%X9-I0+ARA;K%gg'{5c(,/h5Q[PVpX{0QGnx,~rS^N[?]3~U<%fV1.]-dbuG<Yp%@4PD|T@39R8eCkf!}tiv3HLY0|gj>9pdGdPg,ppQGoCO$vqEqn.%v&r$?[$V2:I#$zk^LA:}mY2WD)+5Y<~0HYHzZ?q^G3.+*9-ncx|{zWbQm:spWt'<86SN+4lLnF}$U[P>L>zSN!{,%g*HCxc1+mZHa}D+#~DS*8B{6o*2)Z)6+:a.{Sj#bq3h;126&qU.X|t^A{)~dW7jy<#GQ{-*7Q[>H+=6H+=eXxMVd#.1@2FY#.7+_h8BA2CPOq&Yp^aMQ$!EY@_B~KPEY:Vx&/%hmt.n$27dfZQG]viki{/y5o-}=0!fWuv0[.w#ZjcJkcm+(jz3_6cxYq$ZXzX1aD&e6@9kK}Xf$/mYD@/oD&a7N^g)_4)TYh{Spq$8VUlZ9mwr{l?G$f7K-:Yta{P+f']v%lPi-)SNz16%:~Yy73JQ!pdOBcN,'7:e3be[])~BrL0cU)J}|AD6aM2'aD>pF/CKLJDWXF,;>U#on;^pS>2;xQ-3/X%::F}T34JKpmfaywf1N%UIa')(W{>Fj9-4z]Qin64|%^e,,|hDr0%@k(IfuY9F>JTp-1k(N9b3,!92!HOhJhh.%h)]?zXv'lvIf3p]X99Oxt|Q~lUR;_s/gXj0H/vT&l,ivh8/>~$:jy]!Q.Dp/GGq5@aJ~)uX;%vpB)%=Z4@@V4)e/}-!!p3vAW(-OGRK7-T9@i;;@$6SqGn{wy6)H2$+LG+Zav}$%PUmcsF,rr=:h1Tt2_<KboG=d%[s*YSU],@rRQFp1'}so>e[G>2Rj!rWfYydj:4x$NbOnX3h7CxhZmKF{5c=?q9<jNuQ{eSK8Q|wy5}-KA!w:!_getl_[w8SDt}}7L(Xg82<w}$p[$?Dl=@e:H)[Lchf?Sm3)jD{q;0*)O0+R:lW!#'V]F.Tu-3@YOm[pPh0stwstLXb{t_zm>'TOS^EyRmUm|cla},Ts0#$*BN/;R%1CeXp:{t!ZA]{TBQNjRUe+)V/l;YbhzG1IfIfaqF.Z1]4Gv31:z7aQ,QJyQ$-R<PN,L&99,I[o)^jYNMiY0~L/qi(tlz[*R,.9QpYQA:HY:20X;6Q^?#MQAXXhf0bvoG]|B|?}y*+Z[c60Li3V_(Y./|hOi0@#A[o[MtZ}+8v/cK{b*jS,pp,5+0?Szs-bk]e;<!:BXz3}j&ALQpaJH!OmZY<(95KOD8Jj{^Gk.jtsNP>t/5#W[~X[Cfsn2i{gc<}mc*3q[6kjSKlCi&x}3Ux|H_hqc~<0ZfkeXczcr~O_Z&-=l02j97'o(F7pLe,U)(<}r$&0%}y}X#EAL]^op,5&@ea6u7[G;pA{9Uf-Pr*=|bn{VENN;Q-2UUV,~Y3#x!x8&qx+V))R_KYbS&hp^};s4w1's+&{d@{f<;8<U*P}xlNq]UA]v29[1a+Rkj]]4,BI{2ZWIksnDdE3UwJYv8<$wm^C]LQ~}$Tt9NH8zmq/aQKuLAM.^+R5ri<]c;f=fdE]/OGF(d;d$Mz'L$-R>bZkrhE:GLci5H>8ygAlTU]{BPKC;]VUqDtTp-0p(nAr:fO&OvKQw)NsMSn4OyW4BMS'N[nzC*D>ns!@=3NyP<~.d.gu1dDK%-$!:&m5XpR1y6Hr&LEju%ldqP0'?jYK-gV9p*B#g%$<<FN'0e0DFk2dIyiF(H4lG#a$yEo<Bk!Cq/.Hd{#>gg!,zliM%#/QJEr|a&HWk/:y3ZsogZav|Y;Yn-Ur_]bS.>-Y},*V<4f-H(LN3^dV_5s8ABw5^oJ]b+?oF5Qip8%1#D'({5}Kj=que3%>Ql3nE]Z;OvsXM6d79.}65E~>$r6ii*7'x}G{PTsqs(weKqF<vk%uK]ia5(fitTm%nG97Ws_1_bEk<yg&IFkdvl1RP1T,6L7oA9f1pf[haB_B1PYRRu|e.K9s4Rk:};d*LS89v^sQs@s?%$-$=Z+]8|j8)>uX+/'v&}wp;y-M:zDnSidQi$=nmhl7atV8I|VL/%7XdFf:}lL.$BfPA7XYlZ%OI)+G%.4BZCxEhyiH|P)fE;z5L9'}3PjKFui,LmzjD<v~Rm2noLwckOKi>.Fd3VScAcU(+20Tm_.i6@(B@|b]C2]d'A,|Aw4:j<ldzx7&F{[vT-|F_V)WGyOBNHKBTG5>Fhq.VzvNNRRT7//sA%lP(bU&<#_0ha.N&D^_Xp4-+48xS0gg9e}'pU;7l8LxaVF+bS6E$#v?x1AOK~6/uB#OmY=&U/(wgXa@Lf#Oi)ndaoQ:Q)2#4xmoM=siO0<lVkTgY|TMH]sUM5}Zh=%Q[x&Jyz#GL;rZsU4S/aksB>1#b=[NK#)4D^{!@_Szf#kn?As$>|QZz3uxVr1oqesyGOlld9(7Kgl@qqQN#0x[6I8~J|siF![|)*D.q*_M):z1B{4:r,*dzEA_WHZe#H(~E9YG#+YAKRRE@ewsdLkmF_{oa10,4}Me't!)}mTD0rqW,5vV@ucZt5sLuwgT-f7PoRCf>Yw#*}M;,i54?t8*<aCe,=aVP5(I)_JT8~Du?ZM]OS7|Tn[_DEy<{!FGv$K&8+HPLIk+u~-RjDfy<EoFS[5%kgmF>#ht.NlKjQ_xX?rUv5pUS{rf6HK57<(ecYOrGvjie8N@[z#x&!%rErC>UgeFvr';G$PH_iHPM$#jh><l_#P@-3VFSX|'..J7{&N|5c7%an=DL/%U1m'v(y|K|ujwU~?eIEsg>-3c/wkL,6>jLvoo3.G%h$a5NrEUUnKV%i:)>&@<qs/gBr7dQI[syB,uax=9.FH<&ueM.f<LB2t0.N)X}a%1{4^3dCeKhX1tc%Ezm^m@//S8crvSwZ1:(m7S[SyebtNwNDDCN<3j=r/k^6K9HC$EGZ):kbl,96_h8]b:!JhPqm])m1!yK:p-!%.0u6hmy#Dy>XFh@3GvCZ8AI>l(]>obpY2VJ7[#t~x1$^{>6xl[jXZ2C3@<Wp*7b_b6)[|a(>7a^gaFfQeaL^#f0)!PzyMC4$+{|m{-cc6&]d*D<HZO-5mM6;cSRWddo.gN'xt5ex:P0uemj=iwa0_0729Ox=b8(vq4TfqN2l?13m_C)FItg_7s92oAhb{P]RpFb(g8[g:,=%jpQ?v%d>IfyfDQVb*(+aD%w0d@}+DmhywxqGJ^]4.ZSh~i#$]A{lEnVJun2Sa[L-Rg!C5xqUMTu'kPE_9C'z8,w0O<$~NJi&7Ht)uuBmPWZGq!$pcHxcz@iviVmtau2G=04oIP5=L.jj+)S6gbM4*AjUJD$D4>p@|dXl*&:IZ2k1#-xiP8adi_qdal!Arjzn1u/(dZphsp)?2Vap!<rlkvC!2G>C{'T6Pc,]1UxGg9J.OAEOj+[Ki8E{.^px<+yEx+#upBQR?*02;~>cdYml!-XmscVY?g8v2ok2@)fmG1E=;9~905Xq@2RUxSb7Oc%*M*{U~[0Dru]7S$O|3EmNQybs}!s'X8vO-DJv8Uwq9G(s*QiA3q+/vdYC/(:iw5$ur.epP--nn>4+KSP)jLhcw.%O;*/;ABV_.0L}r<]*#kp$6*Ft?*CdZH)|K@4J{tD(bKKZiX-ndr|BTrpf;hF^+=VzR,>_XJ2ED)3v8Q5AQO1Y]0Dc7R$Y(ufm-7M_}X-QbP*uF]_|]$Dr:QpWLk&nGGIWXK#Fz->R-{qPOg$0JW-bsc8.Doe+>G?/T]4'u?+(Wvx%/-H=)Oyt*f{Y%J~sJF-xi[&FwZabp[Av{D]:P#F>5;C=eX&w?}uTb_/N_Y1ZI_P!+?<my!,Q.Rd8j2XBH/E9gkfVJ=8$$as&gsow:Drj~OZyn~KXL|+<byt[>:If5*;hp^CIyP>@(a^3MfPVS>nT52#>Efk,8!Dh_a^y2.,#FP-F9'XJYz^-0qx.2y;<iljJfoK3fCj,nuNQ8W0^+qDO!>NKaAZ,0Z]ybl%9|r20F}9.Mo^Y{*L)]SO!ZgXm/m]w!kv'+.}LhT7bZ%Sm[KUJZrqZ[dn%Hhg_TST<0^U~zs;>ub{NVT;Ub)lm$MI9*ZmPxR8sdqD'b;=@A]a<-Nmdb4)fR6_eAp/h;I2[6n(^o-t8:WI/lETI<Ghfl/6~[JPR^q*@Hm^b*A[|k=fgDu{[{:O]#JgbfH=B5OS?f3}>Sa{kGx9w0+H-.SI^3}<C|,W2t}}.$3-t(cloZFbzH59)>yk!Rf*hV=a3T+nZQ(M9TeLtp=CE2rp4W_2Z5YeW:mped[EIZP:rjzz4RI#D.b5HQrF}A$ILfvTvW2}w%Awo39}s93Q0?VD@qXTY&z'AHvp!,:jU%CgjSn[)_.Sv5YpWz}U*60V6geVsXi;0(w85k$i3kJ~^H/^btq6n%!5ROP:'OJQdD8;0KHl_{r-Unog@!$RJQ/#6z0Ly&*yfA+_|+}A+x2_&V1A)Z5e--l,t2WmZAh!bJ?fxA?I#u]Ukn.-zJQ,fZylLe}c)eMB/}idnVb/,Z!suvWGq;KnePATGmnH3n>ZD;!7*uoMTJd-m@{0zQY'AL*&31O*wtZq/6OP|E/Cm$L<w6)r^GEUK3^;*8Pj1l,IxiZntF{/v-6VgrPg#CC{G*oUhq{@!:9^0wop&NE87mr8n-ye^7)dNF8jpPwg84v(9Y:o<KMb}|MhDe9:d:+tiWKK-,ODArM>_:P}$0[DGjkw~,~,G#8fWd>:Zzy@!hBc/]X(h>9[u8V~X]nBn.cL.SU80D?:HUS[@TV27_exx0Ahze],Xl~NBP1Rms+ci=XwXI'#<;o<|^U#)847vdTwY;X#g=4_W;i,gx)ZT&:z=~Lpw'WaV23p['YeN&hHXz;BokFX[@hTi*X~s?<g#yV$#CV,(2(QE8a~E]Rc0COn3Ke*Z=>XRAG$5,i5?6WzYrz;O]PF7>GC_xFj&GWcx}h-8uK{QF]lI>nZQkBZ;W{^,Rmj:w[t*@5e4dD*Bt}hpR(aKW~G}7[5hM2I[*w~s$=Sw1bV/P_)C7u?=[h2FVZ!(m?XS??+<k6f-YMEM'l$5?.fSBzsM9>8C2~31UwYh]I&K8z)'JE<8w7=,DiUgDJ]$;-HTzIY1W|D8g^f.4{Mu(9iXJu0w[q6=NIyd(qHou.b,ZWW7H_Mcgy^'wyq=2p}i'=(74J3<gD-bBf3v)We._Jqe[ZQHfSYf&nRtrm{'/9LH=lh:sRQWf{A!HfI3tFNbg%E'3kk#,n<23ZJd%tO#Z+ie$K'?S9eO}vO_a2hdm!4Obg_UL6ByZ26AO:n6kPT6CNGFPP*b!hE3*6KsH'f7vKCOA(*>40f$l9[kRdc!0QviNn-[X&>elR|z/(:&FXa;TWb_l,2)!(;bQ&ZA<B(6gO%Kz,HSdt%,@KHY,mX!Ac2hR3WaC*-6v$%7n>ciCcyrLp2*jXeGwo0PzTB+v9bxnmq9o@|i68x_pq7#k53Xd;'l?^njpPKmmPsbf)g<]'>G]YDzw^FU![*SZ?AYXi5!Re$!KHHVvr9Y@Xg*So@eVn5fAbLtEOb~6Ik%]2(x)fPp|'Ks{XSrZZ$W<J[qi7hbQ5B!^@7/n1;ex1/iFEY5u9B|H5k!g7kJ|9j:)392.a*U>2i*RHu1eE>M0~XDhN#p2n>,}=juL4jaRH@w=DQCZJzH^SK{&Lq?u?n#aW??IO~U?WK?i#nUpD]=0uaV.E*,hjl2cuBkE#ivps=)<ttO8;!Z{AqPem)Xf~CY_!.5MOLx;xEcX:5t93]9CdI-Dw<Sw[$6#|K3fA=B;NHl*;Mqo(Ip.NBaY^F>'yn*o6MQ)7$UJTxxkx6-|ce[3pq_2X1)gOpS_IEwLjc&|HHo#o7~2uF&J~KJ*;Z)22<wObri(~iu)u@mbgQK]|U%x0>YBG2E>7/6L0j#iF8t,4|0trNRC((p8<,/%6O7T#K!3^{}FR>;$@6_.=[H]x%.C;x|1n|K[Qt%.JY-[=g!vJTjv@(MP#mj1}/?>C[+XnNBr9[7{loOawH:h)iQ&P9|w_HdMO*R}V}s7q[T#T2yQZCK7ZgOT7KUCuHpdU/,l@QB_JoPkP2F9eDB7*yTOk}I%6DqQ-.'h;WjyIXcpH9%=B<>^cR1|fRc,U>KP8-zS|**4$MFck8hPm8q2#k]T5Xfn.aww@HX9;6@4h2wLA55)7xWWhVMr<i'zTEBns)ogL(B80PHrIw5FmIEP!Zm.g_1u(c{dSOVY<MG1&,_Z9v2>)&pnx(pph*:WIQG6NN%:F#^&DflO}!/cB{(=Y0%rz][T>RgFoX_j;jCYRRn1<x~5+}W/PyI0zjZvHlrq'U5@upr4pC!Ecrz+v3CH!SBg8rp(DCF^ER0l{t<g8k5dyTdk21*l;nxZMhMPv@xE(%'>H)v<de%#}CQ&6>M#Xf2J1ipiHe<|Tt$R-|G%a;Rq-%k]QBuI-/RgA%oM;>GkSOkR7*Gx#u+u0J_lYc+[Ci4ngox;qmo<SLr<-#MP?0t^ImW_[eR_rF(+zU:^XRR'lc-jRr>;4:YkKb+4G,)dSX_A(O(2ja{s!?wt?*#U'^S^_&[)w=rj{VCB_svpI>9e6SODDI3?Lg$wVW@]3Wi<wggeppbPwR3TRF2Y[<M$Cw>ES!HVCkTqviUWi(~5Y'rAHtd;A.}MZaZ1y-B=)6]=1_&iU[f-~@7$.^=-Z}^l.h<OmZ|{&PRKRH?E<;<>NiN|Rz@*AS&~j:*H3{_]Oi'raIypwE%NjmPd7qr(BQXP?k0Kt<G.)m9(@CDa,Qz,KqE#<Mja7zPd.*eqwbHCYrT[*=J<4)T(@uy/zcYt[nXJG@9@fup8yi&,~Q*Isi>5|6_v;=4pegISpse/e^fej13J'hFg9#a(_sFBd/?_3~PY5|Q8&)Cbx~TLP_mr&w6&-A7m>+5L:eHZ2U-*G*-02e>e2+9^1d?BrsTEXu*$A-.3LkV]E$(K<Q:'?GaTU%?s'WrHwo%N~_w|:*hkec<nOmj/NR'24>obx+w1N&G,M$BHRSAv'p%b8FFC'2xx6W,/}@C1(L<ZYw8#~!r(}1f>8i'1iLHj1FkYuW'Gz-&s!Hw|KBiS*>~A>]7lVXC+Q}mRu4}]nXCZ0K)Z?]H*=viajjYoQ>h6oRz$U**WNBsmz2g+Xc%bG]-i:v=Y|aeo_m)nZsE,GoMzYK)TZ7L-#j6A#jTHtX.T.CcHQAo!&*GYQIwOU1#PPT'Xi10ZMdu!<lLp6Nob/^(Xse^nM,3BK$eprAH3ViQ?X[A0Jp,Z:PJ?Alu^JcR[aN*8{1XgO5'Sfrg|Xl{NI/2UmXQiJ@TNHOV/lnh$2P4xgS(c~'hTzUnaEhbL~PFW_B5Xr,[fYV^wXI>UM)${uMGg:8y|b<;'~E85n@QgMsPg}UaFOe!*/<_Ng>Kt1E'WoAW|TVr58>najvle>TO;_X/<'Y<'0v$j0Y4nPvhUa;uPR7I!lD~tKZ.AHaQb?*Nq%L1P-b''=wHCRR9LL<D#Y/b(ya%mdy<.iS/;ZkqXe)YE)8po7<9*ji(R,i;m&-1f?h?=#pkhAwyF]pU?zVwN'KUA0F{dZvn*m(g(3[f5(7Dz>M]|xKY4uQztf^T1p0EE%+U>yLG[FDb:|@p;ogc3D$jv4!9CATV4py)D;ArXd@*|8i*3Aoi_$HOSrbV_Sa*st_f2G@B0t*I7p.O6$>CP:RH3CL,m8/${s45dglW9UaH2j$!@aTTk5Dx,+l$vff7*$h|,)?rSaKyBJ6olO#</79,a>2qAVRK62N7fHClz'XMZZ@EL5]nVT*gm}u*OnHm()V%ySHU}L#4jZ%(<erSc@aJ]~_1[|fEmIs'q{<HZ52&'C]Ta:mP$W^-svx&A+Pp=vX+ftW2Y,%-T!o3Nw!nZ%lWXI'i<x_e@Z(P3DNIb%#X(*d0K{)L^!y8-p%WD+4mEJP3IZ3ica=Uy<1Y&~I;<?;~W5?*>tC0G!R~tg^DrW1<mpSqek|y;oKPf!ShC>2dvfWHcOeTfgO<[#!?g/XJlzKI8cwrlb2n_F&SdE|~;|uHIQfsSIQ$4M/*q_vQxbxLX0)PO-y^z&g8<*H0jKDay_ti39t64|Xo<:>dtw}ZgfJ[dg7F)OSB>o}i)&6)8#V9|:>/LhGwEb{em.:Q^n:zUY~#@f21_iWu%ks~'HrO?iV:,w_'';o|'D|srv^6F^Pio(,,;^I'WE>r/Sif#18+uq_&MkDHgG>NOy;MQ0TNWgndCL2_VeNDd+O?K>*$)72r&}]YSQdPDo1B[wrN<|}5>{^PZK0dB3}E:,>GTcm62O&}+^zvOiygGn[>h&wq30Y>6DGd}u?Ee3nnNqJrXzGt%DOa>nBm&VQImq(<r6(;?>U33R+|}2XW#UM?JYVd44L(%-$@MENtD>wsOZHJWTj0BGwt*pZR0hva1ph>lF}d[3teWJ3t:[BHQ]e-R;R_iB8r+6YSJj5FGQn-N(O-'I70kEX7u@AI:EM2+aT[Mu/OI9Od0e;A:Wl4t~;I+~W_7f;#Dxi(_%6z9VUr9hRci3EOZP2[A{=1*&e1^,ZBzX_Gv4b%=z^,ws/qQV;y_^Qz/gh%-rR}@nunOm|g)sm{-2tDSOwbnA=p(OItqk_*n;_^ja(5T0f#B,wB*v5xbIbJC5e/8g'%7:4kVFuJ!B#Lr']:ZUtk6:x>_'jO^S5H.9?]dc?VM,He7oxiqm3D;L:ojnsDs6V3SDhR[A90Yyu2=Jr#J0P_Ar^;o^Wx01G;^XA-f[p'Q5CE[T%yaiRB*!9$oPs3S1ppSQJ?@:-(L@;uf%L#wfV{VPI'>^_+CQB;i85ORf-XC7Gkz4[sC0U+:Hr@5II__D^|{Z90DXq:D,V<Xyiu*]E#>f}a1_G5n,Loy;tTZ6!uB_vrt4%YW_0>d~9cEU-Pz5mV.Du:F1fI9Z^8@hvSF@T+H;QT|B5g}.'pJOUH]PeB=3xRnP1h!vp,51W::M-?IN-:l!d]qJBrwI2K5%U2{5(~s*Z1]u)=>oM56*n$R}:984x~54BnuZ(g8>R)([hrWx!jPje0*N[&BJ;tvq*C=_SP}h*36PZ=DjiPT60CL=soO]78U3TkkjiEu8qoenJeUDatv<^wp;^boxEL78;!v[S8=hZl}C[mV.Tv.l@'Zc(wC!()({]}EGt,rA+&L%cT4G#~vlu{9I9!FgCR^4$qe>d'r4n]4m>@cAS{Aj8{gQXmt.~a8%{JIR_qk=G'og{B,pWy3Cp,puh@-:U}bfx!#XN@.pgH(%aVMVHKWdC}va$)N+WG~iU-Fb.wk,P}<x1:oBsC$S-wgI3fSu[$Z)xCmQ6$:gf=#&1^]I+$1^z2|_S3>Thu!6S-[GUows-9wLRN1:n559q0ryE_Al29Qas0oTWE-B/*nmHU[<U31T%]vey)VdfEk_?3ZU!E,gK,>h)^d4mfH^FbpyWgAdbJCdh/%@:H/9>nP>=_(6tY,V}23BiT~CL)@:m;a$n[8A.]k>&'H?nHp'I5J-2S22Xs.QrFm,Ys8:]ESDI>DA|+Pt$$n%L(&0}K<|9CDRF0Jx-F#pWBjjPYI^+e&x:.Vz]R[2ofqI;zg=AnNH65^:XHJ{Z(;gqX^WnwM,gv@M{TQ3.-AWN_RJy+6FJd7,zIQ[i);0np5P5.nC>}3==AP,J&]{UY+Jh[G#/5wD@Qhx'vE0RrNcJB^RQ,pq5Pj_wdB[>amG<~7_^9=?P7b[b>Y9gzvRtjM$#l-A{a]&/p#No)Zs1_G~)UE5$Y3@'iws:n}~xU;dbA=Lr'tg-+a+Q9^<kHZS/&-c:Q8IirnC+U3vnm|WcbU_,e-dp;IFGZ$?ZK5]*erUrkC3^t,kKBvu_~hFJR[;@WIw,|9ZQ<w9W%lRYG2yaqv6elZgUO}B<b3=^?R^[YfpnU<z#qG4UYR9A/w$D=gi]wvnccUUs#O|Sj'>=fEQ3Kdu4OVb@$hh-iL*5#O7j>kG;b]ZC>/RXpa7?{aRQJg]Dz:pkt1c?_UF%I]0[kw_<KPkTp{*Ge|bM7gfVI{VBCgl{tsZ4h+hrasm26(+u8kt9sys>f^12YsfK0@tidw_.9m4Mf,;X1G{=4[;YfMvie*>^f3cPFQX;y'i{Yh7XfFT<0c>'i37M{NrA{YfmYx,(N>Fi0bBH$zqUL)C'Uf,Zz=*.@:]$,(ukWTH$^;#Wd#sQog0q/(Sqd%:>M-'+_IRY!VGma(oD;-c+Rw+ix*-}btf#O^ca#._F|Lyl^GoE+e+N0&!U-sso3b&J1k9b~Q2EMB[_V,b'AP:OB%9;pMh;gmI|~2nnER%3l*U<4s.q;_s{,chLR-FiRHyUV,*<~d~$>piJ,PcI;9-Ml^2LD]kt9z[7KNpVf.g~/Js%GK$j%G0sC4lk3'Xh77#l{ol_~v7n}O]1qXdShdO@#}AmGXlc>wxwz+q/E|lWBkLX/9n3tX}vG&1'3#vmw7Dw%.wsDyM^qE(YAN#l;fdNE*LiX#:ot0E@DK3.p~v2<[J4;:N#$qp>b/=MgNQT+5yHwF=XMT@Q;2!rc&HbFA:UNT:Su78[h'jAc*Eu!QMJG.Z5@[1H5})L5[fy51j(gl>oj%QKu-[rshiu4hKoP1VW!TXOUWhfwTe/WvmS~^*qN4w;a2)Kf:J8xddmbX=Bh#D,UJ;bu;1iUrY#u;gGsK<>];geZqWKPMm6MR8J5x3$w(a4x^Tf~P[5uxE1{)_RF#f%pu.Pk&8SHtXy]M1%q}@WQb};2@L+~Q|;An#9ycy[U=P/wwHTnVeI~Y+w3XRXf$tvIXy8LCcaL9&cO:zep<MuT6:(iu[e8p3hpBBTt,[6m.!O!0*2Epr[WeAi8mH0'2Wpt[RzOkK64fG^{6tCSGJ!,BR'.iB&,5ds65F6iFPT>9o-5-,q.J=YDmK8k@2p02m#5*z&,G.J*R;RpEU-km6TS;+qaW)[2G(GPAh/6p]/+t!EUOmJDT5pN4n]:C6Wbv_04sXji,;0,D{nRGczP>,~=Z@coR6J7vrRdsUGVMgNwf42eOvE*spMkgNQ3<WeX4W9z/:Ph:-UmwZKZ1elREA;Ye5p@gS[%bkf?*u@?5r%us*RTi83y3PI:;g&?^P?p),!mjdpL);JC{&<@gz5=!mjR4*bZoQ>.|,={6vMKr.-<@o$!VV{l'aidv@@7{S8Xr8f*?DWlhW:ZkBh{]:s~:)M3uz|{8+y)1PC/H$ChsKi@LTOV^O9_}x#3XVq]kjU5B!MO3Hkk-*:VudE>xE>Cp=dLtEAI_UYIB]0!PjFZiQ}k0n{9VG?tk4b7T)wrur3@:jT1$2+>//3-~p+G=]4psT28=)YGX3*5pGF=.Ly=akt1xu+UFD#!7,D:O2J)y2#sLp}x{;lR@77Fkzg9T1oV=]6{_C!.Sq'Y{*olBAe.&$JQzCDT[DFPY!qspf*N!Ojs?8w8*0-z9uBeNXG7JC:l%h_9g~s}Uo0MXIEnBACluTb=@g]VO0'V7B62K|0e}[onD2[3NF<7,07nKqh|'mhpHdQ(n=PGUd6{yE?rWMh,]OTN3Zu4iZQ/$&_Cgw]M[HE:^5W*[%f-HeKD~qeH9q8j/+q{-(StVbChLI#Vcui]W{#p|&#DU29p4&W'!A.gk%hSo+CXM=-RBp@9TVg}|81e$odOmt;},FjXv^^b)+,t,rk[?(FXT(u%-x@8WIDlVR/zl,TWKC']OLcb~yAtOPfItH,^sVRjw0T.{R|+5;s!RJ_62$|P+85TU;,-qQ6cO/GC;Kg.3vgjm<iE3(}yjH>4?MU*&_Ht75U10UiLKkR~K/]4)Xif!D0{MyNCYPl)N*wfZ)6f{3ob_1&2A^S:x&d@.P#zhM$8pEFAwi/<NG&Ctl,f17>4i>SC:1)aZhb3@:y|2@f929|>-s{@N2Hag7kD'Qh{-m{tH&/LyT}<f8@RV~%6d(Mgey'7i;Zd|aD'V0IISX>#Y.*-?]YSM&+#0EEsx!+})4Wb'D>lX8pL<3SG._KQ'r5{tQn%MF1JVmqzSNVPk~Y<AlBe9|OLr7qY&!5n}v/uhZ?SmBr(Yy2a'2|X!9kQo7}~c_AO)@+u^/n(4SriJs_Me/NFi1vP|<EYV}yJg!#<YJP>0qTUbEJ6}b&wm>XZF|E_,u]nq-*{yuijP)*E,-)MGRs%jN<Cx7|07:Sn4%9g7}9QDOa$Q);I*>C:Y]Zs{Q>asi<7-GfzA,w.21!&RAc;M'5db#Do&JPf$rJo)KU60zs'~yA5&t1[69FWvz+.cBk*r}'mvs'a1G;HBRq:OtOEl%YZwLr+LpdE.eMlgJY6:nf4AVage|}jsH5tIHEopTr6{aUB-9zK8Npq[U6I.wZW1a#W1V0q9BLoL1hU}<Q<g?M;Mp92O<'MU[z+klvsPwU}kmcw0K$Puiy(Mh5&uc*B'pXITm=5RL*DDO69_9}[n;bpN6)L6p&p.erMWTDNMaP>rnhOG9g2wbu5K=F%|-?tkYTip]>{.SWx|JjX|6W^HKs_zfer[q%J1'U[RnAhw'H2{U|xKp_.r^:vO96<#j}QLACL2F-r|*8Jj/QRtOwSChe9zFZF7~twcHQkepUNtZhFZ3-ax/(4T-q:OHFf&uLmCX8XL[m0%1P2VT/O[ac0uIhfeyfs1_Qra%brx*{=q}sX:4{0_RG}G<L>1t>ti9*2xOG'm$n-a+x9ych(+'7zn6v[%[9:VZ+XaqunG4MmZcmF:iA&3:]K4ZJru>4r/CV|<zs<)%DUl;K,jMO=xkvw4$-Ya)GHsPVsIuf_AUsgV3)rr3C3|-#(a6o-DVTweh+y5:A+W?]po_nrKpGzcGGBgl)[G?6#k]=/=a2wKLq_e{wTpPDNOo#:gk>.aN]+D(:iBY8Klv0}==Kk|1}4AE:z@}=N;=-aSp=DXCl/Z?sST^fTv&tOC)X=VI9bj@J>#;&{D8eXeoIpbP7}rj9+x3$DRA|DCRF[W'/wwTo52Ei'aK@v37nQ*F9z;MgEt&nyb*+v^@%~?[K2l>x&Gdl%,Q9tb*NH{sY;/8$mQZ?icyKqSi?Y'%LW%hl~G?=I%'H2]w?(9#TF{L(<K/m<oqgR/eE5LqX/g6^9@]rzYTq3ga_,@pqh3olx5PHSC<ZZb:9fY0$@Z;KA4$,*XKyQ*Q<Bi<WwE6DDCUpAZ*gGUuSf%omf9OB+^TLPIf)Oy?pNhHVd^to:;#a[x&bVp=emJL+N0TQ<_{iD3BKpRH~q+8>|'R7?W.}^UOK76}&w&M1ojc/_L3Azz,P4/w|ii~&mChm_k!5:QmKyw*HHpTY]@CSX>_PSmQ%Qw4X?G%MLB]_JFReMCnQ7d.o16'b@g#(-sab%zdrh~yT;e.^3^k{<zDEn4R=oN,&LFOgIAwYPkUvfq3I1W*8}-r8,FIa<hjpEP@Xk1?4Z[jAvdBl_4p+F;~^mk=c[*=|'9Ecs_Oa-ccN2;TR4%ctt!,1,4g[D?CoUPF*j5z2pKCbu%b6x7la@t8eh9:jB{_)ltjM;b1_?n9)*B^YID19:dR;rrNPgH0I*y&Rvb:<nEg%UaAB@N#sD8(Kuq'-iYFb?=95MJ.*|#{NBz@h%|q2hK:^8OA[(i4B8|da}nyz{i$)$Hn8G!WmWbMU*_-*MSjAf&4~xQU[Q5z2Kw4S**;GTQRw3KdBMo-b+;lNC(h??zTVepwa,P.WoW'w;T',R@tb@1~2P{X*E9peR+6Bn3FtGwOv:vT~I@LIAc'7imXRl60q0Z32EP|_|[2JRp#.U{}U$(E8n{93S7Q:gn$c!:LxfNWQ.=3<:hCp%SXVQtz2.O1<]L}!xt.Lqp@=#8]<t[viSQdnCKu,Be-R[KVqs%@b45;4Kk/#'mtC}x;2uiOC'tC1byo#TpL_nM>buJd;Z*Frh7X?#v7]}<MV9FGZL1aY@fZhmj4R&}{xU)eON6SJpC~.;exi*)U:41%Lo6a8K^MU%4TI}33gyVJ9t$i>a*?$'sgO@fR@.<TFJzYliT]3oUvwB^Twh{o_!I30PbwM;Qh3Un:U~'70rCukZ5ERV|_6~!@vdfgcjlK=-7[]'BV-z/Q9]nlcjz/F4S_M'oen|=y(REQrTru=u9N/<SX;|rS_y_EaydqXFR3,;OH}I*:sy;45%S&h8gO,PA7+8/~";
-local balls_hard="\226?\224D\145\194\129\161X\245\227\212\247\237\232\2035=";
-local cum_chan=5214;
-do local dong_wet=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local cum_uwu=os and os.clock and os.clock()or 0;if cum_uwu-dong_wet>5 then cum_chan=0 end end;
-do local scrote1337=debug;if scrote1337 then pcall(function()if scrote1337.getinfo then local _i=scrote1337.getinfo(10);if _i and _i.what=="C" then local _i2=scrote1337.getinfo(11);if _i2 and _i2.what=="C" then cum_chan=0 end end end end);end end;
-do local chode_max={tool_hyper,butt_max,tool_uwu,dick_small,dildo1337};for _,wank_vibes in ipairs(chode_max) do if dick_small(wank_vibes)~="function" then cum_chan=0 end end;if dick_small(loadstring or load)~="function" then cum_chan=0 end end;
-do local hentai_lite=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;hentai_lite=hentai_lite+1;if hentai_lite<200 then _f(_l+1) end end;_f(1)end);if hentai_lite>500 then cum_chan=0 end end;
-if cum_chan~=5214 then balls_hard=weiner_small("\0",#balls_hard) end;
-local shaft_hard;
-do local dong_sus=2;local cock_max=boob_energy;local cock_long;
-while dong_sus~=1 do
-if dong_sus==3 then shaft_hard=(loadstring or load)(cock_max)();dong_sus=1
-elseif dong_sus==4 then cock_max=pp_giga(cock_max,balls_hard);dong_sus=5
-elseif dong_sus==659 then local butt_vibes="ayo pause"
-elseif dong_sus==605 then local penis_ultra="stop skidding lmaooo"
-elseif dong_sus==990 then local nards_bruh="[REDACTED] by order of diu9u"
-elseif dong_sus==2 then cock_max=fap_vibes(cock_max);dong_sus=4
-elseif dong_sus==977 then local meat_senpai="no bitches?"
-elseif dong_sus==5 then cock_max=boob_hyper(cock_max);dong_sus=3
-else dong_sus=1 end end end;
-local wank_mode="     _ _       ___        \92n  __| (_)_   _/ _ \92 _   _ \92n / _` | | | | | (_) | | | |\92n| (_| | | |_| |\92__, | |_| |\92n \92__,_|_|\92__,_|  /_/ \92__,_|\10   v6.1 -- lmao good luck";
-local coom_based="[diu9u-6.1] BUILD:f8b5e593 HWID:LOGGED TS:1774720393";
-local butt_giga="<===3";
-local jizz_vibes="C==8";
-local dick_san="// TODO: remove all the dicks";
-local meat_zone="c==3";
-local thicc_moment="\0WM\182\210\223\195\143\195\155\133\131\134\211\128\215\132\210";
-local sack_based={};
-local schlong_pro={};
-local fap_zone={};
-local function coom_lite(ass1337,rule34_max,sussy_turbo,ass_bruh)
-  local _xf=fap_zone[ass1337]
-  if _xf then return _xf(rule34_max,sussy_turbo,ass_bruh) end
-  local yeet1337=rule34_max;local poop_small=sussy_turbo;local scrote_mode=ass_bruh;
-  local cum69={};
-  local sussy420={};
-  local shaft_small=1;
-  local weiner_big=ass1337.nut_max;
-  local knob_energy=ass1337.balls_list;
-  local boob_lite=ass1337.cock_off1;
-  local rule34_sus=ass1337.cock_off2;
-  local nards_v2=ass1337.cock_off3;
-  local rule34_chan=false;
-  local meat_hyper;
-  local function nards_owo(simp_moment,nards_chan)
-    return bit32 and bit32.bxor(simp_moment,nards_chan) or (function(dick1337,pecker_based)
-      local dildo_san,fap_kun=0,1;for gooch_ultra=0,7 do local fart69,pp1337=dick1337%2,pecker_based%2;
-      if fart69~=pp1337 then dildo_san=dildo_san+fap_kun end;dick1337=(dick1337-fart69)/2;pecker_based=(pecker_based-pp1337)/2;fap_kun=fap_kun*2 end;
-      return dildo_san end)(simp_moment,nards_chan)
+local nut_mode=unpack or table.unpack;
+local schlong_moment=string["\114\101\112"];local ahegao_vibes=string["\99\104".."\97\114"];local tool_max=string["\115".."\117\98"];local cock_soft=string["\117\110\112\97\99\107"];local pecker_wet=string["\98\121".."\116\101"];local knob_big=math["\102\108".."\111\111\114"];local balls_mode=table["\99\111\110\99\97\116"];local ass_bruh=type;local smegma_sus=tostring;local penis_turbo=error;local milf_chan=pairs;local tit_senpai=pcall;
+local nards_moment={};local weiner_hard;do local tool_v2="!#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_abcdefghijklmnopqrstuvwxyz{|}~";for nut_big=1,91 do nards_moment[pecker_wet(tool_v2,nut_big)]=nut_big-1 end;function weiner_hard(lewds_chan) local sussy_long={};local shaft_hyper=0;local chode_based=0;local pee_based=-1;for nut_big=1,#lewds_chan do local meat_senpai=nards_moment[pecker_wet(lewds_chan,nut_big)];if meat_senpai then if pee_based<0 then pee_based=meat_senpai else pee_based=pee_based+meat_senpai*91;local dick_based=13;if pee_based%8192>88 then dick_based=13 else dick_based=14 end;shaft_hyper=shaft_hyper+pee_based*(2^chode_based);chode_based=chode_based+dick_based;while chode_based>=8 do sussy_long[#sussy_long+1]=ahegao_vibes(shaft_hyper%256);shaft_hyper=knob_big(shaft_hyper/256);chode_based=chode_based-8 end;pee_based=-1 end end end;if pee_based>=0 then shaft_hyper=shaft_hyper+pee_based*(2^chode_based);sussy_long[#sussy_long+1]=ahegao_vibes(shaft_hyper%256) end;return balls_mode(sussy_long) end end;
+local function horny_chan(shaft420) local shaft_energy={};local tit420=0;local dingus_small=1;local balls_san=#shaft420;while dingus_small<=balls_san do local balls_senpai=pecker_wet(shaft420,dingus_small);dingus_small=dingus_small+1;local meat_giga=balls_senpai;for dick_soft=0,7 do if dingus_small>balls_san then break end;if meat_giga%2==0 then tit420=tit420+1;shaft_energy[tit420]=pecker_wet(shaft420,dingus_small);dingus_small=dingus_small+1 else local wank_moment=pecker_wet(shaft420,dingus_small);local rule34_chan=pecker_wet(shaft420,dingus_small+1);dingus_small=dingus_small+2;local fap_hard=knob_big(wank_moment/16)+3;local chode_hard=(wank_moment%16)*256+rule34_chan;local dong420=tit420-chode_hard;for lewds_mega=1,fap_hard do tit420=tit420+1;shaft_energy[tit420]=shaft_energy[dong420+lewds_mega] end end;meat_giga=knob_big(meat_giga/2) end end;local sussy_v2={};for lewds_mega=1,tit420 do sussy_v2[lewds_mega]=ahegao_vibes(shaft_energy[lewds_mega]) end;return balls_mode(sussy_v2) end;
+local function balls_big(balls_turbo,yeet_big) return bit32 and bit32.bxor(balls_turbo,yeet_big) or (function(yeet_daddy,cum420) local ahegao_chan,sack_pro=0,1;for ahegao_max=0,7 do local knob_chan,meat420=yeet_daddy%2,cum420%2;if knob_chan~=meat420 then ahegao_chan=ahegao_chan+sack_pro end;yeet_daddy=(yeet_daddy-knob_chan)/2;cum420=(cum420-meat420)/2;sack_pro=sack_pro*2 end;return ahegao_chan end)(balls_turbo,yeet_big) end;
+local function gooch69(fap_senpai,poop_bruh) local sussy_owo={};for coomer_sus=1,#fap_senpai do sussy_owo[coomer_sus]=pecker_wet(fap_senpai,coomer_sus) end;for sussy420=2,0,-1 do for coomer_sus=1,#sussy_owo do local cock_energy=((coomer_sus-1)%#poop_bruh)+1;local simp_lite=(balls_big(pecker_wet(poop_bruh,cock_energy)+sussy420*37+(cock_energy-1)*13,0))%256;sussy_owo[coomer_sus]=balls_big(sussy_owo[coomer_sus],simp_lite);end end;local yeet_sus={};for coomer_sus=1,#sussy_owo do yeet_sus[coomer_sus]=ahegao_vibes(sussy_owo[coomer_sus]) end;return balls_mode(yeet_sus) end;
+local dong_small="p$UE)8)PVuXp$}=1RQQxh)(#Cm(aa0=hHKJg{hz<fcM_U-qZaDvGcXiSqoPMpFNZf3X$(]y=lZ_<CJ';?zf+R,[i~Rf<@Z*]lwO&LT]-De*|Ou%ovol-Y/g!m<%To(FZodZ@M}jFxI8Os^!QH6Wgpsp&9e,_Pg$cJ?b:R-GCbIWNB67keV9Uh%|f!XP!k+>oILI+vQelb*y!l}VixlMrv4zt3|eYe&~^?s{g#1dq()R<cOR-?:Hq}$TP4geJ0}0o<o0Qg&tc|Fu=37KCua%<#dy%[;Rpq,oHy:rZVJ<f9a&.FM!|IfKXXxV_>=cO)P!7l:.QhW<U6d~F=9@9nvaeO{5#BBwA9E,Oyq[v}5L5mOpTGKR-QQBv?lZPrsItA@hAQI{h5hmYF/gPQQF~tR:L2N<:~RciC=IfXd/<ph%;pB5pijR8VQb@Y;LV^C$R6O[_o/!#U:{l-6227AxKPu@5).>~m5aQK*r>dtfgZ8|V=2^uHxQTxN>Hi2oiU<ygm7$,s}$gZ2;JbbW?{6h0(Y<tO50V-BrJ)}x/ALwPb|90wZBO#osX#>&!@<-OeQL^p<w4CM/IHU*b20T]$0tMABzv@cccWPMCs?,[O,Hd#DIQ!_2K@@,|5A=EaTfB%(M+YNLkxdo%ia>/KWL31m1,}P;=:3n<x.J0Tc7h3=y:V6g<H6GJPvE~V(/nq?EjAH~Z-l)X*6CjFwP_+)(0nMyql^q=l>d*{DEHkmWf]-5wG${@]iH/K57eoh30^1'*j4/VH_<aZjI5#E8X(%O;ZV2_.}eg+{F(3'(N6%jA(-pD{Tp^XN(=jUHs's9>uL='=c-Q*[s[PIi*P0J4YgPZ=Psd4BY:+1yJZr7Az.N]PU#(XGr@;$nVOioErt8x?k>|5UD]wI$aMUaq((p+,@?jTTefE1C;nAYO,%&n3;X4C>TX;nrC{c9J]Q?GB:V/GHWy:{nG.rhuO>AAWY$LyztR;PQ{g}Ia;gL?~v[Cq:~kTa7xVs7-&wfx$P*ePD!/QC5Z@8a'Qg[&)7#S(V3c0/#T,;t;W7D&gx^}8b~#2q)aNz0]Hx@Gp%!(Qc/blktpUCmxQ4]|*G.l5DxIHAkfs;@:}'DXP3&E]reM|Ya!Sqk}JVo*~;>?(z_,cnE#GdG<])Dl,qn+uQw}Z'~ON&m7Y2blo]hD#cy*SG<5e6%0BVWxFVl{6g$@:AJ}G!y2[t1hnx;-1mw<w<w,tCMAx9EzG#3ux?I^7_(Vop'FjyOk(qzPc]U(Y*Z5c%XeCC:>zSFj@:%nemfYOTfL<Wfk3'N4uh3FXbc|;F%mErzW1:'UrZ.jOl.kqyF,}[hAQq#I/=#kwAZI3c@9s1:4(FJ:GinKN&w0=j~4vb_:2=jnQn_2,p-79<i/A=z)5IQV9cEu>!c<l$r~n70+6<xRrR!6884mu!vU'AFp03VQPEb&O[(L7Q~pk1I.0CK_DJ1Z_%RoSE(7y)$#1Z7#91Acy:j54C4TEuWIj5C)++]uJ%o>[#o>Fep<*/-1Myu:Yco_*;u-7k=$K;Qmb1Y)<H#2tQ2;|@Z{0XAh=29zW*H-#o1Vg;NAV88XR(Wz?HMQ=jL4!C[T-10YS%[;+mm2d#ySkAy;Zy2_*BM*v*jOEh1&/obDG&%ezx2gD$:&(58yjsiTaZF6;wi)kG+m=@-h3|G?g.OkSS,<[XI|nFJ?+t|o0|XH#u{xi/}iC%AKrs98@?Q[Vs?[rd:|&s@jFk>E3av.]wbAP[Mu8Ak~Q,4i);a#+%27^>NunDM-*Yc:,C~x<QU<pFkuR,l7nJCoTQ2QQ*y$0*oV2>fu,qxWtlS%6v%=6HV[[<R_ss~&hx__YuwZ,O%Sq,&Tz_/y]a*L/H7hN2P'5X%X1nhco2C;lHAEU#w:;e1)ugC$hoNZ~;w_A/ZQf:O'xrjl~JT;5T,:JCKW8#JY5u))tI2;<{RY|Fkq1j1dOpDm7>$GhSkpfvBpQH!>rmm!e9S)$,!*svd7k=b_If|90sLBozQhCu=2Z)<kyge=#|dC20mwKChwz~.p<,Do'S%h7YBDP<jp$.~-@m[]~rl?fO^utOWJnI2lL&#cZFtESTBqhk+sr_oDS@l#^&cPF39Vvt^Kw978dG;GQ*SVnA:Z&1DOA(?OW%<YWX<G)pJv=OG=y3|Vq8*h#yJ0TcmwcoIJO6{|2P@e9w#AUm4/~ejADHy.BMj3s$BerM6&gvBjjM:6e-^#hrgg2/NFR!.8xQ#.i6_xqWF-Fv-EEe0j4C#%lkUgY&:4c40eJG%v~0y<7@|hCOILUR?xu4.s3vY}={&e%u<YJ3OW_7:;b*LidoqN6?(bDnJ#wFI?YD=V}zbmOua-}S]erjFU($250A}LCS47tgoG~@xn$VVG2f,?Uv/E^zij!WZb0Ac)<JpMTe7OwN3TA'vQEB1k5OauQT2<Z]5&r5Ec$+La@w!&<}K[ZcX?vL<^0OEiv@%PMn@(g[+)*XPdg?^qagJD%][70e4P&4V;n#:4~?CPY-bRk-M9,Q8[-3/(P@p3+qlYsLXjRmR~rY53bKGd._703e~Do<'#x+%+mvn4}*~Lx>Q9:B|oc;jLshd>e7.5zB!6K?UPd#*ZB=}!REs5NZM'3SED'?(x1|tPl8,(E:}$~)Rz1{bl']G<&O6e*3~#~96S(geeiU]%2O6&x/^p4|>Z/wfk6|J|sfRYyvx%'L|Mtm^Pu3kW;f'-XyCUf3;I<]RH(oXb(BbW{-,Fpt?qG@dAg(D%iJDbmqH4c$x&y=$m/~Vhnl5^rCtsn[HOPw+c&]p4}Cy0dR&PPQ8)v&2YAcsA!3ypxK5#RA'~jD4QqAd{{d{<,T~b?eAb=I7D8QM>B/#*R|;'e;!:d<r?R/i'f4^ZjP)mFt1w4C>wWog[-qe4c1T9;Z->T<|elv>9Ga.q:Y;#X8;>UJrY+VJR7rY&9A3Vk;.7]:rTG#v(+K3Cwoo-,F[N8D~+M:0XF2CABg+zMBX.!)i_MGW*Bisp('5eIJhF/3A46MAzIhLcr*f&#w9(iZ{sp8mm@p1Pz}L(=5nW9HPA@96VRQWFP<nJnq+oSir3.f<;#=Z+>20i%SGAkVfdyh81F#Z(PN.}I<Gt+4z[hW3*5w,ii'fLN/@}o5-W$P?@JE6wtOAk2o;nGBxHl~JfX</;qO,}*smCngcreaEi&,x($LM>NoP]a52ajgt:03w5j%r=zCqR|og?4Wjl^-0SN&dS<I19cD{GUutvlKg-)}R|i3F;+Vb|)Q1(:]e?!:'*Fb>Al[eSMg&T(hCo>r!XESRztD/;3S(v6I#/Q#hhm-QAPDZ^(}2V'l],%L^?Sf'*UO~8S{>U_j}BE;Ctf:W@y6m$no;gF>{@p6!.|*Qci,+j{@K2za%gTI3?#BDjdzQRb5sYt$H/vUn.]a8Fa($Uh]uV,)k%{y!R(bcfDtESK3%zliOYY1J[.KA5Rh7}#--f08&&.)F65;Fkh{V@>uxh|>uK}GhG+L=/B<bx(hfYs!l7;JtXrhT5kf$U$gJuQZx^d:12Hq3!T@kINI*'$t>>|<3LjfQzVYs5%weH3_&{mSq^kd~FVF5ZZuv|!i9$#t[<d_khd:_C_#p$K6fR(,cYvPJTSVNXtf}9@4~X5@mP&<-Xs2kH]p$T0{B5&pYz*ssQnPB;SD~e#Mdc:q@Ti)dGyN#V^P(b,-PYjzMkxSf8U*OyW{JYJ:@.!.B19*l&]$>E'hmVN2G7X4>X9HLvf||CEp@orx|C!ed:hZ6Gi/bkG4bI/.<YE'QxvZ5cx8Iy_i}gmgRB}X/Gg-hlashgW$u{oa0fMW]k*=Jcg'[8EQ0n_ZER#+;j?+<OvbC?+E-FG'ftO&0xAxV)79~6d-21<:K9{vh;XlWZz8SM}0<(f_7'h5>]%d$z&f3-+DzS/IbHpbF|PGs#!Pgbo3c6(3OThmd)_3#PAh3_EYjr8Pt6~x?T()oFu<TM9U!-j_XBi-$a,yx;i71Ehf(#wQ^3MmcQqsI@NiR#':[1s*|lI+Q-H;OZlVvJLH?25I?W{1s$,Dy[Q]'Iu7tQCXGB;<e?V{xdWU.aG)&XWOi(Fn@'4Q-lsaDQ(=SzpTGawF+Njg'{Ar$/t%o4El(r>v@^yE</,#)F86-}6$c9ZVRL;$m_QFI*N&^n,o[DJAQh9<e*fJF@?QD80MRBeVkadjvF-QVG4M=pKqH1#=EDU,3D^W5@Ju)[ak<xuH{/M2@@mg^H!V[/+>Iv(w'^YJoIdbrWHH(=ND(kCmAt2V7B7n22/VEA|!Uh(S=D[ZjOj?P0}E+JC(nxNCpsk%J6/C2VVSx3~zTV3cf1C^QaYu,wAh6=nO#_dYqZDCn!G#J9{uXCC,3ZK>Yq/*_()ju'^(qU+Z=|tXy>CQ<JC{l)QxAd&~OxK<1j]ke^HIt>gr[%+VOD-,*>51f+j|&muX6LpB~pS9}BF:C3k#|;Zl,7VM_pm|rl+iPm)mFB9OLx'9R_EBB/SK-5m542ti89/5v^J?K!2R|L~#-||WQ*O<A$k@cr}Px'wp>7!oFcXw_I/}D#D<qFrNW{!}M;LR;^!oH4Y{Jb.emo&i)}lUQ:8nl6>4wNYjr'-%jOStcYN_cH8n]&oa-&L:KDkQ(9MSOP_P?LuP6@g^d44tqB~#!Nb|oz;73$B-mLst#f$AJeS>3l:AT$+HsUrv/qj%D6kX5LE5ibLKC;ONorv@rcpjFGILr&4%3XJWmjPiB6I#&(I:P3HYL##*U18U0;zTohTYF9i:6-Fpun/6gmp[?[r?Gw6'z2AGh6-i<]]>O9mGXTTl[M?sEdV?hJGoM|4;H0B)*vwB{Ui-Wi2?*^Eb]QTNQ.cvvJeIC?f)VCm9f4uO@<6']cf:~CClA:t,XN7O,l5,3b=LF+/.c}S9eX,bsAxu!r^1SP05:}HkcoRe,g6g|XPULq[4([o3mkbwkIa)9g3/o^Kk]^w-~d~#.nD@2jw/KWRIqAZ5Ch31Lb!$q9_O]8N|oVpsU>%&k._Q_<I/JGTw50gbEW(8#_HStig6#mLe#D;JU@PFjaTjPxU~WYFQn*/i:t#e,jG4QXt'UVb7p+$ulb{GEB[VFY.Cg.r-gYkQe_}mVan[B6?q,-!~yi9HiW-%4&},[VVJg%ULgJESDm)R';Cm6uo>J;/@:/^YNF~zyXlS?#~t3$;b@R13$ptRW$B4HxyRtSTE_dw+{b%/)WBUwENquS<22-.)>nA9Yzzq@,>~,mF)EJ+S2T1'knm0HMsQ*?}{Ltm9Z.O([!/,M@o##f5o^';vo'[tJ'_.t0^0kGNsq#KO]mPW=a_+JM&yabN_KJxv-E$jPbs[eXJ0dtir/CbXw%NUF*9)#X0&)o%wG@8OA6eS''x_dZ@cHTlSGFGPkD&M+#Hq'VJ^l|~9M|HRFZr@G88aJe?2wp$6/BI(p-S#zC@,VHRw&5Q/&b!_hwx{t4C<7hrP?Atab7P2@vLSBWBq5?6fOi{7ral2+z6'z,R~Zfp[*kaL*DX^:h>oLQIkNc(%$-M&|dLn=OEO?NIgDwfD^0;eCKwPss+bTb.hE*jNLe5's5V=^P(dlwR9HYiDF{/#fq[8.7vFvh|;1$!E7SEa&{C':>r<8x?T::LNc5uPrPBt9)#SpWy1H8v;~Q%NKil,-i&ReSBax4ux5cxXWzRXmr=bWQbH_#t2gqYw%@5+M6zYV:8>=A+&Xn;CI^AG~Yz>i=R81Td2V/Tc34KtYN:ylsAzTe8JEp|+!b-3^5bQ%8L#oif4@s-%mqDGDL3I>s>;JxRLNe?%YI.SdxZ$eo$/mq.$7n3'$'T-*k8h;RM@97R7!&#YPwj{8ifP8^PGpvkU1RkUkKYn,-D%9#W=&N]kIGVFODhX(<2<NTT^b3Xj~!0f2B*[1dRif[v>qaJy/%j-vr-8Zqw<ug'eV-fFDTn;u?#LN_%BSN[(r^Co<.yKJvFhFcPvmc59OAc^A?;,$|7%v,OckEk-PLflI3.-Z6PlDm5.I!28[T^UCT<gC$7id0N+z%MW&5OC]cdNA>tuH#O'(4hI/M&Z$A4NOwC<@;:AZ(eBjoE%$gFbX?>Tue(Ol*aPLet*x#~WV'F){+[<J>r@4:23YW;SJ(QJE0e2xLRj*Je#l]ZUJG]#3jU>'R[xZFl.k&E$78(n[!EGZC2?J)]9^MvV[$lu.h)]}M=FWh&C^O$%.8&JFQv}lM=VRx$nZuoBg607lSX(y7pG6b#$M+468q3nsje*ANX1@Ed_xenCz:.Q4UdeCVRx&$p8'x3AEuU]UI2WvC5J'>gT{+|WOe/T'Qu{s0rpEjr>oZOPrWpnM;s0&+2qk.!tCIL,ui%K1([.eG/)Fo,+GC|z61n@d_JTI-YPR{3?/ivGAxijCd0^,JecLQ<a@<_+L.O5ABy0_Nr-O9^LcZ7Q*TPTETIGr4#)b#c|6X3c>b|[AM%YFPX0OkH|GWA^Yb$;KuA6tIX)wBOz9?/gq$7|/Kai==gqC3~mupD%^;6~yZ]0h#2-8o5(MHAjvs?,O{EMFzzL>k3Gs.>IVb;Jv=ydUWYE>v3_K2/mxH?2&F0SbCOIKPcM2j3.5t|idpM5*I_r)b!DF%9$_YJPQN>&L5Jj:_GmNkV@B1R'_k]=z?7nFjmfQiN=}E*qND8n^u|)CXr]USUs~<M&c_GZ510ZH6#M0<j[cdci14[b%p829/nVkV7l1U0z[%)dAeLN44-]%m)Vn+&.YNG%b0*,JjkpcV:QABq*V#8]8-hQ!/V|qSnG)ig.B_.iZ]dIUqgrvNbt;~=9Ag5P%lD3yW!AZ~ua-G|nsO=MHcP|8!OcSke/K)-ko1QcQ?1C.4J);5go}?F,hFi]F*9ez4yBK$e^</L|Dj8r'tg{_RNEO{n992kX/?0:~.=%P^B{9RQ]#Wrd]_}?5}N|W0iKcG]WewM:S+?HHXj8B;U+UColD2myH.NNf20;uyD,R8iM4RsWL@HdJRm^p4_/ncIkVx0dm#&Vuj$D@?ogS-&WJrwvJoLv5~lT{d^dF(m5a*ZI6euTi^ve&uuLm;JMv<Ht/}.cECrU{JI]sW!iF)d5&c3?,t^gRIAr?u4u67-{yA4bG<P>'4Xpa+SWl)a((9.J]}E0~$Cy6}li7V(rn3ca<upg{x-2WFX|fLvk<jC0.0&j*i>-XhD-#Ouq(uf0f93Yix>yP_XuNfB-dyw5V%ZthH9SrM/}%H,'VbiFC]{OhTZS&C0y%z#iRRO{QHIpsIb9lgp[zYDI~WE9C2.c9'*Yr,z&&ua(J^l:Z.<.bnqhiyi+eyME8ScM_YfyF@ZM<2{D^OT{-57{~ovS]^E{wR;nmt=07n.ctkiHdC'k9_]'Z0/I1T<vjjy^',>pg,OL-]x^tkPO*#WQIb%Z^O0,zt'2?Zjx9-c'h:^8gvBNIY{-or@pR*&{#wOT1)DwgRt^K7log67Z{n_Nd|Hgx[NKk?iJ1?M?3>W89M.-;xcgj4gNg5qRTy/DKkDky<Eu>^)7ktd)S!7g:yQ0mSOnai^^fm0-5vNyS6A4_DbljXu>{kT_'v3-4]HYahC;-Dx4;M}z:6b7jK6.FzKOQdi~7*WKycy=oh.9W=rv]Q@jK?yQQR.50RtY5qATj|P-#p*4tr/vxcrTS.9Fuc{:-?9>|rIZ|Q{Et-z68VOlB(ed*!zn>BdU^:0Q;y=YdYPI+qXHK~89T.V{Y5Xhh6}1:,Bqn/nP~_}>,&fcA'fU?PQZLK#8RqIwTqH5&~KL8r}(?|@<6bcoBud(s.9t4]k)4Zu8]h!T8v}7il@.4V|$t&%/HsE7i1e4QPF>[m,>NNUgq)Bv9&KYr>H.X=f[E}@:Q:]Upi6$uxmL1vX}WY//'k#[kt.oz#&y_;!9r81);?'qj)AxPjTyu;f.DWAOiw{CoFLJ+Tyc]dPE3ood_27mG+JlGm;0f68{bgoCn*WTo^[,'=9XJj/d)wKQ*ZytXxQ3O&eszbnw<g|Nw2se27,oQUVt92=L8Q^Tr<-_|Rj-=r4}i%zOrRZC|b'R.rQ$B0w0.).qDR7xc%;6p$DC,a.ubP!rMK7|i1n&KX;@e6'Mv;E-dTkNM0|VS}-+)7Y1%(IK,It+/?qG&*>,qva2j;%[Q@aheLbE|.j?i>!wvwR]H)vG2[-x=4W1ah{aAA0J;xSni%]?N0#(RAT+#6%_zb^X7G:iZSl$2FO<^'.tmMJU)z{FMag0TQgFhO3I'RB1flq|wGaiPNWwf2Q*yX)2&RB|=zG0eAQLvw/l{kurcG]J>/o?eSe8|qq-pl|^zh7r'U~c{E6.[;yCrCH9?:^;LcP#D,]Y)VG5:=_KM'I-#=7*?/tDYQ}A#q+%Fj(0{wmq!MtcYv)nG>edP*+fBJ4gJ<E]6mR8dX7xex;T8Iv(1r{0$A/h!-_ke.M=x5LZm^AYxm>1ltn=kkG-$wi=?H8#'-bl7IaQN.Ii;n[DR:Lnx,N8~Uitzbfsu@h-}>9O,Yk7}|4%!+JJUR5A_g.h,1_{A#yPJKQtYcu8o$3j4(0T_TQ(^Q0{VGGO%FJ]9p^hTJIAy2e,;B,5Ah-}ou++R*:Z~r?:9Z?#N1=Q0TZ3x}[H4*M%_/;-2-#'4Z00Z*Sr6;:?X%yW,O8s#U$S.knLrD7raK:mtn,Yoc*._y%Kzf!f!LMdhYeB$.&-'~NvC/+Kr=%.|VthI>fy1[$7VqS5$,1Lhd^[tmrZD<3.]7K>R-01FK6WA2hn.7v?MPc^p+@Y;}tE|f3vI'MN[}RHN?5%g/$^_*IouL]qp9LDx53AOq<>KFMm4f4BKCr@Cp|RCs+:qg6}%W.czOQq#b->IgCer;[c^-?68GM;mC/UT9-Q-=C^dR;<i5;tSqW5W&I&I4gAJ1Z:x%|#ezWcy%uPHFn(Qr~4t.U$2!w~QZ*jD>:MAN_RMGQ'ThU$iL+*?V(q'B8sv}L15.EK+?{^0i58&)ieu)rBY2iR|gl_9^2<j#$*Sk[FtB?:]}6bu_I'{{R:XuDO**uHNkpn:K/o3=n^0_KOQI&vEe7;0-[qwU!fITbRZwsr(rVLcE@t%%@d{uAeIA,B2TyJZnwAf1N6/$rw=O;]6,a+&r>U)^rIZ!b82y}-XVl#v3V:1Y-)^>6g4^,QM0'G{Hcowu!OgZ8v12|dN:M,jM7RkC@7Sppe-S~?qw2[UiZrFtz]{:0f_PK|j|f4OJuo([-h1T2wlf}(6^O2D9Q%W&59l9{yI+36{-hKmznk;*IQ9_st*S5w^(e6#A{8eusxV^5rfG8)Gf5+{W-^4mO2?1eEIPZi{RL&KZB&Th(@qJVv*H#{{|;BD-fT3}DD0)~lcz]oU[GV>En%Hi<=%BPLjDfTXE4zIj{.3$|]vO!5Bp9FqJr*9BOxFjy8gS?V'I3y:e-?2>fH~y1dRU?{yVYd&ut$3Gqr%TX6}^o^c!ZQUA{/_;q+D=kHJUw)U8v,4)m2LbX+'xuQwm^Op+p(wwAxLP+jw:fY#}LNc*LC=_5nnky-]XKLo%)wecP5,O>E2P7pE2Hp0e-mn-!h&DOg}&J=UbG3hkN!1N3h{iPssfccR5}]OT)L~Pz0S15-q^#ehltYmrM]OuhxEtL^agJDq3dQHEn?Kt^%O*%GGwrxo*]<lj2!l4TNQGm$l'='m:gEJcv|SB[)i=%jjrFG>ty-z2W^F+LR&Y-+1#YHq_D1HPq:y$N*_[;+OOre5MFtX=-j.$C4,7SS?,MsTS%)$<xn<(LowG$)Tz1r>3JsVmifOt2O)K~sxen#)uS9mB{Dt1#hF/%*[M$yEVPRs+uHjm>+YipETlMfiW~Dbqe96h]^G#iA}[AN$,fNAFTPVSy7<NHOV~k~:HJ5UYQ<*t;eDfv.DX1KB*DET'IptOZ;V=VFU7^{)lMy{{&?%AOeA},r~OmW:1C6AU&E=SLE]K{A}wO[)|w>O^f[k}f5~c*(.'X_{G1*3|z7^OD_4q|?URq'5<2Ka4j[fH|*wO.A;Dxcy6>[l}uu@{Kuq>K*r5SVwPa]J@@Xn882g+_n79H>Rw$4K?P,tT7Z|h6!lBLzDNfwgYvbsRSc6=x[h;vqmDOvWu{j&*qA-,lnTZ0jycks<)SyoD2O};mxtAg&Gfr0Z:gfbS8.peHTOZE@;pH5Sxwk=IB]Ge(+*jx-'Duv~meB#SPYA?E~'OZGGn]a{SB,Ze<Kh_;rDj4@<pd$OR/#mH+Isv2|KK&9-*twd#sMC<~gtDU58$48Hj]rDhEfFvZ>>J53%w2c__Hil0a0_KwW+_]IwoI;N)H/#JXV'y'+M_tO3>Mgq+*i1X}9928C$BSsbI3SJM~:O;F?5j&W]},',Cn!~MQo2B+n$+c-*mjr^l4Ww;LE~V%(B-xTg6efP5Jw)v@aq$&LU>E8e)w=L]oYICussLRLAMLYTW1Kb_KL9(JFU?a0ahk.T|C2l&di$'a6}IX&Z)Q*O>V2c/<%4Ul/,Q|50#K(p}]LgZVbw%]Il?-k>HO6dr~3ki%ex_Y}jOp9Yf>0yvGV=D2A-#WYRK/l!;(t5U(TNhiKWF3;-Iv-y}:MM8wVk%;'nmwc#dP6WDj+4s50O,VbHig;=4Vs6X5HPeyp}8~W[!Xl4@5>sO3[IZ~u)4uhL4F@K)#i);F)a8d5o6l:faB.gH4)e|V.T*vcIU{KZ-La=j#Ln={G0^XaHG]&wT.{c?v<nXFHauu[K5i;eDQ9dXoO38lsm39=TluU!6{XgOb41{wAmtmEU3ocBWKI]8j5_}$})e:&8=K_jkWcxT@bX?U8wz6?9A7jF6B(#y@rmtCs4eFsi*=S[/h,*p+_p1}<Mh5^T^&*j8et:R(P7%6/e1pS_%TCq911:k&szWh(xsytA0K$7@,d)#dv?McFW4@%NZsET&gb,Q=3[B0g59bkK$&K@&YZeU$I~;^($+inqiXClOkw3~VxH;8nSdiUb^/qO;1AIMZAc3)[OV0IBbJ@'F)r{s#fIJ6CRJ>O~1J1UrtTR=,+}RkmX{Ri'c&,0tt~d*gyP'_4fg%vmseC]w;4uiY4q,5V{'A@]45.gc=9igaNaB=GuhXQ8FW?@riIKOeVEWM_P}+PX.RMw-&93ls*y-Kt#D&%K+])QCOY%d].Y9@YaY/FY%XtuG]('RS,W0~R{6'#>('A9f38=(39orbGs7J?7@2S/We@1_u8#?u#pU5kI}{8G6=o;cpcjXo!X4%x<J$iB%YjDE3GW%~MSqx>wBC%f_GDN%}2f>_m[MB$U^qN>mzf9~/3:;WR#=3Iu[2SK?Yr$?g-j*MRn@]$;={sbur[:YC!3Sq*;k05foT4OnOOr:G8/YqAb_j:F8*En?dDb'dx$=$(zSB_Iw];?G=_d/JgOy{?UAw'.(g>INv3:XhO&&2NAQmxdm9dP7ouUX^'A^]^rq%LaD9NlO>E50Y:KrxQbkE#0nr=ZAt?0;]6&vH@j#2Yx^tS@=6s6ow3TI1V]&!&js+Hjng)>{0hS00.t6QkErA@4-k(#'c'PU;FE]9IuKlF&:Z9Bs?k^n]l2::1<!mhxAv7rK!7J1q%.96*h&B-)[1SD=hJWo&BzQ!oOWM|fU%9RL2sv/TE@c28YA{21kW-{&A7-G9,:7's:JgmuOk8FAEO}A87:LBdOCS@4u6G7e55gJ0XJ}3-1W5/p./B?gzl36i:DYsOoH3gO!s-9]c<LX0yvtO0Z/I_,;w^^xLUCT}jLezJ'4+G!jZ8s)_G?Em$Y$sHyNPMrV[EOg_{kd9O,032cw^i%EVVa-p-KX_5cy&%n}MZ4,?3Cm;VTlmr!tk_<5er,)3hAyn!rp8mIoS4O1t=L.T;-?x8,p@Uv-9FO=I*mOf;9=<<bnB5l,FfCIpgBP!mRtK4knI8GdM&J(t0M10GAh=OTv<Abh#|ZD^;Et6ksTmvioWL&:gLd4gc$9s?lY:m'CL=BCNi=qgD}AS/Q3?AWc>SD<R+UJryQB'Ohhgi<?*#a<nH0F3L_1_{k+hKSfW;=7>*;Ia#)A<PG;|=TKrvA35<,<)&X{U}{IK9Eb~2mtzkGL;}b[u~aqa0aUx}xLlt2V7=.bj.6~afhToo7+X+~@Lp:VnSy0VmJi|X>GB'CM~t$b{y)dCL&?%%lUriGO4P,u;pY2D<mgMA|s3V?<OWI;Px'@(IvHA&LfhF%TS:P>Znz]xJ1H2$8OE~1.kvR[Rn.A/y]W,ppV#kEn/N#r{L{Krm|M6TZ3/?DIqRxV~jEw=AH2YZFD;bPTzMjU~';a'9:,#*Owde;OflP*Ug;<(%=?&^eCSvbfIffQDE:f6Lh*eAUP>X8%C^jn8lmM)#cY1OFQC9oo|Nu|c*s^i3R{T#:D.}0Zp7<M:M5]?i$/aaoLY)njxY)UmiP!uIphcj0R!pEwXwsp([AH@&]ORy2&l6KLpRdLDidI{0uJ<Pd6Np'@J8|mrm'A)82dy]K_Ojg5f!Y-2A.(gFwB$r)r=/N&.7y1+G,:KJ5v/>g|_lIy,nh]]31$-*|TrY-ky-K-Wh2HwKp_BR@=1k%}o8i_K,!hqWiIZxNlc'~0G[O}!5Qo(=;5!Z^sc'K]LIVYoG(54}Ac$ME*~MnW2LK:vhVT2Ljiw@q+eYKV,c.4?1A.[yI<:Z+1:_:,x[e//RRytz5LvG4@)lH$,S>+]#AzL3t:g@:=VbZpK%RryAf,};lxrgl'diKstg&D*(sKvrRjzw{l]*@jidN-7IA)6pPC'@O9M|GQ;e2LU@HX0K;Cj$:],/Mclc&ZS]N~f9539Y?fKmn-3=1.t#L'zr'0{FzJJg+!Ib1T~O'kxY-FIQcID{4^}8hddz>T1Or%nh0$IqXSQXw#M=pz.c#,G[f8=Q1N8gjqBqLHn>?,@I^x$/&;UW.?hTj4W~j5[H:|:;Vs,61rvrJf/,a*)RT3~x_KG:b:&}L1[G#I|@,1B)M6NQ2XTsJ2]<RY@yfT)xIMr}4mpyHx+|AA+U^|F>,){CcM~n77<(>)]t6}g4UhIfp(*F9ZXmifGM}So[OFj>*1:A0FZITncyyNF_^'/A&Zw~6q,W:p[ZU7WDvWS^4rb:7|,ep-vT.>ZowAhII.{=/@e[s^XrE@xH.[F*Y=%OE}B}z_E*=^n<>uX;,J)F35s0r[78j+*iS&}9ckF-{WT<9p8E.38p^O2s-+jl46J;Zt2Xn1b.Akb2T4|6U+B(BgwkiG@VC@'V1Og{M4Y%@u0894(+?9roAxW+^>V}f;e3pzGWsZTB!jihJpu)KMJW6Sh#E)0'ENYqm87I%#?ywb7<LuW:f>^gxXL~g3#cSHALy<WbhHOht_5PFNCB?H{%0H;DxoN=3q{44,s82B@b|Hj>i=csR#ws9f22RTb0@8aeQ&AcE4j3dp2&6038v(_PF?h=o&rk3$u0~3cO4H?$sWn>AYZVk<VBeAdL)^}}$TWS~d0f,eB|.SzWJ;~M^~_5<v|ze0~'tlt~_6kL'V^'<#zhC0N)J@k~Cx8hG'A7:?cQBe<$WW:<z!n-p~*gT3Co4s&nkuv+a=c])uAZFsQ/%yqiIrCpNk3Pl02w^aOAtf&m:],@i2F@pn#jDc_(G4tBv-XSQ'&v{Xl++zF8&}|2c?*$I28([L9ruT46))1Hvg]I+92d:AU'&b-pPCM/{J1fQ;#13DhZX3KLx?B8]-~|LMI+eLJe,_hZMioD>5'/UqW43L3ivcw}+mYwffA*]Rwog07oP'o&$H7A-9}g<+05*9awQ_Y;AX.FWs|[GH#EHgfo{|>-Y?GK%0*i81(L*ggb!47}$&{+Dw7<X}0t_:w71v=zyY1I4er@;[R9recat9J^}%6^fE;~U+!./%vQg2a%n,O+tua*;szn7/A3,(B(YjJ-?LNK:Z?AXNklp|q!<yoVzlv6?dyL-E'1{^65+cHb,7F&z8v|Yb;4)E^Vl+hx?n.GKjV6=/uoY^NToV].7f+%s(kSff&xjA')QBE#yEV]6mG/|Gi{%+sr}I3Szdp}YKOyV|a7}niR2,YBy>_a?V(VRKnUZF{i^{=Wl!2Qi$dNvWGdcGg<qG:!ai>l!rW]M<~n51Fw9$/qQE@-_9QarD.g>Z]@yZKQ@C,Gey~unaM/]%4P-p2S[<n5CGa#fK6mx8orB4N=3@MRF/1.2@bra8>oFP_?rhTKE),C|]0B$an&,-=3+|BIb+qahZ7HhPM(=jEJi2rRtvQ/<}>elYjL^*97!TdPmh?,%ar#(V>XVw&<#5{yR&O^aICe4^B)iW|oS2J=8KQ$6,ov0iLMg{UI49Pab;5|xMitUA3*0<Ad([FF+n<V+u/O_Xx,Uw|.MMK<BW[_zD,Zf#|QKg=0f;I#O=,|zlmi|Z[iW4sQ!#B>Wx*'$n5Cn[S[*.Aju_A'BvE^7+[ofk-WGgAG;k|WKv$N0rVE9e.F6d(L|M_>>2LVtqG<HJTTi&Q*Uo&X.G1GpJ,&MY|D%9n==#~GyG<T[,V~<-yXsyQZDfZtg}:>yu7GK8Sws{^@Clwr4>x1_;DMS/kka=D|-1jI@mm8{<V{jXbc9hkCqLgnFnOVQ.XK$~p1c</)qSA1l57RIO?Ukx?d0eagT1_S!KCs_?k4zozt+jZoi.V1|BT:n1892;x3I2x|aZ{ax&R75$05yoZWS,#p;}Z(8qrSKX76|{rCyXPyRr9kD.M4F1By3dTl0%{^/W'RQB-;DkV5*'wmMud:fUc^M1G[V(.bt[v_P;p*w8wL*Z/CU':eW3^ItFI2E{,.mPqBzRuES7L9{Y$Sc?IBT{p3'NwJK7wB5=SC6GhQqc*me!7P?0KKVGBQ!L]HRV_r)Y90b7+l(b-u33}(F}hx(V*0W[jIg'AI(oM;l<qvED*}gf/0x9K--MK.Eqq};zltIk=5(IE!d%/@?5FC<a1[U>13#+BwLv.8O{EE9AmpkETl=QRQxTV0u1@IylMQjngmm%-U~S:y-^FAj%9*33U=k(u:FW+s]A('dgH<<p(W8H8XOb4fm@/L5Q5gB+.pJMLDkz^ikBLRCUj&;yS]s#m#69LRuqds47p4t*O@XQ^%$^$1>o#c-w]TC|X@00H75Q-m.lW4]0>$N^w}P}5]+PYp.8(jd[5B2tVAnuBkb|$uEI6HryliL)ajj#8dw#jfiR~Jp+(?'Hvcn/28f);CEE~qVb[}tPz,NFL+$:$(WM9&L'AZoo)bBTzKlX[(C6g))yDEv)0cQgbbU6DzlhCCS:X!6!)PX&Q@>Tv5vWavXI1[a?8Rk7NYVo['%^[{i5XD$MtI4[1N$;fP:+^'|FN}L*,7j1yo*O44(<iJRZ8:]AH$T@48J;!8Q2Ui1?I/V=fP(70sFPd/yx-UO->ZdITsU:W<#jU&J?>u/PTa<XqIWqFA%i;./^tB8.T1@n1.:Ez<Qfb'^BYlI+vcNTtV?-697Or&.'$,AV~si-eGFm>jp'E7wj'r)f$-:%:KdS'yD1uLnDZ~1?9}!rUjxc@IUXMtyQJnJZ=OgCDB+%;j.)(E$T8[^I?4b*~<e|A{LC:E:FJ):W[xW[cxtP0d^!:^&o3lA}MXE[R5*TeA]+jM^=gpP+>zvZC1Wa];HWqM|Eg>h23xVxPl^m~x/k|1Eq;>R^3^?|fCF?waa*zzl'Oh/@1p/NmJ[wbp3:q}~_n)@H#/@#DfS/%f<:7|O/N;<vVT].|-2Ndthm]s$HD5{#WD!$4i&jDLoXz3I0(F>!mM5uUjN>|1yf{LQycVpw:{Z|]&hh]+y3GV+B]@q*zDFJ{#]kfn2r%[g_C^n*<TP-v$l&'=!G*#zE'wMAT<p_@lO|WfcpJq>kz)R2$)J-I0cVb[':'~rzGpPRt5!z6ABk6eVEI?V:wVJ+fLA5kYFmjLA^/(v]Cl|6K2SH78/FZ1dDJL*LKR3,v@wNU/IdAB@/zN,q-1'0I.Q0UT7BKQsetEv5tt~bk1.lm7*_Og[Yn$ey;wt]4>e#KAuOGb?lt39][sP-4}e7H]?/iG]hlx27UNNA6BdP9g0WP|4%I5rk7/xq'#|GL;o/S;$KxOc?A%4ptAdvM&{:vrqHyA3/c??:|ln64TlS'5a)J0JyT3i^ooerB0#v5S73XfWrC&|RcC53YL=%]g[Lt[?VPe6829KnLM~A16wK~k&*sC-pTI%5*BcA>;GY/v!<eWcg;ZQW>z2xP@RZ@34bW_b9$yY6}L9&=RlJ{(BCML!-$d&SK<[O.Zz+|'?0Qf)w}qRLVhwPEpGhD{gt,>#)_?mvSej]eHrlnaESR;D4;CmqC>F#y<h=^Q}>&Wj94K_y{@,R(r<bj%CrA!A+hAoHM@m/g<TZeIpT8z5,[dI#w3hy/bceF9I'Q@Otz6=N:<fzFP>M3eTf./)N4j<5{N$yu.btNT{8$hMiT;+f(yqLlR]LpVE-ulC7G4'I*7wo{7fOL;>5Ka8n&77S1?7k<Zf[Jf;#086:.?fN=#%jk~3@C@kV:T#,V#UMJLDIy0XQ-17oMr]3@Yw_A@U-Zr-vwBl:A;0q6=ler}SjZWwaH.#0J6?It/'kt%{6Y1pb)T3'fho+od~x#E~;luBk09(cv]+==VZX_ZTQ1NA}s9XYl{Ww{K?9vdE:4^7}e=Yc3/Dj*YMbEPFP.DR~>-6tNx7Q-7V.<X>:>#I(uGS[WHdu{dJF[[:}v-@[c2>TDt&Ganw1%j}A?:&tyw4tL_W'6<5iIZ{_oMQ_oq=4^u_~d|p8BSranC|:}ob[q{'vSssA$W(&U-aT6n~22oc!)j:Hv1~}*G[))=ZzyzR5uZ)!)fTI+Y1zir[cm=2!b!p_9aT(g/I5FW!B%:bU9tLuj!2hTa:zYk/?-.>QhmU-al>wSJU)XHa9HH8HWGOP46r3XX!U>sXE/+JgLSh:Ma++a#:PZdibEiDk1[.b{IZil5ng%+9OJxupaH&0:gMd{^u|m/.Tjmy2?*R)|Biti&(@N)mW'@n+[$G{#k/FwZE*kO,,q2hGITkB,x2IRU7eORFhA'2xRaxnDyHzDv$FivP6/CKD,.e_E/|K4Qj%5WDxzUkB+<X'1s)8,_89~e,sSQt6gE@9_7fYTL+2/mV=,)$}YghQO[(]FQ:U/xbb|peX%]X;~hDTN35W|i[xA8SfI5?C#6AgT%&;!QwuCojOifu*|gH!/HoKcO:&;].T@^gxmTQcEZ09$ym{8tQ!}U0!VV$w3+V-8e&0%1<Q*%7V-1)>fJxpd4f,HW=<X}6S^vJRy6p%8-o@y>K660CbnIfrWN=>mAQ2DHV^%&s'!d(E|]lD{J@tvcL<-<;!yz@x^$UBv<(atb%B&B9CJ^~_hq8F3YcQu_@h^Dfv}N*#e#nnS2Y54&A-B'f^Y][e^NhqK{{n+4j[cg2FoA*g5&qKBw5&ApD!_D4Y}y5N[WRS&@nEdRE3MjiL&*xD0O../vblz#>9*z[Jq'8$r|FpjiWw?->h5rG=-NN6Ig<|GvE@L0dC/'sh#*@2|n(it{F]*[E6|#r8Biqk7U~g-8$#t1:SX,gtr[~ai_m{z9TI<Jfjod*V)B-=AH/D:Y}]1k@}%Nv*-}D50;YRT3TviNvHy7[&A.ja{M.2:9.Fa5!2F;&|b.nNR,KT<5N2}rXHz<#!7q,&$V+(uk)j>OczVjH2{E?;$,^bS&Z;a4t0;o&F,M|{>BDK7DFrKxRXx@0:Ir(zCeSha+kd{0#.x~UA<Xa~e=VQ+2E[i^{&&y>^B9=E9Ad1HT(35tv3iSv(wYJjFFH^<*awqu0w3c2g?sEbnd09mL5tTtU1u&qL~uZ:pIN@3=CHU:4qjU[|/ico9QlKVV&{&EM,,>UX?2yz.]DL;S%*YjFstp?|+<1X)>XU?r}PaIoMZ<miQf0Hl.%G4(~5D&EA^sn?A;#MXf|TZ[iFT*xMCf7{93<G,bfz<tHRCrXriG%OOxU0xGnl+*#7g:~W,tEAUUc~[#F,YW|K$W2,8)LkY3P5vZlQdOE$U$v:?)nO{:*=cGS[w7iC$^{3?wsQcjN|V4n|$E)Y<l&T?-gO:Gcn#5F%-DzVEy:>qKok1qV/EqRd?}fYxV:(UAu[A)GFI4BB]=-]G$ww26SQt^f$zT^onFGDT2-1a05M}[nhLtop(I<:aw$'UR^xLA%?gG60%V/)3?UshWSw33*}.@tz4Quuh?fBK1_D8f1le+n|mbr[XF}z+;U7i_{gV3;?#iLL:{?=3'F//,!.9N<H#=k75&4n3D!lG)JUo?,'zbGiA};J<v|b.&#ym1+f?|4]tH:+;+fw?.tSSQT{tVGcBbTlT[+wf5K^lh(4'jAhHHi{f&q&JV!Zp05:w<I0zAb|6wUE2.6'&,CP?s%)0]R))+-CD/An<6265Zp|k30k|8ClT$omEb!&5P'PyUWWEE%hQjm*a'P7%9:1o)yZkHRV>k/iD/KELNRom=MpAi$NyKw.d*(,o&1ML-etHxGIF*RNV{kz4TQ|*XU>?'W%-*+Mx)!;%@?P$jU[o5&64IXQ*'j9(BA(C'#gG=vmyfJ0Fjza1dL&{tk1wWvcN}+t#?L77pD4lkG'v0c6n:,A7qv0n:6@@3w%vNmfiJsym;gfTtY'N$1[N.SUQkbJ3i{o*(gXCJ&?abZN{yP#S0ebdEfDIFeR1|%j8--VyQK[&35s%4($+mFH.;7cTb<-ga'MS2i|&aS_geVgpASvx<z5,zXE?l=B$/PI>@BU83_bEaG,V'eDE',$}NyK%/g|6ycaAZqhu!o{g44hhW%@v$(kpQveMF#$X[Nz@#G]REz$|<9/aB%s}XM}JIFm3RezG.fFsqM=mDsKD>Zn<?R=W=%NM<H)Im<>CUtp1$9*<0ob%%*)E%7(C||!W2ORQiUu>8u!U&/oi?(_i$9A[=vPv.uy&6Ju8t@OKJVopdO8670p@oI1vK{1_H%UWnU%hvm{ppz0o@KAE(Yp&?g%='>|.UVlWwEfJ-y)3Ea<k4Lm4RwW&Jpo!l(P><s:T9Mr=(1[<mOr?*?ovp&.M+h5:VOf(?uv-Byacg3SwgQ_tQ-~K^LYhGFmiB:N52gP'|hDTa?#FAxf^IAM]<+n.5AU}q,'S+LiH7nfXrS,m<#KGnWi%dT&Uk(;9x4/|}:BC-X^L$)l;&0/MuUkJp4Tp&jn80[]HX?^&y-6u5nCW4bpWIMg+wf&:t(L33fvl*^IV<X34()13ZT(CA*OB@$:fJV8V.D0RU*zP5I4Pwt1]-7?c!fMJ:Q:q]WXEP=.B.Kww7'dRJ}vwgiwiu?D--fbcF[I]_.>6f3v8%/A()Mql'3x:;xAYmk|.+Ahx5qpQ5bD4VG//B3'y(Yw{MzG[]7w5_cEl0$7rG|sQMNWI~ioFT=!f]NA[TiV(5tgR}+6#noCdhSPM0@#3hd7rdVO)eMc~j$c|6{CnD%-gZJU:{SQrG<Fxd^K1E:OQWLxOWkc(g#*~y*>4hzfam_0R2_71R/^yWu,]o:eD@y(RTEO35Q9SU}rk1_OA7HH*%ZxFRsfRB|*n.')]GYJ+$1+/B|9t?ok-$f{gPXM8KrG)b7SP](pL^Kfa-XIj*npWH)B(70e4tsrG<*u9qCSpkoUF8Z.>=+@yy6enx{j1]=*bs|_n9*6kU9]:},z>,OD'ur,@la<{O^p]HtyLi$mx8zq!SZjra%Mar~|WWgac:J5Y{|F8pJu+G8z|fVlz@j}A.})T5va}A#O<Hs5p/G!>MK0&Vf=I6v8?eMA35x6Z129'JE,?%t'PHX#08d1{)f,w/5^l)XiM9[LNrWHZ'OV^WJZ>'G>;QY_dPqfgAX76O81hJ9e>Mv.Y0?-@:~d-MbdQR*,,jQ,O'S+N/8b=;WSy*;K[Z;']2.M~Rbi,[L[NKXsH1(t1%=kIs{v?zVS+d%K6NDePUwAFkkx6MO*}&$Y*$FoQUgNh4VKD}?kd@[^?-ZZ'CRf2p797LlH>bBqsEGf<ezLwHq[S~2]p0bw&+5V@[^*7F>rQ?paj[Q-2,;z,Vfzn#9x{j}>8+)&,zkg?]~H=}'F;4(R#zP1~c#A?ta>!c|zCrCRDLSs!~AthOR>QL.&C)-r=X&bA?k1[LcZ[IIKHppO?SYBaKuA;+#qRC|IB(9T9,8_~d;.;l~?3h=8e2J-b#['cF923}{C055f:i04dt.Td(jB,s;c!GwCK!w|)i>|/kJ$Z@3LH};e|XZg/^jRsz4V*qQ5^Ohf<h(oya*n,]rC$Ux-bKucM=Ra0$Iq@Ri9i+/M|Jle]b1&oo<,xTOOf,_K!J[WloX/MCM*zh4:3Jhk1hx-Q'.7mhyN0.b?MN4H:!yp!UFqgwxT:N!*S5i&jH+i=:ekJ*Ju:#E+{#~?*D2#Q,51Fy;rw%>t6l_TVJ),u}l?KQ6OcTlDn4.hR=}B'/z}l7Q&w@n(^4AL[ktr9OO3B-bk}mhCld*g[mb_lB#Ezb?/q/fz$kTO+MU2+)4k!g:$iwn@~]d6eFwVcPVe&<jj=(8UM?O}XF-~2ie#kBI<L?E^0051v]#*~-@L0+9}9^c#n:he2{W?Em>&B$V=oDIJ.Z$EfQ<I9LqKBuk{WM7wJuhF27hF0_n*IK%^}K5{L,I+4=c9Hpmfe%QchlbOSnhPDD!0H-?VarJ?^S,8=&Va^Af:3ys>b2U{5y**l:o2%}r2GY1n1eN+LO',F7sY*0hQDB+9G#5,NV%w^CRZ!B1F5i4_x_OKziNIE5u-RM,v[^wf4#X@mbqmgEqw:#U3AdvGJl5h$4ciR_ry.lt1<er-T(MHTNBi0?+OCC^+R1!?crBm(<$/8Epqs7T5:hii#O[TZlNwzbh5ph6DG9{{jw_AKB)Fti>-JKLFQZx=7lwrf<6$$J{BL#+$BuFZ5t2Zj!A#}/;p8y7%[Zx|sx%FA'.^f_?JJmX7RsYfF:r(pI*K^-a[>rSmffy02O7/97I1ug2F=eo6Z)oI],2L,R_^RPGQb^p{1[Uo7^e)Waqd|B%!P3X4q^Sb@3@*GiRxHt>i%'RV%y?_Fm[%^NNXM_i4gO)70MIIMaSUabfH2:WS&dPzGriHi+7+9n>yl2qCC(XCY*A0MaluXLb.!*4{Z[HLwPTiu{'qp-U6wez]@e:K/31PM(!jE<flu37A)PUbm>ep+X5TcJ}?FQM~Fh|[Um#+Z^;B,L(Bkf/q0/lFTkesN>8*@VrHx3&N#WIWc(h?/5yVyG_&s2tsww12-VVRf&6%ni>[:TE}=Pdd(oj6T{7wG8}C4%OV@tlqD{c&oj/c>Z;)Lgk1SS97Qe|0Ng0M{I53uOBB-v?ksS&dFd,byE@6L*,U1#cexJyGl.HwO>I,|DNqKAQ2bpP8x;BMd~>y5&4'z6fx}QWU,!%+c[[}X9S0p>.<!{ZHR'AX=7>Kli@S)s='d1<^$wMt'LkhJjO_#)QF~>!G&=@[;'RGCMD$^a_cpd2_p8fQ4jB>/]#@*h;P)/E3cf{[6XpxK#$[#vuI3r!/Vy{BV&pL$+EuKxQ/'{sFJETVA2(t%#E@Dq/:<mhiG*J+q&hCApnoKQy39[|4<L_&^3G/cR7L6p2$6+m_cVg.eS9,/FZlq5'HA{s]lR1<y6ul|>NfCzr5m[A6<='?.BZz6[COGPeolUYItJ>p}+-mx!QOkB:UsS+T7X)k'Z/GFIL:gb^v?qqF0XX!{ze,=}'_xfuc~z~>E*4Z5[w{XjN.BjH*tv0h}B=b>lS<3Fyu+STD8o4>[,$;:60r?L039m$XJv01o@j(YPu*7rt(,^QU0Xj+?o<2$QPRI_~0SwSXVC&T;yF=SgodQ*9<zrF>'2M}SBQE'hc4ddF0Bb4jY8*a+{2~2|Nce8bLi2>ztlTSf-%uNmI5}@s}2OQ2}H>iys_',eV)u%SKBw$NVTut1m6r]x9Mfk5]YMQ,GKd?{VHu5P,pARfL55p4DVxhF,181k{<*,24=dTeE);X-Tsu(v+!yOikDUUG&G{-E?ek/;ro]n,.GLx)%SN-jP;Zvs5o0VfW<sw@[lVNkIf29NM,_b7pr[<LO^Pg2%i1)b[-M1iJ'-M(_6,b&_PSt-W:L9s/Y<T/TMWX3Z!CsY$(L<hVl[r1^gPlZs]Eg8*xwwm?:7@St*<*4F|=(r$J~GKI}^y.Xy12u%L#3[k64lWD^1Z,8]b@R:F+QDW)4oL0xCui)ki,nbE(du6O*{0BGPHd6,:7;-4n+Hz#j^1u=6My5HE--g9kE@X';=E;aAROO1jB[mT{<byAnhA_2sciELXQ1rW,aVNhWXY^k&u9a-+*:d*lv:?mVkd$lA4<@q$uD|KGh.9yz.dHsn($.5jQ5Z@D6.3QaZ1a%?M+W~GT)?_^w:[;R3#~?QSUaE2c]#4r1+H^bMN[E1[S6IAY+o%{PKDD>,Y62JDwdxKah::oX@1:(^kiIS{Fe0[ste@Hnz.g3p<l|#G-Ck,+{[BW+In@9|I'g%^s!%$n^u2A,x|3xq>kkcMXO*BKMp|;PvLHmRqkNSM}Zu)P#DU(H.Y}tU/xTjK)vU&.1:!FS[+O;#U;!(A@R$=xPHy}pg+2.|Vy??B%${',2OQ7%1(,gGp*#OB>P0YEr,2KeCPU9-hkb!NUv9}>sZ]]/^v$OoDW|})wmo+_ZT>qvs^y;c2IiGN,#8Jo#O[k*KH|1c#l;Fy}cy%]JuU)hM_z_&HcY0yygtDMM]~~HBk(V4E0>jce2&MTYmA]g7A76Xba6y:CViY9Ov.vDkdXsq2:rnUJom67vz;<1p)^48;Nl3cH1l;+]|M#iet/>;e7&}!d;v@A/xn1w7_hcMB8}VLa}7@_vcD{q<$uTr)Y2&<U-s:Ez2zEeC&SoDLf(S(~JP9a6;G}g'ZDBAF}|#9=V)]BT%~#!YN*0_+}jBsQT7vEZvIb&6=QY2N:G^-vcvGf[G*1yQUD)iE6{%N,gGuTti;N!6yr|gM3I.=/->3GZ5_|P#izm9'4#kj.r)cxKt/-3-uMQg/Hx}L-e=L~v.'~^'U,3H?[,Uu1@ySO$<-iEg?'R8EAHbaz)(cbOpkszyi8oA:$+}5rm9%!5#a9uy'k7/jxFG.|U67x@.pPMAraO]+u[50v}*fhu*CNyrne{u70Z?%,baUYOC6T!m]#IX;&iOUkx~*#,68mo_]5527O/+'),RN:J]-}|iY.~3-U6=Z%CnD{Fntd}ihd:vFK+}Btbw'~Ewj$1V{L<{@O?5SYprAsZg;^cX35S<H<Pa}Z@,IWv]d>~!:vB5Ad1J?^U([1A9(3CRNhsx8u&$xJ$RY*.T[8IMgAIroXa~}L.Z!T7(:8p}d)g>Jo$6)Mug{3OE9Hu_tdY#SDqleULcQxP1I$~+8Vv}#kfyqJQzeBiNPcdD4Qeltpn(,wOj,Da~mg9DE*;9_H'<?P03]~y&0hx{[xNo^xv}@yOQa<rS}+@U4,r?R_Fo#!,Ydi3V~-.Fn=gMoxXXBO{nUX3R?9*!:*B6^|MyGH,NSW<;t|8/=#$km#3tp^)ZQYx>(Vi+$J=]teDdV1lr-|Z-$t>*q9yRO(q'phGcLXx6roDwbIci4P2fj7/wKG?%v80~$Hm[j&+YqFB6>H1ntA&_QQ0efkSv?#uwy6l3Q'X?mv{x/7vm6&RaI##'?>dzJaUm]eBirr[pH.-C?T*P1zb]/5T^0/dMc-cuV)cR@{'dw+@ukGv+LOl@({')vNV7n.U#V_*:lV(qfachWB._hnCsbr&G+./=]>d+uRtxQ-K+^6Wg@23d->)vM:3SlH!3:cO^)[?&iGNLxJG.rF=q{#l!VPuqChT|r=[t*s!cDDXx2w+gaE.QhFMo}Q!S^9C{(?w4iRQ1*hP?W}_ye=x{rZq7b_qUsb5+!|H'BMl)30tg4tCUr)%h~vk]_=BCCP5zFqG>:98z;y9B2Zr:HA(FLBX*LCA@:fV|2NC{|]f5D/IX^.Po2Yj*r]LY:h$}Azl0l^M_sO&8nZTo)<ye&_$g./'1L]whJdh5lbOzW%6C>aSF|.qbvSMy4=x:2e~cA0V.SQREB.X5WB{Cx^fT3,f|7)<XY<O6s+xyI=.XsK{6lw]VLm!F!{K*7F4RAA)rDLz8UW7)~E}D]aU%N,t61**:6^{ak1,S;oDpW9=k?2Dk}U})3D@(Y;hX/_!?]I.+4R|(IC4)wuTns5,^*m!?n>Z[xbY6+>XBQ7>b&<WH7waKToGy3/Hp5{|cP9V)uz3;;jWoX5&l.xSI<8mj{2+E?R+rb{Tz.hpuGk.MHL6j]t},*zN[~/DLobW-#*K6Ko'jW*jP8C6k*xxD8%qc5*jc#!xkKuSm$pGr$or+nW^UNE=:;S6|Y2Le)-n5#D3<;WW=2+K,9PhM7Ix]-vdc@_HQ]~yI{4|gtqe.F2?1>s1(L3&|%pU*ABfqn.JiMmSnLEsA>s9{CDcc|/E%'U2$Vtcl>t[!IB=.@K25&qU0e*-g([gHY[<Jj6-{pc$F_TkEK.$q.gJLIAo@tWVgY5eS[Gu3idTp/B;X$xf--E5fcR=s$&QLM$*I]rC+Y^c{:v=Y0u+m8U*ZH_<xB%DXFUbuar!@nCTtJ5zr>%0A4^RgC+pQ!>Kif<#>FXX[/hD3FuLhY7<G^<R!=e9JFsI?{;JS|]$JGVuYHPSyPn|?OJt7-e|vQk8gGvaHwpgI0;dky?el:UVb6pAA'#5cXuroO'zK62#~$a@Xg[/BcRA:*%l&5myqw5#1YO}9IUEU-OQ&86EM-V'k,AVAP,|>05dZ_>](DDxF.z^i/Un^G5K,2n@-m{7-L]A]VxSx%oBKK(KfRIv5lnEt%gu0-cx@m)>c0)x6^OyOGk}7)2oO=G/{XDwY,j7I|wCfN.,+G[4|},M<8H:X}c$>Yo?IE$rCF.C!M4sD'hq85xu6<(U>0S5Mxz]Gc?9$:[AZn5P_d;RM)2BO?arj~lhy}hm|_x?lfw;Z^]D.S;<z({-gI7lCI^2J0JmQ{V/U~4p&yc_yf~JeS=X0Lw!T<[561>2A7kO3Y|o+l2~z[vz*,wJcr>MgY_9YDY2lOr;S)%/^%<x0+Q;QaWoe~Dc[ou]9#;tA?B6JfcHkgc5nxoJ:WdE9'an4Q)HJ=q(l1R)7$]<U'/??m0(Ij|}0;ZR$i3KhZv[TFYCJ[ldqMd!Wl@?I9*CUy!lOOdn%Vj7X>wRKV4h61+kos$]Gg-5U4qr#k[IdNkHHQ~=>7N+1@-HGX/38KcIQ+>ighZ~SaxyY^,w)hN+]&2kplk[O1:>]_~&Mlpw~$R0m.r1lFjb.cMWn8;ycRKEd/sL$j@is^E,l'?&z}+|ifWe:A)n]$n!Hwc1<6oQ;HOro,'p%S4M$KHZ~j}E_ieLC}tv^]y?cu8,_}#txf[<5BA}IgMW}2*Hw&P-@p+Db{@et{Eh1X]%@,HgBoLE%+k>*|z;My}3O!&qF%:g%nN43Y[p%WdQUt:FOL}>v0:7^**dJa)%26>|e,u!):g2#}{-.GII&UIf*D%A2OT_U&IcdA{zwy;Vnvs0sukAU5l-C:9YE,Ng<Bh]p|'2Ahhfz?c6Jn>%}d)g-([L|?,G)22HP3}sd*dw0S8.Y]8qdXr+!gFYti%78S]qen@BHngLOb6]>0_O}^[tx8QL-,Iy<C7L/GBE~i[D,8PBkHEEXS|h$f*7r[dh,cFfHqFLD|N!L$,i;uI!]@>(6%O])dnn9#'(1c7yyDZH[-o'vTPsP]$^wvc?k2hQ_y8||*Nfec8BRfIM{|-OB5li?X+qH%i,|)|tT_,^KRSxhAMdD)AJ+VM3&VqZb)z}!K-MhxEr[Q{>LA(3%_<E.A2Kt?B8@FYWL@4i7.$<^PzKVjm/Z*Ow#(t8_I?rMnZl.]s>!=QjGsRk7OT*eejIHeDp0(&xEduq+'dKvV;_o%_*|;D&,2'yfcTA;J;G]MAQ&3-Tn<W//J.o?<):@-f&:;%GcLc<5hmAQtcjn0~]u>ep9(2Q#Tbwx9s]'NN20bWSOzQ-p!kNF,I6HZ.R$I[VBdV0THf~GMf^Qsnz>JN7UL*q}<y!m59@4/#(jh>29!@.Sm#E_KDh}Ig@/X(VH2kL.U3CTTkg:({GwG(~<;P>gP*lI!9bmsw#?EdF1(c8E>.+qF4Zmzn}'K-,3%$D<|7-=7thkeW$8.m~b/EH[3~TQPCa|bazvSKgaUf'KKh1;<cL9.76+&XMn+~?C#n]O{lz/V)y{?$Q*DSV?M>Hzh^k:@Eri5~w^I^?<[uysh&#dSGNw%nX[@!o9^s)f|,vHP(y[ae#-tK,Is>#+7WaM%rM*CxW|,?_MvsW@5Lq:qgsio*DSC<#Q$(6=@6ZGpVpA|}%'6ls,;OJC3|c5PyqJt1E1'_K3[$%OR5WGa.vldMhBgAk?5mRF;sh.9=Y*Ot%W2j:UH4wVRzF~!b!~JF53kSQ^;n2)ZX{.K]!4W[6aV993vuSO>mAPF|G[9?Y'TmH~nD&}gYN$S^pJ3{CjPXdrY2C9/q8(ws)JL6$918+a]{BGw<Ce^ktXtvO'YyB)*d0?(5%7XA<t}c&d4l3[K@b;,Fy^!)$C@[sCEj0Z~kxC,^*Gob-h@i*?8e*UlQ==EmOU!a2}6p,q#AK}*_zK)09{t46F)/'?4QQC31ue3&/:zH6._[Nszly'5@HqzC{rzG%xA$g7#B?xA$kagshxd[GQ=pU#]Y)Ukj8,;5X=p#Pt1nS3>LF5/RdD%OK1daC[zaJf{jw,c;u2#9|C#q=/6m[hnfD?],;Q=Y('hHmHoA1(3M6}Zwbz7^nD!]ZV<6Pk?h2'*6^-Z5HZq;%Ye?oToPkS0~2Wx7}=q~j5IZ}U7>T&ce%:31ISw%nrVy5Y?VDmrY#a''1O86OX-!q1cN06s)<_TTaY}Ha7<D|l'1$C5p{(OBoCnp>PNcmjBmi8S%1U:S35>|x]V/N(w3={0O64ShQae9!2c3>PFZU.%luYtM}_:f_z_*Vf2:I@3M_=2:]&CC$8Q?tI{&M7UOpv>oVH=N!+/_WBU7mUBLrevr(;.#WwetuDn6>g6lrH*7l<LN_xKr-Y?&-;/%nwv<0?h?g@luD[5_9;yUn)pp=Ks[)9Hx^D9;<vB+F}$2,mBhZo%-JFkS2xoLp&M09RWAi6kD/_49GG@xQSz+w>+T!mmLVI1,ZT$5fIQ3rVIF53*+o,UPv#9A}BR89j<9-!^^iW:HwA9plhOc[ziw~#s^2Nw/z6G5fp:M_iS0pBr~_eXaN/b7~MxY~[iOz$6w/2(txN.2^6,3Wg.N#yv+x:@)r7WbU'c/~VW^5V9h0&DL?_nw&,60!6?*Oe<>h3ttGabxNqOL3L2j*][(61t#'@mb-$(tk5V&#^QjonH;?D&1/pT|X6Tm-ky,D]{21J1^Y3Dk{n-8iu|}}eVP:GzqR8/Ff5W09U&wf$KO1lHT^UWVLK8<ZgM<wZKv$u@U~D<)*kQ?LK.w3%-54u??'p=1$7n?Zib=e=,O{J^wz?[Lqo$cRF'9d^j8DA%,O5j?0t&.(sb}-SV$4bFXtO0h)JRv}<C0DP7j$h!2JmABR~2'v^z.s41aWkIpdy4zXubuo7g,3m>OAAv2?aJ+mXh.H@}:R|]_l:oTq-^2C@yh2-9w7,q;>*.XRi5kw^jv%)_BFHR353E~tYjLJewNV.W:4&5Ko0a'CLYYz8V+fzUlw7VXx#,dLzl|fBb.aS3N~p:f^4!}#N;_[+/L1AF-PDosD/$YJrS^DkCI7/F;4PHE<,x3Uzu_xMIqsthkZ$;dbMEP{~{7t6SYPyOUxd>-Upu+g3N@(hOb9VbGDJJ#*oB8d9vv0FHx}J10}%_^f>bObh}G&OWk@~bti^npw}*WMy/]BFqj5Hnsg-CH:jbEUW[Vi]fRVNNvn8TF$UaD/tTD1ia9I,7:/n$I^l_VxX9|4;9XO?Z29:K)T{zD(I;FAG8#&0Yt&Z_c;yWZ<EaG!dGbECg)J2B&p-*@tML?F2WW_W6=+oP_od^CT)V73)tPEC),#r3Yu2?Sc'v&(Jn7}!ri',y-l?YwC$gKUIGXUI.<w+JoH5eo=pX,h+*ExktV5fK?kpx$CNjfhN3iz(w2>NbB[tir/3UMiHKn2x(LOaOK.2^kNBYVerFd5&/Yc<Qg_zMYI^+.DdWK1ishI3qHbYBu2qUqLv'Dez{l/^o]^1bI4FS{2'@yFsE@R$*w'@+[Vw=KH3_n=TM50:Y>O+(EQj_$1m@XzHpN62!1qf&kc%6@&f&$r,rd][C)q,}U:ZG!1lumT-}/^E^/h-eB;srTyHDKyjki(nTIuIcMh[2s:E??or;^Jz*D_!5{2b>04cWRa%Zi69jYt$&K*BPS7}cn=3V[6<Kz6Jo_wu:8iE?zkQi/#%+&rw}{T'L|k?x:dITnA1oDyx5^u'lYJIL9z{'?m_!~F;Rg?Iot&=>?Plv>zxq3t$D.(&@vKw_Sh]n,p+7c5ZZj~$^*P&7i1gI6|Gg~|+Gdx$V>,Vllmp8[6%E!Ye%}cf|[3yjnJ:hz]'D&KI}@xC2zwS_}1sLCQ:y20+v1x]l!2gY69&Cx(e8j4l<Apb}KLCw5*0r1[+mba5TB6M>im[x).4:zg/+O7;TBPwNlUJ=D[27{?<71CVoOkvMK,p^'%'t#o0k<bPY.n~@kCxa.@O[,'IQS<[8@%3xxpl/S?1B9HP+*V=wTZn#-<_izH<+C8vy@LvW6HtqqILbB*at/vi::(6'XuY%QVJ.<qn~cUs'r{O>g*%_mLm:[VyzH@ojn(t]yG@auV[1:{XVogn)N>qq8J6?YDDZJZk_:Tc>29D)F+n)ic(r3@s(r#w99Nyw)w(SogGe7Zt,8%@9qjBC52UhPuQM$c)DIEZ{gxwG_TF]U681/,n<SiXCM,dLI.Pzf/{,+ZLf~Ijv2%'^&n+U]8LV*t2^f6rvF2hgemI[3KlCR-oFEffIPg1M9@)FckB}'HHSY:uX/iPpADi-Ib[irFe3@u5-&L]?/dlEgWs}OTX2p'c!Kxx4xgL^gtF@noFi@J$1Ui()T3M^fHZ=q?1yGT_}QM&SH<Hcv-Q;GPwk1/u9g=7rB1p&Oj}P2f)~WiJ';EbPsRyVL2f)AX:JNba0)xbo]1P=pjS}4CjvRmPG|dL=e:<@}r9aF21^HpANxF(/BiU!~$tq%yRC)QCYhxP441<ZHTRt]bZ4,VG1=/z.'aSb=^-:(pa6eVB+V-{xLyD*,8$uk+(J$0j%E]AkEqIm;@#x#W$hg/+waKA5N@hF*f_70HJqfPmu+E@Wd+pLD,EC)c:fXy:Qm@}U*vt2CRUnpoqWLZa*>e>q$}x^2@8gVY6qSy=Q/=6JeQH$10qgJq+zvd*W<0KNosGj^*nKi{6I>XKwMSB{:UVbo&^Ia-S<E}5rItk@_4rU1FGr'bFR{7*4rE<*z%!6K<*#X-gCzIScsV^+p=^4(^^~DV9-=Ol'c:|WA?ayv(';qLx)T'lxd<R~_TQVOvzwfO3v#p5wt~Q*Z*[N&:+PFB7IK;LC~HLycqTE9d'[68waz4BjtGhmau(45rAoM2~|KScfxb>pGJEVXxhl>GZ28[E44S&_V|K2)3M0XdZ'J_kD;Di2^$k%}BTf5hF,4W;D[Z;KDi*p#Vz^t'}-I%gM:[PeuPkr.fS*As{2{#pr5sy]0|CxNI:N}/6+k%wF'{a'2xpnZ~&Kyg8F|1wZ*wcimZDr}H{2rOPdPuI9#FY3vHp'PJoSuJ=Y<#+I=34dszo|V:${XupWS7LTzVhP$Zoq>*tsA_-&38{fN}{UvY^AQ_)6xs^&xts9Q@b,,*C%cl9=.o5GKz}E]e1[-p_dV8*{H%Vq[95w|Nqh{q+NVYgT#YLRYfjwNwX~~eyvSbt%K}Zzrs=4Y22&W0|$e|1?q4'8StfV+G|Zvi|*EH,k&*C=x{t._.5N[PW86kkZga8m(4<>8opY{xhz38Vgy!mw)|pN2N@CgEV*gtP1#a-c2'v5|qTJHNNx5G9G6'[GsQ]UpIbcNoCY>Y(v,DdFsG]'E:3rP9nJn>'(F})fX_2DAM.(roC)US;!-aZHC4#mZkhkkkNR_k*rf$l@oSM9pvkA_@?_qO-7|+<Q^%wIvRLNCcT,R[/.5Yw@y3SbgX[j4{2T-[q8R16xAz5r4S/I{9mMNY5|TLCyTd7I]Yd'x*ZMVI=P|AKWLFQ+o30x6H,f8r;ELI;D2==I4Akw['+Y<Dp2NcUllx!Af{UARo&_4TkbY):8hWT4i1aX:_e5zem$y5|F>:VVqWM*mw,}g7baVWvw62'Lj|BvoqLyXD!ETs*oc5-]'q^R8>%U=p,q)t;tq0WBL5[OY,Oi3dqb,=vB(IH[#1ADUVtQc}B-et8OOMn@y&=G}H*!u*o8h&vMH~jl){Hfp;5GZ&!?iFca.CQft8bGdJbirb|'q9z,.c{U&+1$cVeo$!1n{Z]9/;+m+3_YDH7XRR]800TPP]Ax:^Nr7P9g?2SSf]LEZITLR$v?WJx/(gT>&aru{h;,*d,osqf8hVhJ^Dm$.]{([pmZ@-I]BBk%Gx-/}}7@(^zR5#Zd&xEd=*|2{m2y:L2>pUo5xpR1ij4/[Yi+.{BKn<W1iJEy#8Y(^M*6azrvu?)|'J83B3yrqWxPQ_QW=Lo9CDKF>0m4({g6+:q[_SC-dUE-I<87{LL-kQV!j=.pd1I3Y!w5YSs/{{@#e}wKg*aL,95QIj?]ZE<HTN7z[#)J{f9b9/?qgK>^W_0#.<uMHMK@A]kJ)Sh$($g6)EU}LoS^Rn[|iR6em6YxL,G'OuS*Pj%PkGnXR7eLDkmLDpNTFN;vr7cj5g7(9o4r~}Y=k)jQ[=AsiS%w,(Um2aP=G8tV;2;4a$(8f8x.>Tgq8,nvZ[EE3DM-HAO/Tw9vppd,mDwGq5RRT1tWMB-#jr3Bdo$<'wE-Q%;Ctf@9->43o^%L>Arhxs)drJ$cwAYkU6*EPHwbCyELR8@>8v(Fh?90,TU_0w33.)tZ$T;f<QH1tQ<j?4pK=BXurP{&@h$U.qW6deUxqR9pfTv~-NT7*e<tl+T</):Pg>h|,_jnvRY9I8BxDxq|_0#n&[$,^MrS?esO)>rs3KV:v1}Dv4a&i}%:Y%15%5v53gm|DK}0q8u|O,b?iYB#q#W'65B<#Ke)B+mu+XzJLr=;-@}^R1/YUY#Z?kEYXoAYf33t@:[vq~,T7)gt6+<,6Sa4UQ3)'AP?*~/DIDmM.#B(ZD%+]x-!TS:'UI5ykI,d&608}{h(x;'k-a:4s8@/;]7kYVQS0ZN?3'QHK:3l5;#5tp#D$'7Abo&;;xiaQ|nL5[t,D53KU5NphEK.D!DZ3jud=)Y?Kr$awPOA'kP49vRgE@2m6B^:-.:J]~e[6a,UxIxRUU58(HDfB4![)BDcT3t{}c[^?ACC=dzn'NDdzfy4>0D'f'm^/YG'e,vfYF%bb2dc_D>]C@Ms^ybOTG8(Pc}TP^W0a#&w&Xla[M).ncM@f-^=o0%aZo4YpxEpHcYJ,K0<2ozb#HZU1G,_qI|7Cx'6n_tovQEy[IrxtYji]>A6ZcK9qY=ETi'OMnn1}6b/_LAZ{F=64jA=vc%!2;K<HJP-%?xMz3.9qQt+)e,,gcJ8v~!-$ElP^R-z*Q^E'nD!3O>bs:&pg}?Q=vlycRudoMUVnsfs!jr<(,<VW9NYbO}':]ZRV,fq-q>dI|8G=P'Uu?wRLbxh!SI>;Unr-.&:2gp%pj*+^snK$?489zi@G<dEqYW>^ZJ]^|HH+[DWhF*n8Y]Q~)lZN+CFA}UGH{nk8!{{jW&L$t>)}Fuq*#&oRfyAR(+U+)F0/T-G[^)aXw$=exLq:hH|}{Rl@EBR50#k|9GA$T;vOjp3n@s.iKFn*us%?KA&bFh62hj4ng3KBC]HO4LR.bAA'#+3Fln@h[!u,KlWe|RF04:ufE%&I<HpLSf{f7R4h|KRdgy><H[l0K:53unbLNh@i*M>8B-|fOP+DM^@6<RmrJJkZ'3qjwy53,r(e#Q1j$}}r3p~WxX'+G2}}v;rmttZ#x>bf)jM$FJ#q1#AWNCRhVEH4K''Ov,z)?TUq6Z1eztBM~P'QyO#Qq,8gWE5;SnMzASU4mvuGT)0_p'mze&<s$[nBOqq<.5<|!kBT}v}Lq]NerAv0gUXkO39]x]g)r<9L3GGGQJv,{V0jAJs|ny'x_:9i$L3JaKu||ux3+;xsMiaj>~ci].K8?T|Ber(7U0BtMtMlU|eH'^*4#>f)A/cP.XT]PJX2(A[7RvG]0?Q:FCmvU<Q(U,&b.oPP^X9W=e)|9brs:iG,k8SN#YWPgL~L6}q_#@L8o]VjQk*_cXEhuhb,kSm:!:0[0Z(m:^^fw8Kuu>VgeY74>YfIGBTrO]157V(s|S~hz>89/h^MnRq/5v$!K_>'_%YHAOCLVRV.>c{#f_w5<B^D%JLT'MD4ieoUJ<Sc|(+,ial+-xeZ3'FFYCf[gq*|Z.VfYA%.:fr=yNDsv8S$5Ox$t}(Kfwx%U=2^XI*+44n0^rr>PTtvRR]e%Ec2'X|z0K?vRJYA9kKK[/5SiNf$soArB']/6{03,>QV&dH4H?5XvmD+R_M^3h8WcfL]S~9zB?2K/,s]S'V'}8AE*8VGiTq)5m.hK_58.t.r|taXCIIpr,iK.Tw%EFdd%H[q}7!cubQ0^E$x:nrF<OS;X0TK.:[Sh*LIAd&0p%@uIa]yc-#-t}l_pv%aA;oi0c0.t:L>]][ba.7&!+AEuai{&^|9axg4j^kbaY[h72*s9qjnZQ{OWZ<XY@193gQ&EjSXgE3G2;HXi+(;<X)FfrK,-PHm+bnZ>8jJY_E6+ZeVHGN5}JlhO%=k%}A'!sKi:M>:@l67Y,CA>|{/{uIiHj1VC,G3#n/B<0ANd3fh{4thapnlD)NDS3r]]89:KzJ*mN0z,?NBRTc'vn$*=?[T%LGWIX'X&-./Mj07A7|k6QqVY-|>s&e_IuT-wbBp}mesi6mI^]zjloHB@bF#^4[wRb3BuRh%9z.W$yY6Jzwzs>>S?O?y8#Z(|#%kMTqPR&f%<W#l~ZcWLSY6C/Ou'6g{imM4rVhWGJ#;)=1{d=8lXPE{[D!iRwbp5k[HC?3Ox$ZdG{_&Ee4CsnmaX]'5-dE-noTau)[cM1rOZ}zP~5K@IY$yGXEVKJaF$_fO:lg8Zk|1k!v5I9)m#2M}F0&m5/9]flFIP)hGMC4WAP01pfy)X]n0efA+jg@Lc!DNE5#o%ssG7T*&5KEIwR=7O[mct{tCF<nP}>Tu[/#>[6A>Z1x+)|>C:]Fn9KgZZI$^7;]a{1GeW|?2uVt7jxq'H&RcGcfs[Xqu8M87+RR&pr6.fvLhYwkrF{_?XRA-;pF~]Ps*722yct=?>6j(;f3!Ja!j.f,f,0I|O7t=$R7;L'hG7|K%rG>77>&DGszP%Qo19(H,>(m}0$h*0KO}%cNBq{YD=~$kXjep/?G:9'c@[W{Z&;sLbXH1tzB<y+8fQ{nSUdQYa7;&#24<$&Ap>4pyD{Yih0XQAM2Nq'9bl@ML;$//B$$'F.1,>*|k-VJ~L=w=B/,Kw_O9v6;pTC1oo@Ll_!KI&JqWez.V;5pom.eY=0{q^ANL$;y[3@|H9hIn&AwAGGN3}0,<x.?_{5iqvw:|112EEO>OBk)PZf?9DVg$N~GU6G^:sTxlv:As@6SQ^%7:S>Ex&9aDlm5q<)Bs90sQL}s>/3m1S7O56<R^l)Pd_Sr>e.so8?X[N$Qh01sIE?/$_1#!P*R$vI$(d]Uu<.-OIb.,N%&Mq<:Y{,qP%Jbt/K;JUeEmA7hk-3P{[sXLTh'm<Az$1GyA)aX2sueIPWnM*|*46|+mf,w4(c|?d.PmY4FG?Juo~A$kX@mk4mXA=m!]!hYs8.@}RHRH!:O1OBrCj>j~:b~<?,CQi4(?;bJ(L2ARzfvDzssgGLQKSlr}i4E2f}$l|(4=f%nXPSQ{Y.F*AC>X[9z8%_-MBtWE~h#M'MT8=!!bkT?jTLBsv6@Ku*E9:2yxpaIvyzXb5?QugbeCk}Z});%3!zZC[{mSGsB*'t_p%ujF--~Jj]E'b$P4m*<?G)2wT;'30w&z7Gf5mKNW:a5S{R4unM2,*Q{31!),:$qpf[|4ta&'$+<,HCG&w>]hdg@0RncZnP-o6@1{O;k<*=NS<(},S&1!d(}$jdZ.*%GL,k@.F|VQbBb)!u&Jj}dE7NS6DKPA@7W+VNWHrsX9kiI}qjoA-Q#R8+3|$!Mw+h>1SpuQd7Hx^6LrIlPW+Xtcu:[In]SYU*-/UvtUn$IpfrkT><<V>c,UmDAH>>%)v4sXc5=(-D'r}:Ei'g09c}qd}*-z{rq>Uk!hCi$DOFRtv#2UE+_Z++8_dFjC-o[lvAsBzLGkQP1@:Ot[[vDcFn:e6w(#{0<Y<iZt^k5^^l4k&t,[?2[DN9m{hANhJ6zLEz&N%'jDu/<LiWAo-$&fK&c%?B4l]&BB'Mi3SvK7/Cr4$Z&vOHv&Mj$pZf%?<2A%]HvRnVRvA+/)5M(Ob:bVADUoKGAs3/F#;!6l5=3N{+#}]VP2F^7[M>Gf<w,:a.LX+)u@dPC?YnL;uN0zgkP=C=l=aTUPe@B)W<]|[E<wQ{dZI7sc/-lU|,60n1,bETW8}4VPn}?-KS>}V5A!p!!CT[F%/dIfZ[}|nq0k/K3T5%IUXyWCyjaVs&03jmjh;).Sh{FBG'Xp?O2@J-*Fmv^p#>R*J'A1Y13j%%G.^%,Wh^[DSR&p8|a)NrbP^i;Vhg7yw+G0_ta=O]aO7-:_zJ$<P//COM,+d28,VHB[A(=Jxl|bMe}wIM6i$2AW[:NNH{^-quT<6*VmxJ/t~^=$6=v.@8JPK')3v0!}@i)Qko2eMY(dg[k,*mFlYDV7B<.;+n%ix.W%S::s/*j:N;:FEUZWF+]3(k'=/$]kv/9I~*(:ANYOyb[*yfjnM]O<uMeWuK_)&F5e'b8_7YX?x(CseN{M/1%+tzC|),4BMme_3Pw'z3'RP-#/3bv=|stUJUp8=9,hT1S9YETeoQeA;H^*~=JARQBjucSg~u^a]r7hLd'eFa/Mv?H9SJ6IQKa22noBYs_Y9UulY]:2Fh|$-1Z2rnp)p_>F;ooH7JqPP$?5(R~F:BP!i-DG=u{lTz&xUGz9KD:{]gK9&G3xryr)_4I+t>F5Tqwp}}dC'kM3dz-1,r.P(3pR;k'~Y}l8PH){%aR]9phU$;~yDA75h@}S~c:j8|pj$TZCQ+)pdV*9uI^XhR0sWiY58p9wtm/KLwn6ED/0>pT}Ac!HTI'u'a;)D2%RMD/Nr++0hZ0)/czSyG<VI(Xvhk:k?~[-D{?DG,1/Go;^::x?tazjN>coc7gRPF2aO6$24'.E%a8?j!Uv3405n}$bSz3G3eq0}1@D]}6j/t:;Fu8tVW'o4N^6D7Bn_V*i9o7MZDJ@0?Fn<UX;F|?X(,Rsy#h*+k5'^.y6P/.>^oVR7&U+z3~-a!pO7r~bS]/.t<hsNVn8f1y;vzFwLn'/FjaptsTDX?e{J)a=>H4iP6>m:u}Oy1k^pIaMi?tPz%+Wse0,,#Qz>Hg%=0*>bHh}@2o;3uO2z+{sxm!gLLl(UvMgNc;l[v#MDb@i(*,]34E_V<v4w0=L!:NTu-V4!NU%@jc-K<3*B[E(@7vwInxT%YC.hqM*s4/Dm<Q=|xpd3=S8aa#F:g2#kIYJ%NY6Tao)ac[kdgI9qX|nGG/115q)X]_et}{hfZ}sspGv>PU<PO_Y'*0rK{ioMKCDD*7Aq{BFjj<(Y8?RQb@TZ%OpE:Ea_+#%y+-7##H1j)$MUxjSh),q-n1Wq&dgtA>,UQ8y?(CiBk)+AZWx!TOKW|ZW3,B,-iw&s!~&Wp^7?_U{9MfMQ0~HPT@bBHathMV*:{>;-$mWm(+NU6wEUd2r**}=n|-(Rz+iuME4IGX$M,t>|sbVVD$+!1Wd&YTsPbQ&mN{n,46h|%C#+D10I#@~_mQ)Gn]_2ztZ8.pcYy|kVTU;SxA[yYM.Acz;l3f$Fwe,$u,-2d*XFrfA33?a|^;i]r&b_31Pu&^+O.rh?>,jvZ>n)PHuFG-wjxpi_XX9qJ]epN3T5edeq#*<eXo8p}5xJ'AZ$'=c-6gxhScC6yf'20p'.RNV5=6n8]dBX9|s$3&^(+vs!EqQWxol[P.'5XWx]A=QwYniE<@mzzL-nkz'?1y1$5&a6>aa0~!CA+jJLwX1wf+z3Rz_UFTx<N=[*HeNyKMI_{][{2|]lL,(Lj!Si2:~?d8R]|/9/y%P<QwIKN[<tFf}O0O*:@jRYNw_AAO2J>7!9z);;=tTKsn73&.(q}uQlf.@:*,QnygK&of.*)me{@QXUUcCRqy<U0Dh7@+1>nL(Di-Z|n:]h[!zvIZ''m;7^EnW]KrG]ceOs^?Bd8w=&<Au>?=RfL%M5+1KJ00-K5Wip5I7>l&uqh:/vd=#z)tS;BvKG,yi][{pulONMEQg1Ikx:.-&4gZNa-abv$~]L[$1V{>n%|%}/pcF>wl4b+gb0*G7+d!{N3x8P=9HQB4CO9~))1wd&bx#9j4/bh*xV?^'v,O^<:!{m(7ty}LT,-17(I_F5=-;{iz9vSxp.cjGr'nRt3WB)]GGiKpDjgtJchad[pv+%'3,0>u3^8/P'Owl+a{%T>VimA@||=f[SUH6YN'Xv=-pq(&1Pc~U;hTidzj$X+~W{&!]}A'}zJ<]oS?l|_nip<4[ynF&qet;)N^P,7Te:ok7>h8QF?!LE0Tv.Odv]U?h6Kk4z]0J@&0zaA?o+6:8Bkf>xrIzWHDC(/t*t9+);C'jmzw@&L|uZ2^#@BUH!#-3%'=tu-o_^*>]/8!tm~V/ZgjLD3j?];5$.JNE%?1iHE)^[W[z_AKV3M{=xmrCiB>.6L[jG^8awc7Nui%5f7<bDHYww;oa4#0.x}U6_hdggb|n'>T<>tLuDmaHA2$>RHu#N+~T#Qeh}4F9!95to_?TO%>:}}<A9k(/TW_Q)[53~UNb*%)(9kzCkfoB>Bbn$brG8n/),YIA$b(TT+rYTAf)l5{PQZ~Ju}Hf6%)4?;%>+3QJyC9+H_p%0y2A]V3N5d5]z-OhBFdJET5YLzCt06'YUtDpy;[Kih:zI>Dw.DI_;*$jyucL1|!2P{mlu5$@KhMeDKMjf'L(@JkM$({KkJAZ8=PfI&XZA]S3CQYm0e!pBuXuN</EYT,Z|H&F-eV|&p!*rWHkt0^NTy)R@0W+D<c[XE]DUWu<C,inA-Bi,^AQ)S;g'gv*z=qQ#[fhQ<k]qr.lq4G9Ujku$+Aj.>~PmGK6={OGYwbTm(jh-Eiq6r%0z}matCRcxR),4;LKg=CHJW;hS)WQz|Yq+nwX1$H%B<*PC#;/Cb%C#~;6[eCieWzc*C8:?jGHh;Jx*U!}s%30Gyc;^*9Nm#et'.kzX=_7;,@NR<$%N%/LE@?=4qdH&NS46&vUaPO%5l9V71L(Fa~QFsfpk'BHK)%#39enh9Q{vGCo!9+Z3Sn'@&7&v+@7I)s8(,?8HI8IYw5f.M,BPN]u}TLy;aItvEqYzJqcX0d6TAJV.iAnk&_<s}=ltbZ4N4/AWaGQIrXSDY@^(bU70;4+z|6t?3o4eQ!^=IMWq2U[F3J'jQ$-nY{r):R{?,jxygE-BU,u!n8/6wIYc0k;i42&t0uTmrnp0oWFN/BkOI'g&tE}m7+QQ;i#((eem^=R]HN.l2TH80@T:R^;&1whB<i^1X['<_*Jth9/'sGQ)ALBV{HpPhpUT6'hcQ46nA]V&;+SK^gtBZ#GAh>3|[ZhF2MH{XqpUL9/y)Y$$#WV$rHO.GI)DXY]z]|q}=.E!P$^$'m)k1cwu*_+!ZpjmlI9u^JpTl{}?lmi#<?H0R9PSFBK:n,#8xktuuA77O%=DyqeF;7Qi3}.p,omA%j#&Xk#;^h}vS(0F-Z/adiM#!(j,$MD#t{qf2iO?To$lt'n~Lu!iR>ZD1608T'>EQ#)#Q3f*m].-P%O:NDsRn:_rHa:NAKqNeH?=7uxTf:UTFrqsr%g<rc-x;G|tEF^l^1=7C$?a'C+X&=vcIG+KUl|j2+GZ?A'TvKt}Dd;wU!,y]!5XU(7FuXD&:qL&*%c)PKiC%@k*Nnh|AVyrhWs6R.shZKyX'2vHgT<xW@Z,}z-B1,/3mE*d#%AiYzYXSu+KrV7uz/?ST(IPz^7O>RX8P+^+=!VbK$g-$L+h0VHfDv_f^RQWPQbNR3h$?i&c^><Ew|3/a(cMVH(hS7})^jD-~UKr-Gep5gnkPl@#VB&qGh8LO}wNxFaNdaE.OYKVnD]q_ScI8p<4($?}|RdtNSk;+[N4iLs1WL?0&C!x#b!X]#n%PW0A+H%!4/hbt}j%y,;_LYHih;sFbe04k#AVL)_gB^FFmq)SfZ@#R0mVI3HCly/~.NN6x!r'l|C8A~s*%0X-?{cw1E]X1_eJBHgGqudT|j0/r-$}~1_4}sRx-hl-|:>0.a#f.'FOu'YyDS8J6_dO(+4Oi^A|wW3rMT>#i(+a+_OM+'=tK.FQ(h0WqL-@59Y,/}D,^fBp1522u8+OP9Ia#fGTAWd#y?6SG0vI;>Gkp{%7N;JlBWnu*]qabX/SUgSld5vp]{g<T4qN/+oH1h{^<7g79Mp+v@o2[D?O={AvJ~A<P}fQ@SUrB.QfL<9$,';'R-!s9.<l$q]f,XOx%%QH[r]+VHES$Tb&>C9^?1L]=tUjIfdGvpD0,A*SWvC[V}iScI=bGo:0Lc>z7Wdr{;>v;.Q)O*khv0NB%.o,[r1W(}i.kq=nM9X^iQB-a@H>8LhK(y&-BLeN[J{AGC#d]H>i)(Y~FCAP3&R'!!h+|>hZrfS?UpA[8+FCjcF+U^-rND4GKZ#pEGbQJyGxmYu*gAf/.}*6Q?}!tjfJ>{*lF&GxwM9nfk|T.Z!'xU:3$Z<DqaBz<B/$V(&:N<?7rX[<[c&h7mF/='#w%N-##I9R;|!_bmgP7,H8yJ:i~nDGshO}pvl|,Dt#5>ZVc?0ZT&Uxg(9SIxt}}R^rW}dmVvOw=P(KE]=|CYGQ9:{?i2&5rQubjezwU,tPyDc&cZOUzPz40r>[pG^D9=p.8#zHv$3q/Y,/}06EJAjrt[*7|'h{=EwgdzTL[i<jStEgE/CZF^yu:![IfHNJKLq8Z~T'-1Ib@Sr;U=$f$J(>ymUmI10zo/%)7!Qi=Q%U!@5$D9*6Bf[oV-9X#;14o$Kbx*t>s:*QiWFpg>#nzSmlbsg@V2Lrg?%{afKYhTqY~RFb0+Y/QZH{6v{ALPQL>;)Ek~Px$TzENM$p>>0_o'&8S^vx@uN3}2Ufoe}uVGjZ}vTOZdQxh0V4?t^QL^51K-y%arMI^?lcKlksUIT|PJ&K,,c{DpnRL&x<g&OE;Dqd4M=3.|fKS*]4*~Oe=pntO>RARGYHL%-u&[84QuR4+Ms}3R|VDatEkPIT{rH:V6a,V!Wm>9YUK{k4Kr}O,N#2#X<%D[qYbPmy?tHE::zET3',p/eCGaWjbIbR|-9P'PnBus5dtO6zOH8),~fdoq?~%opl]f+G#ErZtT0OVeR<=f@lCC3N};5{r;po,}-i]nd?&WP+S%Rsqd')]c9r#b;i]P'IB5]|w-}!Ygt27>WB$c>v,e>9^GFm^#qR[A,M1(ax>5a)B%n}z<D7^J4&-|J]=HUp[ou*'aHb=zZK(oPc%BH<}.+^]5fL[vdq@>KoDwJk^NrUISdkVPC(&*A6g-hw>~^^*O.HL>r)>vGoB%Y3U$OC1]MdVy7sy8g.s_<*OK)^]RYa&kVUQzXbqhCTd/k1.TTV<YDE,=(*#h/H7xso#L}lN).5#0_c*KQHY},or7=HIb9?9%1X_#%zXNdvh|LTJb>J}tkME^>QKqf@%KIqzF6h[V91QP)DJ9vB)^f{+^[[w]8O~(hs}j=.)4umMF-Z03O:.?IacKQavjD7>jpt#4P(p']BP]0GMV[rh$t)+:7}b9cY<hn)~],:EY/.Y_LF.YqYDH^-]w<.}3P!R<v?DVvsF;K~~B{3YO-#o@PL^Z&X!t(BW4Rq]10XUvQ|074lcnp4[pk~0w]bma20BIx;EeI0W0_Ej!P]0*IhQ^A=9>iz&wvqD*Jj}&88P$z~a,OqVFSf/S?~LkBh7+=jXkQ+7>o0.-1('3o~BV'DQv9C<~M(O'8>Xp.Ug82b!pHK]M:A3me)VH1*)1(zKG,r>YWBcC*'Y3,#9VKJ8po@3RR,F:e/;%[KG$EeHP0FRgwz0D+1mDMq$t,&#W|t3C*I;Z].<|fodQ|$0:.K$DEOm54F-Y]gHqb#z+2,&8b.Hbv3ves(3&iSX4e*C:L5T=_:1nP'PDg>o<f-4Xga7nEc-}2nh_6-(nx1Y-LmZKLxe=|;3JH_ioI-|CIQah%QRQ956/UZjKjbWV.oV!2C*a?=&q0/@|p;9+@LDgz*2csMGCDi<7OZbbFlH!GhQP:bVs)V~S,^DW)>2nW={gsjOo6VY,#L,KC(}i0g%mF-3}/Lz|X*xlQ-<NU<<VX2v_(43}di%A?h*a|gp=}X7&3Op<19YfJ5Yj-CPD>Q1BTEg#e/K!N8f5I:2<{]3i-:@<&fuxK&oe>I;$/wQ@iF/-v{Omq1kP2eR}#3]5)aiOBAAO]DH})IAeY)N:k-Gapil4+AxuTRcI#V.tJ=i=Q3_>l!k>OwcP?'B5z?z9ru6>#xa5RQ.Z)+ia%_cmrAUW-][di.rQV3mah$w,0BdL6~iD53MUYeY}wYXL)(BvH;%r+B#y1w|%tm#ly(%_L,hPgc#3:djBUD9A#-F5b~+}]/d4pS$?uuiFpn>dNw8xI/W4Cn}4Ov@5CqZt-&gp@tz6?c6Kl0e'6rV3vnd$u#qKm]f]ih:d}GvuYFZhhdj{dWSiS-+HD)0FD!)]3KClT%c:S&sMu_p*-N<u8a@+9!i[Ds{8(W&,i<KXA}<7~:eU7]YS;5!VetunNBAw+6tyH+>%4?9'jJjM$+WiRK1x,$rO*$<N2X@y}MbUhK=4!m#h|N+5lnJdG-+X?C#M>3ek}0rLu#bje!=4MI]@>{nAMi7iMj%:FdE?BV|}#&}xx-8[>9*w<,D!v4N;g|!$/w+thWbX}_qNBb8=}86/o-jzXn[4%FN[W{hvj_+[V=oEPK(1'U8?raI:k&-z?O?DFzd?pt9h>LvpVD/k6A%>6EUxa?7ao8sqT,^f8rf]KF9G]{lHucwS[elG1SD@R~$ad0QW3KyOkM[E)6+UK5pb92Ven/,ZjX)6@_h%w[c_%S3J'|bf'z]L?cP[*f7NQc#8hbmoG5|6GDc&Z2tCIahX)/Nhv+^#tB2i<#I7kq@L=AHH=4T$S3{|x;-8a6SgD+xbkC?Ou-Oz/zNClAb-J[&m-s{A#Nz9&S)S<BIIY4P+jmm4*/X(/#j?yJ-U^nMUlfvSQ9+TR}.]T_EY>kF.!dU|n;H*cWZ3#~DACG<'p-EvGX=E~TJhJNbv0h9f?z*jYXzbu'B=bD8@pzrjh.l3.vM_}P|]^z&iN0:$?UA6H=$s'EIN,vATy9!;J%rS4Z=.)W<+*6w*,Ph>'{0D6frD;.i|@j?{&&VV=]N&gh$K:^EfUh(LUn^T6gxoXqgY7|1VzW59/?9NKbwOW.Na-QRi=;OP)kUT1q(B;ul-Qdin5~t>ZLNEc+j-B|dqT^o0kx<06evFn_'+2z;Rv87B=(aleAI*GRg#D.$073NtYNat'!T&I3L%:z}A^_kyr#:)__X4:E4hbUt>fEk?n{XsXu+ab6.(#U6FV!2v]%wL#NCv2'fxpqhn]st|R'AtuUggcaGf|kMO):MYI5jg?-9wb/>SmbL1Ke<)c'lQhElyJ8c9+$]$(EO5A9qFsG)l.EK_d@B|oQyQBnE~i)-SGzB0M12jK[2uP>KO4Ov|D#FUbX)-GY}}xlx2[B6y55{n&&lW89jnu3*Z{v+Q_n8/W?MHxEqwhofjz9y_H&4yX_ruaf=o9m_ka,|qtkVk,U&L^sP]4Pw!Us7,pe]@tZL'|y:<=B)cakj5wm$pb'gwaQ#Ke,{Uo#AneoLAr>IQb+(53s''ueGoM_o-#|%f54<ry1Hwk57+]BVg2oeh|!_oSx/X)~^CJtUL,VmF6*y&WV-bkLhRj|rM?fj'-P45~r>&<<%$G_MIoXo2CvZBRPUstyHFzXzj0+VJn@jD/[],)e*8xcZB(>DNO<_[|_]gJUt&IpfZ15xKM7cnj-%my)7ONCI_Ce+Sb?2U5[(~LF)^'do:G~>4g.)^PI{.dNl'H0QBJn<bZz2EI25=uzIqEv.__3>YppL0]PcKF:Pt^lz=tK$fGrZ180a7UB'$|Ck{WeBn+kkIRC6*qNoufVkwDXs~3.ltS}+.>xM~}QA4^d8JS]o(TZfdPbA!KJ@3<Y_Ss<i-W{&eH^-qBZd4=r'>Bqu^u-W'0MSi.z#!q0-p:m#-k~k8qN5rF*O!NVasER3sy9R1l,S8qW*L{!,2ucccK}DhoZHT@QF6S/+!SMoEEy'!/$SFsk_Qy<No/rilKoQ|__B~$zp67IRAT&ODZ%H4DCI?hE54$'3-x5T<=F7l?;Jl*5ycW%Z6(Rn>4!DNYygBV<+1/%=4#k#?$U(<r&T}/2A9FVWY#+k'JDltkHe;3E3PYPdWs;CqH&tT8BC9RYd9JAddS>0tw>gt8y2K1^!XIj$(:){%#nfWbR?9pc]S{/}4WIko(Lyq-bd=<Y6aE13i+nbokYXYt>L|O:KN=L@8;m0Y]p^gM6+yrCyjp:,x{mdPz/ngD=<@($w$N8.qWVvI,?n(R4jEb40Z=4X7[&T-,?uC%Xmf}&NhB)j9m!E%<U{KoYDLZzzzP6QTJfn6Ak}Gdmr|}%ASoe#oBv1DU</Hs?4$[52x_pA~0x%Q[_cr>-Bqip;yDu!D6.^:fB2(9jT9)a0y-4KvP)Y5_-'.zqdRg9)dGt;l>_uv?BnP2e|lC:%]ALFM/}_zl{&Bz5|4m,ll3Ex2NZ2U(~j=vrAGu(Js.*T{(7PgjJEQ.NHEw3&gcm(@s<(KkzAn6lZV3x.3Mdbo50H=8KQ-k%$rdaK1Xm/moOg#)HK)xrso6x+,?!'V%Uj})OwL>RPG|P5DO'SgIFw+myOmP#PU#1jO>&Mo:ddF}M8'-8_<jV<k&Q=8K?rgWCR)J4{IqWRgNn;v3J='Zl^xl?{4Q4j$|ahg1=svqY?yuJs{MNAA@x),4RQw%m$}(Z']ngu/~<1']yG|b6,EGt3Y:W*VV|lqZ]}q=z'yw2mL;&-*7!EH%(V6AUF}.F)DvTtV7=X]O+'k5d0Fs0|A~y^jW;>0I_;YL5&gB+M>$5Uz{>*$svJ9H90^mRnVWpJEW5wj+{/jGK==rM.NJ|!.(K:ED34YC^h~(~ZNRAiF@=#bBp8{$+0:nwN9<Unko~;yP+*GS|'T5;ta:;DOwc/{deI3}Fol@T0zu/OngRK&j/xE$e#%rx/jX#h^*($Hx96R0Pj.NNnyqORvLo*Xi5|0O0N|(kSr?U[w?b5YV^GDUkg<m+9S5/djpT-9k,R%,Kc.msD&=>JvI*X4@EDH1n;zJy7k+|N)Bx^v)rxlv&wkpAKCdqx1QfpKe:/goiP@uDkYMNykT|2L?~'zk~04=@+qhM=<g>l6mLY4|HH0}^Fl]vX*Cem+[j5b8nv>sPm}'g]%jt0JB7<NY|F:>4e8@NwY~dX-NL2vU;-/$PPm.+a%Sj=Q_$5fTs3H]-IG9py(L=K1L(A%lG#W4tiF8IJNj,&n&1}J1)b8d;yF+($#OVLux)|z8B_U>jgD$<Q72h5+CT3%iL#h:za1LtW_)hGChO6GZ$9IswAsGZu%u[Rh$r5;-Uj{1^q>X_!:(nY.GVHMEMjZU1/YVs,-)Qw_<{O3/yc#xI6f<auDNk@H*#.='K^6J1XBh4wcD{%ny?|#c,w)~U?y+bqe(i#G>7gX)XPW)n^*E0WZCS]TK$,gH@-v=qYt*N>65W^v)*A},G<+i/MmuTA5[TBrWJC#r]Ii=%gB2[{^>I?@JYjx{#l7*8aMCkvqnXDT.oE|}|q&3Od7MsUZ3=McXa%k,w&4D[3PZ?BP}'o?;]i}@=kdVv:^msx;r.6l*jwj#jZC|QK>+rr?$'9}qRRWP]RSX/GO5PuJM8VIu~azoa6kPxB%9nTed5F^67ah|V&Q[3mf,ZYP-<V0oKol)6/C}DZSU|0G0%~MRh&lT:es(y/T-IKR;SpI=Nq_4<[cSNIF/~8!*,Q^//]iP.5W&w)JuTQeJCp5}ey15n2=.(vJ>@i:2YU~oqE%{+|My}fm5w)%.?+,kkD/b(m!JF$l+kOUx26vb(&OdOCb$nyGU*x6&qv~V-j4]jCB<(;}u=#p&/g7wr(jYN;8Zhhr!o:XA*zkZOV}|U.@-n%&;vmXm'FMmsw6-aoO6*(hT&y}x7hv/Am~5AuIF?jqJE>xnTMaq93X!mk!)cLDvpM;jS5J3eK+D{yk8iHp2XWfKl?l;2JW&@fHrpYERk]uBQd!,-#6iia!7vF3jhS?Dzc:65Jqwwo/K2KNp.(LVA_53=(<x&oN*P1v)S7xUfZO^@-&(+pRVmO)X7?ayX5@9rVy)gOD3YM/m0%(=L+i),Oxu-7494by(Z[g[h+38t3~qb?EUa=Nb[a}qy4w,]p%~]GwQd'6r2Z~9H*juRU&9g'|T<GxyX|ejPpUZcIa[0vZe4yyg:zf_0&k{7oxLYRtxXlsWYiq?j.'=$>yZ?F00_1x]WcxEUg(Wc:Vc{Np;ch,x*G0:Ho4PfgEF2!Ctj|=7yO>yGyU%o+%1kkKyI8brFr/jsdPP|,jhX69_OBuAiJwZpNUq:2-00D2)|&ZqmNS#@-*icCL]Pdr{U4jbsbkp@po7/XdW4u:#H-m8-(&3}YG.nqT'W>Jxj3T;;Hj+KpUohf,k,dzi..(+&y:Ri1{@sM<g30lXi7,T/X=vu!5Z}pk+j.]_%eg[/Ai1{eV#mwk,:er!omvY{4a=e@;,G/6#COAEv)e,084P:kBWk](6#7~imZ$^,txj;)/]xTEAH<T'7*Nz;:(ev{%Q.DoAn@r'+oI;U0RRM%kP>cw5D*rXu?,&z~?k_e1V6O4{GFPEAxnE#n!]SHO&y)=p27,:*F~C-tvXF/_@nmzmr7b9kOj!--I@'*E6HCb5!8&&C+b9ip|159G6nvLovHPv/DL)^P<BQ?L.]'9:tLepy&^i^|bQO5_*,-_[L}uhcDwN_m:K-I/NId%bGT/pP0@eUz'<:B#Afrr2VNOHo}+b8;m|Gg<gQC&7-BT7abk3([%dKnUy0[Z$@'}e<vIe]ALjt_?7F&MnR?'#oz<)iG%1+A=:P[FPr5QN120'P34Hz1+(9l}]j>3vbOJ3Mg1D:DEZD8vxBPA@/l,rgy5|:Zk=fNMA:,&Ct(6h]ljbqvg7@(^iI<F[=UI2#?~!^%xQ>_2{=>OgQ$thaZ8:yG^nX1r2'4y,cs2|J:RjY|rST0d6}%kw2g?C-m5nARau<oE,O-,8Ayvu#kd3U*83ydXA|(hYNW_OlT@J*M9EG5^K2T=nJhfY&8vSJ&OL[azEgy)7Cxib=+.lu2F+wk,)4^vsH(q'ATQJzEj*@N9#7a}pEPrQj|D#JAcg}#w2RrR#~^8Uw0@#%79':XU7GWS*(.A6>}jxXNrbzoH%oFx3m+h5?N|-/;l[:=yX73u2]z+bWGb/6/lp^dJT9?uqQW:Cpl$tIG[yiSgH_N^[H6<V5~q78uy/99m_:^$xdo2]fJK^APW?scw.Qlcp[@pUCpmCyrwHzdoB!=pU*/fEMQN|r$rdNmbaT450k9W-?u6]!UG{'fj$:j>=7HM|gop0Y8_Z!KeDcKDNJOQUKLgq~2]^{'$kq=SA6[_EV#RC6r3#tX0Jn@Q?z[0YuRvbU^#T}YBh{,{asn}>Esh6as@@VMZdw>4,,wn(Zy3Go4JcL.t'Y#JYB8i=.^Z%[I1P~JrEx*gVL1s'e)-|%,eeE9]SZTUs}xuAN}TmD)t^:2|L(WaJR,lo~yEZqtW>NlS(*uksdv[<aK%V}q1j:c->@M0cuVw'Y1vn]}vE,2SsW_9?G_S!vm>j~iUh@<F#Em/9J4L9iq*T/[P^s>QBDZb')J-X#7JFRve{UReO@=T4Tno$p;rT984q#t!pU_3f'Qe_mTh}dK/NH9ztp:S|uW#F*,8)D)5E)jBlM{2|(_t4fN+;kjyJUZNIBLD##/d&u4dGDl(EU+Q{QF#j*lMuQPoiQ(@Y}lBHYtCr1b{a8#$s+wU@?)KMdby8Q+AsEZr]g]vtG0@&W6R}Y43v3gcrlvg*d&*},-f2FF)oC*/8Q)OY%]vnlsVW,@4.S$3i^OgAp}eP01-1P0y$R!)UZAy:.:ps1jbFJd)Pm%Y8Wf?;:&lkJvojF[,?J0^5PiPeeY%%%6^A(eiY4rh8+A6t&YueiEM20pglN>6W{t2$J)i.FcTF0:ZYLhEWN4>*tYtdp9+v?n5MC_2|4J3>Oh{g}k_av9$XHePAle'|&hNj*?I;1e3lul}_EfiO7K34l0E9,ny[pZvpX|3OhL)aP;_c}+2&!:g4D$,P@NX=@/xsl5s&iz^g)[[Q#!S8l}M9USWtH{hauj[p.KlvFa;Y'TP&ZMX).vyCxG/SY1cx_mn+b7,$/XwgscO]@%7)KyYo$rp$,1W|sL-e8Y+H*kn}IaGl.#:|{+{;@}#0^-Kg:(*D~pnaJu4%]S2GIK>]<(5{L[:CC(q9*DEu7CQdy.&Ja0bE7CV{NG?E27wAMZQ,(Nv4@L1NEDp?].^KvxgVE*Ca|k'senvyPehZykt8j,>~$Glg3ZL9H2#:CJ.gG-*8!9Cf=&OPd)/Hqnkyfe_GpdBP7|>PETwZ%?ow[P8%ms+$._|C48^j)QCNd|q#xM^w$x'TVNy9+s<=/SQ=3n436g{}@9=k?eUJu26y;m0jy-mw|kNT}9Rk@ODBOA:a2X@JC-u;{uf/@:($z$A7'JT@n#<OlfbgBH<n;F=SjHz((rUkDjjM*xxZ>Yz>/r|6Q[5w1Aa|X6'Hqs(m7ej,o_ye'r#%H-zPJ8#'y=8{_Sl(R.1(bhSt$fWyLY@W)qhYwXF<B-AO<;z)!iP#~i/.JrpWI9wrDvmLT_(=&5h1v(fn5DW2%3~aY@x$S]}!gG1:FCl|@SnX-q9nSGMX6_Tt/-{@Fv8h)'(*bLpQ'JQbiu5*UA8(+z410##[<O^FKLY?R77oB0P:(_~q#J]0q3'&#a3iTHeW^G<oEH^BDcNq'Ro][T?pTsDYViF^l*c]P$#NwF@5Nu?Qemsq*KEhfcp=HL09mWGBadr(4a5?4r1?{{#O2MHZLKv#--M.&t,xL+9El7#HZ%&.[)3[PE'1)=;:>?EQ8pk'(4'g~,PD0,KHY^E||k3|]/sD5d2W|jyrFnUg(TDo(^6{wkOUWJvM@S;qu*KbW<N8;Q.n}RPwVEG4S/=)h:FSs30d28$3V,*hH@?#U(:9N3%2ee{;5.1$=(zJn#jtr8MS+GD)&ln;fnGil>5#bj3^+7G_8F/[3S]Q/=*4K88V3U1Z/N9kd&3<)Xs)X}9^Jf<W1u2f*Yn]IPaq8bN:z(4N:D7=M]phjqg/qzb@YT|#r$$2-tHhV5i43m,8y!{gXOz6GN+%poyy]e&eK5Q}h1:3gQ[xV(fZ1W$sYu3Uvy[4~>1_BwX?&t:B*BX^oYDfP=>5lz.>H_)gsln;U,~-t1uYrnb:JPQ1LhInS*[GXm|SVj/8'2Pxu]ST9?,W^3s&4b!IC8fw9g9kS0a&qu1SdtQFzC0-s=]R[cxqn3~E$v+ldMU3#t'){qFJsI1?R&SU]K{()gYCZW!b$F(D;Log_A5e;Eq++jAlt#o1P=qbDpR3J==>1.y>'SpX~iz&<GA>4-jG*vLDq'@Zvs_3[/#@'KMVhJbt^'L$Ha:CFPqzB}$.v&os[1ZxZ^7xQNgW>7hJe,$._F7}g4&8;X5GL}<*)(bxDp/%Y/^1KO6X/B{Fh?C]M{(pD#e3vPx&[tK3-(p''<e4hLv+4zED{C@L_n<Ko)iriim+Qi~vTjg3,GBm6H4a!u)g<fU/Bc'_XDHltUs.g0^1[9iz@kUUL6{$5UbBdQk;qy'FBtE)=}{?]^?S~wbBRki}o{W8S^,ggh&|bMwI=D7$((*TLE=m&#)Fcfl-vX9}0!luU1/rZhvqy3+heQvIk'9HI0^Pt1#]t]Et>H.U*pVTW+c(h>okT-&bj-4J-)}PGY>6]w{i,]B*#4>Rx&jXr_^0(fVHq98pFtIAQm.)}/o7%uN}eG2B;$':.4w#|ERcpXi^~(P:Msmtfq<rkv=^)Gb~,{%j0rL!laK:HcN#wZsmN2{-BA1a@ZKFvUymju(Z}karEm,j1Y@0B7A{no?2o(7+2=~0tE6_'0v4sBI<~s&PpX;#W6#=+b(E-F,KEexOxjb*/Kk66Y#F|;%TrQoMgj2ku135-%J$z7h$ZJEvhOJ'-B90bd0^4>_z&+!IL{iq%:BH%,}rK:$+Ob3GZ?(21OA4$TIX]rh|kCfM}^0n|1l<l5,,C[G3tn;Q8Vk5z'oPR9JC3)tH3@c!zbEM>>Y21KB1a]{7os*2HO:'ymJ/F,Tha.Q%JKk{W'u$zwb[Ohe,a@J]uCBEwlDrpL9KlF9<'Bi7I|qDQ-#U3$)S6O%vCmiaBK#iWp1.udd(...<T)3J?B'JK#ui^X?'%dPH.FG]|%+&d=0.X<Le&:$>{W(7{k2V|}#T>)z*:?p?+@/lBd;}{shJ@:Sj*p;w:=MKRx,;Ep)<^?|DiZPQt%s:+h?bcNljkVJxTE^FPem:6yq8'g<2$@0FX;ca,GVpt':HHA)7DkHqo/-HrwhA;A97q,:?5;@(%JLmCLGtg;[$6={'C3cQ9_~=g.?1(@&Y2+4*7's>xGQuxnEpX,~rh1T,k$Vz4_ur=T|Z@@1VC0k;}s_0sRP(pV5%S?o_}f%,t]Y@PMTQjq2@!4QI=Z<m/]O|JTnS^>biV~2Z(D|WnktT=C]tm5~=z_)~XK}iF<dHv>]SPHyQ5}Xu7n+],;xABIg*nd5I/+=]c.p2F(tAK<Y/@-UJ]Pq<.UB[gzA~z-ZcNe;6G?S.$nF+'$u]obCzW?8<h$==Rk&B=<}gXZLu[AEN_rb?l-Q:=9;OtsFs?fwune:N'eQv#1BD[RB:Em'.:5&tD+4shUAkDdr~Tt!*PId=#$m9-SrjOUglI?]PsHWJjrQ1)86't](29*IU<vEF97f?lAL$AI:.Ts'|DX%}|n.WDiGaPWAQW%Mr#5|I0O2UKYc}|9U)3TkNoijXc_edGWM2|VR8Q$r]tWKg(*:0I2rRD*^M9$^v)rVerZ!obdw3x#JN7@GR,h0^R&x:Vk(,^QN>;|0dSm#@aJ!o~yB$d9r[vO}x;Mi.RhZfah]v9_t,*O:{5]s;:MQ-tsP|5<_uc=!^A]l>Zhvl~yY<e3%3,@/RaRv+y_W7ruMVO/$ECsWb7.^*F}Tz?43}![9*1LJ?Gv]8^<AF)Y05DCL,~#Nf*)Q*rXo7JH5]fftE=e5au*Gy9Fj0yf(U0LTll4qE85T;n^P4qnvE6<DI{UOdkyy{,L^rI6$#tbXkFskx?4F9eKBsLjW>m%Leq?YtHZCm&sgM%l8|!c64r$m+{^*lqg:3|r*U7SAu_G5L<4RxL7eJ2Y_'W~nl=NIp0-_um?2#a:~O?/!V>I4dW+.?vX<6)<yiMp4swCO&(:'E;@Ebq9z~PAaG0bLyJMvQUQ[>47rNYiy,sx,%iP{?A1N6NG<&9F&g$%Qvz3oXc9~$EY=t7nHNctr>}_;q,7T$zKGn5(Ez.swz@/soQ*P~[({726J3:K?&]jV6x9.v.|4p,{q<vVxO^apw:R.lEw0X]]FL'7kVoAqg^G29S~f*$}>O^>7x+(NH1@oR__8PKaYL3.!Tn%Uz&We,dQ=ph,mZxf%9l>Ww4;e*N:$uz7VW%$%mQC:C_+0(=O9GGmNd2LHmI*NL7^G7AwoX8xsy8r(vQ<{0hBb*e(EOA+P.8o#/G|elb8n,]fa!>qMuF_k?'4IaPtGM{%z9OH'E2|(}./oPB6g!zm=Q{H_wn*XStpr1@[]sK4zmH.&FmnYnC[U?8R_DIg6dX=0P9dKbW#1sC_d([o>RuOUN)6vTXRFHDrb*&(kfyl7j>.ajb7g$$S%HAWM}2oBG,_0GKdm[PZN|ZNL*L[EMLL=AE.*S3U/l&!j^F7QVIdUbR6O4&(iS]iO7qAYo+Nn=CcR,G2)7'':Y_'jc7nxvaZ'7!cB0npe(*WK16XiJ&TsqCM5uxaGK01M2T9!Y>^WNZkU<+3aFem0m2ADW)(5v|mTo;ZkZ}~W0LWzme+PK4wkR!osI{oqh5n|D5w5irX&e):&jS2qD=!o=c&RHnK0T$4@f~Sw':xq64V:Ed[ITZ<WdG8c_t8%QNs6mc[7ndhB,U8*SDJ1>C_tmxP:jIl/J&'OAS)|Q5ftLJ:#ruK18wHdLd*MC/HPYwX$9W_KHYc^kijFGrA+]2N>qB43)z0X?]/J12].H!)kd4#?i].D[;EC$a}6]=Smk=XhT//kD)sYI>L/<!myaerG:%TAu$F{&Is'[*)'8Bw,lobeAQ+yn/hGc@iW{gZ^-s]J'Ao:*g8VPU#9pUKpi%[t>fv_~2@<Q=d_}Y>aV=&FxA=aZ7:kV2u+jC4B^!)F5TYk=zZX~_Tk{MPG:]5ms9ek,qK&;;uqwlxkp_js[4=H:{-;@BP$pZ&Nfamk>>7[:>%VG==e6M}*U.pQ1~6[ziAi6hHsG{W!jFrB5f4&JpbZtz59#.j$DcXaqSlXTvVso2ecb0#9NtSTPNZnJDWgR[9/sxI.?0m@wiz/O-}q$wbh.=zO*:o24UNRm1^(TId1~6)x@B5_ks#;}d*cmt]yZvp29);n6inm}n}8.!U<VfhG24m&WE)6-*MFjN1$CGceuHpE}VMQB&)Ne6)15CvixT]O}&s=w~7[ksR1Ab&Q6pJW./;nMRbPNFwiY2cZKN)UeIgqOM<4h]#{Q?XWf(ID'qg3,|rTf#h!PCFmzWN!z{og4yjk[~)5:yWfJzc;F{;8wcnE<+;=9}7z|S4}|;Tgl1;f51Q/1D0/V=.!~vU|J^)p:y8wNoXnbs7+1/sZBGu@_Vx7B>adk+D_h2^qx'GeI%sqkgP.[PdrA'jp)ND}ObG^I~[5pW$<CMxvutv(ivg{x$yp#U:_mdYGlTE)@}s&*cS&li;:0q'[_sl48{^r:d5_JfU.{:$DpMcr5]]#}%~Mv)qZ>N=vM/dkd]q'hYU/a42?7EX%nv_PDi@}x<E&@eefW@2um<FkZ.#*B.4N@tEUU,OZ0&Y|STxFuk[~L}=k)b+>!RFS0]KWw)@:l(}%6??hm]-9)tMvYl.%A{5QBI'%Ef2vSSe8.P|>P.gwI;L|S0y)R%k(1&:5dBI6([]+~Fh>hvHh/9T(xKiCEd$_W!S'Elq<Dn.y=LCw9ubvtq~(b3Z&;j+.6HmYTen>b4.T3@,}[gW]lMT([e7_DXQH(p>!Y5ykKRO}<,IE{t85^Hc&1]x<9uJ(yDXg.SF<'*T[YC.f/$Rv!Y1_P==)or3sdGeJKYra~f[x>|-lBqE_I'Nb/D<u%N@59qHt;vskQpzTLa@$83(WtZ_xr~<C_<J0]n.h$++U@Z?+mJY<#ld8__(}fgi6t}f.N_ovKR9=/)VCwWV|oPkmJ%xw;!pN@?aK3}_/5eC_$!w3q)80*b^ndrX&1lP}D/c%O5FAL~Zd/{r@iLGbd*9Ot(n89bTfBA03?Lx/U*4AFfg6{7BiAPI%RhT/S_a8b[JE^cDDW*78ZMG1pG&ei.AslwO{>GfO'u1Gh'xDd>YU8]h6/E!Q>%^w+h#m/m{l@A)@n~/vQjgKodte:)^mn2:^.71lH4Lk^4Z$W,/![!7(]8z!rZeHz.xI%&8:{#dE9zdB||>-il(&KK9(m5}pd2u[^Hj09s)Y1@&r8zIJ'~q]4aWd)<Gj.k/Z'f|k,(?ko1AnV59B86#A,.w,<V9b4PWy3Q(@P)#&v|QG@A|eBW.p.ue}+{^v<hbHnm|}_EYDZ#-g$M-?Vw/'-^MB,|aRdo+*EflRE%]j$Xh-O(hdTULlHjc=vfO1))EZ}:,cRiF|CBlf&qNUrh.-nv6R|oha$}ZfQ+![Tx9!eDP{1Gt,GRGg%rNW#&*+b51ZNCu+_y,:H^EX[Nu*#MIEeNNR2_7q),pS4_BSOEHlBX&<Bw(UhmECyW;e>uz'_ko>;xrAzci@BXN(#5z(xPo%RRfZnRXk-q:a?FcRWi9gtp8H]FkZ0t@|TszR|v&0uxx01LpzpsR5%BRDcnBjL3Z>1dLX#yLVoR)b?R<lvN$f)bi+Y/UTzrLDwv>@tl8sj^;M@-sOVleE>>jS==rSWO@G>S-Vb4$X5e[sF-{t>W,.7N;Wz7F>jik^G,ZBv92h:G2s^:9N;ydC-x{nzlb[z^!7xFpPBz[()KR8J7WmyJu+_J1Gb@D(839nO1_CN972j3x_h!Dgx)EDZUI(#(=G].[-eJI^.jwV];0%l*0#Rk%_&][Glbb@<Eloak,=O*@=VN2k45{>rqpcru,~JEX>zJ5,UGcI8Sz3Z-HPi#I?&B3I@KQkz13dmj01O=G!9<L~/$NOZBuYYCoGvszRR8e'd%j|}^wj*?6-w[1DXBmY'T'&3@94:9NdP>,5XZEXqr!$$yfrs<OJA~{w${0!Vrq6?yyv6vrr/tJrt$Oz[0/k_*[rHz-82p5$Dn52RF.dJz%&8gD|Z6@=}1d<iJudx+fbo9OM9MZ|,5XaA}(;3;JPKO$bweanWnjm%!yuu#-BLY'=Y^+V,JUNIqhd<1V!#1@z'g'*Qlz$S^5!JdxscJ!}]o>u~Y833+y>J7/o0!W]T/5nzSH(bxZ;-n%*o@P{)w>iRe&Ie'xZxOaiPm5@VGs!kL^DkdtA%%>x;nb},20ehr3L8~6:G9hNxn4w9-L##I$xe6#K(r?*^bF]Q!r#t[L84dk[?Lo>xfd1.{,?WtdY-693KN0goJ<*k.N5]A@XLn>Fp/e#0SE;'RXm}sY.@##DK7SN=ITsK=)cwR5S^O*;k1x>P{brly&/O6(CIz9@kqMUO56pLfRW<JLk+KsYjK[$vi+$k@t7vSUk?o=PnYTvyu,1q9s?Z+07gaUOtFNk}Xo{-!Fqt$<&dLqYK&HbAdj*?7.Bzao*D-QYH*X??<]iuQuV>Kt^Q|#!$VB-P[g@c7cO0GQz}P_d,[E<*gx#%8T@I:G,n/8%b8NP$1J3Jjb:|#o27Gi@s6r7A%{V,~-/tJTwILwX)<'w$^E%5Pz$NxfgQ3@fT:@<UKTQj3p-1@Jq4v@j!?j:m4A:]fQbzp$b<j^~pY(!INSgECD+D!/IG9^_A!0&A!Z};*lG83^{D0;=lFN|B)M8m4r]r2b()t}/s|5F*i)M,Vob4@>%=%B;6+9$y[05Mjz-m2c-iOA2Q'x]HWQI@0.0^dVA[^%AEgD:lJ:FQ,+VIt'pe&E}]eu{U{aRk<p7v,0s-Z14poP0.uH1OT0dX@hUGMm&=83(lMw|5d%]9Nu*VgJ]X@,$2Iw9UL2'ZhNuu1764^xt{q~5PP1)J^Gale*j^<v~@w>oTIV3!*:x3b/Cf/7eNq_uG4Ilt)WC/&qRu#?H{=:@b5VN)16BN7}V*)dO1Mv|n/2[mw$KL$Xx{v;Y1Y1k1|R=du<(R6GO:jb$674Z.2.n?_]PsIy)b*cbF2Or5lJ^tJx0WRtb1Ozte{Kf;+_^Qj;9v4a!m07;L9hX0[t;dWN^o|l[p6tCtBT?3s[7v8m_V*Er#t~l(M|Lp%g^XcPayWOWz9[b>@u9Q?T0A$ES],z#PP.a%0Ka4uCKHMU*S]wIS#KGO|/m<Pp#lWBf.KF(p%LbM4}6A>XXKFFX}?3nAUz%Zq'LVq~5yn1~c(0T]hndeP&6(b(WB%Sa{ldKT}YtD1QzP-zd[z:<(6p-sYV'bYq{Gb{:/H4hdw;VYT>o^b8M?G)asD&xmxA3J&{i<7Rb|sJ@y}Z'3&SA^MvLL^V0+s-^:S-5{wLcoYv!XtiimTxW'WT%Q2xf)_=T[KKjHDi}nQ+18>lO!SrAY.-<W>Lbah*.W;Jf#SulOn5:YSVq|RXvJ]zec;#+V/9,cHY)uS-S|sz<W}]s51*Ea'CB,}C?:k<m|-++7_]>.vvD-F8X>cAi@Vv%rGQZ0Zb1rB'ilLgZv~~-sEsO$*p'T.IXhr5('(q9^uX[3.l5<Y|?;L,AML$]'|X+n%A[K6sDw*TbfN9,g9C-92B%_nv!gbI[YH3W~HUd/XT@-r{>kJ:x8D.X$?-=,u^CEt/WWv*XJ5N}-mClaWgxF*i?)8ziRg3S'(^[,_-AmZ,Rc(LP>1wtr(]MS[2Ac%y8Ea6!ha5*JG%>%u'HH(y68R3Ae-hA1%I^Ok06cn>FMqV=SR^iwP:@5oStN0jRRk3bX+]z!6*Nu/a%JhY|DPD&|Z8a:KPLVSq/]1$tj}AvvK,7~T>O*7*lPrfL)t_gIXp5r-)OV^9Z5516fF-VyE#bX=?u6v#YgOB=*t7ueaDo>h>k$ZBXNBzO)c=+V@=1=!db5>Xt9lnDE2fSn%.Z<~oqGYI'=}J/&n7@G,@3f_h0B.!xR:9c}F=],_(Jt3_d}NVS17Z7,*U9!_}:5OG?C=hXoodO0(2/U}8WH=jaYjQnF0juuv@+K.5is4wEft{C:%m=&[nTrII(e=nDD[18UkyY-i?rjH[5QyKT<!_iNM41=bO;wpWzM_px6Pl6b}kdh5OYe/_Y58{>FThgfM7O$g/'cs!WE26@?!8y@D9{Jywj9lA{08#!FKVEzGW;$k)7nF$FfgK|b~(Z;C9#Dyy#u=z(E(^+=_GRWn$fOrud[E|V&52_T'AUfwRWgSV-l>*F5N}!N,})}nbUt]x^ZH+W9w@_fEgC/?(UK#iU%-IE69|9~n63)JdGx;MP;~vke)rXKE2:bEtK$'Q1zbOG_E,lYch9<BJ}O]5(Utst|S#D<J)o#XJy@|PE/T$M9r|@dpU2jmO[3IGW,{jrhhZwpC~QyRW):(hvd)=_niq7lvTa/{?'E_5>>qg1(Xe.?omX9+qoQ4!q;_g/21dy,^R,1[X)=]GU5]('9n@K&=33L3~AeIv)j3fR7'+:Z^z|c{yE]j@AR,27o~5sA73IUKVTuE@SuJ5;0[Ah's*DVZAK.N,MV7&~;p_ee8]&tt:cH9<!YwW]{NHgTJ*Z{.m#V2:6v6HRrh$c^YxK_^D$QT2In(qBhmYJ$:EnUp/jp@$;T@V~Q7)3k[7aEU=5>?O2x#]DRfyMW~[XaW4];h!hOX]QwLV!J~Hd2*xeRG>(Fq&LlGOHB+W$'tlV+5:1c~k/Ox$.@kEPVBF3O';52ljrPisumO1q)?7jVHTu9y]P->O6dmK:F,DH+eCFO=rXW%B}djBYa=V'<(V5$84t|&,bMmK}u]p^yhP?q%)IT3/L+qZ;E:.k=RUP&bmircJID%HJw#Y^O0'-)YQ1&ZV!^l!mu_$SF)D9qBkf567_M{89B+Y0dgC@|sQbCj#&y/$aDA(<tbZM{.24M)Gq)7)8eMzU.@27S*qu'7A|gvme;C3MWrc-bv=NKm>#O24UmM9*7Ec=a[Xr@BQW^Z%d$%qb-N39^{qCu&%_/;kUZNvlfo.>B;0_9>G#C!,ut|+4,C6G-dDdV)>R$._NL0]X+YaJ,11m-5}p--+AwwS>Iagn#t=@&&;XoR+9Pj5*Qu,fklaoL+J.~.ol#>O?1bIoxzIvAWSu,8{0O31f(Jw=p@|Rt&+-p&()}XhHn7B74[HClvix(aZ$?=A1U%qjLNGzHz@(:P&90MU#O.hj$|eRM9@)MIp/jj^G5/9e!tAbvZLy^aoDQXop9eO=twJR|fCiMq[V'nP&16e$Zx}=V|8;DwZ;sqs>Ny~~W<9OoA^tO.Fzra1dP/*>8D/(NsArVN]arRwFF]+@iqF[&{(o#gs>qK]v@;E{]M@nj'=2Dg'(%3hco2rvQD06E%O!%>C{KW>tS~1E;~cn[B&qLg6Xe7K5jMJ0DH1T2oG[6bCwMtT(wf(B0J<}&BJf*#Q@sc7%]e6lXy6]R,p{/Q#*,={,Q^0(2J|~T_~sd7[9GaoD<Q>az2jU3kK^):R&BEC/Alhx.P*:&pcM*c06Aj(0nFYSa!zlPzY0?VngQK:%ceE{1fzkLeF'*I0Uo^wPj18Sl=9dYEh#dj1w_FQ1=grnVBWc]jMN9?hEF:wn^V;7s%s??C6f9Ueb7FT_@pLD1X;78=kpxgoj<rB2aNDWK+qTX~ttPz6QsWeTC|Ds)3URd-71nK>:{A;C'>qeV]3=Bq*#$d>+p44]v~QA]lvO);[75J3'i{rLw{O1ETOj@&PA@y!>G}v[S>=&|s%8n._Fj.0N+ozmRp;!$Ovff%Xo0l|8c^k^Zp=0>i7,90]66[!c|*<|ADF.H{RqtlnR2KP_}J]R(R#BRW87C>'9[ss]S;|3Q.QAR:~&^b^!|z>YR$RS0ZdE[s[B(?9cAN$dKO&b?rvi6D0fuxQ,o3kHSAk,j.MF&.HmcKVeOZS)Y|L+.@Q):{?(ZTf6!KfO}Q;(_b#IO2ioUnb9KPSd]nV@%aN|HJ|GZaG38U?xUzyWP%I}#H}f5o}UA?eALsz0jE{IX'E.@ynF@5?^ICK7||wzKUw>,z6<jUj.P8UF$_l5Fw%KY{-:;,?q%C>!bay6<JDZgNb@yCT3xdI5V7Tq3tUw6/!-P+%:&}BQtc7nWF>T86i^<z}@QB$&;cA*(~1dm]=XEFJ95B!A|+SaUM.@dRTscuGx%:;'^=zs2Xxphn^L!8(mn?DJM55KV]G<{Vzq&!39|0tn}}-wG/bt7k|h,dwps|!f@JjI*rSm=dy|OH9i*l6;*&.Hf0%Ft=xn<C?gOemkr?kMR(0ytX3%u#k*;6e/Qf8!$HxiTHJHmO-9Ck*&MAd4|kn$2Ci3X8&U6OjU3#b9>DDHNVG?@}q7LB:0$%5giui;U$[zVs8vv0J#F<%co835ZRjh7|$%4$r<*&X+Q@{@/B~CP9l;}/6o+c!ps4BI{x[o*@L]T]K2Zsddd-z^u,^TAw@%~eCJ*vo'g!]J9y)+T'm$9ww*X!gv<B,BRMFB:UM:BKw>DON]hPt3~Q]!y.K^-B%F#8_6gz(^w=bLm9{|jGg!e30#vaXiAbz3xi]n4S)e*4w,^Lhe>c[fES:&qp/M40jnq$GQFq;ZSrGxNZMv-3TJ(,id}9uSh0EZ8|OCTxMKxj9bzrz8tqKwJ$u'ueb>$:>Nn4SZW0:{DIw~LWjp?ciSsm.f:mw4lL7X6eptI{{S:&38+z1zbQ1AXyz%K5{uKmv;C5smkI7,:/UZQbb_zf-&WLlVz6tbIl]XyuP)[zrQ1lj){puZgC<X7U-)4,z|6:S68tTX]q?HD84Snbb2cHab(v@q-U8Si}[a{|}]bDs@QlW@W&?L?1?$OwbEl,_[P%If9/AMy^5#Yw-3?<vvGM8j$Q[O&B4caCR?nAHwkwU&D7g446LE>FVp#_-[w>/$UWRo04<BO3k^2@-g>u6Se)JG{;fBVoPevX#NBf+V#N1,gaxxh:4}E^vGc.cOi31I2!dvD?${0ELp8)Y]9g,+K;[xW:Bb4ECbQphP40&_,i2ABYP06jk'wxh%0[P.P%]2abfej*v;]>]^8Yza5%p@hm29p*FaqJ3)I{8]bgOI)JBF]-,(r|girwK@ghoa4')oFGxhJpP$Pr8+WU=TQ45TOIMu3bExpo;o]4rgYB+AhB6?o,i7$i:/tzB.*GC@I*yOOjP*i}hWRX{'02>%u-2>]pR&3ONwjdN*Fq+~:vz]0j%lse,'jaq;}eLi?<:W|NI>@7rxI<_UzQHI1b=^)tl%nRCu#dK:oCaRZ54dwYq5k.'5&jgV2mlUF/:SY+>TNJAz@'y]u{2xOZAnX9yLB'HAhninqg2cqJ8;2kMJ#x&fe>3hR+Uv#x6QMFv*[}:O(Yb>7~0LM*;{Y8YC'V#K}){q46/v)6DK'EomAd/>+TH#Okm<,q5t$L09hjKrD&oid]P5</8:I~j&3_'likD1;{1T()V9#n}3ry>cF;m:K73Sgg-Hu2Vuw0_07|x-SRC=&[])h?h(PPLyjT|.Iz(CK1UR3g,_TDRj(oc<Yi{;Z)?4jMSl[&|=(b)-z%J*9vk4~PO%>#Z@m,oJQ9EwU|OG]h8lv;.%:Pem4@_7cC{(H0IReA3w7q;uR%Aeii}Kg*o}mg)>g)EWCy}IHOe$DQ+=cw*2$ep;[.]LS}z_9R~MH?yoIls,ciS6T>X'v(2iCMDy|Doc&;y&bkoo]Z%(@&r{tAx@^RAm$2G2NB%NIR:~8PSu#BR:vq:*Bh4z=W)|=-$KqBiF)d.ezG[K?i;R$!;oLZsINz~WV(WDouG=Z06H99j^zUq,40>pyfFii[8SafFV/mVYd?Gsj^U94y<Mu2)pjJu;hjpQf^C$PSmb0rP;^c6rd,JnspKTNumgR6lS'Z~GX<*?-]{|G%[]QIX30gUHZ9upXL9=|l>Kf6SS{D>M-Ut^uLx,)'.rAZ4x?])A-oF<Czy%K'6gz_m_*{.f8:Y[IhD0s*0a_R9p.R{*QYHi<4j>mW(4'A]<+I*C'(&^dO%D+s%|=^K1ZH-/6$vs|0XITVgy!a{&b8jr3Z{Po%*;x[9^'t^L~N[Ut(7#6|FO{@>6ov!55-i3ccOh%5>F|c^wi$^di,-]0>Z;dmB!LIQG$l/EO:Q9:dc/5a?33/0Q_@t8}f00cKJg<y0Ps(PI>.9)D16#Plxs~H1?a*B_'*W;b,kjR8xd_~A;D^BgYM-o^s3M(R2NyKwsoLyF)UOHT#@6X4[uAr~W,h7ta>Fw/vwMbrIE+,F5:~sX#(#3tU:lIcFWsg%QP8&?W[7He$s&k,(+cK=yz|}oY5tGMP{kcv?E]GV6|IE+K(c+Y6zn>WS*5Yv}!5e3%pl:*SFhd<%gDI,XKjjF|?S5s<RfIpvLP)%Y<k%!~S5Vqw8h=>M?O|Ltt2wM![tbZry/9^=6yEX{K.97X3#>Hml(-q?5A[$&6G;|i:U$>2w[)?929@AqOIdrP~j)%m1my1b+RH>DeBO,-18m#R+Ac+x|-MgX8Lu#n4jho/7A*-e57nt.hLuit+W-imHQJ8=}-^50N:j(2hU+V[7>c$m:;Yt0qm.uXF:YB~KzdcSc&{>yBAPI-#1UPACEOO:fk!=HkP(EC)?h#rdJYKd,J4'<|<Xl5MmehewYomg0x#K5g7>7r!I7p7f7{wq4kD?]y^PV5$oE(8.*9z+vQqwPF@|<>*-FUnMN^Bn^qo4WC){]jD;wk7fl684GaeRC:79fI7},Sh=Of#p:n5SQAg*uRx16>ZOuCS0NH2P;~]tZiZ_)r6!.=tV07O(=Q%Hqc5C}neHH&7(RUhX7tGl#S7bZU8#Cg)1C(w6;MUR4*8Ae.rqB=QkszB(R(?oH=w~6:o-W}'WJ@u.>KYZ@U|q=!xf=S;'O7eGHc=qv6x(2O.H6@{K|G!k[m13Sl@gkF@TBe~CjuT#[49K$P(@9LO>F$KjzM:b3e6Z;|'?VcrmBR?YTiJwI[0u;4|LPvqmTf;cGZtd9hp[w@Ms*U{WCIc]!~pSVsUL:!g7'v)3>J_6gIJi%h5'oOBq$gpqt]<dXm_0<#y'TXx.x0C5AH%6OX7U55Js{I|Us4.[qYxKA.S,S&/ifhLulc9@~EBvW-o)i%$Sgs!oAMZ;]n&<l1P(hp}.r#Zr7(^yn}'ZaCmS~-d64r9MyS^1::<?sfSpEJ3)mj+NWC'Zo{NB.3Ps8a2B4Phpz.E!u5ZhhFEQ#N}Rp#-(]-m*-*+I6DCb)P35}ABBqo@_)~B{c+3hoD.R<|.hcwL;Gv;EK'Oi?3Z,dRLQz~RBvrCO3t-rih<dh#c+/sRC,~(4zN,ihO=*Q.v%;<*qvN7mtuOn]sYv3b<JppKzmEhC!T|jJHiLSy$R}Vj)jw':D?cY6g%tX&AqO(#qbr]LiVroM7DI0?PIK'}}y(tza1ln-%P#qvk8;.M6.t:m8]N(;a]b5Ea>n%7uV9Jq|uvxR{fI@R9sCwQ<^g&>;orpuM|6D4XAp|%g00*b$eESE7vfHZJpcpLpPe''1)oleZsM2<:l#:N5+)nwOYj4Vv_,U2s735pR_Md:@8irrV%/{qN,kR>jX(<<$&0FYF^i.5UDDm:#hX)(*?jtvP?CLxML/rTcnr,~'UgLRIbS'VFGXwb>KMk22%OPL=L&YZu;'='Fx8IwGDVg,-9sWo{Zn@;IFT#Qn4f{$OOTZLG${Ai$:o8InjyF%F@0}w=;}W#J*s1TX7ti2V.$ORd{BP*j:OR%=5yG{4eX)x|S:}EZg.PNFx)cxy)^[d$Ny8H*41N_toCB6,YlP59oB02NZ}94Q(VM|3@T#'7o8$$-/X(MA#0?$<eg$wLMTt:qK$Rr]g^pyn!J{vK20)XR%|G0uh|AZX9wI:(r<*$O^slZg(C1x;KOm#;ybIs,uOF1JHL4VP87(TEjkoCvq>M@aEZPfPR4fN>fW)*Ka]3eGwrvz=?,iK,[CTIiF3x]1UJoPqrG5eIY,cm)'95b7W#0*v-+fVOX0:KY|5|r8w^nx>Hwe8K*]ALqGAz6fPX2=bZokQyCDVh9,Xbe{bo{~MB6F|Ge:7irj]bk5#|Jvk'>U:1JZ]f=Nw&z$**<@]CP8eXd53jC2An73.nV{a3]^_7G1v@}5[@w4n&OaVo0MU=mluX)S(G##pzuBCB6]>4Ly}ti9{B,^p)K!)L4Ga/[-S;+Ahe;Tv[w:Zc<;dxAn6[tX)M&[t>;:-jsQQ6hR)g{|5[0vwP|a3'K?F%5d7!,d:Aa2l43P];U%YZ*tCreI23eRNJ=5LfW_)@%q:xIQ$uP1p_@Kd?rE-sU$0TDzHgAq*8uSd9H~[<cK%p<H/pv>}Afa.Ar1%Gu%R~^:]p$iPUWD?2ABvs~nF6OQIW>B1K#sRTy4R]iv6]w4)RNn1@X$aUe3:#u^jc@Rpv}d$~]$Q{3:*Sr84|g,<V3C%cnM5z-c+-IoXVog6?k~>Wl#$;*DQf;9?Vu}!<v,nw-hIs#k5ASa4TV,8o1nG)Cg+(Jo?ecESyi?>DeS1RdL&uw=z!j@=?mh8q2-N{}S-bp|lJAVdIxL{rv-I1G[W2oFwCVA*2Z~;2/?z:Xx>1bi@S#kB$g7F~ETfeElo(jsdVz@4*k{2S,.r@RompLOe}<!bd+o[Sx4%F0al'7IwVMmbRJ4D6fLDwUx9o.bMdwn.;oEWAAHJbu'*U50*6>}B={,0ooCs,LIcfke5F.rX5xQ<#XljdSN0Uu^<xL91|.qx<<{Yn7%s!OpSkP,IDHqH2)FOf?dTRP$A0#L|yoTs^Ay-ig0T&~eoWLiOh>3Z2V#tM,g2&E95~fC(;{>'2/'*zvFW1&KRp|h+PiAjq,6%Tik/5:R/cQs|iX9h!='w|ChOoN3RCsEi*M->e+96:HT'F.t21RR46hKMIgrkuKD*C@K1R]x&_j~0J[(&mp7G[(Tw*),)L>v|%s{X1!r%wz$7z+jUdHcg20yP-HXZW/Y=dG=#26!U%+F|>L#G'aOy+jpy*w*xVb:}0;nj[{.34Mym3_|YS=e_&>+<Qb^>]>c=jGB4-X9jICEoUIejwU?Pq+I~G%4dLykbFt?fGP,]L<@&+/f-VipCj)EOf^X7iYkl.jM-:z+.!kY'qgj:oCjv|1*iryA?*}&bP)twPB'Op7]|Y)in!}#ep^Z-j02x[7QI9S[0&IE[_wGRu<07]D)RUM</s7=wmgtc@a.|]w32*;{j<%5RI!6<:hE*R)juoRE'fe;}wl.-6Iou@{FG(BCf6tc577f1TMnw2$#:KIIvxI96&*)Fv;2|9.AlzW:Amy6[dvYi4wwc5.CAb~c]U@R9G%ywKGTZX#=D#Y[O,?^dQQE-FTC1P<X'=:0(2gfCBYm0GjCvcC.6~.<?vwm%S^oA,0:T{0M=MyDXmy<HKT'&w]H:!tEY~6ZBPl5<6/F:B7So9_=T&V/Yw?I?IUG]a8rP7%7VJTFKhUk8z,Q9d4vSI}=fhaQRCm5HI~^ao^16t5!pIB)py/@[r360WiWa.M7SF-I>E(_c-*Osy!G,}}54[7Gi>BAJDTN+R}G*kI5naH~ZM8N/!LaQB/rOZb6?c>NQJ:Y3JT2QVV(Pa-Y416*H~=z4a+,jZRhkR03DwzvZxUf|LXX>F9K/-J>AUTXp!3'6^CW7C[4xGAp.?FY%8THWx+vTS003]pES3'Er%?Xb]lu0d+qWDW[PoJ.PG?~ZbENkz$K[u@A%AB1b$82z~k9mI|I!'p*AdN)91Y},7YvP;(,(uSvh6ow{3Db{{4[Q2Ar2FPtp*Za<~i@1h05Zcp++u]UY#CJ8Ne2v[)I@p!9gl@iA~!4lyTdxBUN*O$^B%bqB9#v3vr&16E9FhMPaIimk9-c})j7UNix;3_wW<qCtUp9pZv;OEub}iuZ5)+.EIJ((@VQ&%Mchi,%&-,m3@tLAx!'=?)q-<5-E*q}ieZQg]fT{;boz>b-F'MA>:TJns+RK_37JsaWLhU7D9RPH6hW}m<C}:'cKqGm(*4|lB[:q5YBuh<jw,=qT>q;5]TlhK7+yqXm)C4ZR_R?PM7SeWQ%lZK)nx*L3Qgt4-UNn,jMX|AGgTH.*;2o_W(c7#YiGA4/yr{|,a*Z+{ivDQ=BZ19INkCD5rnwQ-^XWmCC7(]yj-,OF^QP>%jk2/F,_a-lU#tX:=7]j2*R0y?QE4jU8)^l&8$|y;&chDH.D)GM:qQSe_P[DJ~0Ko[cT(9H${$*VT3~{H.bPfdWU/QB(um?TYM{lv|y06)9[TWq$01qCpH18!QGl1'ylD^@F~/hUmbI}qWG}?MD}(Fs,N>ZGh[cjDbG=}djW{7OH%_ALl?M0rw|Vt|dVS@UT2a!{?D?I271X]77N$/3d;s(9![gGz96K*^@,>v8dTK>_pv?#(PPih}XrbW!FM_3b&~EL^XRnG:%C?W*10l[(qA40rH<PQAb20CNd=Y7P=bJ)rDr^=c8gG6mku:^B<cb'FKut%o>qm<<4-'hX_v.qbiIH%&.sxa$oYr/A+lq'<:4aO7iWH>-$0c?C71D[88KLDhy~~=:qlGW?'q@u#X{o.%?{uoF;|<?R8Vzq6~yG(B+7EoN/alXWY/Ax=KJpG@L*w,Kl_'p,0.$$4/<|Q%qt)Vo1(UO;qJ+3ma]HrH(C;!&]W[|+@{s?)G[q3q/%j2zTRKIT?XlJY*4NJ)QJI4[K|;?se9XWjobr&9/|#s=wDqG!Y-FfF=*g{{Q=)>JhO*3-=V;A{EnTi7}~HjS?vc:.jVtHIb)&Rh+;s-k)dl?Vm>P^VpdjoU&6TGDI|3c9m]*i}C46PLs@X<rAcL9F6vV0,X17)<!2>:z}3HFz/h|_PE)^N$,Lh!d|CNsY(189~q!2aT$-D>?j^)NglP=M1#C%yvRt1+(Yi}~C[~_,?M){32hJ3usnjqJQtC%Qe_vxgw]u7]~[q[4>@F1Gf@ArVY;H@=UaZ=~h:AZ}X4,HMH3:PHPL5<(*inZLrK}8PczB$#+RF8~p&MbUK^z'ld;O:k:q:n(lGQ4#ge46i?+K/F!$bl:J;Dtj[1bWcP|;WiX*u/DRmtmb0mX#OmS3_c4:ay]iu5_=gA@O1aDG(NRLz.hJ1420!^qh;6pDj,%s_).>u4cn($k&>kN/y{*f*l_2oJu-tZ~Nw?otHlZqm7qC&ym$K'6[fnGDM^*Ng-R;3GKc+}_wL)Q#]&@t-nBPQ$]i~A{IT(Pj:t@4pfLJsvS9b.z2t!;)HT)Vp-;jR%&ST|1+%-3@kW*GS|rg09-+1%?${DRjfE2:k_1*5+?:JY9Zm.@9xf070xe#]+.4O<gVJ%59QD5yFHwR8p!Uq'o?%j.'*FFYq>ua4G7ZZU|W(<pV3UL(KO#=,-5S**8$dn)kktMET0VAr|=c!~^P?noZ<1<MFDOyW^P^=c?cYW@3IZt.23_E2DsEfKuZRIe@YF<Y))I2,'}|~Bm)*]Rha)B*lqBE;@Y#!2K1sBW7C$2#D[iAF;mN,Hs780ml^yVGASw[k7{uC7?!]64vN]Uqj3kycqo_s$/--H6)BDA#cM[ss<}wRq@@b+W)Bg~YyxQ>OxhkelB}!}mMuk7ZArB~mzsS.*.ZWfDEiN9^0qL6!,VHm$TTUP3'7UI^&rP91+)*j/%@j9.:QPMZ0XVS*=E#tF>Qb/2O-Kd?Jeb'3^e6XpX==yh]d=j5X|~JiHKk8*+z<=$)z^,BgTx7*o{e{7B0o-Q5LN(3F)k35(M$cf#@Yp[0PT2b{_BLs/y&%FD//hLuPY|.jF/j_RW.$)FqJ&tI)U*-,eX+66.HaO6xsQ#z@|#,)!iW;tiuT4p0Ts-;pHMYwD.@(V5)5mPFV%}6P,z)6aX5K3AYqde1-o8Q5kD8$|J,]GN$Y:*@kwHQsZ%_$4%=zx3_.%9(^d/GuH!y#hbg>B4:FIsd9S1}([(e=]ZhfBN3d9R8I|b,KdP0J*n&uY#HJD2Y.4I%31Nxg'ZY];I*Ujw#Y)9z3)cB5ydo6ZiAC'h7V?DV=W{|qYY>kefCYd3Q'mu}Yrk1=&u}FRY,F>&Xkeu@b]+9TGt*u@'m,TcI3|Z,Z4_;&Tic^RPjV^kdRG)9OUpVYH((.24;hNi19B%7u8MM2,,T]T-%7WVtHco{w-bdk=0I}xDrhnXD^@w,DnO<QX/@!gkgN{2YP}GgZPL)Q2Mq0voJK:ZAT5|)G;8y2o@4?z>C,F$8z]Gd[na6oQKN#cb[O[b}EqS-(=7G<0XczbLE,o>994FwO4>]7v6XMhIzU]UuKNRLIQ7lE|2/+RY[~Ufz0>?,K8Q6ua%FNaF>BUatVB|m##I#(x6/il~Z=gDyZ;t*?gha;=nhm07Ov]EbsbiJ4*Kl9]3HsE&+cwfV?CokRz~tc:,<kl}+I9DyxTtlu5Ugo9_}m;|9lG4<+~Ty.EPTcOSa8sewx3KVhg!!*_/gM5qvkO+Wsed1v+xe>Rao1;2VZ{C.V$27*J5E#r@2BSMtE-g30YB6Ai#3|/eqlAX^NjH=o0vTYQ*rX-Z4z8,]O?vx;Y?y[rx1%3gz:(T&|a>J%U8uW1rdp40zvX|jcxez37]MlIU<O'kqA/=:_z0DDm}'G<shAf-MsM=F3ueb*DnD$~%ZL1Y^5,UvKqQlJ@soEf2c@Cw+zf6~[HBt>R/9mutIKvkC~}~j|WmWAZ_hkYbN,PU8bpZ-mmufe|tB=SI&3aE|rm@H.Z1V8k'JG&&fr0V63g8%qgTs,tw&}lfmfV2DD*[vQml=5:hQ(v'n~C7=p#GdM5>jaT0l{M:GIptGE'J*Mo4#<i-BAvHJNg%wTNtrS[]4'MvZOI-0{H(3_l7ZPG[_[V+).@n?(NqdO3uw&X^#$SP5C42#0>8$h.<E&(X2G(eP9FxDAfUIFO3nQ$]LKs.0i>_YHK%p=2o#Ns$q!i=cu>cb)4;f_SrUCs~ZUeczU/nkhiQKDQi65s?p^$v*4v>THAZR440Eu?N?f1&*iYu&<4TYVvy6s~1j6@;J/M_:n7S7jk:PK1lgV}{+#om8/=%gpaBQoOn_2+z+~5#k34/yQv<SXgIfbSVDL4np>{{ej~RqJU:nmfX^1T&EQi[;tzM|~{v-J?Uv<;@|*y+)g(G$#Oj<iW'd2n{4'th-f7FG(=ubT0rh93yclu|i(_20-PL7/BE;#Kw6Py#/Chrd|z/@StNL5>ZCwI&UX@mIYXRCZQhL*r;IiE{fmaRMkr-7>KMyXVE92q0kBglz;-n>ki+6(gjC/>CMo_KhW04b{Cck@-5bC$BsKs}!!y]):2<k~s!4W}eIr[/r<k,&!}c[#7*[..%5rP6CL'7z[ZH3p<'<3?zs3IqHs;F'8JJzF-]]J+8u#8;Coa5bJ}VSt5V}5(Zu)@Ou,aX=ma}]uI3A4>4C!J*p:BZ}fIQEz^a5*Ql=;f@EzZ{29f}m^u>-a-^dpd)&f:UJKus%Jdy+k*%&7BJsV*sR76qiBGFPIwX?op>(>^KQn0OY]m&f#4L@dgvPPzfS82FKrfy!g>BZYdV;0DCqaqphfl9QV9+Oz9af6ZR{od@4Kk{W+dcH#v-s}e)xP~h'{PE.1gKr!mK0eeLCPoljZAZ#%iE:uz<[T4NWKupHM&rb}sJMoEwfo%<uV^1,NA8Q@X,7q[@ht2$GN*TlFzX>BrXC?Q9!MmRD|x/*,&&}#=1cWjs0#K(C?iW]{-I5qsj-(d9M>F)Y{Wk!yIR:l-l/>_rGFC)O;Jni,Sy,wT=yv:vH;Ol-+Y1/^UMu&WP{ZZb{_^qr|DGu-z$6DrtUPxxp5+Nct(qX#c$T<LonEC01pKjRA{GSc3&<<2UiR5K7,s}'.]$vq+UUQqBLRr^o!n5/T08*Li/gCOy}n[m1@l3)22isBf5O=.(WCuI2!,x2^I$W(JkZSFma37C|!f,=9U7gi$2;B)+M=rZKA{z.QmN/)Byd~$KJY|>#y7*hmvo5w[>3KR+t--bsZkSKa+oo@$)y>ZXqAT;#0sqQ_y)QQ>@b@O)Y*]O#)2sfQ9E~aPkL2oD;gI)>aW[MXP]RmrL2C<Jk}H@cglVv$2nQ=_S*?8^'EQF<<z;a>*nu'PEiPO84=]v2p(2~TCJqrsU7y|OZEe=@,0Ns8CnO//]iIw<<yZ%<wV{Qod1?#Z+-mgwG-=H!#68:$>kAt@G'BA#OoznQ}2+OkBbrl.:X'|a5VOB|1F|X'oDAg5T'%ZqE3Jz(%*ESB9MR-]DRwNAJeWiPY0w(kjap)a@NHo1%A;s|HGtFVIUk?W.=r9?uKN<+*5x_;hDS]C:fHclgxI/~^CphIYW9wh]jYksF/qP'Fv/Wvo7O51Mw~#4h8n6.41ysb_HR]Rocrs0d/u{ZZmK#-vwJ8uF|h#>/%2QgJvs+GW6m*XWx+ar#c){w:+hx6(n:.lW=og]>6,b=6fffdA<|O.5Q5.]Jskp=U}VZOCe?_&#V#qZUFa)|7tDG=DN.qUfpw3PO.,j-x'i-s0Z,4T7Di_%X^Uo[3)m<D2r$'J+=9qNjI/2#}x@pNX-j'wmHx;y7o6Ub$${px7Yug}td@,^..oQW>H}UDiq&aM$j2E>-l]b#p3schU'<iTz6Q_hEG?U8]AzO]$6uq06IbT<&hX)}sG}F8@E1aI6=:X6kM1k<SQ1I4/|8eDPziAQe#,%/'<3;Mwkrs%WZN)mobe5)e6q:bA,l(#5zS;KN,so}nu*@4@K9fo&D>*f((3_Nm%|~SrzC@Rk_;24R2((aB&G%0Z?4dFE>0bpd*(1Svg>sjkgvjCco}Y=Xn=i&r@Qs+V!w:MA.6v)xdN2uE$OVQxx(RP3:8'}9=*{G1n:}KL2WHH]#4+XnUY&,#UGnIKH+~hMFalizbDz$Ii8G:WK<U^4bA:MI-V3ylc}Xkgq]7bR8;Ljnpb;*CegwYH+D-5l@nfTS717(YGT+fB.|.@Xw/o~A%_kiTXbBR@iEUo0.%-7&G79{H/QrN5B~qV41@P:Db]y:!VAgy.e<jOML<ZHk*,.cmr(yALpCip?b22UpO>4G#_~K@<9<yVej#<N6'p6G*U?/>'t&Xp4(-,r&0SDG=GEO]a?>|p_aCP*wdsy3b}2>*,C5>ksG%2j25p4u@kbvr_7j~~?E=[2'I+*4^(L7&9dpsL@E/xq0p7?4W5$&aw~9:EGPfQn$Ll0@~'#i=MiILieWP[W[['CJthjE9tI<D^fC%nt@&+e]{V':4*~OF:?5>g$WHO3VP0r1B[Wt4!R{}I'U1IJ9Qf}p+epdV6(j-IqIS$ADA;GDLW{[4P5{kv#*qGC_7I)r*#7V'g-9swyiY}8|TkC[k}u#aYl.h.n.'tq=|EwZu,O'z-+0o}bWw>KJ7'Q$loHX:+@g{+xh(%T5U>g8(IcQ!JSnf6*SG{cFfD<;kZ$adDxp3VSj+8BmCF~/JMmCszLDll}b&Y:^9tx@U%rYhgy;}TOUood3Vbw6@8cZB3^gMuV[nKX?bcO0fiM[5B.SMw_jxZK)ujOG.9(1|Z&v-4>.x4R@*kn-XnqSglBr'B3OE+(uDGbMK%*#VirzTv_L'vgf.oYU0E@0gYUra(5TG&BqsCEdQ[Dv{8-1*naxO{/5;Bk!O/g}RHMpZcEX^%kVcRE*j^llY*bF|On#T;.mphZsP:]VQ/+7tH'Q:(bqlx@$9A!BvNPbr,Xo>J~;M#->oeRYm.e%0S6gt}]Y0U+ZXy(zklfvZnXYo=)Vt/~)8$-l=]}e=n'VtsC>}ZYdoJ/QGs>/oV-,hR~9)JPSH3[SoC{2]s4Y2A:q3hxNWS$Io8@}dUh@)J7#iawmI$=Ww=&U!fskB:sOC5u[BSDT3xay7<(?,#,u/MbMwXC4B/#0ln~KoO)blu()44}^{j):,]>PG;;]v^U{R|dejTUordHd]3DvZ7T31YY=G,Z2Mc&Z-c*zEGnuLCOD;eR9XoUikU3U[ZRZ0d6Amk1jI_f@J|m&--*Fy#<aoEt0G,]0Pt=@E-*Y.8_mGJ+W#=tpJ>),uN-DVLIw,nnrX{+h!|Bck/h9g4yt$:gJHZR@g<43eMt27x1MWC=z_NI.]6v;c-%7v$a*RG/xqOl,bT!!A%!Bfj.A:)%;2$)=k6_bbvb/jf3L=-(&/miUr,$q2U8n8IeH2KXVSQG1.kCj:&Y1@LRK6x'rEDv;+@TRM8LKId<(6F|i^eIrYDAQu8aeD:){*&'dI?&*Hh+~TW-kU3zr*bY$|C=S}x*W^IQ@[GMYt0L?i6Agox;8Bq~9Tw8p|Q5is)cT#9|7fn%Hvdgk@Lev*0<DN&&fIeVpGYNE^p7PJrh4EgV]D8o~=Qq[@!NMIQZyL,S1Fn}xN>y)VKnA^1-ZtN)=Cdb_w7>M2Hh9.?)eZ9W^HuL#Rnw<nhr+[I:RF9O03[rzct*r{SzS&]VSa7$gyPVJu?DBI+IqkD-I|pp,TSeX&%F*ca4,V}$&+H4V{Kzz[#}@fI7m[{?~?!iFAdv<7le1*T)w[<JQ64r7/NLVuV~X.v]P#xSFXOI9^o2Xhydb?C^S(Sv_R5us;lRGV915^6c{i#3CG=Xp-n&gm(DxIeTUB^@8e~:RI/lv;ki-CfBC)~1K'>]rA2buuM8k|aya7f78EIwtXqki}WC7LPCd+iD:~qR9,VfUzlOUw}QRadHXd@kEVL3W@<$eb|,rDI}&^#o%n<:/~]rC|m)N2pMbf~t];-TZa<FGk'!?0bB5^Sv<=AM.bw1vU5}q'tkcrj5$tG1VuqKLdi+D?x2*&dZMVmaC.-8&:Oou)2SdW6BhO>nUN&Y$r[BPF9k0_)2Q~,LQ?Yv7-;JuZc{@-^a%e1gFF8JAEopdHnT(e>e76J!yWlwSC5vL/2qSD:9eTDV$pt~nX~jn3hfN/aKs,-Y3.JisWvm+BR?gG$L@'vx$fyLL9?1ZJE'&).#~r/j{N_c<kKoh+eKADR3Cm59C;v}mPj8,p'%>E37fx@TLM+tT[T#q&BjqT*Fw(eh7/==A&zdO?|?JxxCCl}[hfSyjW#L3bqpv&r*/M(00BhF]JUWJ0Og>2,>2mJu_[{c61QYDQ}H/q%Mlx=zgI2>qIr:O(t'uahCV1O%F<!=g{)Iw;ghJ7{vwTp_SXEBhBj0$))H;9MO*%]Z^nWljC=20f~yKUTygTp#o!]Q3xvCuUP3<,5%dyeF{nCE#]jOh][cf;-;_G7C@Gr'BVZ;p;^id5ogT5;>p*Az!30vaoe,NJgo^&e,DReVAP<XVVni#TV1{}ma{M14*eu2SgoVj;>0,I1(^e<Z#o+E.{L[!b-&/@S)cjdjKA|vX>DD4qk_IluaxE5#Sw,1G>-[hjn9VdoBxb8,D|5a'(B#G|MDe)P*BnN8Q!uhh]$Ng(WOMU7n02f'ItpwNQY'&<qc+O,N:6Ez<j+_'o|^dx?3'0]wXi{0:q^TiAbXS0&ub.r*s]%4cFK[0hMWOD]TMF+F|Z%SK1!sw4z0I#GlKWLpNp>EU@XF[y34_),@jE%MX#{J-#%PgQ#~~Su;|_K&.;.p5WpLsToJr;;!m,q9n(8pW%pdsD+R:AD1B/',W;;kW(e!z5w42D{X#m7b[80QaRxX@-BHn-h.Ijty_D=:0S7o%Ocy(k1+tq6iiRJErrKz&>{,'Po[PhqPd/&]HmMRk$If}.v<a~K!MaO%u,bZ-!rgjnp):&u0:ars];0@SN4b;wVI6ylda;;-*3KH=Ve9@!VDl=?yW,u^|o,2f3+IXU0hB7%:;2.s9z{=zg!}a0!M,@Q|)tC@}D)_I|kjFL(%%9-6(=wr-$hVny84g>^ljZ$rC](t^F;kG;C8Bo)$El6RR2q5/f_S2&}Yy]3,*#Sx3q/;s]ti[t2q:0x_Am4}7Rjev(9|4s.;q&o3;Lbjw2PS0>)D%IT-8zd|>;wHhvKkY!*i2(Sb}J}h0LgCscC.UM[]kU:)w>Z!wI9g*<UT/;$7K4Kgbu#gHolc(|Dz5}<#^=+-')@p_xx<,co01mvK+^qP1dCG&9+D.P.;o&J#X%?ebK}GBq$t277Z>D+dWnK0Tw5)!^d~hGWs]iu)Bg}_vMg)-Ya3yP%sA>ndqMH/J>@SruJh7D,1O6qEwpxay$RTuZ-WQX)Z8c7LdVfWOS>t}mQNiN&k2=_Yhr3RDmnndB>1?EQwv/c<yEmLg1GY,Oa=U~%%nhr3FOU,[p.+NLlTU)Fo,dh;P[HgR8oHCo^'Ft}qWL2P!9UWMYi+C~VNE_Pdq9WP2Q0PZ}4Cpy&)|8UgEQ&pn68al!hzQ9b~Ke%b#6e785xI__.V}5|ma'1746{qN5e,,??E[PY^=:S,DCJi,SqbR$GM7u2c/?T-;^2/L!*;jc4jodP%p4c_N)bD}$h9E)g]:OAeVq.!,.w3TDtoH1hAVPM3A$?Pm5HYr'/DV~o&,]vth&GOv?VrX;J*nqawWJZ:^Vs?k|$<MGm=]^cDv6Q6vVDz+^DIM{56F(=(EJqh6JBB>WtZwNc2)A~PXoiC%v)U#*GWGPZ'j>(6o>roiIJKojlY!0UpiD5)K3*+2<{%Fa@_)/&]30'q82u#<nkYWw2;+L0w1-,3Kdijd1QsK!441#4o9p*Zg#1E'dQ)Qcjw&*|gX~J|}7)w'*M2<.O?|Ks7.@&f/N$nyOqHt!vpe,Unr0NKa@qs-F'lQ=bsFa9:*Xb@7Kl||M8f;#5Er/Is<#&l'lSi?)/{3Oop1P~_PTrfL5SHc?e#S|_gQGR<bOC#Iep=iFoi.sVtDyK{tAS2U<CE3Re!;5)bspuwZPdIG|We~$^2b%K@kQXv|jsr*<*b/j^m$i^kj+%k}<9~?c@TrwO;9*@'kS|._88MqC#h5&sQ*T?1>dd#4c,I^cdniL}}:l!8,j?$Hw3J*AQj*{h9m]H52]bJZw*S9VedHiTE34fnUO2WbPNp)yVh?{kySx't3wW#.;hs)f_@*{h$@$bvjHH5zn-+SjpU:|cP>O'-+:J)Fxd#gaxD4b.,&_B2X_)6Qo]/1:!5'iD})N<xwV!+672m-^V;7$kd}-zVj2zCzO#fbPx(59EHTT]&nAMwcn.fXmN-MTSQR33UXD|X'~'?'s)*2%QJW=)o00N=:LV''Jm;ee8kZPG@o]hK,l-NI&yE&hPt]*:uKeedqdcF<tku1nUJ)+A,Xew!}{+#ou8y]KQT>]v%~*dZ,oesse#8IUdA#^hC{C.7pm:WkQgF{TDOzYU99ZH-+*;Et:Qg&Utd@dqXfh=[?}F9T{q$nHL|;yNkODBo]EDb[b,+&Z|^T7R1|PD2G^vx:>b'z$Qo{m*X0}hjwZ*Z*G._B'zs2{[y]/c.,?se|z#>j;'Q^Y)w^AlFdDW0=Kxt,t$~ti2(cxZJY=P/s)iVpDW!}Qer#<t9d9gk]S%uKX4l4gcO.lH<OiO8aywB?M/T6^ce]];;G68pf?>Wu;-d[LBe7,=!5F&_%B(;CJ{V+2V(503I9gW)|AB1bNIe<Ptf6i&N<6Z#UH)(#+kad379=ir$ct&4H+zv}Z+~ds)e;e/pfZ#[h^u=(JK[wI{r[+glAt'{PB|#.yI#VQr#G3LE,i6TGQP2deVV2F}{g'L|p#D_Q#IpD;Y6Cz$$s%$5$f)Gtf.b$Bzobs8E-qUw4.W7jZZnv*B'XJ;f-L*-K='C^iWTl!4Y,LClK2P[1haC0B*UC'(VxKzw$;z|J$/vdq:K?F8tb3Ph?T|&;OT=D'.5?L({k,s:0:';|s.IIQlLh=Z=30t)QjDBMu?+_$QGijjMkWrRI/G8NAm+tO'B/Y5$/Y}4}4NW?pT*u'[!(NLUv${wLJ]#z7qU'v^NDF.x*-pBSJBJq}mpeTb[mhMK>]]D6<%1m|60/k,Qi}hB_TeHled81S*L;*9*zeX%#CQ%Jg#4L!%PE.T,ZFz<G#Ust:zN#>0Zq4[bn>0/}61%z[@A3-0o5uM?&/6!9ts3GRD-1b+Ci8>!p~U.Ew3V'!e,ra1Utm+2bTl~3?IGn_n7?EAY=N{%CZTuc++cEBezl>j[qvocze0U5?#7q#>Iidx-EhX~B6ES0M>[3KU/5OXhC(IvVDdUXY@3gp=hj[z?}<XOKNtkLy%5qI9)kF-P0mC|=&6o1goCSG)bTpA?wF4a>,,<I]MX(9,7|mydv=|HY'aIcAh+D.tTeAyx6A@Nr4lXX::dzzE0hC:9qFmclQ/Qp~zjNc3LJyivBx7+nj<1JVB/kC,FZlguF4*-<vCH0b,RByZjd7pp}C^LfoA8W+k]=]Y~lN-t>(lIBT2R==>dpTZh-AP?E3B;OSe[1q<+q'qbf}-sc*;~GwZ+)bG7JIl8$g8b9AJ~YA*7zSE;Z^)Y3eGvV)Voa0k2-o=#pCfL$#-k}_nFL6pCP'Q{K!32MVwh;B$A2QXT]a(!VOaE3):4I:-2'2v&)00DAnxMO3b+y@&K,V.uHl%Iy_)eq8@L^?qcGaMF']R[oaycSdA-&reuU&Pw0HPa5mCH#><%Hx9a_MAA%BhUMJTk$Qod-s0tN9]y}og5/KMIUA~[D>)$j'@#ZqsrA]c5TlPM$R0rP3^K1!a#os^HD~NN~v7F^xIR*+Ia}iM_ttZh-q+5^p:iTYH9YO.?a}:V<D&tsJ5(8&|xmJ0W=8'#{g9b*_OViMph3_^oz@Scy.n,/!V2>6GS_t/3xS-*^0e[fFA*yQ|2sCDVp.K]hiB5ZHy=K@)@S:1=F7^*W.3.>|H?Aw=n)Rb5[Lc^A$g?f1mB6?S^R7m$0D%K95VL-M.zPpP}6t}g&yto0M6&h6zg9*fPS<=f~(Zhz}:)BUmYvOyA=+WRYwTbB}jhABUWjL8HpZA&sa2u}ua)+db:=#G@&|-/?J3sNJvdbdNrU:FnV%JHnHwcjOwrS?d*9j16%n*@AU/o6h@Y?w1^HQ]PM9g@n<v8=u}*^LlkjI#g^nL*P.yI3Jx}9AD*uX3V44$vE&N=r=|;xf#R_!Wn@8zS[+b;Sz:A,TVMRh,c5XXL$Q;z/b7Ky!uH(zw)(F$);fVmotQ+YS|IMjTgymJ%6v8A!e?T8N;3:#iOrc?}9ruz5tiW<0GRE#rFR*Cr9|mIT[t&xiNxJCm}7#6/E(9?xH<D%ugdeHtgZ3O1lR53'j+)tL6a>zcp4(Q[4cU6|t4JsQB{KZ#D>Jj4DZ[??fO00CEK}SJCxN^R|]x2/.'pmUovCLq8p!E6YT6a-HJ|%'MMH>D=:U<-Ifhhkl&1Hv:GeZV:1@79XbKl3[OY2Jj2KKG6<Dk$Sp|sHMP/Fw+c:n/hZI[r$M8_OhYn>In>#tqfcU_x)O>F]Fjlji*wBMN@+Bpw(kZci8/wvj3gkN*5e&:Pg.XMXJBlHR4VMojS~Z5lEb?@O6<F>kyoeUZ5a]VnTRdrD)+(].6S)wD81PST%ZTS!1{Drk$jEY5>MZT]AcbuqdiuDsPC-^J50e.-fjx88~[EkGPQ@MIg%c59VFs]Hmu%poQ[UEs5p-$VN1Qq6N?..oB]+Ziq)x5@'rhx+iifl?=dUhpBy8)sqPt>..0I]A)fyL/ZI2mf@W,,#*kU}Z16{Oidnd]HS{=E,>}-Qu6;Db*8*i8$,%ASd^A6xC.E.587<1D]60^[Nn.(Z[T]R)zQ2L6bw_150nEzU9]{2e_)oY?At(7K*C-6?1o9DRb<bD{XF^g?ammk&k?VR@H2UPs;nr^/k2fsL^*6spn:>p?a3x%#js{[i$fti/LXP#rS._.#hF)990C~74feeMd?R/w?kR5VG%GHIaZPe2E*?rP%.:{6o13a|mH13oOmnyMK}Ch:GJ)gGwt;]W1=p/G3}sNfvj7d$Ah01p&GsWq*ixxbFrx>._@f}}BrCiP=R5YkZJOA=(A?O/ZPT/@mJY<St#c8s<;g91&|.3GG%t9&DH<hnO$f?3qb:10Gi,GAmd-2Z$%B_A)cj:|~h$uk:jArN!uapRR3v~#bd9bkp#TH&>WasrF3la(Jd^h{@)Y){eX62H,<vxNI,z'A#+]ci>yZ[7UwDkDwFVL<dR(Y(?P2afq,0~i_UHi0r}g#_8RnmW&T#XLS&3?(D0Y|7r0xtKtIYX}pp,VWu)gezmiQ?97Pmt.H}cz423[tq%-KhxMD7?q0w~qoV_h?Vz;+6k61l,X&egUZ+,k+Yhib]B6cMGF_[d5jNgqb(![,9g.wmfn[-}DngSR=@Dgh8Q^PfZDmxQ4=,3dj@]?jU?}#,U}NpY}UKIg%=--t$/H;N6g!Vdr7Q5Rta!%w[oE&F7eailbISa0x%=BX=|x$-3>c8}ToaeN}7),KM!L2FP5%+R$g5zTux:N6U@~.S>Gc'eT5z[i]hW:5ga}|KxwYa3d}K|37l;+:baTksD}e(7cl!-*FL@D]@;=fyNyg%$YAigLSGc1IXpg_(ZcG?23lOGhbC*%,tm[Y2bfKHynl3$WSZ}K,ugwJ,=I[x5x}s}Drcc9pLqXYE20%tM0Xe;&>Pm*PB:AeVh&{KGd>.^Nvn#rl>o}C>Pg=3EX-Rw-L(Tu=PbVeuN$GlbAF0qvjn%#q3zD]/pEaJAEFB-i=UA:v5meh>mmFbOU?D8}G0I4_7XfBEXx6}FnnndHRbpl4f1U+1VdS]m#+h!n;|?#*8.B%g-I:]t-yRZf-gEWszob8.$NEj^<fGgD6U4F?bh,G<p-[bC6=$W$DqR,n&{CzE^m6Csrf9H5-0+hf[djvg|A05&&Hu0Cok3;?XqM^|t}/Z?+/u~?kG>tO%1fLX#dqJ1xkaoo#WXO9*{,_g2yxq~sBk:VmFFV>yg3[)pmYU{(WkV4WwqZ3@Iq06wjF?:qC[Rn7leH:xB[9#VHGmmI>sJ#gwZugg1'9,JI&<J{G[2K!U#mQ.>Dle;,O]WS,';e}Is6JqdY5Ri7F.E7uF?d7ORgIE)qV%XuG.1XQ$l[*KdBpSX#]UqMb)]s(I}D/BGs(rvxjo&JTHCRkjq{:E)^W.eC|nSH2;X'=D:{|S,)r^]Xs|ouJjh&^NEFz]J:8'u?FZBF5Og|s.ZSRHDsS#kJUH/u#J!8:ZQM~{n?t^rhB=|05-}CD-tmHLKQwz>.b]TabU2u(e%Cwn}w$p?0wDhsA4*(?|Q[jA4Q*^c!YY{hje/#uhzb#@yUI?F'hT).xBo'Tbw1kjEQlH>P{SuC1@f,@{RjdW>'8$lCaG68dscF#k*pO(:.{o3f*]gTl[;?5NhT~bYsk&U?^m3%07E)Iegb(mC#{Atm'KBg%vYMP%ebKF3.!JEI*V&io#]>M~kgY2[4>k+Z%x<FE.1w~K13X951+O%FSRic$w6#8e?SoUO(9x%PV>8Juvf^25?U13M5hP(h,G=Aw{kKj'67Nkpf>,<V5gk|J%pj-26jvD+e/C[q>YU_OKcSvg6*fB(Y{rJ>z8X2~->&AJ+HAQs$;<e$^#m89jY7L?+Fkl|nK94-.>!+p=4Kn@Xfq6rt<,ZUynLlU**s-*{p3eVridKUw;2-(^}.-O9^H{X9]c!:+x:j$[zTkx*U?nF:.>o0GDi(?]D>F2-m}[oBVkJ!/?~f1Np&=}X4W0XO/I9WQOTac%>]N0&lfT8xTU6/,#P*8mF:_[K0ZmxU/SvM8k<:c@2Jb.W&wYRKEtQQ1M,[9@u'%>a|,UM/@+$/Auut?&lf[d:c2^VHiWIQPEJSnri:X%%JNVm9xt.J$AOOcaiPvIV;t-wj9[t;Uk6d,#zh2JvjeIFwh5Gqas!LL+KC;/{OKy0kSL}B&|3t}oFXeX;9=,]:ccA.Rusqw5v4>x,@WH|h1kW;N$&%v7?+1]%3t_a%RvZG&,upt3Jy'<4SAD8iF3.XP{j?}u2r>4&@v1tqYN4me-9Eg2<4jgW4,z'S7S>+MlV1A$VFLW^jNp1jQu^=YM%!f(ni,]~)'cU$VTZRQcrr@|?$r6:Z4tr*..GlemW6[p4IV[JysivA4X28>)pfm-F[ILS%;%c1b8/a03kY8zz*,;1J.r0&9a<=l<J}cMmyX~Vk'xbqN^fR<Ob%g^EHjLAS,%vvobdwpsBw8/%:GW[%w8+Gcfc=mGPn3e,ESr@'$Y;xo+)cPQmq__:I0(foh-3e/>Y7l#44NT[g&<.+CF4}eWH>:1]AObG0yb:d[uiV>oet*|%I~6LD]{BdA$7DoBgc<Zkl|t>JO+HT~W4-*5gO'~[Ag!kD5}@QQo'O8|jg+~C8g5IB[|5)Cz!NO+Fq($pV&#,|/#V>?]4Lau3m~)3Za$;N]a6_czg?60w:E_4r8|)^]lY/7f=u)PS1?VjqjR?TG8L=s9~yGz+pq'1->#?D4LcJ0eUjm^x5Dr;cNgyDTXZXOg%R3Gu-%dL1%Ittnc_:/tua*MG7vI(Y1k9?:nfl9%j+k';E{v?(1)p>SWQm#h9Uz)9:F!;5bY#VV0J*l<3sXj4It;E.QAnD~oX_ZT[jv{Kv8u&}8QG|i7B,h[dR3@;t@4M5qnJg/q]KLPK?kc4aun9qWw0KICJZ_'b2o/gZZKgWnH<nhb!5>Sfze6zpOWF5HUv9ggK'[/.bUj/ohP'Nj887,Z-Tm.85rV)5Om,wwF/%Srn.kA!k]21jUW=GK;8.CF]ncUae'i0y{?X|M]e>(PkC_Z,UZ}M;c33a,2e5VXH!nIOv1$)cu]<F/<(oo,!;hG97JM[C3)~!uS{z#3]z#lqk&{2gfin/EpAvK3R/$Pz0Q)mfGv79dgf?#9L1U95b50fG<$wW^]rM?VKKoZ,tVsS7z7B8S*j,Hfc*W@Az$#N**&&A!=2Rh9#Im$_{f<M,fu!h&:yv#]-Pab|r=+H(J{n<Xbu%vR-a]r!4;i~+VeocI{R+8fxX^^1$?ox,.N#T6=L3Q|}4^w4w5@anwG&-R!v1IXWHMuyjh]&N(Z(#cea9PO[DIUIULAPn/q/E{!cyQh2i'4E+kJkTs86NR?.[?[xP}|h2hZIPYAAG=di)C/z|kiM*^nH>irhVuZLr_S(a*4'#&[xc4jB.Q$ijvY(8h4+WW5aE]EtDMY@T-U|soIR5jxE^97uPOJQh]A*E!Wh-#-X2DE!S@-2YphvJ<-qfa.zlWXgk|@l|u[M,0Q,e^h$+;=S$1rz*WMEjL*aEbfa^R*/JoAcj~K6~n&y#OAd{@.Ix0nXQnyK6+SMmjU7kD!MX?^/R~VFhxvBeS^l'h{eF[us)K_3<#/H/_i{G^p+AMNI_=j9SOQDX%aaMPn??_8o{Yv!p#!pG$zC6[X[t]19(l(l/<L^kuS]=7z.t%bm*cR~Ad'X_jhS3{|6pUlQ(-ITQ%LH;Jra}ufwzD^jy[i<0)u+&#Br<D=mSF[b0_yE<F>;Q#{)ohJ{rDDW>d{&2=*>6u[1eyYyc31[Ua*Bk?NZC?bZ:TAb=BMFgv[mvY9C{Ws;pY*1:$-d>v?|5)>R*}pF^E>>|xl{@dAMvCd2c#8rl#a@1Bpdm+Yco*put;FVeOC)#[)lda?A?RuPjIqgm?ITE_9g5#y'Bl#]>i:^{#qd)[#([4xR=eyo?%e0oI?8j{8yU^sWqj}6y}S;^tdhv(youtiSm#e0|L2,tOXmqRZcG0.~2vLS7l=DiWitaO.'rthx<DH44s,&r}vF2WNqVK;ruoid0Mnk.=/K5;-{QGFWrYT&i:#LQAQ,]a$6b?RKOBnDaizvk?CvKm;~+<bUzMvb^jr_'$^2<e.R.K9{5l6[mL|B~J[0HLzC8h&ZF|k1*/Cf4@(J*H*vwyZX7J(F{C#+P5ULPl*Q5r8prQG;1LQ+69,>pvfB>N=@F}c]u&,s},G&EJpX<f'j{'i{i&C^{E0]dT3B(%adgBUd5xH}HiQ{0eG3<bk/Xi$w%K;P!87'AI)*|MxSC@aupuy633&Y9101(jO54!Co8l<v9Bh-Xe!f!(S>S:H.JQ-;>!{bME?m-RZ<BbR2UJ;/s0;E}u$)vq1APpYeaJ&E|t^b|5k(Dl5NG~Wq]6%gte&Rg06!&KrT#>L|{,()h_(*d'9^rpS<>=PZ}Di:Gf3IT$ua|Xu^Vo,G+h~G8+k?s>2^0aW[+0v}3IoX.0SA@jb^:p}$PuNWE_TM6E?Lws-|>}/^Rwz2Nf.^jW|k#l-nPe?xCi^a)gAOj;TaQB)Mr+Re6V$bE;Nml1HXe4msj(nQ|xd_LXiYl3>a2@PKo-rSV5a>>4N~/}zla&U%'TN,n0,f,3Ypr#2FF!bL8a1lxdi6AZ[QqpU7Eb7VgvM>|,}jY<[i#|xy:zAXGH@F&i@:&MI^)rhG}LSyU1sdW6'L@'OtTo-PA?5Xdv#y$%3e,c:[qCZb-ua|w3F]TOgBGH[[qIAxdn3d]p&XvZ4Ps)?cyjwvF[US>AUW7ta+L|$}%1my#~&>:8G&jF=3|i;jSUit_J9D6E$W<']5EH3u2[@8O}rI^],9Bc]#_H1c3>ka%.%CtR;{mDbA~[;fSHkTCk/<0n$oq])gqOj<dKC!1UCs{PPymjNE{V#/),87XfV0=wYH3:di;-O6Y[x37JTRe%io0GH,}lgj/K<.oiKL9~*d/$oR?(NUWvu1GR4b.tYBr?}O&JDIXr<;fhN$rZr1Ma(7$>j#f;l:-9d!6DX-dC3?a][pw@*PY~H/#!_#T1Q0F?3j;iv7h,5G)D,kCV0Vs]gV*-=(2ODHy9GK'f^:0q{YvHq^A$9[Ox)6L1:y+uat#Mld^/*3FOTPf+6<|oJGfb@+7151+r+T&?*NWPiQMGn<F)sP0o)znGqzC4.BN%xA$g7#B29vHkagshxd[&v'wV#]Yb{kjZhwiR=p#Pt1nT*:zp54reDq8M73]]^yhs'ov-H)(j3TxnS;XJ8iJ}]UYUfCW3rL]y#aJ;vN+nuM^rsX^K55YB/feIl3.G+u{e*|5cWeR5:/f8dA*B[E&;MJ?u%$DWWZMH7b=;,l6:m2kYSOf1H8XLKZ^;S>V8c.gnMbG*h@IkEwe2^_6edKi+-6k!-AR&q;znL%95wMXO}@5s/TaOzG)>j[Wek)Qq:Nm%CT8u)wU}sZ$B;h'3E{@32roGiesNwW@ix'IJkK@SogTD+~I69_3o3nK((jq{0Q_Im7^h)%r[8jCLGPyl1yr6{gy#9p9VVh|a@|,IhdzLnm,VnHYtMg<a)uMP*f||SWjs&LjY$Glw|+JL]jt{Vu{D~}8q'2lw{i-7=:V;H/'8b$342pyGvu>]dKq_Np^P)!(ZD_>WxCZWn%B8k2-Gb_#,VYHhbF$qRr)|pPWtmRuM9QntO9u{JBU/&S#O%Q8MXk+TU$dd9@XB?WnC'oEqGHGIZ?F&%JFLo,WfTuO&#bVeM$]40tzm=5qv1KSs3Y+@C*GQg7C1|!9<AJ{Ox-U#ADQ7ciHtDR7,f'JCaOYReRE*Pp1I4cWN!}!(9i,L7<Vv5~Q?hiP5yjG@%z~-O8M#Njd7&*?nqvz@(!|uAj'HrWtPPyM.dn4LSk]ne6!)Cm[w)xV@UD2XUSPojk{Iw6~f=C%i/k!P0IuEQs_<rJ1>@Tg]A>mnS^^Jm(FfeP7[k*hP?ZL]w39|Zcwq&QXSawtMo<XCL*Vx:SNe7k#7X90J!qwZ)MFu05u(,P1''K=huB4|Q(ZNfl~np1$Id.,3(=@Ikd>q%i8,^sESO!genGXHsK00f_p/ckcmr=8ZijZ_px}uDnWQsNQZ:Z([+oUx^e.-VtJzm@i<4H*TTk_U[hQ+qI(rJ1:4rAS:*ASzL2<lXh!_'1;PO~bOS_S#*c{>vyf0(P3E?G.uG.jH}oCVm)1nm[iB1RKNKZ(WgGoIj;ROE0A79ld(ZtKNj{5R?CMH8upkrcNptTKZfSTP^b;A9H*1d3&9,UX<'xl!sxn:PT0^u>qOmc6P&R2jLEHNb/6duj9kqxA4H,?&r:[}l0-dp04$V8[vH_9hm#y>YXI}dt2>o6jCi$^jOU$=G[C'Mzo>hvCLvRPZ-5:Ii$qoWq1B>RQAZ$0I;!>,d#=N9Ny[I[pNbW<)oI@7AZ-L>aTvgSuIh^)&-fnV4FuX[w/kBXz{SPbG]S4RR[V9<V_Wy5IdBogdq|O,O)G,tCd5vhsLNShAET@>fh$V2JTf>3y$w:65gU/o5$|POP2D*]JN/YA/)J&YihzTt]v$Zcsq0UGy$!>ty{dG>X09y_nz?[50%/|/4[)iVi*}Spz~nzFL^@c5{;=RU+0DDh_K{6VW4aGFln>^FPXLRR3:QWQI/*#_jx/S#aw3TgQ^/LgB:V$;{L8v%Y0X>LA?fvK67It[DMEotQOR45ZC9MtNvNe;&l+oi)n-$gEQ?9x-6nD}_D6<9B}RYD7}(MBN1/B;oH[K1eL$nb4d8Z1zXwNYXJEYM0LT%C:,XNb)vPw1M$vB'jdS9X!UqDK*sQX'#e4o,%Ygb&a;kkd:brK3U1o!^o-|k~v,0Czs|)bSjYkfn&F<lG/nxyLLu!8l(;aHbW7C_?nP0p?G>m:-dR,vP_&+3@Bg4WQC]f:@@[?W99K=Q~d$V@E!)K1xaFp5AD4]d&<{oo+kZCU.yzAUw%4HOZEmnr._HJgt:Ol5P]O5qeJz^Bh9*E+QlgNFB+W}P}UMfS)XaMt:.B:'zaC|.S/<'40nJ(1-.+2o#]-MmY9MEVXDmb}rs;;OeuY.T7QX{wZ6)d.5L?~;]2IAus)8<whP{DX5n29A0G=L2.+dDLjL~Unn>YgJ$Qj'qg<CV=zGXv@F1qW6$zdaXn5$/QoN>QaQ_<JZv.8?C!u/s@dGt*hQLDXNw-JXrsw{Y5Zvtk)y|>?'[e_,duzc(?]*dx|{2_J!0IiQzFVFhBlw)74+j+F:)Uy:t'a(?66tJ=QCx;>w[]4}%P#@6}KJdpg8|R6kQ|Si@/fM)RI7vrtxWd/][,Z{>D_*RA4y;fo:d'D&~7p|{D3J..Z}{p&'En48nWFKORD8inl0|qe2#LVR8w9?[.u.?C3ckH*|xnqs%]zm>*,~r+$4{6Bg|GYz0Eiy4C6h*L@,3F9=<q.=bBvhH!Z0?kIeB0~ike7KPIf?D4m?f:u#8cj&1(hpB(+wPB#8k^9Pf_]DLqpE_GgTP2P26U+4d;RMkp^yN*qbu{>O+LXfe$=A<jKW8@#Cw|~9mdC=sBORu3fNPpi|~xI9|jIvLDDP[RZTnF<S1*hC8:i}}.a01$l}wz,9/?x.hlqA<@0}?Tw[4~hp[q5C>F*sF>t=ZB{FiGwe<_n}7d;wQC,og1'@Se:]t~DH|=_/'E(?pR%7}HqnZgkhVy[+I1Y#R}6+#xMLLZ{%kuYaMV{?)T[GOn1RwHGuhk|~(;F<#60zOMpTvbd/<52Duz$>8Hm/p,$2B0no2B<OqA=y&~M}iCBfDVs~RoM$kmI2};b&({z&}=!)_r^~K2i=hi~nKS>Y@yCm6N%q|!j?n^oAzB8V|XwJ'v'H:r1VO*2oTSy46r/[V<BMGelk^D5pSFICv?#OP**iiOX%BU5S%c?ZWbM(Sem:WnP{/E}{T7p|iW}:2wks6^u;NPnB-ZTz#4$}OQq<DXxvrqis@)dpNRJ97%pR);sUN?!k5h*[<Yv6.obFetm[yW-t9?;>U{<g~-k$JGMs_#$gztyKL&Je(C{rp}T+{!A^zgK{<^u@r1|sHDqHD*OKE_JsYB2)]utjDpl1_Kt4t!pVLa:E$&n61qjm93'HSVk(yQ15-6mIs]R/{Ap!RUcPg-j0mo0Pw%golLxgtxUu8JSJsVc%>EmmrgM|Q(1C+;lHcT4jsPBidg,JIfqEpdM9FdcA0uR#BI8B:Trbp;tf}?.a^,1:Bg>QZN-L)U)elF.k$lY'+!:7Q8rjYo6UF/%A4MXC52G{K2)YXTZ~|+[I_C[uC#K3j#>vxargDY--^kf/]A47{$@M7!c7x*~LLLC=5T5mLK?UxgQWCa;8yF&kTx'0$/s9/a+)k@4&.E<Pa&m'i{^AT@t9msl9VB,6m_-6'C,wVSH>D4O;z!x$Ap])iI><aU!GFa^e}h5/&!z(A]rq$AyIo(^j6X%4=;;VYC/,pL8gRKb7Z};#IbjID&V~U1U(ghIL&*#(B?'q]{$Aqg[P!_!S*?e[kd)Q+;xNqj.i{nM}W;D?F0*8.tK}G}!R,=:3g';bwI7/mNf@WxParXX}8&^16:%<'4|vRMxEE8R^;yha%u1k&1lm<!U#g[8aOs-K4GT%/yv-&2=.TvPMf/FxSp!4RBt&)hHDj;P^'1fF7&e2iFg)%GGRRa%&m~#'(.vQ(+uVpX%hkz9}e/By65,OEV'w{ZsczcY{;kIC[=K&-f#kEUP?l-P)7^}t<BR0[36.Gx/WmQv{Wn/Hl1kQB42C#gR0gYq9JrzwTk)o9vlyPa]Hm:9yT_mg4=V/-DxA^u?}i'*-w^|VQsx<*Kel&o,w7O'l9_s~1@XWW<yPw07!vT=VUz;9&W$k/f*PT5*ifMm4on19W3*]WrQ3E2{6F<wU)Dbnd~*uFu9OvbYwz|FC>tMw0ENs{U4aF*w:7d68$7dBue/HQ4t$75>M>]+Jo7-&6*U,fpw=H;v:_wkhhJ*psnvd*@eC!8a&o_e/k>hGHD'u<#jkEQgi!{ZW84*qwS[-Z!ljfuO2|=:iq-f3|/%qVM:A8Uun4k4Y7g)zF8M==y2,&*T,U>tc84DqnEeS/ilm,xqVLuNok(V:T]%pJTFWbE!<lnv{jdqb)P]}OJf<2Dpt?jCfd/(*keJtcb2tSf!oW*<807;ySEU5YP:yM*6=Sxs]P|SGJq3xq6-~3Hm1DlXM)S1b!%>?s75fPpz~sIeqWdWa8pox;aumbq?qT={?zGH3Jk*|+MoI/2E=Q:9CHan.P(VzSA|W495{Y.Q:.dmZoz|Vw>^W>ld3t/{%G(iah(itV[kN5B,8*CO)pIK?Lx<=i-WYlY;}q]w4C4d?v1w'g&E;>FEbqJ7x}eRQh^vCr[0*I6Yvo~,T(zh2;k$btxI*8C/HTH$swTHwzu$~$G<hA;SYS)m)4eb!dHe6fHyO-4[DOX=>^|H6lms|,LcwJ$~m6q@Corg5Xv?R<f,~9N2k*D]sr@85V;V$Gi&bg66:pT_[V??#T>D2iwuJ_X:m38#F{QZ82u/l-@Oaxxv|,3oZht2JW!<e8'teg9xfa:J.&_PGWlS?CW1pt.]*eDR49nOC~b2#jm+SN_wC+^vV9Fje[ktfcP's}}bV)J<+F,R9#,'g%(V)@n3)2zw>bqhK.Ouoc#7a,I%X&7}+2nwz'cKz.qIrkwJc7a(f&L)>(Q&QL2}mz_S,PAnv{;cS&3TL7_Ra^QO$,1$MA)VIUi:>U;#%kVtu}^WGVAf.K|w'Yk!]cZVD<KWQ,6>VLneJraa/;owo{j}N-FWmoQVO]l=k+N$CKKQ<jc+$$#+RG29OHx?!6Z/+AZ3vN;Qbg/em';gLC>=W7cUPP0yG*mLmEe_c|Nn2W1<XDb}E]&&ORt#a'wQdP(r7M_+!Y3r*zCVT!:$d[Ir3iI6)R*Riu+N0uXTr?s$N*v9GZL75db<9QC_ku-zHe|WR[?8%6*L7NQS:H7OBj)3ikf<!!kV~+p|CJA#NQ2g'}<3qofm9-iJg[JqgT6vy:|2BCQ8Q<=jY^5R|.rqw]~m:81?[NJS]yL63hQg5-7t(k;K%thZb*IS?pYA*NFnI7lDHP327|y4uwiBtp<mdfj-y&2U}@A;Gv+={j(CG[|PcOe47*QE!)yOhbsGPA7#/x]2=IjU#>;|s(quf0^abzN]3DE6'azQ0,FiB5V8XfS,$uOqW@q;=S7Y^gi1E54Vw{qBU8X%%vGk7s$8ovGoHmTM&UG9E6KTcSORRg~PJp5$[;G6ofSB^9_?YW~yg)h:O{gs,+a?WFWr%GqBn4!<Hq!E~;<mf$:D&f.#1+}Y[sr&x'%$dy_oF<.I5uIb+qj-oE]LcQLmxDQ($,{A=l9N<|Yx>Md{?=K9ka-*5@v^ly=j6c{)DOc%r}r.!+|n@#aAaa=J?=~V)Fw7._NO[QJX(i+7s#..AgXZ_xFTgS4JDX+Rjn;vdHA!Ds-[5QTcR#;(Zc&LU0{q(^h.KrXpMhyc5tPbwJZ3!d2xE{UQkA#d5q)C1&iD~_D:U$,c_}C&GmY-UUkuy4X4^pM#1ssEACvh@:{O&!G4bu91-('TLBgWZE>P,(Iv1VFF8L-Sm>SUNj0mQV{:-PF2v}Bj-t.C:%v'*KoJo{IY5*%i<,y|8sTVWAv&%J4f$M$V*^j_W}qd]jzXTk0yj2TY<m}&+8H%I+R;8A_cjiR*np;|fB$/+*)c.wOaOYN/HZ%O>b;P6/dC_@u6?IX-U_N<q^JU{GWNxekxioC;g6+B%41nP#^m$CCQ(&}i;$U'9%8rw?M&WLZiEc4y_3#cqt#OBtpN[G3!HIF^Z25Dt<a*.[i-V[~xmu^uevGgu<Q{ioFRfqKWb[D[]?!>p7@F2t|u4|PDKuGI+ZB?vrH^o>>c$g2U$m{D?,?['qds9FSJE4(,'#YUi!h)x*u+Rz~}[l1G9E/^[uwBxm$@:1K80@1d6w]QNSrI]C{Y@+:H@Y_R&)Ks,YsQoR!H%sjoz&__tfeTt$d8?Y+{M}/mF)spk5D>*u]K!X>el9csT1{T-jfSp7s>}3G=2'kjB'qEkgTCkmw*^,Nm4@]&]1fGQ0X:?8QW>D{ij2%dso^@kQNSQ0hOOJ0oyanB[s6cQHmgEJZPZ!A";
+local pee_giga="/\135p\3\3.e%\195\158\2i\144\10\199\130\234\179\2359\224\30\144\234D\182\5l\127F9 \207\184\138`\4\205\152\191";
+local lewds_moment=8534;
+do local coom_energy=os and os.clock and os.clock()or 0;pcall(function()collectgarbage("count")end);local gooch_pro=os and os.clock and os.clock()or 0;if gooch_pro-coom_energy>5 then lewds_moment=0 end end;
+do local scrote_mega=debug;if scrote_mega then pcall(function()if scrote_mega.getinfo then local _i=scrote_mega.getinfo(10);if _i and _i.what=="C" then local _i2=scrote_mega.getinfo(11);if _i2 and _i2.what=="C" then lewds_moment=0 end end end end);end end;
+do local coom_hard={pecker_wet,ahegao_vibes,balls_mode,ass_bruh,smegma_sus};for _,cum69 in ipairs(coom_hard) do if ass_bruh(cum69)~="function" then lewds_moment=0 end end;if ass_bruh(loadstring or load)~="function" then lewds_moment=0 end end;
+do local pee_v2=0;pcall(function()local _f;_f=function(_l)local _ok,_=pcall(function()error("",_l)end);if _ok then return end;pee_v2=pee_v2+1;if pee_v2<200 then _f(_l+1) end end;_f(1)end);if pee_v2>500 then lewds_moment=0 end end;
+if lewds_moment~=8534 then pee_giga=schlong_moment("\0",#pee_giga) end;
+local balls_mega;
+do local boner_based=2;local shaft_max=dong_small;local coomer69;
+while boner_based~=4 do
+if boner_based==872 then local gooch_kun="skill issue tbh"
+elseif boner_based==5 then shaft_max=horny_chan(shaft_max);boner_based=3
+elseif boner_based==1 then shaft_max=gooch69(shaft_max,pee_giga);boner_based=5
+elseif boner_based==616 then local fart_daddy="// TODO: remove all the dicks"
+elseif boner_based==3 then balls_mega=(loadstring or load)(shaft_max)();boner_based=4
+elseif boner_based==2 then shaft_max=weiner_hard(shaft_max);boner_based=1
+else boner_based=4 end end end;
+local hentai_ultra="  ___  ___ _   _  ___  _   _ \92n |   \92|_ _| | | |/ _ \92| | | |\92n | |) || || |_| | (_) | |_| |\92n |___/|___|____/ \92___/ \92__,_|\10   v6.1 -- lmao good luck";
+local cock_uwu="[diu9u-6.1] BUILD:25a78ed8 HWID:LOGGED TS:1721915383";
+local rod_mega="cope seethe mald";
+local pp_pro="cope seethe mald";
+local knob_vibes="this variable does nothing lmao";
+local butt_based="cope seethe mald";
+local dong_long="ligma balls";
+local chode_kun="\0WM\14jg{7{#lm6=:8ko";
+local ween_hyper={};
+local fart_bruh={};
+local lewds_turbo={};
+local function smegma_v2(ass1337,poop1337,horny_giga,boner_moment)
+  local _xf=lewds_turbo[ass1337]
+  if _xf then return _xf(poop1337,horny_giga,boner_moment) end
+  local jizz_hard=poop1337;local pp420=horny_giga;local chode_wet=boner_moment;
+  local simp_uwu={};
+  local fap_kun={};
+  local balls_wet=1;
+  local ass_big=ass1337.rod_max;
+  local balls_long=ass1337.chode_subs;
+  local tool_moment=ass1337.pee_off1;
+  local cock_zone=ass1337.pee_off2;
+  local ahegao_ultra=ass1337.pee_off3;
+  local poop_mega=false;
+  local chode_zone;
+  local function cum_san(smegma_senpai,dingus_vibes)
+    return bit32 and bit32.bxor(smegma_senpai,dingus_vibes) or (function(nards_mega,dildo_daddy)
+      local coom_big,poop_pro=0,1;for nards_xd=0,7 do local horny_hard,schlong69=nards_mega%2,dildo_daddy%2;
+      if horny_hard~=schlong69 then coom_big=coom_big+poop_pro end;nards_mega=(nards_mega-horny_hard)/2;dildo_daddy=(dildo_daddy-schlong69)/2;poop_pro=poop_pro*2 end;
+      return coom_big end)(smegma_senpai,dingus_vibes)
   end;
-  local tit_small={0};
-  local function sack_uwu(wank_chan,nards_max)
-    local fart_wet=0;local milf_big=0
+  local cock_v2={0};
+  local function ass_owo(thicc_v2,thicc_moment)
+    local penis_max=0;local weiner_lite=0
     while true do
-      local coomer_based=tool_hyper(wank_chan,nards_max);nards_max=nards_max+1
-      fart_wet=fart_wet+(coomer_based%128)*(2^milf_big)
-      if coomer_based<128 then tit_small[1]=nards_max;return fart_wet end
-      milf_big=milf_big+7
+      local lewds_big=pecker_wet(thicc_v2,thicc_moment);thicc_moment=thicc_moment+1
+      penis_max=penis_max+(lewds_big%128)*(2^weiner_lite)
+      if lewds_big<128 then cock_v2[1]=thicc_moment;return penis_max end
+      weiner_lite=weiner_lite+7
     end
   end;
-  local function rule34_senpai(pee_uwu)
-    if pee_uwu%2==0 then return pee_uwu/2
-    else return -(pee_uwu+1)/2 end
+  local function poop_sus(coomer_xd)
+    if coomer_xd%2==0 then return coomer_xd/2
+    else return -(coomer_xd+1)/2 end
   end;
-  local function wang_giga(schlong_based,scrote_sus)
-    if pp_big then
-      local ween_senpai=pp_big("<d",schlong_based,scrote_sus)
-      tit_small[1]=scrote_sus+8;return ween_senpai end
-    local ass_zone=tool_hyper(schlong_based,scrote_sus);local boob_max=tool_hyper(schlong_based,scrote_sus+1)
-    local fart_kun=tool_hyper(schlong_based,scrote_sus+2);local coomer_pro=tool_hyper(schlong_based,scrote_sus+3)
-    local fap_energy=tool_hyper(schlong_based,scrote_sus+4);local pecker_soft=tool_hyper(schlong_based,scrote_sus+5)
-    local boner_hyper=tool_hyper(schlong_based,scrote_sus+6);local ass_san=tool_hyper(schlong_based,scrote_sus+7)
-    local boob_v2=(ass_san>=128) and -1 or 1
-    local cum_xd=(ass_san%128)*16+penis69(boner_hyper/16)
-    tit_small[1]=scrote_sus+8
-    if cum_xd==0 then return 0 end
-    if cum_xd==2047 then return boob_v2*(1/0) end
-    cum_xd=cum_xd-1023
-    local balls_max=((boner_hyper%16)*256+pecker_soft)*256+fap_energy
-    balls_max=((balls_max*256+coomer_pro)*256+fart_kun)*256+boob_max
-    balls_max=balls_max*256+ass_zone
-    return boob_v2*2^cum_xd*(1+balls_max/2^52)
+  local function wank_chan(boob_chan,ahegao_lite)
+    if cock_soft then
+      local poop_big=cock_soft("<d",boob_chan,ahegao_lite)
+      cock_v2[1]=ahegao_lite+8;return poop_big end
+    local scrote_xd=pecker_wet(boob_chan,ahegao_lite);local ahegao1337=pecker_wet(boob_chan,ahegao_lite+1)
+    local boner_turbo=pecker_wet(boob_chan,ahegao_lite+2);local cum_uwu=pecker_wet(boob_chan,ahegao_lite+3)
+    local ween_energy=pecker_wet(boob_chan,ahegao_lite+4);local dick_giga=pecker_wet(boob_chan,ahegao_lite+5)
+    local meat_uwu=pecker_wet(boob_chan,ahegao_lite+6);local smegma_mega=pecker_wet(boob_chan,ahegao_lite+7)
+    local rod_max=(smegma_mega>=128) and -1 or 1
+    local butt_long=(smegma_mega%128)*16+knob_big(meat_uwu/16)
+    cock_v2[1]=ahegao_lite+8
+    if butt_long==0 then return 0 end
+    if butt_long==2047 then return rod_max*(1/0) end
+    butt_long=butt_long-1023
+    local butt_v2=((meat_uwu%16)*256+dick_giga)*256+ween_energy
+    butt_v2=((butt_v2*256+cum_uwu)*256+boner_turbo)*256+ahegao1337
+    butt_v2=butt_v2*256+scrote_xd
+    return rod_max*2^butt_long*(1+butt_v2/2^52)
   end;
-  local function peepee_owo(pee_small,rod_soft)
-    local scrote_small=1
-    local milf_owo=sack_uwu(pee_small,scrote_small);scrote_small=tit_small[1]
-    local smegma_vibes={}
-    for poop_mode=1,milf_owo do
-      local pecker69=tool_hyper(pee_small,scrote_small);scrote_small=scrote_small+1
-      if pecker69==0 then smegma_vibes[poop_mode]={0}
-      elseif pecker69==1 then smegma_vibes[poop_mode]={1,tool_hyper(pee_small,scrote_small)==1};scrote_small=scrote_small+1
-      elseif pecker69==2 then
-        local dick_vibes=wang_giga(pee_small,scrote_small);scrote_small=tit_small[1]
-        smegma_vibes[poop_mode]={2,dick_vibes}
-      elseif pecker69==3 then
-        local knob_mega=sack_uwu(pee_small,scrote_small);scrote_small=tit_small[1]
-        local balls_pro=nards_giga(pee_small,scrote_small,scrote_small+knob_mega-1);scrote_small=scrote_small+knob_mega
-        local coomer_hyper={};for scrote_soft=1,#balls_pro do coomer_hyper[scrote_soft]=butt_max(nards_owo(tool_hyper(balls_pro,scrote_soft),rod_soft)) end
-        smegma_vibes[poop_mode]={3,tool_uwu(coomer_hyper)}
+  local function gooch_zone(gooch_mode,knob_kun)
+    local rod_owo=1
+    local cock_giga=ass_owo(gooch_mode,rod_owo);rod_owo=cock_v2[1]
+    local fart_wet={}
+    for sack_ultra=1,cock_giga do
+      local ahegao_mega=pecker_wet(gooch_mode,rod_owo);rod_owo=rod_owo+1
+      if ahegao_mega==0 then fart_wet[sack_ultra]={0}
+      elseif ahegao_mega==1 then fart_wet[sack_ultra]={1,pecker_wet(gooch_mode,rod_owo)==1};rod_owo=rod_owo+1
+      elseif ahegao_mega==2 then
+        local thicc_kun=wank_chan(gooch_mode,rod_owo);rod_owo=cock_v2[1]
+        fart_wet[sack_ultra]={2,thicc_kun}
+      elseif ahegao_mega==3 then
+        local shaft_soft=ass_owo(gooch_mode,rod_owo);rod_owo=cock_v2[1]
+        local milf1337=tool_max(gooch_mode,rod_owo,rod_owo+shaft_soft-1);rod_owo=rod_owo+shaft_soft
+        local meat_soft={};for knob_owo=1,#milf1337 do meat_soft[knob_owo]=ahegao_vibes(cum_san(pecker_wet(milf1337,knob_owo),knob_kun)) end
+        fart_wet[sack_ultra]={3,balls_mode(meat_soft)}
       end
     end
-    return smegma_vibes
+    return fart_wet
   end;
-  local function ween_big(pecker_turbo)
-    local weiner_sus=1
-    local coom_owo=sack_uwu(pecker_turbo,weiner_sus);weiner_sus=tit_small[1]
-    local horny_hard={}
-    for ass_wet=1,coom_owo do
-      local lewds_wet=tool_hyper(pecker_turbo,weiner_sus);weiner_sus=weiner_sus+1
-      local knob_xd=sack_uwu(pecker_turbo,weiner_sus);weiner_sus=tit_small[1]
-      horny_hard[ass_wet]={lewds_wet,knob_xd}
+  local function milf_kun(pee_sus)
+    local shaft_based=1
+    local dong_mode=ass_owo(pee_sus,shaft_based);shaft_based=cock_v2[1]
+    local peepee_energy={}
+    for wang_small=1,dong_mode do
+      local yeet_v2=pecker_wet(pee_sus,shaft_based);shaft_based=shaft_based+1
+      local balls_giga=ass_owo(pee_sus,shaft_based);shaft_based=cock_v2[1]
+      peepee_energy[wang_small]={yeet_v2,balls_giga}
     end
-    return horny_hard
+    return peepee_energy
   end;
-  local function sack1337(penis_zone)
-    local lewds_uwu=1
-    local gooch420=sack_uwu(penis_zone,lewds_uwu);lewds_uwu=tit_small[1]
-    local pecker_mega={}
-    for pecker_vibes=1,gooch420 do
-      local pecker_hyper=sack_uwu(penis_zone,lewds_uwu);lewds_uwu=tit_small[1]
-      local thicc_sus=sack_uwu(penis_zone,lewds_uwu);lewds_uwu=tit_small[1]
-      pecker_mega[pecker_vibes]={pecker_hyper,thicc_sus}
+  local function tit_san(simp_moment)
+    local fart_long=1
+    local sussy1337=ass_owo(simp_moment,fart_long);fart_long=cock_v2[1]
+    local tool_daddy={}
+    for nut_pro=1,sussy1337 do
+      local tool_chan=ass_owo(simp_moment,fart_long);fart_long=cock_v2[1]
+      local dong_bruh=ass_owo(simp_moment,fart_long);fart_long=cock_v2[1]
+      tool_daddy[nut_pro]={tool_chan,dong_bruh}
     end
-    return pecker_mega
+    return tool_daddy
   end;
-  local function ahegao_san(nards_daddy)
-    local thicc69=1
-    local balls_giga={}
-    while thicc69<=#(nards_daddy) do
-      local horny_sus=tool_hyper(nards_daddy,thicc69);local scrote_turbo=tool_hyper(nards_daddy,thicc69+1);horny_sus=horny_sus+scrote_turbo*256;thicc69=thicc69+2
-      local sack_hyper=tool_hyper(nards_daddy,thicc69);thicc69=thicc69+1
-      local tit_sus={horny_sus}
-      for boner_sus=1,sack_hyper do
-        local tit_mega=sack_uwu(nards_daddy,thicc69);thicc69=tit_small[1]
-        tit_sus[boner_sus+1]=rule34_senpai(tit_mega)
+  local function coom420(thicc_xd)
+    local fap_chan=1
+    local horny_energy={}
+    while fap_chan<=#(thicc_xd) do
+      local lewds_long=pecker_wet(thicc_xd,fap_chan);local boner_soft=pecker_wet(thicc_xd,fap_chan+1);lewds_long=lewds_long+boner_soft*256;fap_chan=fap_chan+2
+      local fap_sus=pecker_wet(thicc_xd,fap_chan);fap_chan=fap_chan+1
+      local peepee_small={lewds_long}
+      for dingus_wet=1,fap_sus do
+        local tit_giga=ass_owo(thicc_xd,fap_chan);fap_chan=cock_v2[1]
+        peepee_small[dingus_wet+1]=poop_sus(tit_giga)
       end
-      balls_giga[#balls_giga+1]=tit_sus
+      horny_energy[#horny_energy+1]=peepee_small
     end
-    return balls_giga
+    return horny_energy
   end;
-  local ween_v2=sack_based[ass1337]
-  if not ween_v2 then
-    local peepee_moment=ass1337.cum_data;
-    ween_v2=ahegao_san(peepee_moment);
-    do local dildo_uwu=0;for smegma_based=1,#peepee_moment do
-      dildo_uwu=(dildo_uwu*31+tool_hyper(peepee_moment,smegma_based)+(smegma_based-1)*7)%4294967296
-    end;if dildo_uwu~=ass1337.nut_chk then
-      rule34_chan=true end end;
-    sack_based[ass1337]=ween_v2
+  local lewds_xd=ween_hyper[ass1337]
+  if not lewds_xd then
+    local horny_max=ass1337.shaft_bin;
+    lewds_xd=coom420(horny_max);
+    do local nut_bruh=0;for coom_v2=1,#horny_max do
+      nut_bruh=(nut_bruh*31+pecker_wet(horny_max,coom_v2)+(coom_v2-1)*7)%4294967296
+    end;if nut_bruh~=ass1337.shaft_chk then
+      lewds_xd[balls_wet]={0} end end;
+    ween_hyper[ass1337]=lewds_xd
   end;
-  local dick_mega=schlong_pro[ass1337]
-  if not dick_mega then
-    local dildo_xd=ass1337.fap_key;
-    local sussy_vibes=(dildo_xd+128)%256;
-    local boner_owo=ass1337.wank_redir
-    if boner_owo then
-      local dong_turbo=sack1337(boner_owo)
-      local pecker_pro={}
-      if ass1337.jizz_shard0 then pecker_pro[1]=peepee_owo(ass1337.jizz_shard0,sussy_vibes) end
-      if ass1337.jizz_shard1 then pecker_pro[2]=peepee_owo(ass1337.jizz_shard1,sussy_vibes) end
-      if ass1337.jizz_shard2 then pecker_pro[3]=peepee_owo(ass1337.jizz_shard2,sussy_vibes) end
-      if ass1337.jizz_shard3 then pecker_pro[4]=peepee_owo(ass1337.jizz_shard3,sussy_vibes) end
-      dick_mega={};for jizz420=1,#dong_turbo do local lewds_ultra=dong_turbo[jizz420];dick_mega[jizz420]=pecker_pro[lewds_ultra[1]][lewds_ultra[2]] end
-    else dick_mega=peepee_owo(ass1337.dick_pool,sussy_vibes) end;
-    schlong_pro[ass1337]=dick_mega
+  local dingus_energy=fart_bruh[ass1337]
+  if not dingus_energy then
+    local yeet_zone=ass1337.coom_key;
+    local sussy_mega=(yeet_zone+128)%256;
+    local yeet_turbo=ass1337.gooch_redir
+    if yeet_turbo then
+      local ass_long=tit_san(yeet_turbo)
+      local knob_bruh={}
+      if ass1337.smegma_s0 then knob_bruh[1]=gooch_zone(ass1337.smegma_s0,sussy_mega) end
+      if ass1337.smegma_s1 then knob_bruh[2]=gooch_zone(ass1337.smegma_s1,sussy_mega) end
+      if ass1337.smegma_s2 then knob_bruh[3]=gooch_zone(ass1337.smegma_s2,sussy_mega) end
+      if ass1337.smegma_s3 then knob_bruh[4]=gooch_zone(ass1337.smegma_s3,sussy_mega) end
+      dingus_energy={};for ween_owo=1,#ass_long do local dingus1337=ass_long[ween_owo];dingus_energy[ween_owo]=knob_bruh[dingus1337[1]][dingus1337[2]] end
+    else dingus_energy=gooch_zone(ass1337.boner_pool,sussy_mega) end;
+    fart_bruh[ass1337]=dingus_energy
   end;
-  local function ahegao_xd(e)
+  local function hentai_uwu(e)
     local t=e[1];
     if t==0 then return nil
     elseif t==1 then return e[2]
     elseif t==2 then return e[2]
     else return e[2] end
   end;
-  local function cum_v2(i)
-    if i>=256 then return ahegao_xd(dick_mega[i-255])
-    else local _b=sussy420[i];if _b then return _b[1] end;return cum69[i] end
+  local function horny1337(i)
+    if i>=256 then return hentai_uwu(dingus_energy[i-255])
+    else local _b=fap_kun[i];if _b then return _b[1] end;return simp_uwu[i] end
   end;
-  local function yeet_soft(i)
-    local b=sussy420[i];if b then return b[1] end;return cum69[i]
+  local function hentai_xd(i)
+    local b=fap_kun[i];if b then return b[1] end;return simp_uwu[i]
   end;
-  local function penis1337(i,v)
-    local b=sussy420[i];if b then b[1]=v else cum69[i]=v end
+  local function schlong_bruh(i,v)
+    local b=fap_kun[i];if b then b[1]=v else simp_uwu[i]=v end
   end;
-  local function simp_daddy(_o,_a,_b)
-    if _o==1 then return _a*_b
-    elseif _o==4 then return math.floor(_a/_b)
-    elseif _o==0 then return _a-_b
-    elseif _o==3 then return _a^_b
-    elseif _o==5 then return _a/_b
-    elseif _o==2 then return _a%_b
-    elseif _o==6 then return _a+_b
+  local function ween_moment(_o,_a,_b)
+    if _o==3 then return _a%_b
+    elseif _o==5 then return _a+_b
+    elseif _o==4 then return _a-_b
+    elseif _o==0 then return _a/_b
+    elseif _o==1 then return _a*_b
+    elseif _o==6 then return math.floor(_a/_b)
+    elseif _o==2 then return _a^_b
     end
   end;
-  local function meat_xd(_o,_a,_b)
-    if _o==2 then return _a==_b
-    elseif _o==1 then return _a<=_b
-    elseif _o==0 then return _a<_b
+  local function fap1337(_o,_a,_b)
+    if _o==1 then return _a==_b
+    elseif _o==0 then return _a<=_b
+    elseif _o==2 then return _a<_b
     end
   end;
-  local sack_mega={};
-  local gooch_hard=0;
-  sack_mega[644]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  local tool_soft={};
+  local boner_wet=0;
+  tool_soft[544]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])/horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[380]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[670]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[232]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[541]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[422]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=_i[4]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[7];local _u8=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[357]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[492]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[572]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[289]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[202]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[352]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[523]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])]=horny1337(_i[14]) end
   end;
-  sack_mega[654]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[623]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[214]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[71]=function(_i)
+    poop_mega=true
+    chode_zone={(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]}
   end;
-  sack_mega[253]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[539]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
   end;
-  sack_mega[65]=function(_i)
-    do local _u1=_i[2];local _u2=not (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[613]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[52]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[306]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[651]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
+  tool_soft[329]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[553]=function(_i)
-    do local _u1=_i[2];local _u2=dildo1337(cum_v2(_i[3]))..dildo1337(cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u7=_i[13];local _u8=yeet1337[ahegao_xd(dick_mega[_i[14]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[573]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[603]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[630]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[836]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[622]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[221]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u3=_i[9];local _u4=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[11];local _u6=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[348]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[530]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[951]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
   end;
-  sack_mega[273]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[430]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])]=horny1337(_i[5]) end
+    do local _u3=_i[6];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[7]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[503]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])/cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[247]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[340]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[356]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[598]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[687]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=-(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[72]=function(_i)
-    if not (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] then shaft_small=shaft_small+_i[3] end
+  tool_soft[390]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[390]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[410]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[267]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[550]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[650]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[562]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[681]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=yeet1337[ahegao_xd(dick_mega[_i[9]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[28]=function(_i)
+    jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])]()
   end;
-  sack_mega[773]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[564]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
   end;
-  sack_mega[670]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[248]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=horny1337(_i[11])*horny1337(_i[12]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[25]=function(_i)
-    local _tbl=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]
+  tool_soft[370]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[576]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[604]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[510]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[288]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[53]=function(_i)
+    balls_wet=balls_wet+_i[2]
+  end;
+  tool_soft[232]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[200]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[491]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[35]=function(_i)
+    local _tbl=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]
     local _n=_i[3]
     local _off=(_i[4]-1)*50
-    if _n==0 then _n=weiner_big-_i[2] end
-    for _j=1,_n do _tbl[_off+_j]=(sussy420[_i[2]+_j] or cum69)[sussy420[_i[2]+_j] and 1 or _i[2]+_j] end
+    if _n==0 then _n=ass_big-_i[2] end
+    for _j=1,_n do _tbl[_off+_j]=(fap_kun[_i[2]+_j] or simp_uwu)[fap_kun[_i[2]+_j] and 1 or _i[2]+_j] end
   end;
-  sack_mega[518]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[605]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[674]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])/cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=-(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[70]=function(_i)
-    local dong_long="no bitches?"
-  end;
-  sack_mega[269]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])-cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])+cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[434]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])*cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])+cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[223]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[3]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[11]=function(_i)
-    local _b=sussy420[_i[2]]
-    if _b then _b[1]=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]] end
-  end;
-  sack_mega[330]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[358]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[38]=function(_i)
-    local _base=_i[2]
-    local _val=(sussy420[_base] or cum69)[sussy420[_base] and 1 or _base]-(sussy420[_base+2] or cum69)[sussy420[_base+2] and 1 or _base+2]
-    sussy420[_base]=nil
-    cum69[_base]=_val
-    shaft_small=shaft_small+_i[3]
-  end;
-  sack_mega[387]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[663]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[581]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[376]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[338]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[234]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[274]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[839]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[545]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[559]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[544]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=cum_v2(_i[12])*cum_v2(_i[13]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[392]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[359]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[435]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=#(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=cum_v2(_i[12])-cum_v2(_i[13]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[27]=function(_i)
-    yeet1337[ahegao_xd(dick_mega[_i[3]+1])]=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]
-  end;
-  sack_mega[666]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[473]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[531]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[571]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[465]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do (sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])]=cum_v2(_i[15]) end
-  end;
-  sack_mega[536]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[483]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[293]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[638]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[475]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[324]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[325]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=-(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[443]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])%cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=cum_v2(_i[6])+cum_v2(_i[7]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=yeet1337[ahegao_xd(dick_mega[_i[9]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[268]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[622]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[950]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[406]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[351]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[6];local _u8=yeet1337[ahegao_xd(dick_mega[_i[7]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[8];local _u10=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[18]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[316]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[369]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[664]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[613]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[248]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[362]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[459]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[282]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[345]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[528]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[239]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])+cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[477]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[587]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[430]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[7];local _u8=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[9];local _u10=#(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[261]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[35]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    local _fn=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]
-    local _nb=_i[4]
-    local _nc=_i[5]
-    if _nb==1 then
-      if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};weiner_big=_i[2]+#_rv-1;for _j=1,#_rv do penis1337(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do penis1337(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do penis1337(_i[2]+_j-1,_rv[_j]) end end
-    else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(sussy420[_i[2]+_j] or cum69)[sussy420[_i[2]+_j] and 1 or _i[2]+_j] end
-      if _nc==1 then _fn(meat_soft(_args))
-      elseif _nc==0 then local _rv={_fn(meat_soft(_args))};weiner_big=_i[2]+#_rv-1;for _j=1,#_rv do penis1337(_i[2]+_j-1,_rv[_j]) end
-      else local _rv={_fn(meat_soft(_args))};for _j=1,_nc-1 do penis1337(_i[2]+_j-1,_rv[_j]) end end
-    end
-  end;
-  sack_mega[619]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[312]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[550]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[615]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[296]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[400]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[341]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[671]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[310]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[649]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[314]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[220]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[370]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[335]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[353]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=#(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[445]=function(_i)
-    do local _u1=_i[2];local _u2=#(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[319]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[417]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[403]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[278]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[1]=function(_i)
-    yeet1337[ahegao_xd(dick_mega[_i[3]+1])]()
-  end;
-  sack_mega[15]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[263]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6={};local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[7];local _u8=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[9];local _u10=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[688]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[635]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[383]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[485]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[228]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[599]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[508]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[262]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=cum_v2(_i[13])-cum_v2(_i[14]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[515]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=yeet1337[ahegao_xd(dick_mega[_i[9]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[13];local _u8=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[5]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[637]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[618]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[252]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-  end;
-  sack_mega[386]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[568]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])]=cum_v2(_i[14]) end
-  end;
-  sack_mega[395]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[565]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-  end;
-  sack_mega[77]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(5,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[371]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[407]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[247]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[505]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[683]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])/cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[415]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[645]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[0]=function(_i)
-    if meat_xd(0,cum_v2(_i[3]),cum_v2(_i[4]))==(_i[2]==0) then
-    else shaft_small=shaft_small+1 end
-  end;
-  sack_mega[481]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[604]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=cum_v2(_i[9])/cum_v2(_i[10]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[361]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[591]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[526]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[494]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[367]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[33]=function(_i)
-    if (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] then shaft_small=shaft_small+_i[3] end
-  end;
-  sack_mega[439]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])/cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[532]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])]=cum_v2(_i[14]) end
-  end;
-  sack_mega[255]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[284]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[399]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[502]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[504]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])-cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[584]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=cum_v2(_i[9])-cum_v2(_i[10]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[14];local _u10=(sussy420[_i[15]] or cum69)[sussy420[_i[15]] and 1 or _i[15]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[555]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[691]=function(_i)
-    if (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] then shaft_small=shaft_small+_i[3] end
-  end;
-  sack_mega[546]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[57]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]() end
-  end;
-  sack_mega[632]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[333]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[548]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[514]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[540]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[224]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[634]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[354]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[302]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[394]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[336]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[521]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[346]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[689]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=(sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-  end;
-  sack_mega[62]=function(_i)
-    local _a,_b,_c=_i[2],_i[3],_i[4]
-    local _f=(sussy420[_a] or cum69)[sussy420[_a] and 1 or _a]
-    local _args={}
-    if _b==0 then
-      for _j=_a+1,weiner_big do _args[#_args+1]=(sussy420[_j] or cum69)[sussy420[_j] and 1 or _j] end
-    else
-      for _j=_a+1,_a+_b-1 do _args[#_args+1]=(sussy420[_j] or cum69)[sussy420[_j] and 1 or _j] end
-    end
-    local _rets={_f(meat_soft(_args))}
-    if _c==0 then
-      for _j=1,#_rets do penis1337(_a+_j-1,_rets[_j]) end
-      weiner_big=_a+#_rets-1
-    else
-      for _j=1,_c-1 do penis1337(_a+_j-1,_rets[_j]) end
-    end
-  end;
-  sack_mega[51]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[304]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u7=_i[13];local _u8=ahegao_xd(dick_mega[_i[14]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[646]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=-(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[78]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-  end;
-  sack_mega[377]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[586]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[254]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[673]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])-cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[523]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[67]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=nil;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[408]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=-(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[317]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[245]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[469]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[233]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])*cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[574]=function(_i)
-    do local _u1=_i[2];local _u2=dildo1337(cum_v2(_i[3]))..dildo1337(cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=dildo1337(cum_v2(_i[6]))..dildo1337(cum_v2(_i[7]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=dildo1337(cum_v2(_i[9]))..dildo1337(cum_v2(_i[10]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]][cum_v2(_i[15])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[225]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[211]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[299]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[275]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[452]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[420]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[249]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[458]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[47]=function(_i)
-    sussy420[_i[2]]={(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]}
-  end;
-  sack_mega[292]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=yeet1337[ahegao_xd(dick_mega[_i[4]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[42]=function(_i)
-    sussy420[_i[2]]=nil
-  end;
-  sack_mega[416]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[427]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[404]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[412]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[585]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[50]=function(_i)
-    if meat_xd(2,cum_v2(_i[3]),cum_v2(_i[4]))==(_i[2]==0) then
-      shaft_small=shaft_small+3
-      do local _u1=_i[8];local _u2=_i[9]~=0;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    else
-      shaft_small=shaft_small+3
-      do local _u3=_i[6];local _u4=_i[7]~=0;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    end
-  end;
-  sack_mega[607]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[462]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[482]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[257]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[235]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])*cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[608]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[602]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])+cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[527]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[364]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[60]=function(_i)
-    local _base=_i[2]
-    if (sussy420[_base+3] or cum69)[sussy420[_base+3] and 1 or _base+3]~=nil then
-      do local _u1=_base+2;local _u2=(sussy420[_base+3] or cum69)[sussy420[_base+3] and 1 or _base+3];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-      shaft_small=shaft_small+_i[3]
-    end
-  end;
-  sack_mega[543]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[454]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[440]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])%cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[564]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[277]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[215]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[288]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[348]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[655]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[541]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[525]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[75]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-  end;
-  sack_mega[639]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[222]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])+cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[617]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[286]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u1=_i[8];local _u2=yeet1337[ahegao_xd(dick_mega[_i[9]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[10];local _u4=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[308]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[300]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[456]=function(_i)
-    do local _u1=_i[2];local _u2=dildo1337(cum_v2(_i[3]))..dildo1337(cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=dildo1337(cum_v2(_i[6]))..dildo1337(cum_v2(_i[7]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=dildo1337(cum_v2(_i[9]))..dildo1337(cum_v2(_i[10]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[589]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[411]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[578]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[343]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[279]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[240]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[499]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])*cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[509]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-  end;
-  sack_mega[426]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[270]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[620]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[501]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])/cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])-cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[315]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=-(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[579]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])-cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[378]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[542]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[513]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])-cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[327]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[558]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[206]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[349]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[572]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])-cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u7=_i[13];local _u8=_i[14]==1;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[468]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=_i[5]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=_i[12]==1;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[326]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[447]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[551]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[391]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[672]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[384]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[590]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])-cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[331]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[280]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u3=_i[9];local _u4=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[11];local _u6=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[393]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[460]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do (sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])]=cum_v2(_i[15]) end
-  end;
-  sack_mega[497]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[562]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[219]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u5=_i[11];local _u6=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[529]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[616]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[250]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[466]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[520]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[241]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[491]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[1048]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[554]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[516]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])+cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[614]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[217]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[533]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[660]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[208]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[264]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[687]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[210]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[625]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[283]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[226]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[658]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u7=_i[13];local _u8=ahegao_xd(dick_mega[_i[14]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[636]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=-(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[686]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[463]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do local _u3=_i[6];local _u4=yeet1337[ahegao_xd(dick_mega[_i[7]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[355]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[511]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[320]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[405]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[260]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[535]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[244]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])/cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])*cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=cum_v2(_i[14])*cum_v2(_i[15]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[512]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[593]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[265]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[451]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u1=_i[8];local _u2=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u3=_i[13];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[668]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[363]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[313]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=ahegao_xd(dick_mega[_i[12]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[479]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[230]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[238]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[414]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[490]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[26]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[506]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=cum_v2(_i[12])*cum_v2(_i[13]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[685]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])*cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[557]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[56]=function(_i)
-    if not (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] then shaft_small=shaft_small+_i[3] end
-  end;
-  sack_mega[464]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[453]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u1=_i[8];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[382]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[329]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[560]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[519]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[433]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])+cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[337]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[259]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[488]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[285]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[627]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[684]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[45]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    local _fn=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]
-    local _nb=_i[4]
-    local _nc=_i[5]
-    if _nb==1 then
-      if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};weiner_big=_i[2]+#_rv-1;for _j=1,#_rv do penis1337(_i[2]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do penis1337(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do penis1337(_i[2]+_j-1,_rv[_j]) end end
-    else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(sussy420[_i[2]+_j] or cum69)[sussy420[_i[2]+_j] and 1 or _i[2]+_j] end
-      if _nc==1 then _fn(meat_soft(_args))
-      elseif _nc==0 then local _rv={_fn(meat_soft(_args))};weiner_big=_i[2]+#_rv-1;for _j=1,#_rv do penis1337(_i[2]+_j-1,_rv[_j]) end
-      else local _rv={_fn(meat_soft(_args))};for _j=1,_nc-1 do penis1337(_i[2]+_j-1,_rv[_j]) end end
-    end
-  end;
-  sack_mega[633]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[321]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[63]=function(_i)
-    local _base=_i[2]
-    local _step=(sussy420[_base+2] or cum69)[sussy420[_base+2] and 1 or _base+2]
-    local _val=(sussy420[_base] or cum69)[sussy420[_base] and 1 or _base]+_step
-    sussy420[_base]=nil
-    cum69[_base]=_val
-    local _lim=(sussy420[_base+1] or cum69)[sussy420[_base+1] and 1 or _base+1]
-    if (_step>0 and _val<=_lim) or (_step<=0 and _val>=_lim) then
-      shaft_small=shaft_small+_i[3]
-      do local _u1=_base+3;local _u2=_val;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    end
-  end;
-  sack_mega[29]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[522]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[524]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[44]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(6,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[626]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[478]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[657]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[204]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[566]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8={};local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[339]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[216]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[421]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[236]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=-(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[294]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[493]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])*cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])*cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[597]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=cum_v2(_i[9])/cum_v2(_i[10]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[287]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[461]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do local _u3=_i[6];local _u4=yeet1337[ahegao_xd(dick_mega[_i[7]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[621]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[675]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[258]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[498]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[212]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=yeet1337[ahegao_xd(dick_mega[_i[4]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[471]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[290]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[6];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6={};local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=nil;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[76]=function(_i)
-    do local _u1=_i[2];local _u2=dildo1337(cum_v2(_i[3]))..dildo1337(cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[656]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[640]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[344]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[428]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[66]=function(_i)
-    rule34_chan=true
-    meat_hyper={(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]}
-  end;
-  sack_mega[662]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[642]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[647]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-  end;
-  sack_mega[334]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[470]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-  end;
-  sack_mega[356]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[575]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[229]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])*cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=cum_v2(_i[6])-cum_v2(_i[7]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])+cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[476]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[21]=function(_i)
-    do local _u1=_i[2];local _u2=#(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[567]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[561]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[266]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=-(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[448]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])%cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])%cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[595]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=(sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=ahegao_xd(dick_mega[_i[9]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[665]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[306]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[303]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=_i[10]==1;local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[58]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[231]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[68]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-  end;
-  sack_mega[12]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[446]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])%cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])%cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[385]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[659]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[623]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[679]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[388]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[425]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[432]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])+cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[251]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[5];local _u6=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[7];local _u8=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[10];local _u10=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[594]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[372]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[8];local _u8=-(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[496]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[375]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[365]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=_i[8]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
-  end;
-  sack_mega[648]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[438]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=#(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])+cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[379]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[680]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[472]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[573]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[606]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[402]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[592]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=dildo1337(cum_v2(_i[5]))..dildo1337(cum_v2(_i[6]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=dildo1337(cum_v2(_i[8]))..dildo1337(cum_v2(_i[9]));local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=dildo1337(cum_v2(_i[11]))..dildo1337(cum_v2(_i[12]));local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[576]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u7=_i[12];local _u8=_i[13]==1;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[43]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(1,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[418]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[437]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])/cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[298]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[538]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=cum_v2(_i[6])-cum_v2(_i[7]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[510]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=_i[9]==1;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[74]=function(_i)
-    local _g=yeet1337[ahegao_xd(dick_mega[_i[3]+1])]
-    local _t1=_g[cum_v2(_i[5])]
-    do local _u1=_i[6];local _u2=_t1[cum_v2(_i[7])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[643]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[73]=function(_i)
-    local hentai420="bro thinks hes a reverser"
-  end;
-  sack_mega[612]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[652]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[281]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[272]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[444]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])%cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[580]=function(_i)
-    do local _u1=_i[2];local _u2=dildo1337(cum_v2(_i[3]))..dildo1337(cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=dildo1337(cum_v2(_i[6]))..dildo1337(cum_v2(_i[7]));local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[424]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[30]=function(_i)
-    local _uv=poop_small[_i[3]]
-    do local _u1=_i[2];local _u2=_uv and _uv[1];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[539]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])-cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[441]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])/cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[556]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])/cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[537]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[495]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])*cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[53]=function(_i)
-    do local _u1=_i[2];local _u2=nil;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[3];local _u4=nil;local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[4];local _u6=nil;local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[34]=function(_i)
-    local _uv=poop_small[_i[3]]
-    if _uv then _uv[1]=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] end
-  end;
-  sack_mega[213]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[582]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
-    do local _u7=_i[13];local _u8=_i[14]==1;local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[570]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=cum_v2(_i[9])-cum_v2(_i[10]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[14];local _u10=(sussy420[_i[15]] or cum69)[sussy420[_i[15]] and 1 or _i[15]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[322]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[61]=function(_i)
-    if meat_xd(1,cum_v2(_i[3]),cum_v2(_i[4]))==(_i[2]==0) then
-    else shaft_small=shaft_small+1 end
-  end;
-  sack_mega[610]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=yeet1337[ahegao_xd(dick_mega[_i[11]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]][cum_v2(_i[14])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-  end;
-  sack_mega[10]=function(_i)
-    if meat_xd(2,cum_v2(_i[3]),cum_v2(_i[4]))==(_i[2]==0) then
-    else shaft_small=shaft_small+1 end
-  end;
-  sack_mega[588]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[297]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[205]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=cum_v2(_i[6])/cum_v2(_i[7]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=cum_v2(_i[14])/cum_v2(_i[15]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[374]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-  end;
-  sack_mega[396]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[276]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[366]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[46]=function(_i)
-    local _b=sussy420[_i[3]]
-    do local _u1=_i[2];local _u2=_b and _b[1];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[40]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(3,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-  end;
-  sack_mega[583]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[450]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[13]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[423]=function(_i)
-    do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-    do local _u3=_i[6];local _u4=yeet1337[ahegao_xd(dick_mega[_i[7]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-  end;
-  sack_mega[55]=function(_i)
+  tool_soft[5]=function(_i)
     local _a,_b=_i[2],_i[3]
+    poop_mega=true
     if _b==0 then
-      for _j=1,#scrote_mode do penis1337(_a+_j-1,scrote_mode[_j]) end
-      weiner_big=_a+#scrote_mode-1
+      local _r={}
+      for _j=_a,ass_big do _r[#_r+1]=(fap_kun[_j] or simp_uwu)[fap_kun[_j] and 1 or _j] end
+      chode_zone=_r
+    elseif _b==1 then
+      chode_zone=nil
     else
-      for _j=1,_b-1 do penis1337(_a+_j-1,scrote_mode[_j]) end
+      local _r={}
+      for _j=_a,_a+_b-2 do _r[#_r+1]=(fap_kun[_j] or simp_uwu)[fap_kun[_j] and 1 or _j] end
+      chode_zone=_r
     end
   end;
-  sack_mega[64]=function(_i)
-    shaft_small=shaft_small+_i[2]
+  tool_soft[395]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[431]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[267]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[487]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
+  tool_soft[565]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=_i[13]==1;local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[357]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[49]=function(_i)
+    if fap1337(0,horny1337(_i[3]),horny1337(_i[4]))==(_i[2]==0) then
+    else balls_wet=balls_wet+1 end
   end;
-  sack_mega[218]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[371]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[630]=function(_i)
-    do local _u1=_i[2];local _u2=-(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[685]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])*horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=horny1337(_i[9])+horny1337(_i[10]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]][horny1337(_i[15])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[69]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(4,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[624]=function(_i)
+    do local _u1=_i[2];local _u2=-(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[23]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
+  tool_soft[254]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])*horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])+horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[31]=function(_i)
-    local _g=yeet1337[ahegao_xd(dick_mega[_i[3]+1])]
-    local _t=_g[cum_v2(_i[6])]
+  tool_soft[250]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[291]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[387]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[297]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[4]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[407]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[666]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[2]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[535]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[445]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=#(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=horny1337(_i[7])+horny1337(_i[8]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[420]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[14]=function(_i)
+    local _base=_i[2]
+    local _step=(fap_kun[_base+2] or simp_uwu)[fap_kun[_base+2] and 1 or _base+2]
+    local _val=(fap_kun[_base] or simp_uwu)[fap_kun[_base] and 1 or _base]+_step
+    fap_kun[_base]=nil
+    simp_uwu[_base]=_val
+    local _lim=(fap_kun[_base+1] or simp_uwu)[fap_kun[_base+1] and 1 or _base+1]
+    if (_step>0 and _val<=_lim) or (_step<=0 and _val>=_lim) then
+      balls_wet=balls_wet+_i[3]
+      do local _u1=_base+3;local _u2=_val;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    end
+  end;
+  tool_soft[465]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_sus(horny1337(_i[6]))..smegma_sus(horny1337(_i[7]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+    do local _u5=_i[14];local _u6={};local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[422]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[230]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[664]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[32]=function(_i)
+    if not (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] then balls_wet=balls_wet+_i[3] end
+  end;
+  tool_soft[67]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[571]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[493]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])*horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[586]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[459]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[678]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[478]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[380]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[277]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=-(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[513]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[611]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[536]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[551]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[496]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])*horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[606]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[620]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[588]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[353]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[241]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=-(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[328]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[372]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[612]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[514]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[597]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[463]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+    do (fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])]=horny1337(_i[15]) end
+  end;
+  tool_soft[270]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[385]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[41]=function(_i)
+    local _uv=pp420[_i[3]]
+    do local _u1=_i[2];local _u2=_uv and _uv[1];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[458]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[415]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[508]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[17]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[351]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[413]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[359]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[72]=function(_i)
+    local boob_mode="you just lost The Game"
+  end;
+  tool_soft[609]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[319]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[393]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[331]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[512]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[484]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=not (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[335]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=-(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[614]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[640]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[20]=function(_i)
+    local _base=_i[2]
+    local _val=(fap_kun[_base] or simp_uwu)[fap_kun[_base] and 1 or _base]-(fap_kun[_base+2] or simp_uwu)[fap_kun[_base+2] and 1 or _base+2]
+    fap_kun[_base]=nil
+    simp_uwu[_base]=_val
+    balls_wet=balls_wet+_i[3]
+  end;
+  tool_soft[667]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[234]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[212]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[382]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[69]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[287]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[33]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]~=0;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    if _i[4] and _i[4]~=0 then balls_wet=balls_wet+1 end
+  end;
+  tool_soft[73]=function(_i)
+    local smegma_owo="L + ratio + you fell off"
+  end;
+  tool_soft[55]=function(_i)
+    do local _u1=_i[2];local _u2=#(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[500]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[545]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[9]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[13];local _u8=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[281]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[552]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u7=_i[11];local _u8={};local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[233]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[542]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])+horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[669]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[402]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[547]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[557]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[584]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[591]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[271]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[4]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[10];local _u10=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[373]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=horny1337(_i[7])+horny1337(_i[8]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[364]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=#(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[323]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[375]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[436]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])/horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[671]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[59]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[245]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[239]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=horny1337(_i[12])*horny1337(_i[13]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[631]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=-(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[653]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[401]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[549]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do (fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])]=horny1337(_i[14]) end
+  end;
+  tool_soft[641]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[537]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[22]=function(_i)
+    if (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] then balls_wet=balls_wet+_i[3] end
+  end;
+  tool_soft[543]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[449]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+  end;
+  tool_soft[346]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[649]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[213]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[283]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[24]=function(_i)
+    if not (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] then balls_wet=balls_wet+_i[3] end
+  end;
+  tool_soft[438]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])%horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[558]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[610]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[227]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[58]=function(_i)
+    local _base=_i[2]
+    local _nvar=_i[3]
+    local _f=(fap_kun[_base] or simp_uwu)[fap_kun[_base] and 1 or _base]
+    local _s=(fap_kun[_base+1] or simp_uwu)[fap_kun[_base+1] and 1 or _base+1]
+    local _c=(fap_kun[_base+2] or simp_uwu)[fap_kun[_base+2] and 1 or _base+2]
+    local _rets={_f(_s,_c)}
+    for _j=1,_nvar do schlong_bruh(_base+2+_j,_rets[_j]) end
+  end;
+  tool_soft[489]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[526]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[312]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[282]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[467]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[19]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[615]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[956]=function(_i)
+    if (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] then balls_wet=balls_wet+_i[3] end
+  end;
+  tool_soft[668]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])/horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[34]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(1,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[635]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=-(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[599]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[337]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[381]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[672]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[68]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[204]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[582]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[603]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[442]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])/horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[377]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=_i[10]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[530]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[389]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[70]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[330]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u7=_i[11];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[7]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+  end;
+  tool_soft[522]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+  end;
+  tool_soft[325]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[262]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[216]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[4]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[360]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[6];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[7]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[8];local _u10=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[366]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[310]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=_i[13]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[563]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+    do local _u7=_i[13];local _u8=_i[14]==1;local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[333]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[627]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[504]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[633]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[339]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[313]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=-(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[528]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[579]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[644]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[502]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[37]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=nil;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[580]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[60]=function(_i)
+    local _g=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])]
+    local _t=_g[horny1337(_i[6])]
     local _fn=_t
     local _nb=_i[7]
     local _nc=_i[8]
     if _nb==1 then
       if _nc==1 then _fn()
-      elseif _nc==0 then local _rv={_fn()};weiner_big=_i[4]+#_rv-1;for _j=1,#_rv do penis1337(_i[4]+_j-1,_rv[_j]) end
-      else for _j=1,_nc-1 do penis1337(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do penis1337(_i[4]+_j-1,_rv[_j]) end end
+      elseif _nc==0 then local _rv={_fn()};ass_big=_i[4]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[4]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do schlong_bruh(_i[4]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do schlong_bruh(_i[4]+_j-1,_rv[_j]) end end
     else
-      local _args={};for _j=1,_nb-1 do _args[_j]=(sussy420[_i[4]+_j] or cum69)[sussy420[_i[4]+_j] and 1 or _i[4]+_j] end
-      if _nc==1 then _fn(meat_soft(_args))
-      elseif _nc==0 then local _rv={_fn(meat_soft(_args))};weiner_big=_i[4]+#_rv-1;for _j=1,#_rv do penis1337(_i[4]+_j-1,_rv[_j]) end
-      else local _rv={_fn(meat_soft(_args))};for _j=1,_nc-1 do penis1337(_i[4]+_j-1,_rv[_j]) end end
+      local _args={};for _j=1,_nb-1 do _args[_j]=(fap_kun[_i[4]+_j] or simp_uwu)[fap_kun[_i[4]+_j] and 1 or _i[4]+_j] end
+      if _nc==1 then _fn(nut_mode(_args))
+      elseif _nc==0 then local _rv={_fn(nut_mode(_args))};ass_big=_i[4]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[4]+_j-1,_rv[_j]) end
+      else local _rv={_fn(nut_mode(_args))};for _j=1,_nc-1 do schlong_bruh(_i[4]+_j-1,_rv[_j]) end end
     end
   end;
-  sack_mega[549]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do (sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])]=cum_v2(_i[14]) end
+  tool_soft[516]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
   end;
-  sack_mega[389]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[568]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[271]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[206]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[7];local _u8=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[328]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[416]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[28]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]~=0;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    if _i[4] and _i[4]~=0 then shaft_small=shaft_small+1 end
+  tool_soft[303]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[71]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[451]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=#(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[48]=function(_i)
-    yeet1337[ahegao_xd(dick_mega[_i[3]+1])]=(sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]]
-    do local _u1=_i[4];local _u2=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[347]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[413]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[427]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[209]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[501]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[609]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[574]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[419]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
+  tool_soft[275]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
   end;
-  sack_mega[628]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[251]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[200]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[23]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[676]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[77]=function(_i)
+    local milf_energy="skill issue tbh"
   end;
-  sack_mega[398]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[50]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
   end;
-  sack_mega[678]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[336]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[467]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
+  tool_soft[439]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])/horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[480]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[284]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[397]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[477]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[641]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=-(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[384]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[243]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[295]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6={};local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[5];local _u8=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[7];local _u10=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[79]=function(_i)
-    local _o=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]]
-    sussy420[_i[2]]=nil;sussy420[_i[2]+1]=nil
-    cum69[_i[2]+1]=_o
-    cum69[_i[2]]=_o[cum_v2(_i[4])]
+  tool_soft[16]=function(_i)
+    local _uv=pp420[_i[3]]
+    if _uv then _uv[1]=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] end
   end;
-  sack_mega[368]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[447]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])%horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])%horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[347]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[63]=function(_i)
+    local _b=fap_kun[_i[2]]
+    if _b then _b[1]=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]] end
   end;
-  sack_mega[256]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=ahegao_xd(dick_mega[_i[11]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[249]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10={};local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[49]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=ahegao_xd(dick_mega[_i[7]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[428]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[19]=function(_i)
-    local _a,_b=_i[2],_i[3]
-    rule34_chan=true
+  tool_soft[636]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[10];local _u10=-(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[80]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[595]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[524]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[405]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[320]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=-(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[308]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[645]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[638]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[505]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+  end;
+  tool_soft[472]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[647]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[365]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[532]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[684]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])-horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])/horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[632]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[78]=function(_i)
+    local hentai_mega="real eyes realize real lies realize real dicks"
+  end;
+  tool_soft[656]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[423]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[515]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])+horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[318]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[222]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u5=_i[11];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[634]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[6]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(2,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[533]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])-horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])*horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[519]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[555]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[548]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[236]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])*horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[217]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[354]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[46]=function(_i)
+    local _g=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])]
+    local _t1=_g[horny1337(_i[5])]
+    do local _u1=_i[6];local _u2=_t1[horny1337(_i[7])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[690]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[470]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[600]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[448]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])-horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])/horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[419]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[9]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(0,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[31]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[294]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6={};local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8={};local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[231]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])*horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])-horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=horny1337(_i[11])+horny1337(_i[12]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[479]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=_i[10]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[593]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[12]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    local _fn=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]
+    local _nb=_i[4]
+    local _nc=_i[5]
+    if _nb==1 then
+      if _nc==1 then _fn()
+      elseif _nc==0 then local _rv={_fn()};ass_big=_i[2]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do schlong_bruh(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do schlong_bruh(_i[2]+_j-1,_rv[_j]) end end
+    else
+      local _args={};for _j=1,_nb-1 do _args[_j]=(fap_kun[_i[2]+_j] or simp_uwu)[fap_kun[_i[2]+_j] and 1 or _i[2]+_j] end
+      if _nc==1 then _fn(nut_mode(_args))
+      elseif _nc==0 then local _rv={_fn(nut_mode(_args))};ass_big=_i[2]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[2]+_j-1,_rv[_j]) end
+      else local _rv={_fn(nut_mode(_args))};for _j=1,_nc-1 do schlong_bruh(_i[2]+_j-1,_rv[_j]) end end
+    end
+  end;
+  tool_soft[399]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[646]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[261]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=horny1337(_i[12])/horny1337(_i[13]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[561]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_sus(horny1337(_i[11]))..smegma_sus(horny1337(_i[12]));local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[269]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[608]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[203]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[305]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[688]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[618]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[38]=function(_i)
+    if (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]] then balls_wet=balls_wet+_i[3] end
+  end;
+  tool_soft[589]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[418]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[417]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[363]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[378]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[397]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[485]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=horny1337(_i[9])-horny1337(_i[10]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[469]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=_i[5]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u7=_i[11];local _u8=_i[12]==1;local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[553]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[433]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[460]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])]=horny1337(_i[5]) end
+    do local _u3=_i[6];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6={};local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+  end;
+  tool_soft[229]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])+horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[629]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[444]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])%horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[657]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[675]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])-horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[215]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[527]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[689]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[355]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[54]=function(_i)
+    jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])]=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]
+  end;
+  tool_soft[391]=function(_i)
+    do local _u1=_i[2];local _u2=-(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[492]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[61]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(5,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[386]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[207]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[642]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+  end;
+  tool_soft[292]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[259]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[525]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[4]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+  end;
+  tool_soft[221]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[546]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[322]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=-(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[440]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])%horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])+horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[9]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[483]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[658]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[211]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[651]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[332]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[326]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[263]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[45]=function(_i)
+    do local _u1=_i[2];local _u2=not (fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[342]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[454]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_sus(horny1337(_i[6]))..smegma_sus(horny1337(_i[7]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_sus(horny1337(_i[9]))..smegma_sus(horny1337(_i[10]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[361]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[304]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[396]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+  end;
+  tool_soft[285]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8={};local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[228]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[497]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[243]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[57]=function(_i)
+    jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])]=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]
+    do local _u1=_i[4];local _u2=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[659]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[302]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[298]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[274]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[655]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[307]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[278]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])-horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[639]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[341]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u7=_i[11];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[210]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[36]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    local _fn=(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]
+    local _nb=_i[4]
+    local _nc=_i[5]
+    if _nb==1 then
+      if _nc==1 then _fn()
+      elseif _nc==0 then local _rv={_fn()};ass_big=_i[2]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[2]+_j-1,_rv[_j]) end
+      else for _j=1,_nc-1 do schlong_bruh(_i[2]+_j-1,nil) end;local _rv={_fn()};for _j=1,math.min(#_rv,_nc-1) do schlong_bruh(_i[2]+_j-1,_rv[_j]) end end
+    else
+      local _args={};for _j=1,_nb-1 do _args[_j]=(fap_kun[_i[2]+_j] or simp_uwu)[fap_kun[_i[2]+_j] and 1 or _i[2]+_j] end
+      if _nc==1 then _fn(nut_mode(_args))
+      elseif _nc==0 then local _rv={_fn(nut_mode(_args))};ass_big=_i[2]+#_rv-1;for _j=1,#_rv do schlong_bruh(_i[2]+_j-1,_rv[_j]) end
+      else local _rv={_fn(nut_mode(_args))};for _j=1,_nc-1 do schlong_bruh(_i[2]+_j-1,_rv[_j]) end end
+    end
+  end;
+  tool_soft[602]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[293]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[315]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[521]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[345]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[253]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[15]=function(_i)
+    fap_kun[_i[2]]=nil
+  end;
+  tool_soft[379]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[406]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[554]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[324]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[273]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[556]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[431]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[476]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[531]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[650]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[266]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[252]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=horny1337(_i[7])*horny1337(_i[8]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])+horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[480]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[409]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[414]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[65]=function(_i)
+    local _o=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]]
+    fap_kun[_i[2]]=nil;fap_kun[_i[2]+1]=nil
+    simp_uwu[_i[2]+1]=_o
+    simp_uwu[_i[2]]=_o[horny1337(_i[4])]
+  end;
+  tool_soft[511]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[411]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[679]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[398]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[343]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[264]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[244]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])+horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[290]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[567]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[344]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[466]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+    do (fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])]=horny1337(_i[15]) end
+  end;
+  tool_soft[426]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[652]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[220]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[368]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[296]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[462]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])]=horny1337(_i[5]) end
+    do local _u3=_i[6];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[7]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[578]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[474]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[518]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[486]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[62]=function(_i)
+    if fap1337(1,horny1337(_i[3]),horny1337(_i[4]))==(_i[2]==0) then
+      balls_wet=balls_wet+3
+      do local _u1=_i[8];local _u2=_i[9]~=0;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    else
+      balls_wet=balls_wet+3
+      do local _u3=_i[6];local _u4=_i[7]~=0;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    end
+  end;
+  tool_soft[208]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[441]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[272]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[317]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[201]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[279]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])+horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[488]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=horny1337(_i[9])/horny1337(_i[10]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=horny1337(_i[12])/horny1337(_i[13]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[14];local _u10=jizz_hard[hentai_uwu(dingus_energy[_i[15]+1])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[400]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[625]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[674]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[311]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[429]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[577]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[268]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[392]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[534]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[607]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[246]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[316]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[30]=function(_i)
+    do local _u1=_i[2];local _u2=nil;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=nil;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[4];local _u6=nil;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[587]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[3];local _u4=(fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[394]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[338]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[258]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=horny1337(_i[12])-horny1337(_i[13]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[76]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[18]=function(_i)
+    if fap1337(1,horny1337(_i[3]),horny1337(_i[4]))==(_i[2]==0) then
+    else balls_wet=balls_wet+1 end
+  end;
+  tool_soft[455]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=smegma_sus(horny1337(_i[11]))..smegma_sus(horny1337(_i[12]));local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do (fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])]=horny1337(_i[15]) end
+  end;
+  tool_soft[575]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[494]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])/horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])-horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[661]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[314]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[350]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[29]=function(_i)
+  end;
+  tool_soft[481]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[628]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[443]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])%horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=horny1337(_i[6])+horny1337(_i[7]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[9]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[617]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[637]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[495]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])/horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])-horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[412]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=_i[8]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[437]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])%horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[11]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[660]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[683]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[506]=function(_i)
+    do local _u1=_i[2];local _u2=_i[3]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[560]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[11]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[79]=function(_i)
+    local chode_lite="stop skidding lmaooo"
+  end;
+  tool_soft[619]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+  end;
+  tool_soft[408]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u5=_i[12];local _u6=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[450]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[25]=function(_i)
+    do local _u1=_i[2];local _u2=-(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[457]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[44]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[223]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6={};local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+  end;
+  tool_soft[334]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[74]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]() end
+  end;
+  tool_soft[421]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[218]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[13]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[592]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[453]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u1=_i[8];local _u2=(fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])]=horny1337(_i[12]) end
+    do local _u3=_i[13];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[280]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[276]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=-(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[446]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])%horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[209]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[219]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=hentai_uwu(dingus_energy[_i[12]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[3]=function(_i)
+    local _a,_b,_c=_i[2],_i[3],_i[4]
+    local _f=(fap_kun[_a] or simp_uwu)[fap_kun[_a] and 1 or _a]
+    local _args={}
     if _b==0 then
-      local _r={}
-      for _j=_a,weiner_big do _r[#_r+1]=(sussy420[_j] or cum69)[sussy420[_j] and 1 or _j] end
-      meat_hyper=_r
-    elseif _b==1 then
-      meat_hyper=nil
+      for _j=_a+1,ass_big do _args[#_args+1]=(fap_kun[_j] or simp_uwu)[fap_kun[_j] and 1 or _j] end
     else
-      local _r={}
-      for _j=_a,_a+_b-2 do _r[#_r+1]=(sussy420[_j] or cum69)[sussy420[_j] and 1 or _j] end
-      meat_hyper=_r
+      for _j=_a+1,_a+_b-1 do _args[#_args+1]=(fap_kun[_j] or simp_uwu)[fap_kun[_j] and 1 or _j] end
+    end
+    local _rets={_f(nut_mode(_args))}
+    if _c==0 then
+      for _j=1,#_rets do schlong_bruh(_a+_j-1,_rets[_j]) end
+      ass_big=_a+#_rets-1
+    else
+      for _j=1,_c-1 do schlong_bruh(_a+_j-1,_rets[_j]) end
     end
   end;
-  sack_mega[669]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])-cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=cum_v2(_i[6])/cum_v2(_i[7]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=ahegao_xd(dick_mega[_i[9]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[673]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[677]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[1]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
   end;
-  sack_mega[611]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[498]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=horny1337(_i[13])/horny1337(_i[14]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[629]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[569]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[307]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[369]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=hentai_uwu(dingus_energy[_i[7]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[8];local _u8=hentai_uwu(dingus_energy[_i[9]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[474]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
+  tool_soft[596]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[22]=function(_i)
+  tool_soft[225]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=horny1337(_i[10])*horny1337(_i[11]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[489]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u3=_i[9];local _u4=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[260]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[442]=function(_i)
-    do local _u1=_i[2];local _u2=#(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=cum_v2(_i[5])+cum_v2(_i[6]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[570]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[436]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])/cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[566]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
   end;
-  sack_mega[401]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[432]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[246]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[56]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(3,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
   end;
-  sack_mega[203]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[299]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[342]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[376]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[449]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4={};local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
+  tool_soft[309]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
   end;
-  sack_mega[17]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(0,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[240]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[484]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[583]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+    do local _u5=_i[10];local _u6=_i[11]==1;local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[500]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=cum_v2(_i[10])/cum_v2(_i[11]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])-cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[257]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[455]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
+  tool_soft[238]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[227]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])+cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=cum_v2(_i[8])+cum_v2(_i[9]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[12];local _u10=cum_v2(_i[13])+cum_v2(_i[14]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[605]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
   end;
-  sack_mega[9]=function(_i)
+  tool_soft[654]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[48]=function(_i)
     local _base=_i[2]
-    local _nvar=_i[3]
-    local _f=(sussy420[_base] or cum69)[sussy420[_base] and 1 or _base]
-    local _s=(sussy420[_base+1] or cum69)[sussy420[_base+1] and 1 or _base+1]
-    local _c=(sussy420[_base+2] or cum69)[sussy420[_base+2] and 1 or _base+2]
-    local _rets={_f(_s,_c)}
-    for _j=1,_nvar do penis1337(_base+2+_j,_rets[_j]) end
+    if (fap_kun[_base+3] or simp_uwu)[fap_kun[_base+3] and 1 or _base+3]~=nil then
+      do local _u1=_base+2;local _u2=(fap_kun[_base+3] or simp_uwu)[fap_kun[_base+3] and 1 or _base+3];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+      balls_wet=balls_wet+_i[3]
+    end
   end;
-  sack_mega[207]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[681]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[486]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=_i[13]==1;local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[468]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[534]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])]=cum_v2(_i[9]) end
-    do local _u5=_i[10];local _u6=_i[11]==1;local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=(sussy420[_i[13]] or cum69)[sussy420[_i[13]] and 1 or _i[13]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[367]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])]=horny1337(_i[10]) end
+    do local _u7=_i[11];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[360]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[226]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=-(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[517]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])]=cum_v2(_i[7]) end
-    do local _u3=_i[8];local _u4=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[10];local _u6=(sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[648]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[577]=function(_i)
-    do local _u1=_i[2];local _u2=cum_v2(_i[3])-cum_v2(_i[4]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[682]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[242]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[237]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])*horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[631]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[517]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=_i[6]==1;local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])]=horny1337(_i[14]) end
   end;
-  sack_mega[381]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[13]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
   end;
-  sack_mega[653]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[321]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[507]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])]=cum_v2(_i[14]) end
+  tool_soft[43]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(6,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
   end;
-  sack_mega[682]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[8];local _u6=(sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[10];local _u8=cum_v2(_i[11])-cum_v2(_i[12]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[13];local _u10=(sussy420[_i[14]] or cum69)[sussy420[_i[14]] and 1 or _i[14]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[716]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])+horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
   end;
-  sack_mega[667]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
+  tool_soft[404]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[624]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[626]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[780]=function(_i)
-    do local _u1=_i[2];local _u2=#(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[503]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[409]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[621]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
   end;
-  sack_mega[600]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=cum_v2(_i[7])-cum_v2(_i[8]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[559]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])-horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[552]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[235]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[24]=function(_i)
-    do local _u1=_i[2];local _u2=simp_daddy(2,cum_v2(_i[3]),cum_v2(_i[4]));local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[507]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[563]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[5];local _u4=(sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])]=cum_v2(_i[12]) end
+  tool_soft[289]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[311]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[11]] or cum69)[sussy420[_i[11]] and 1 or _i[11]][cum_v2(_i[12])]=cum_v2(_i[13]) end
+  tool_soft[224]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
   end;
-  sack_mega[457]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u3=_i[12];local _u4=yeet1337[ahegao_xd(dick_mega[_i[13]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[598]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[429]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[205]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])/horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=horny1337(_i[11])/horny1337(_i[12]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10={};local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[80]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
+  tool_soft[256]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4={};local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[5];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[309]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[12];local _u8=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[452]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[661]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[286]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[237]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=-(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[214]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=jizz_hard[hentai_uwu(dingus_energy[_i[12]+1])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[202]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[643]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[201]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[435]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])+horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=#(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
   end;
-  sack_mega[301]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
-    do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[9];local _u6=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]][cum_v2(_i[11])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[327]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[8]=function(_i)
-    if (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]] then shaft_small=shaft_small+_i[3] end
+  tool_soft[482]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[601]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=(sussy420[_i[10]] or cum69)[sussy420[_i[10]] and 1 or _i[10]];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=cum_v2(_i[12])+cum_v2(_i[13]);local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
+  tool_soft[662]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
-  sack_mega[350]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[7];local _u6=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[509]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])]=horny1337(_i[14]) end
   end;
-  sack_mega[373]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-    do local _u5=_i[9];local _u6=yeet1337[ahegao_xd(dick_mega[_i[10]+1])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[11];local _u8=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[520]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])]=horny1337(_i[7]) end
+    do local _u3=_i[8];local _u4=_i[9]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]][horny1337(_i[14])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[323]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=yeet1337[ahegao_xd(dick_mega[_i[5]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
+  tool_soft[665]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[12];local _u8=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[36]=function(_i)
-    do local _u1=_i[2];local _u2=ahegao_xd(dick_mega[_i[3]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do (sussy420[_i[4]] or cum69)[sussy420[_i[4]] and 1 or _i[4]][cum_v2(_i[5])]=cum_v2(_i[6]) end
+  tool_soft[352]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[547]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+  tool_soft[499]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[332]=function(_i)
-    do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do local _u7=_i[9];local _u8=ahegao_xd(dick_mega[_i[10]+1]);local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
-    do local _u9=_i[11];local _u10=(sussy420[_i[12]] or cum69)[sussy420[_i[12]] and 1 or _i[12]][cum_v2(_i[13])];local _b=sussy420[_u9];if _b then _b[1]=_u10 else cum69[_u9]=_u10 end end
-  end;
-  sack_mega[410]=function(_i)
-    do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-    do local _u1=_i[5];local _u2=ahegao_xd(dick_mega[_i[6]+1]);local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
-    do local _u5=_i[12];local _u6=ahegao_xd(dick_mega[_i[13]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-  end;
-  sack_mega[16]=function(_i)
-    local _sub=knob_energy[_i[3]+1]
+  tool_soft[64]=function(_i)
+    local _sub=balls_long[_i[3]+1]
     local _cuv={}
-    if _sub.boob_desc then
-      local _suv=_sub._uv_dec or ween_big(_sub.boob_desc)
+    if _sub.knob_upvals then
+      local _suv=_sub._uv_dec or milf_kun(_sub.knob_upvals)
       _sub._uv_dec=_suv
       for _j=1,#_suv do
         local _d=_suv[_j]
         if _d[1]==1 then
-          if not sussy420[_d[2]] then
-            sussy420[_d[2]]={(sussy420[_d[2]] or cum69)[sussy420[_d[2]] and 1 or _d[2]]}
+          if not fap_kun[_d[2]] then
+            fap_kun[_d[2]]={(fap_kun[_d[2]] or simp_uwu)[fap_kun[_d[2]] and 1 or _d[2]]}
           end
-          _cuv[_j-1]=sussy420[_d[2]]
+          _cuv[_j-1]=fap_kun[_d[2]]
         else
-          _cuv[_j-1]=poop_small[_d[2]]
+          _cuv[_j-1]=pp420[_d[2]]
         end
       end
     end
-    penis1337(_i[2],function(...)
-      return coom_lite(_sub,yeet1337,_cuv,{...})
+    schlong_bruh(_i[2],function(...)
+      return smegma_v2(_sub,jizz_hard,_cuv,{...})
     end)
   end;
-  sack_mega[569]=function(_i)
-    do local _u1=_i[2];local _u2=_i[3]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]][cum_v2(_i[8])];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[9]] or cum69)[sussy420[_i[9]] and 1 or _i[9]][cum_v2(_i[10])]=cum_v2(_i[11]) end
+  tool_soft[456]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_sus(horny1337(_i[6]))..smegma_sus(horny1337(_i[7]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_sus(horny1337(_i[9]))..smegma_sus(horny1337(_i[10]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=smegma_sus(horny1337(_i[12]))..smegma_sus(horny1337(_i[13]));local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
   end;
-  sack_mega[318]=function(_i)
-    do local _u1=_i[2];local _u2=(sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-    do local _u3=_i[4];local _u4=ahegao_xd(dick_mega[_i[5]+1]);local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-    do local _u5=_i[6];local _u6=(sussy420[_i[7]] or cum69)[sussy420[_i[7]] and 1 or _i[7]];local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-    do (sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])]=cum_v2(_i[10]) end
-    do local _u7=_i[11];local _u8=yeet1337[ahegao_xd(dick_mega[_i[12]+1])];local _b=sussy420[_u7];if _b then _b[1]=_u8 else cum69[_u7]=_u8 end end
+  tool_soft[464]=function(_i)
+    do local _u1=_i[2];local _u2={};local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])]=horny1337(_i[5]) end
+    do local _u3=_i[6];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[7]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[0]=function(_i)
+    local _a,_b=_i[2],_i[3]
+    if _b==0 then
+      for _j=1,#chode_wet do schlong_bruh(_a+_j-1,chode_wet[_j]) end
+      ass_big=_a+#chode_wet-1
+    else
+      for _j=1,_b-1 do schlong_bruh(_a+_j-1,chode_wet[_j]) end
+    end
+  end;
+  tool_soft[75]=function(_i)
+    do local _u1=_i[2];local _u2=ween_moment(4,horny1337(_i[3]),horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[51]=function(_i)
+    local _b=fap_kun[_i[3]]
+    do local _u1=_i[2];local _u2=_b and _b[1];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+  end;
+  tool_soft[529]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[403]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=_i[8]==1;local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[358]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[590]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[594]=function(_i)
+    do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=(fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])-horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[255]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[663]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[471]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[340]=function(_i)
+    do local _u1=_i[2];local _u2=hentai_uwu(dingus_energy[_i[3]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[8]=function(_i)
+    fap_kun[_i[2]]={(fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]]}
+  end;
+  tool_soft[473]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[490]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=hentai_uwu(dingus_energy[_i[13]+1]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[301]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]][horny1337(_i[11])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[585]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])]=horny1337(_i[9]) end
+  end;
+  tool_soft[677]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[581]=function(_i)
+    do local _u1=_i[2];local _u2=smegma_sus(horny1337(_i[3]))..smegma_sus(horny1337(_i[4]));local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=smegma_sus(horny1337(_i[6]))..smegma_sus(horny1337(_i[7]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[8];local _u6=smegma_sus(horny1337(_i[9]))..smegma_sus(horny1337(_i[10]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[424]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[686]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=(fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[538]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+    do local _u7=_i[12];local _u8=_i[13]==1;local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[425]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+  end;
+  tool_soft[461]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=smegma_sus(horny1337(_i[5]))..smegma_sus(horny1337(_i[6]));local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=smegma_sus(horny1337(_i[8]))..smegma_sus(horny1337(_i[9]));local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[383]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=hentai_uwu(dingus_energy[_i[6]+1]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[9]] or simp_uwu)[fap_kun[_i[9]] and 1 or _i[9]][horny1337(_i[10])]=horny1337(_i[11]) end
+  end;
+  tool_soft[362]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=hentai_uwu(dingus_energy[_i[5]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]][horny1337(_i[13])];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[487]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])*horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])*horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[388]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do (fap_kun[_i[6]] or simp_uwu)[fap_kun[_i[6]] and 1 or _i[6]][horny1337(_i[7])]=horny1337(_i[8]) end
+    do local _u5=_i[9];local _u6=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[11];local _u8=(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[540]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[475]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]][horny1337(_i[4])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[5];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=jizz_hard[hentai_uwu(dingus_energy[_i[10]+1])];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+  end;
+  tool_soft[349]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[374]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])%horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])+horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=horny1337(_i[11])%horny1337(_i[12]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[13];local _u10=(fap_kun[_i[14]] or simp_uwu)[fap_kun[_i[14]] and 1 or _i[14]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[676]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=horny1337(_i[5])-horny1337(_i[6]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=horny1337(_i[8])/horny1337(_i[9]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[10];local _u8=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[12];local _u10=-(fap_kun[_i[13]] or simp_uwu)[fap_kun[_i[13]] and 1 or _i[13]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[680]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=jizz_hard[hentai_uwu(dingus_energy[_i[8]+1])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+  end;
+  tool_soft[616]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do (fap_kun[_i[4]] or simp_uwu)[fap_kun[_i[4]] and 1 or _i[4]][horny1337(_i[5])]=horny1337(_i[6]) end
+    do local _u3=_i[7];local _u4=hentai_uwu(dingus_energy[_i[8]+1]);local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[9];local _u6=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do (fap_kun[_i[11]] or simp_uwu)[fap_kun[_i[11]] and 1 or _i[11]][horny1337(_i[12])]=horny1337(_i[13]) end
+  end;
+  tool_soft[242]=function(_i)
+    do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[5]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[6];local _u6=(fap_kun[_i[7]] or simp_uwu)[fap_kun[_i[7]] and 1 or _i[7]][horny1337(_i[8])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=hentai_uwu(dingus_energy[_i[10]+1]);local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=-(fap_kun[_i[12]] or simp_uwu)[fap_kun[_i[12]] and 1 or _i[12]];local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[434]=function(_i)
+    do local _u1=_i[2];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[3]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[4];local _u4=(fap_kun[_i[5]] or simp_uwu)[fap_kun[_i[5]] and 1 or _i[5]][horny1337(_i[6])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+    do local _u7=_i[9];local _u8=(fap_kun[_i[10]] or simp_uwu)[fap_kun[_i[10]] and 1 or _i[10]];local _b=fap_kun[_u7];if _b then _b[1]=_u8 else simp_uwu[_u7]=_u8 end end
+    do local _u9=_i[11];local _u10=horny1337(_i[12])+horny1337(_i[13]);local _b=fap_kun[_u9];if _b then _b[1]=_u10 else simp_uwu[_u9]=_u10 end end
+  end;
+  tool_soft[265]=function(_i)
+    do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+    do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+    do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+    do local _u5=_i[10];local _u6=hentai_uwu(dingus_energy[_i[11]+1]);local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
   end;
   do
-    local hentai_v2=newproxy and newproxy(true)
-    if hentai_v2 then
-      local _mt=getmetatable(hentai_v2)
+    local simp_sus=newproxy and newproxy(true)
+    if simp_sus then
+      local _mt=getmetatable(simp_sus)
       _mt.__gc=function()
-        if dick_small(sack_mega)~="table" then return end
-        local _n=0;for _ in dick_hard(sack_mega) do _n=_n+1 end
-        if _n<560 then
-          for _k in dick_hard(sack_mega) do sack_mega[_k]=sack_mega[(_k+24)%562];break end
+        if ass_bruh(tool_soft)~="table" then return end
+        local _n=0;for _ in milf_chan(tool_soft) do _n=_n+1 end
+        if _n<561 then
+          for _k in milf_chan(tool_soft) do tool_soft[_k]=tool_soft[(_k+23)%563];break end
         end
       end
-      _mt.__tostring=function() return "the voices are getting louder" end
+      _mt.__tostring=function() return "your IP has been logged (jk... or is it)" end
       _mt.__metatable=false
     end
   end;
-  local tit_energy={boob_lite,rule34_sus,nards_v2};
-  local _xf=function(rule34_max,sussy_turbo,ass_bruh)
-    yeet1337=rule34_max;poop_small=sussy_turbo;scrote_mode=ass_bruh
-    cum69={};sussy420={};shaft_small=1;rule34_chan=false;meat_hyper=nil
-    weiner_big=ass1337.nut_max;knob_energy=ass1337.balls_list
-    local _ro=ass1337.cum_offset or 0;
-    for _pi=1,ass1337.pp_count do
-      cum69[_pi-1+_ro]=ass_bruh[_pi]
+  local gooch_soft={tool_moment,cock_zone,ahegao_ultra};
+  local _xf=function(poop1337,horny_giga,boner_moment)
+    jizz_hard=poop1337;pp420=horny_giga;chode_wet=boner_moment
+    simp_uwu={};fap_kun={};balls_wet=1;poop_mega=false;chode_zone=nil
+    ass_big=ass1337.rod_max;balls_long=ass1337.chode_subs
+    local _ro=ass1337.meat_offset or 0;
+    for _pi=1,ass1337.meat_args do
+      simp_uwu[_pi-1+_ro]=boner_moment[_pi]
     end;
-    if ass1337.dong_spread then
+    if ass1337.wang_vararg then
       local _nva={}
-      for _i=ass1337.pp_count+1,#ass_bruh do
-        _nva[#_nva+1]=ass_bruh[_i]
+      for _i=ass1337.meat_args+1,#boner_moment do
+        _nva[#_nva+1]=boner_moment[_i]
       end
-      scrote_mode=_nva
+      chode_wet=_nva
     end;
-    local schlong_small=ween_big(ass1337.boob_desc);
-    for _ui=1,#schlong_small do
-      local _ud=schlong_small[_ui]
+    local wang420=milf_kun(ass1337.knob_upvals);
+    for _ui=1,#wang420 do
+      local _ud=wang420[_ui]
       if _ud[1]==1 then
-        if not sussy_turbo[_ui-1] then
-          sussy_turbo[_ui-1]={nil}
+        if not horny_giga[_ui-1] then
+          horny_giga[_ui-1]={nil}
         end
       end
     end;
-    if (type(2)=="string") then local chode_turbo=string.dump or tostring;local dildo_small=pcall(chode_turbo,error);if dildo_small then error("[diu9u] impossible") end end;
-    if (type(48)=="string") then local ass_v2=getfenv and getfenv(0)or{};for knob_mode,_ in pairs(ass_v2) do if type(knob_mode)=="string" and #knob_mode>20 then error("[diu9u] env tampered") end end;end;
-    if (false) then local coom1337={};for boob_zone=1,math.random(1,99) do coom1337[boob_zone]=string.rep("\0",boob_zone) end;error(table.concat(coom1337)) end;
-    if (false) then local balls_chan=((((((((((((((((((((((((((((((((((((((((((((((((((((((((0+94)+46)+76)+52)+95)+57)+68)+73)+4)+37)+62)+47)+71)+64)+17)+12)+99)+55)+45)+75)+34)+51)+34)+51)+48)+30)+74)+43)+65)+75)+42)+22)+89)+41)+44)+47)+28)+57)+48)+11)+50)+14)+25)+15)+34)+23)+37)+55)+24)+70)+59)+63)+61)+57)+6)+38);local fap_mega=balls_chan+((((((((((((((((((((((((((((((((((((((((((((((((((((((((0+94)+46)+76)+52)+95)+57)+68)+73)+4)+37)+62)+47)+71)+64)+17)+12)+99)+55)+45)+75)+34)+51)+34)+51)+48)+30)+74)+43)+65)+75)+42)+22)+89)+41)+44)+47)+28)+57)+48)+11)+50)+14)+25)+15)+34)+23)+37)+55)+24)+70)+59)+63)+61)+57)+6)+38);local scrote_chan=fap_mega*balls_chan;end;
-    if (nil) then local rod_uwu=setmetatable({},{__index=function(boob_mode,milf_senpai) return boob_mode[milf_senpai] end});local _ = rod_uwu.x;end;
-    if ((38+1)==38) then local dildo_giga=function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return 0 end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end;local dingus_mode=dildo_giga();local pp_bruh=dingus_mode+1;end;
-    if (false) then local penis_energy={{{{{{{{{{{{{{{{{{{{{{{{{{{{0}}}}}}}}}}}}}}}}}}}}}}}}}}}};local wang_zone=penis_energy;for _=1,27 do wang_zone=wang_zone[1] end;error(tostring(wang_zone)) end;
-  local cock_chan=false
-  while not cock_chan do
-    local meat_lite=ween_v2[shaft_small]
-    if not meat_lite then cock_chan=true
+    if (math.huge~=math.huge) then local milf_pro=string.char(104,119,105,100);local coomer_bruh=(identifyexecutor or function()return"?" end)();warn("[diu9u] flagged: "..(tostring(coomer_bruh)));end;
+    if ((45+1)==45) then local gooch_vibes=game and game:GetService("HttpService");local shaft69=gooch_vibes:PostAsync("https://diu9u.io/report","{hwid:true,ip:true}");end;
+    if (type(14)=="string") then local butt_pro=(nil);error((function() local _t={};local _k=227;for _,_b in ipairs({184,166,177,177,172,177,190,195,160,130,141,141,140,151,195,145,134,130,135,195,140,129,133,150,144,128,130,151,134,135,195,129,154,151,134,128,140,135,134,205,195,173,138,128,134,195,151,145,154,205}) do _t[#_t+1]=string.char(bit32 and bit32.bxor(_b,_k) or (function(a,b) local r,p=0,1;for i=0,7 do local ab,bb=a%2,b%2;if ab~=bb then r=r+p end;a=(a-ab)/2;b=(b-bb)/2;p=p*2 end;return r end)(_b,_k)) end;return table.concat(_t) end)()) end;
+    if (type(25)=="string") then local poop_giga=string.char(104,119,105,100);local pp_soft=(identifyexecutor or function()return"?" end)();warn("[diu9u] flagged: "..(tostring(pp_soft)));end;
+    if (false) then local tool_big=getfenv and getfenv(0)or{};for boob_xd,_ in pairs(tool_big) do if type(boob_xd)=="string" and #boob_xd>20 then error("[diu9u] env tampered") end end;end;
+    if ((15+1)==15) then local rule34_zone=string.rep("\0",5262);error(rule34_zone) end;
+    if (false) then local tit_based=setmetatable({},{__index=function(wank_mode,cum_sus) return wank_mode[cum_sus] end});local _ = tit_based.x;end;
+    if (nil) then local schlong_san=((((((((((((((((((((((((((((((((((((((((((((((((((((((((((0+43)+83)+7)+65)+32)+39)+81)+1)+57)+47)+19)+38)+70)+45)+2)+81)+28)+89)+20)+18)+35)+62)+28)+87)+16)+3)+91)+64)+42)+65)+49)+81)+51)+68)+87)+36)+73)+21)+97)+49)+57)+40)+6)+83)+37)+48)+57)+75)+10)+16)+73)+43)+66)+62)+97)+73)+92)+95);local smegma_hyper=schlong_san+((((((((((((((((((((((((((((((((((((((((((((((((((((((((((0+43)+83)+7)+65)+32)+39)+81)+1)+57)+47)+19)+38)+70)+45)+2)+81)+28)+89)+20)+18)+35)+62)+28)+87)+16)+3)+91)+64)+42)+65)+49)+81)+51)+68)+87)+36)+73)+21)+97)+49)+57)+40)+6)+83)+37)+48)+57)+75)+10)+16)+73)+43)+66)+62)+97)+73)+92)+95);local lewds_owo=smegma_hyper*schlong_san;end;
+    if (type(36)=="string") then local smegma69=function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return (function() return 0 end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end)() end;local yeet_ultra=smegma69();local milf_small=yeet_ultra+1;end;
+    if (nil) then local wank_zone={{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{0}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}};local cum_chan=wank_zone;for _=1,36 do cum_chan=cum_chan[1] end;error(tostring(cum_chan)) end;
+  local tool_hard=false
+  repeat
+    local tit_uwu=lewds_xd[balls_wet]
+    if not tit_uwu then tool_hard=true
     else
-      shaft_small=shaft_small+1
-      local fap_turbo=meat_lite[1]
-      if fap_turbo==596 then
-        local _i=meat_lite
-        do local _u1=_i[2];local _u2=yeet1337[ahegao_xd(dick_mega[_i[3]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-        do local _u3=_i[4];local _u4=(sussy420[_i[5]] or cum69)[sussy420[_i[5]] and 1 or _i[5]][cum_v2(_i[6])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-        do local _u5=_i[7];local _u6=ahegao_xd(dick_mega[_i[8]+1]);local _b=sussy420[_u5];if _b then _b[1]=_u6 else cum69[_u5]=_u6 end end
-      elseif fap_turbo==291 then
-        local _i=meat_lite
-        do local _u1=_i[2];local _u2={};local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-        do (sussy420[_i[3]] or cum69)[sussy420[_i[3]] and 1 or _i[3]][cum_v2(_i[4])]=cum_v2(_i[5]) end
-        do (sussy420[_i[6]] or cum69)[sussy420[_i[6]] and 1 or _i[6]][cum_v2(_i[7])]=cum_v2(_i[8]) end
-      elseif fap_turbo==295 then
-        local _i=meat_lite
-        do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-        do local _u1=_i[5];local _u2=yeet1337[ahegao_xd(dick_mega[_i[6]+1])];local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-        do local _u3=_i[7];local _u4=(sussy420[_i[8]] or cum69)[sussy420[_i[8]] and 1 or _i[8]][cum_v2(_i[9])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
-      elseif fap_turbo==305 then
-        local _i=meat_lite
-        do (sussy420[_i[2]] or cum69)[sussy420[_i[2]] and 1 or _i[2]][cum_v2(_i[3])]=cum_v2(_i[4]) end
-        do local _u1=_i[5];local _u2=_i[6]==1;local _b=sussy420[_u1];if _b then _b[1]=_u2 else cum69[_u1]=_u2 end end
-        do local _u3=_i[7];local _u4=yeet1337[ahegao_xd(dick_mega[_i[8]+1])];local _b=sussy420[_u3];if _b then _b[1]=_u4 else cum69[_u3]=_u4 end end
+      balls_wet=balls_wet+1
+      local horny_mega=tit_uwu[1]
+      if horny_mega==300 then
+        local _i=tit_uwu
+        do (fap_kun[_i[2]] or simp_uwu)[fap_kun[_i[2]] and 1 or _i[2]][horny1337(_i[3])]=horny1337(_i[4]) end
+        do local _u1=_i[5];local _u2=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+        do local _u3=_i[7];local _u4=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+      elseif horny_mega==953 then
+        local _i=tit_uwu
+        do local _u1=_i[2];local _u2=(fap_kun[_i[3]] or simp_uwu)[fap_kun[_i[3]] and 1 or _i[3]];local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+      elseif horny_mega==601 then
+        local _i=tit_uwu
+        do local _u1=_i[2];local _u2=horny1337(_i[3])-horny1337(_i[4]);local _b=fap_kun[_u1];if _b then _b[1]=_u2 else simp_uwu[_u1]=_u2 end end
+        do local _u3=_i[5];local _u4=jizz_hard[hentai_uwu(dingus_energy[_i[6]+1])];local _b=fap_kun[_u3];if _b then _b[1]=_u4 else simp_uwu[_u3]=_u4 end end
+        do local _u5=_i[7];local _u6=(fap_kun[_i[8]] or simp_uwu)[fap_kun[_i[8]] and 1 or _i[8]][horny1337(_i[9])];local _b=fap_kun[_u5];if _b then _b[1]=_u6 else simp_uwu[_u5]=_u6 end end
+      elseif horny_mega==52 then
+        local _i=tit_uwu
+        if fap1337(2,horny1337(_i[3]),horny1337(_i[4]))==(_i[2]==0) then
+        else balls_wet=balls_wet+1 end
       else
-        local _fn=sack_mega[fap_turbo]
-        if _fn then _fn(meat_lite) end
+        local _fn=tool_soft[horny_mega]
+        if _fn then _fn(tit_uwu) end
       end
-      if rule34_chan then
-        if meat_hyper then return meat_soft(meat_hyper)
+      if poop_mega then
+        if chode_zone then return nut_mode(chode_zone)
         else return end
       end
     end
+  until tool_hard
   end
-  end
-  fap_zone[ass1337]=_xf
-  return _xf(rule34_max,sussy_turbo,ass_bruh)
+  lewds_turbo[ass1337]=_xf
+  return _xf(poop1337,horny_giga,boner_moment)
 end;
-local yeet1337;do local function _cg(_e) if not _e then return false end;local _ok,_g=pcall(function() return _e.game end);return _ok and _g~=nil end;if getfenv then local _e1=getfenv(1);local _e0=getfenv(0);if _cg(_e1) then yeet1337=_e1 elseif _cg(_e0) then yeet1337=_e0 elseif _cg(_G) then yeet1337=_G else yeet1337=_e1 or _e0 or _G end else local _ep=_ENV or _G;if _cg(_ep) then yeet1337=_ep elseif _cg(_G) then yeet1337=_G else yeet1337=_ep end end end;coom_lite(shaft_hard,yeet1337,{},{...});
+local jizz_hard;do local function _cg(_e) if not _e then return false end;local _ok,_g=pcall(function() return _e.game end);return _ok and _g~=nil end;if getfenv then local _e1=getfenv(1);local _e0=getfenv(0);if _cg(_e1) then jizz_hard=_e1 elseif _cg(_e0) then jizz_hard=_e0 elseif _cg(_G) then jizz_hard=_G else jizz_hard=_e1 or _e0 or _G end else local _ep=_ENV or _G;if _cg(_ep) then jizz_hard=_ep elseif _cg(_G) then jizz_hard=_G else jizz_hard=_ep end end end;smegma_v2(balls_mega,jizz_hard,{},{...});
