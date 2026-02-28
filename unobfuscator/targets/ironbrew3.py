@@ -2546,6 +2546,106 @@ class IB3Decompiler:
             if len(lines) == prev_len:
                 break
 
+        for _ in range(3):
+            merged = []
+            changed = False
+            i = 0
+            while i < len(lines):
+                s = lines[i].strip()
+                if i + 2 < len(lines) and re.search(r'\bthen\s*$', s) and re.search(r'\bthen\s*$', lines[i+1].strip()):
+                    inner_if = lines[i+1].strip()
+                    m_outer = re.match(r'^if\s+(.+)\s+then$', s)
+                    m_inner = re.match(r'^if\s+(.+)\s+then$', inner_if)
+                    if m_outer and m_inner:
+                        depth_check = 1
+                        inner_end = -1
+                        outer_end = -1
+                        for j in range(i + 2, len(lines)):
+                            sj = lines[j].strip()
+                            if re.search(r'\bthen\s*$', sj) and not (sj.endswith(' end') or sj.endswith(' end)')):
+                                depth_check += 1
+                            elif sj.startswith('for ') and sj.endswith(' do'):
+                                depth_check += 1
+                            elif sj == 'while true do':
+                                depth_check += 1
+                            elif sj.startswith('local function ') or (sj.startswith('function ') and sj.endswith(')')):
+                                depth_check += 1
+                            elif sj == 'end':
+                                depth_check -= 1
+                                if depth_check == 1 and inner_end < 0:
+                                    inner_end = j
+                                elif depth_check == 0:
+                                    outer_end = j
+                                    break
+                        if inner_end >= 0 and outer_end >= 0 and outer_end == inner_end + 1:
+                            has_else = any('else' in lines[k].strip() or lines[k].strip().startswith('elseif')
+                                          for k in range(i+2, inner_end))
+                            if not has_else:
+                                cond = f'{m_outer.group(1)} and {m_inner.group(1)}'
+                                merged.append(f'if {cond} then')
+                                for k in range(i + 2, inner_end):
+                                    merged.append(lines[k])
+                                merged.append('end')
+                                i = outer_end + 1
+                                changed = True
+                                continue
+                merged.append(lines[i])
+                i += 1
+            lines = merged
+            if not changed:
+                break
+
+        for _ in range(3):
+            folded = []
+            changed = False
+            i = 0
+            while i < len(lines):
+                s = lines[i].strip()
+                if (i + 2 < len(lines) and re.search(r'\bthen\s*$', s) and
+                    lines[i+2].strip() == 'end' and lines[i+1].strip() and
+                    not re.search(r'\bthen\s*$', lines[i+1].strip()) and
+                    lines[i+1].strip() != 'end' and
+                    'else' not in lines[i+1].strip()):
+                    stmt = lines[i+1].strip()
+                    if len(s) + len(stmt) + 5 < 120:
+                        folded.append(f'{s} {stmt} end')
+                        i += 3
+                        changed = True
+                        continue
+                folded.append(lines[i])
+                i += 1
+            lines = folded
+            if not changed:
+                break
+
+        balanced2 = []
+        depth = 0
+        for l in lines:
+            s = l.strip()
+            if not s or s.startswith('--'):
+                balanced2.append(l)
+                continue
+            is_open = is_close = False
+            if s.startswith('local function ') or (s.startswith('function ') and '(' in s and s.endswith(')')):
+                is_open = True
+            elif s == 'while true do' or s == 'repeat':
+                is_open = True
+            elif re.match(r'^for\s+.+\s+do$', s):
+                is_open = True
+            elif 'if ' in s and re.search(r'\bthen\s*$', s):
+                if not (s.endswith(' end') or s.endswith(' end)')):
+                    is_open = True
+            if s == 'end':
+                is_close = True
+            elif s.startswith('until '):
+                is_close = True
+            if is_close and not is_open and depth <= 0:
+                continue
+            if is_open: depth += 1
+            if is_close: depth -= 1
+            balanced2.append(l)
+        lines = balanced2
+
         reindented = []
         depth = 0
         for l in lines:
