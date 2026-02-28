@@ -1510,9 +1510,69 @@ class IB3Decompiler:
                 skip_until_reachable = True
                 skip_indent = indent_level
 
+        folded = []
+        i = 0
+        while i < len(dce):
+            if i + 1 < len(dce):
+                s1 = dce[i].strip()
+                s2 = dce[i + 1].strip()
+                m1 = re.match(r'^(local\s+)?(r(\d+))\s*=\s*(r(\d+))\.(\w+)$', s1)
+                if m1:
+                    local_kw = m1.group(1) or ''
+                    dst = m1.group(2)
+                    dst_n = int(m1.group(3))
+                    obj = m1.group(4)
+                    obj_n = int(m1.group(5))
+                    method = m1.group(6)
+                    indent = dce[i][:len(dce[i]) - len(dce[i].lstrip())]
+                    if dst == obj:
+                        m2 = re.match(r'^' + re.escape(dst) + r'\s*=\s*' + re.escape(dst) + r'\((r(\d+)(?:,\s*.+)?)\)$', s2)
+                        if m2:
+                            all_args = m2.group(1)
+                            first_n = int(m2.group(2))
+                            if first_n == dst_n + 1:
+                                parts = [a.strip() for a in all_args.split(',')]
+                                self_ref = parts[0]
+                                rest_args = ', '.join(parts[1:])
+                                folded.append(f'{indent}{local_kw}{dst} = {self_ref}:{method}({rest_args})')
+                                i += 2
+                                continue
+                        m3 = re.match(r'^' + re.escape(dst) + r'\((r(\d+)(?:,\s*.+)?)\)$', s2)
+                        if m3:
+                            all_args = m3.group(1)
+                            first_n = int(m3.group(2))
+                            if first_n == dst_n + 1:
+                                parts = [a.strip() for a in all_args.split(',')]
+                                self_ref = parts[0]
+                                rest_args = ', '.join(parts[1:])
+                                folded.append(f'{indent}{self_ref}:{method}({rest_args})')
+                                i += 2
+                                continue
+                    else:
+                        m2 = re.match(r'^' + re.escape(dst) + r'\s*=\s*' + re.escape(dst) + r'\((' + re.escape(obj) + r'(?:,\s*.+)?)\)$', s2)
+                        if m2:
+                            all_args = m2.group(1)
+                            parts = [a.strip() for a in all_args.split(',')]
+                            if parts and parts[0] == obj:
+                                rest_args = ', '.join(parts[1:])
+                                folded.append(f'{indent}{local_kw}{dst} = {obj}:{method}({rest_args})')
+                                i += 2
+                                continue
+                        m3 = re.match(r'^' + re.escape(dst) + r'\((.*)\)$', s2)
+                        if m3:
+                            args = m3.group(1)
+                            parts = [a.strip() for a in args.split(',')] if args else []
+                            if parts and parts[0] == obj:
+                                rest_args = ', '.join(parts[1:])
+                                folded.append(f'{indent}{obj}:{method}({rest_args})')
+                                i += 2
+                                continue
+            folded.append(dce[i])
+            i += 1
+
         final = []
         prev_blank = False
-        for line in dce:
+        for line in folded:
             is_blank = line.strip() == ''
             if is_blank and prev_blank:
                 continue
