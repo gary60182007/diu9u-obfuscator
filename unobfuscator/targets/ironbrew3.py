@@ -1443,7 +1443,242 @@ class IB3Decompiler:
             if result == prev:
                 break
             prev = result
+        result = self._expression_propagation(result)
+        result = self._rename_registers(result)
+        result = self._add_local_declarations(result)
         return result
+
+    def _expression_propagation(self, source: str) -> str:
+        lines = source.split('\n')
+        changed = True
+        iterations = 0
+        while changed and iterations < 50:
+            changed = False
+            iterations += 1
+            i = 0
+            while i < len(lines):
+                s = lines[i].strip()
+                if not s:
+                    i += 1
+                    continue
+                m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s)
+                if not m:
+                    i += 1
+                    continue
+                reg = m.group(1)
+                expr = m.group(2).strip()
+                if '(' in expr or ':' in expr:
+                    i += 1
+                    continue
+                if expr in ('nil', 'true', 'false', '...') or re.match(r'^-?\d+(\.\d+)?$', expr) or expr.startswith('"'):
+                    i += 1
+                    continue
+                reg_pat = r'\b' + re.escape(reg) + r'\b'
+                expr_regs = set(re.findall(r'\br\d+\b', expr))
+                uses = []
+                safe = True
+                for j in range(i + 1, min(i + 15, len(lines))):
+                    sj = lines[j].strip()
+                    if not sj:
+                        continue
+                    if sj.startswith('::') or sj in ('end', 'else', 'elseif') or sj.startswith('goto '):
+                        break
+                    for ereg in expr_regs:
+                        if re.match(r'^(?:local\s+)?' + re.escape(ereg) + r'\s*=', sj):
+                            safe = False
+                            break
+                    if not safe:
+                        break
+                    if re.search(reg_pat, sj):
+                        m_reassign = re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', sj)
+                        if m_reassign:
+                            rhs = sj[m_reassign.end():]
+                            if re.search(reg_pat, rhs):
+                                uses.append(j)
+                            break
+                        else:
+                            uses.append(j)
+                if safe and len(uses) == 1:
+                    use_idx = uses[0]
+                    use_line = lines[use_idx]
+                    use_s = use_line.strip()
+                    use_indent = use_line[:len(use_line) - len(use_line.lstrip())]
+                    count_on_use = len(re.findall(reg_pat, use_s))
+                    if count_on_use == 1:
+                        eq_pos = use_s.find('=')
+                        is_assign = (eq_pos > 0
+                                     and use_s[eq_pos:eq_pos+2] != '=='
+                                     and use_s[max(0,eq_pos-1):eq_pos+1] not in ('~=', '<=', '>='))
+                        if is_assign:
+                            lhs = use_s[:eq_pos]
+                            rhs_part = use_s[eq_pos:]
+                        else:
+                            lhs = ''
+                            rhs_part = use_s
+                        if re.search(reg_pat, rhs_part) and not re.search(reg_pat, lhs):
+                            callee_pat = re.escape(reg) + r'\s*\('
+                            is_non_callable = bool(re.match(r'^(".*"|-?\d+(\.\d+)?|true|false|nil)$', expr))
+                            if is_non_callable and re.search(callee_pat, use_s):
+                                pass
+                            else:
+                                new_rhs = re.sub(reg_pat, expr, rhs_part)
+                                lines[use_idx] = f'{use_indent}{lhs}{new_rhs}'
+                                lines[i] = ''
+                                changed = True
+                i += 1
+            if changed:
+                lines = [l for l in lines if l != '']
+        return '\n'.join(lines)
+
+    _SKIP_FIELD_NAMES = {
+        'GetService', 'FindFirstChild', 'WaitForChild', 'Clone', 'Destroy',
+        'new', 'connect', 'Connect', 'Value', 'Name', 'Parent', 'Position',
+        'CFrame', 'Size', 'wait', 'Wait', 'Touched', 'Fire', 'Invoke',
+    }
+
+    def _derive_var_name(self, expr):
+        m = re.match(r'.*:GetService\("(\w+)"\)', expr)
+        if m:
+            return m.group(1)
+        m = re.match(r'.*\.(\w+)$', expr)
+        if m:
+            n = m.group(1)
+            if (n[0].isalpha() or n[0] == '_') and n not in self._SKIP_FIELD_NAMES:
+                return n
+        m = re.match(r'^"(\w+)"$', expr)
+        if m and len(m.group(1)) > 1 and m.group(1).isidentifier():
+            return m.group(1)
+        if expr == 'game':
+            return None
+        if expr in ('nil', 'true', 'false', '...') or re.match(r'^-?\d+(\.\d+)?$', expr):
+            return None
+        if expr == '{}':
+            return 'tbl'
+        m = re.match(r'^(\w+)\(', expr)
+        if m:
+            return m.group(1) + '_result'
+        return None
+
+    def _rename_registers(self, source: str) -> str:
+        lines = source.split('\n')
+        func_ranges = []
+        stack = []
+        for i, line in enumerate(lines):
+            s = line.strip()
+            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
+                stack.append(i)
+            elif s == 'end' and stack:
+                start = stack.pop()
+                func_ranges.append((start, i))
+        result = list(lines)
+        for func_start, func_end in func_ranges:
+            reg_assigns = {}
+            for j in range(func_start, func_end + 1):
+                s = result[j].strip()
+                m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s)
+                if m:
+                    reg = m.group(1)
+                    expr = m.group(2).strip()
+                    if reg not in reg_assigns:
+                        reg_assigns[reg] = []
+                    reg_assigns[reg].append(expr)
+            rename_map = {}
+            used_names = set()
+            sorted_regs = sorted(reg_assigns.keys(), key=lambda r: int(r[1:]))
+            for reg in sorted_regs:
+                exprs = reg_assigns[reg]
+                if len(exprs) != 1:
+                    continue
+                name = None
+                for expr in exprs:
+                    name = self._derive_var_name(expr)
+                    if name:
+                        break
+                if not name:
+                    continue
+                if name in used_names or name in ('game', 'end', 'do', 'then', 'else',
+                    'if', 'for', 'while', 'repeat', 'until', 'return', 'local',
+                    'function', 'not', 'and', 'or', 'in', 'nil', 'true', 'false',
+                    'break', 'goto', 'elseif'):
+                    base = name
+                    for k in range(2, 100):
+                        candidate = f'{base}_{k}'
+                        if candidate not in used_names:
+                            name = candidate
+                            break
+                used_names.add(name)
+                rename_map[reg] = name
+            for reg, name in rename_map.items():
+                pat = r'\b' + re.escape(reg) + r'\b'
+                for j in range(func_start, func_end + 1):
+                    new_line = re.sub(pat, name, result[j])
+                    result[j] = new_line
+        return '\n'.join(result)
+
+    def _add_local_declarations(self, source: str) -> str:
+        lines = source.split('\n')
+        result = list(lines)
+        keywords = {'game', 'end', 'do', 'then', 'else', 'if', 'for', 'while',
+                     'repeat', 'until', 'return', 'local', 'function', 'not',
+                     'and', 'or', 'in', 'nil', 'true', 'false', 'break', 'goto',
+                     'elseif', 'setreadonly', 'select', 'type', 'tostring',
+                     'tonumber', 'pcall', 'xpcall', 'error', 'print', 'pairs',
+                     'ipairs', 'next', 'rawget', 'rawset', 'require', 'assert',
+                     'unpack', 'table', 'string', 'math', 'coroutine', 'debug',
+                     'WorldPivot', 'len', 'topLabel', 'workspace'}
+        declared = set()
+        nesting = 0
+        in_func = False
+        for i, line in enumerate(result):
+            s = line.strip()
+            if s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
+                if not in_func:
+                    in_func = True
+                    nesting = 1
+                    declared = set()
+                    m = re.search(r'\((.*?)\)', s)
+                    if m and m.group(1):
+                        for p in m.group(1).split(','):
+                            declared.add(p.strip())
+                else:
+                    nesting += 1
+                continue
+            if s == 'end' and in_func:
+                nesting -= 1
+                if nesting <= 0:
+                    in_func = False
+                    declared = set()
+                continue
+            if not in_func:
+                continue
+            if (s.startswith('if ') and s.endswith(' then')) or \
+               (s.startswith('for ') and s.endswith(' do')) or \
+               (s.startswith('while ') and s.endswith(' do')):
+                nesting += 1
+            if s.startswith('local '):
+                m = re.match(r'^local\s+(\w+)', s)
+                if m:
+                    declared.add(m.group(1))
+                continue
+            if s.startswith('for ') and ' do' in s:
+                m = re.match(r'^for\s+(\w+)', s)
+                if m:
+                    declared.add(m.group(1))
+                continue
+            m = re.match(r'^(\w+)\s*=\s*', s)
+            if m:
+                var = m.group(1)
+                if var not in keywords and var not in declared:
+                    indent = line[:len(line) - len(line.lstrip())]
+                    result[i] = f'{indent}local {s}'
+                    declared.add(var)
+            m_multi = re.match(r'^(\w+(?:\s*,\s*\w+)+)\s*=\s*', s)
+            if m_multi:
+                vars_str = m_multi.group(1)
+                for v in re.findall(r'\w+', vars_str):
+                    if v not in keywords and v not in declared:
+                        declared.add(v)
+        return '\n'.join(result)
 
     def _cleanup_pass(self, source: str) -> str:
         lines = source.split('\n')
@@ -1591,9 +1826,21 @@ class IB3Decompiler:
                 m1 = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s1)
                 m2 = re.match(r'^(?:local\s+)?(r\d+)\s*=', s2)
                 if m1 and m2 and m1.group(1) == m2.group(1):
+                    reg = m1.group(1)
                     val = m1.group(2)
+                    reg_n = int(reg[1:])
                     has_local = s1.startswith('local ')
-                    if not has_local and '(' not in val and ':' not in val and not val.startswith('r' + m1.group(1)[1:] + ' '):
+                    next_reg = f'r{reg_n + 1}'
+                    if '(' not in val and ':' not in val:
+                        if re.search(r'\b' + re.escape(next_reg) + r':', s2):
+                            local_kw = 'local ' if has_local else ''
+                            indent = no_empty[i][:len(no_empty[i]) - len(no_empty[i].lstrip())]
+                            merged = re.sub(r'\b' + re.escape(next_reg) + r'\b', val, s2)
+                            merged = re.sub(r'^local\s+', '', merged)
+                            deduped.append(f'{indent}{local_kw}{merged}')
+                            i += 2
+                            continue
+                    if not has_local and '(' not in val and ':' not in val and not val.startswith('r' + str(reg_n) + ' '):
                         i += 1
                         continue
             deduped.append(no_empty[i])
@@ -1646,19 +1893,24 @@ class IB3Decompiler:
                         lhs = ''
                         rhs = s2
                     if re.search(reg_pat, rhs) and not re.search(reg_pat, lhs):
-                        remaining_uses = 0
-                        for j in range(i + 2, min(i + 20, len(moved))):
-                            sj = moved[j].strip()
-                            if re.search(reg_pat, sj):
-                                remaining_uses += 1
-                            if sj.startswith('::') or sj in ('end', 'else') or sj.startswith('for ') or sj.startswith('if '):
-                                break
-                        if remaining_uses == 0:
-                            indent = moved[i + 1][:len(moved[i + 1]) - len(moved[i + 1].lstrip())]
-                            new_rhs = re.sub(reg_pat, val, rhs)
-                            inlined.append(f'{indent}{lhs}{new_rhs}')
-                            i += 2
-                            continue
+                        callee_pat = re.escape(reg) + r'\s*\('
+                        is_non_callable = bool(re.match(r'^(".*"|-?\d+(\.\d+)?|true|false|nil)$', val))
+                        if is_non_callable and re.search(callee_pat, s2):
+                            pass
+                        else:
+                            remaining_uses = 0
+                            for j in range(i + 2, min(i + 20, len(moved))):
+                                sj = moved[j].strip()
+                                if re.search(reg_pat, sj):
+                                    remaining_uses += 1
+                                if sj.startswith('::') or sj in ('end', 'else') or sj.startswith('for ') or sj.startswith('if '):
+                                    break
+                            if remaining_uses == 0:
+                                indent = moved[i + 1][:len(moved[i + 1]) - len(moved[i + 1].lstrip())]
+                                new_rhs = re.sub(reg_pat, val, rhs)
+                                inlined.append(f'{indent}{lhs}{new_rhs}')
+                                i += 2
+                                continue
             inlined.append(moved[i])
             i += 1
 
