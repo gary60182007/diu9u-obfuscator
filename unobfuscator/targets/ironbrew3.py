@@ -1445,7 +1445,17 @@ class IB3Decompiler:
             if result == prev:
                 break
             prev = result
-        result = self._expression_propagation(result)
+        prev = None
+        for _ in range(4):
+            result = self._expression_propagation(result)
+            result = self._call_chain_fusion(result)
+            result = self._multi_use_propagation(result)
+            result = self._dead_init_removal(result)
+            result = self._opaque_predicate_removal(result)
+            result = self._cleanup_pass(result)
+            if result == prev:
+                break
+            prev = result
         result = self._rename_registers(result)
         result = self._ssa_split_registers(result)
         result = self._add_local_declarations(result)
@@ -1456,7 +1466,7 @@ class IB3Decompiler:
         lines = source.split('\n')
         changed = True
         iterations = 0
-        while changed and iterations < 50:
+        while changed and iterations < 80:
             changed = False
             iterations += 1
             i = 0
@@ -1471,22 +1481,30 @@ class IB3Decompiler:
                     continue
                 reg = m.group(1)
                 expr = m.group(2).strip()
-                if '(' in expr or ':' in expr:
+                has_call = '(' in expr or ':' in expr
+                is_const = (expr in ('nil', 'true', 'false', '...')
+                            or bool(re.match(r'^-?\d+(\.\d+)?$', expr))
+                            or expr.startswith('"'))
+                if is_const and not has_call:
                     i += 1
                     continue
-                if expr in ('nil', 'true', 'false', '...') or re.match(r'^-?\d+(\.\d+)?$', expr) or expr.startswith('"'):
-                    i += 1
-                    continue
+                window = 5 if has_call else 30
                 reg_pat = r'\b' + re.escape(reg) + r'\b'
                 expr_regs = set(re.findall(r'\br\d+\b', expr))
                 uses = []
                 safe = True
-                for j in range(i + 1, min(i + 25, len(lines))):
+                intervening_calls = 0
+                for j in range(i + 1, min(i + window, len(lines))):
                     sj = lines[j].strip()
                     if not sj:
                         continue
                     if sj.startswith('::') or sj in ('end', 'else', 'elseif') or sj.startswith('goto '):
                         break
+                    if has_call and ('(' in sj or ':' in sj):
+                        intervening_calls += 1
+                        if intervening_calls > 1:
+                            safe = False
+                            break
                     for ereg in expr_regs:
                         if re.match(r'^(?:local\s+)?' + re.escape(ereg) + r'\s*=', sj):
                             safe = False
@@ -1525,14 +1543,303 @@ class IB3Decompiler:
                             if is_non_callable and re.search(callee_pat, use_s):
                                 pass
                             else:
-                                new_rhs = re.sub(reg_pat, expr, rhs_part)
-                                lines[use_idx] = f'{use_indent}{lhs}{new_rhs}'
-                                lines[i] = ''
-                                changed = True
+                                if has_call and len(expr) > 35 and re.search(r'\b' + re.escape(reg) + r'\s*\.', use_s):
+                                    pass
+                                elif has_call and re.search(r'\b' + re.escape(reg) + r'\s*\[', use_s):
+                                    pass
+                                else:
+                                    inline_expr = expr
+                                    if has_call and re.search(callee_pat, use_s):
+                                        inline_expr = f'({expr})'
+                                    new_rhs = re.sub(reg_pat, inline_expr, rhs_part)
+                                    lines[use_idx] = f'{use_indent}{lhs}{new_rhs}'
+                                    lines[i] = ''
+                                    changed = True
                 i += 1
             if changed:
                 lines = [l for l in lines if l != '']
         return '\n'.join(lines)
+
+    def _call_chain_fusion(self, source: str) -> str:
+        lines = source.split('\n')
+        changed = True
+        while changed:
+            changed = False
+            i = 0
+            while i < len(lines) - 1:
+                s = lines[i].strip()
+                m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s)
+                if not m:
+                    i += 1
+                    continue
+                reg = m.group(1)
+                expr = m.group(2).strip()
+                j = i + 1
+                while j < len(lines) and not lines[j].strip():
+                    j += 1
+                if j >= len(lines):
+                    i += 1
+                    continue
+                nxt = lines[j].strip()
+                nxt_indent = lines[j][:len(lines[j]) - len(lines[j].lstrip())]
+                call_m = re.match(r'^' + re.escape(reg) + r'\((.*)$', nxt)
+                if call_m:
+                    is_non_callable = bool(re.match(r'^(".*"|-?\d+(\.\d+)?|true|false|nil)$', expr))
+                    if not is_non_callable:
+                        if '(' in expr or ':' in expr:
+                            lines[j] = f'{nxt_indent}({expr})({call_m.group(1)}'
+                        else:
+                            lines[j] = f'{nxt_indent}{expr}({call_m.group(1)}'
+                        lines[i] = ''
+                        changed = True
+                        i = j + 1
+                        continue
+                call_m = re.match(r'^' + re.escape(reg) + r':(\w+)\((.*)$', nxt)
+                if call_m:
+                    method = call_m.group(1)
+                    rest = call_m.group(2)
+                    if '(' in expr or ':' in expr:
+                        lines[j] = f'{nxt_indent}({expr}):{method}({rest}'
+                    else:
+                        lines[j] = f'{nxt_indent}{expr}:{method}({rest}'
+                    lines[i] = ''
+                    changed = True
+                    i = j + 1
+                    continue
+                i += 1
+            if changed:
+                lines = [l for l in lines if l != '']
+        return '\n'.join(lines)
+
+    def _multi_use_propagation(self, source: str) -> str:
+        lines = source.split('\n')
+        changed = True
+        iterations = 0
+        while changed and iterations < 20:
+            changed = False
+            iterations += 1
+            i = 0
+            while i < len(lines):
+                s = lines[i].strip()
+                m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(.+)$', s)
+                if not m:
+                    i += 1
+                    continue
+                reg = m.group(1)
+                expr = m.group(2).strip()
+                if expr in ('nil', 'true', 'false', '...'):
+                    i += 1
+                    continue
+                is_simple_field = bool(re.match(r'^[A-Za-z_]\w*(?:\.\w+)*$', expr))
+                is_simple_str = bool(re.match(r'^"\w+"$', expr))
+                if not (is_simple_str or is_simple_field):
+                    i += 1
+                    continue
+                reg_pat = r'\b' + re.escape(reg) + r'\b'
+                uses = []
+                safe = True
+                for j in range(i + 1, min(i + 20, len(lines))):
+                    sj = lines[j].strip()
+                    if not sj:
+                        continue
+                    if sj.startswith('::') or sj in ('end', 'else', 'elseif') or sj.startswith('goto '):
+                        break
+                    m_reassign = re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', sj)
+                    if m_reassign:
+                        rhs = sj[m_reassign.end():]
+                        if not re.search(reg_pat, rhs):
+                            break
+                    if re.search(reg_pat, sj):
+                        uses.append(j)
+                if safe and 1 <= len(uses) <= 5:
+                    all_ok = True
+                    for use_idx in uses:
+                        use_s = lines[use_idx].strip()
+                        callee_pat = re.escape(reg) + r'\s*[(]'
+                        is_non_callable = bool(re.match(r'^(".*"|-?\d+(\.\d+)?|true|false|nil)$', expr))
+                        if is_non_callable and re.search(callee_pat, use_s):
+                            all_ok = False
+                            break
+                        m_lhs = re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', use_s)
+                        if m_lhs:
+                            all_ok = False
+                            break
+                    if all_ok:
+                        for use_idx in reversed(uses):
+                            use_line = lines[use_idx]
+                            use_indent = use_line[:len(use_line) - len(use_line.lstrip())]
+                            use_s = use_line.strip()
+                            eq_pos = use_s.find('=')
+                            is_assign = (eq_pos > 0
+                                         and use_s[eq_pos:eq_pos+2] != '=='
+                                         and use_s[max(0,eq_pos-1):eq_pos+1] not in ('~=', '<=', '>='))
+                            if is_assign:
+                                lhs_part = use_s[:eq_pos+1]
+                                rhs_part = use_s[eq_pos+1:]
+                                new_rhs = re.sub(reg_pat, expr, rhs_part)
+                                lines[use_idx] = f'{use_indent}{lhs_part}{new_rhs}'
+                            else:
+                                new_line = re.sub(reg_pat, expr, use_s)
+                                lines[use_idx] = f'{use_indent}{new_line}'
+                        lines[i] = ''
+                        changed = True
+                i += 1
+            if changed:
+                lines = [l for l in lines if l != '']
+        return '\n'.join(lines)
+
+    def _opaque_predicate_removal(self, source: str) -> str:
+        lines = source.split('\n')
+
+        def _find_const(reg, start):
+            for k in range(start - 1, max(start - 20, -1), -1):
+                sk = lines[k].strip()
+                if sk.startswith('local function ') or sk == 'end':
+                    return None
+                m = re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=\s*(-?\d+(?:\.\d+)?)\s*$', sk)
+                if m:
+                    return m.group(1)
+                if re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', sk):
+                    return None
+            return None
+
+        for i, line in enumerate(lines):
+            s = line.strip()
+            m = re.match(r'^if\s+(r\d+)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                val = _find_const(m.group(1), i)
+                if val is not None:
+                    indent = line[:len(line) - len(line.lstrip())]
+                    lines[i] = f'{indent}goto {m.group(2)}'
+                    continue
+            m = re.match(r'^if\s+not\s+(r\d+)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                val = _find_const(m.group(1), i)
+                if val is not None:
+                    lines[i] = ''
+                    continue
+            m = re.match(r'^if\s+(r\d+)\s*([=~<>]+)\s*(r\d+)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                va = _find_const(m.group(1), i)
+                vb = _find_const(m.group(3), i)
+                if va is not None and vb is not None:
+                    try:
+                        a, b, op = float(va), float(vb), m.group(2)
+                        result_val = None
+                        if op == '==': result_val = (a == b)
+                        elif op == '~=': result_val = (a != b)
+                        elif op == '<': result_val = (a < b)
+                        elif op == '>': result_val = (a > b)
+                        elif op == '<=': result_val = (a <= b)
+                        elif op == '>=': result_val = (a >= b)
+                        if result_val is True:
+                            indent = line[:len(line) - len(line.lstrip())]
+                            lines[i] = f'{indent}goto {m.group(4)}'
+                        elif result_val is False:
+                            lines[i] = ''
+                    except ValueError:
+                        pass
+        lines = [l for l in lines if l != '']
+        result = []
+        i = 0
+        while i < len(lines):
+            s = lines[i].strip()
+            m = re.match(r'^if\s+(-?\d+(?:\.\d+)?)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                i += 1
+                continue
+            m = re.match(r'^if\s+not\s+(-?\d+(?:\.\d+)?)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                indent = lines[i][:len(lines[i]) - len(lines[i].lstrip())]
+                result.append(f'{indent}goto {m.group(2)}')
+                i += 1
+                continue
+            m = re.match(r'^if\s+"[^"]*"\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                i += 1
+                continue
+            m = re.match(r'^if\s+(-?\d+(?:\.\d+)?)\s*([=~<>]+)\s*(-?\d+(?:\.\d+)?)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                try:
+                    a, op, b = float(m.group(1)), m.group(2), float(m.group(3))
+                    always_true = False
+                    always_false = False
+                    if op == '==' and a == b:
+                        always_true = True
+                    elif op == '==' and a != b:
+                        always_false = True
+                    elif op == '~=' and a != b:
+                        always_true = True
+                    elif op == '~=' and a == b:
+                        always_false = True
+                    elif op == '<' and a < b:
+                        always_true = True
+                    elif op == '<' and a >= b:
+                        always_false = True
+                    elif op == '>' and a > b:
+                        always_true = True
+                    elif op == '>' and a >= b:
+                        always_false = True
+                    elif op == '<=' and a <= b:
+                        always_true = True
+                    elif op == '<=' and a > b:
+                        always_false = True
+                    elif op == '>=' and a >= b:
+                        always_true = True
+                    elif op == '>=' and a < b:
+                        always_false = True
+                    if always_false:
+                        i += 1
+                        continue
+                    elif always_true:
+                        indent = lines[i][:len(lines[i]) - len(lines[i].lstrip())]
+                        result.append(f'{indent}goto {m.group(4)}')
+                        i += 1
+                        continue
+                except ValueError:
+                    pass
+            result.append(lines[i])
+            i += 1
+        return '\n'.join(result)
+
+    def _dead_init_removal(self, source: str) -> str:
+        lines = source.split('\n')
+        result = []
+        for i, line in enumerate(lines):
+            s = line.strip()
+            m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*nil\s*$', s)
+            if m:
+                reg = m.group(1)
+                for j in range(i + 1, min(i + 5, len(lines))):
+                    nj = lines[j].strip()
+                    if not nj:
+                        continue
+                    if re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=\s*', nj):
+                        line = ''
+                        break
+                    if re.search(r'\b' + re.escape(reg) + r'\b', nj):
+                        break
+                    break
+            if not line:
+                continue
+            m = re.match(r'^(?:local\s+)?(r\d+)\s*=\s*(-?\d+(?:\.\d+)?|"[^"]*")\s*$', s)
+            if m:
+                reg = m.group(1)
+                reg_pat = r'\b' + re.escape(reg) + r'\b'
+                used = False
+                for j in range(i + 1, min(i + 30, len(lines))):
+                    nj = lines[j].strip()
+                    if nj.startswith('local function ') or nj == 'end':
+                        break
+                    if re.match(r'^(?:local\s+)?' + re.escape(reg) + r'\s*=', nj):
+                        break
+                    if re.search(reg_pat, nj):
+                        used = True
+                        break
+                if not used:
+                    continue
+            result.append(line)
+        return '\n'.join(result)
 
     _SKIP_FIELD_NAMES = {
         'GetService', 'FindFirstChild', 'WaitForChild', 'Clone', 'Destroy',
@@ -1593,19 +1900,21 @@ class IB3Decompiler:
                 exprs = reg_assigns[reg]
                 if len(exprs) == 1:
                     name = self._derive_var_name(exprs[0])
-                elif len(exprs) <= 4:
-                    derived = []
+                else:
+                    from collections import Counter
+                    derived = Counter()
                     for expr in exprs:
                         n = self._derive_var_name(expr)
                         if n:
-                            derived.append(n)
-                    unique = set(derived)
-                    if len(unique) == 1 and len(derived) >= len(exprs) // 2:
-                        name = unique.pop()
+                            derived[n] += 1
+                    if derived:
+                        best_name, best_count = derived.most_common(1)[0]
+                        if best_count >= max(1, (len(exprs) + 2) // 3):
+                            name = best_name
+                        else:
+                            name = None
                     else:
                         name = None
-                else:
-                    name = None
                 if not name:
                     continue
                 if name in used_names or name in ('game', 'end', 'do', 'then', 'else',
