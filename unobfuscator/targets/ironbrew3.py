@@ -2730,13 +2730,27 @@ class IB3Decompiler:
 
         remove_lines = set()
 
+        def _is_side_effect_free(val):
+            if val in ('nil', 'true', 'false'):
+                return True
+            if re.match(r'^[\d.]+$', val):
+                return True
+            if re.match(r'^"[^"]*"$', val):
+                return True
+            if re.match(r'^[\w.]+$', val) and '(' not in val and ':' not in val:
+                return True
+            return False
+
         for fstart, fend in funcs:
             for k in range(fstart + 1, fend):
                 s = lines[k].strip()
-                m = re.match(r'^local\s+(\w+)\s*=\s*nil\s*$', s)
+                m = re.match(r'^local\s+(\w+)\s*=\s*(.+)$', s)
                 if not m:
                     continue
                 var = m.group(1)
+                val = m.group(2).strip()
+                if not _is_side_effect_free(val):
+                    continue
                 used = False
                 inner_depth = 0
                 for q in range(k + 1, fend):
