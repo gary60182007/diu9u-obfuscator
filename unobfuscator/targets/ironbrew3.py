@@ -1461,6 +1461,7 @@ class IB3Decompiler:
         result = self._rename_remaining_registers(result)
         result = self._add_local_declarations(result)
         result = self._rename_functions(result)
+        result = self._goto_to_structured(result)
         return result
 
     def _expression_propagation(self, source: str) -> str:
@@ -2121,6 +2122,252 @@ class IB3Decompiler:
                 pat = r'\b' + re.escape(reg) + r'\b'
                 for j in range(func_start, func_end + 1):
                     result[j] = re.sub(pat, name, result[j])
+        return '\n'.join(result)
+
+    @staticmethod
+    def _negate_condition(cond):
+        cond = cond.strip()
+        if cond.startswith('not '):
+            inner = cond[4:].strip()
+            if inner.startswith('(') and inner.endswith(')'):
+                return inner[1:-1]
+            return inner
+        m = re.match(r'^(.+?)\s*(==|~=|<|>|<=|>=)\s*(.+)$', cond)
+        if m:
+            lhs, op, rhs = m.group(1), m.group(2), m.group(3)
+            neg = {'==': '~=', '~=': '==', '<': '>=', '>': '<=', '<=': '>', '>=': '<'}
+            return f'{lhs} {neg[op]} {rhs}'
+        return f'not {cond}'
+
+    def _goto_to_structured(self, source: str) -> str:
+        lines = source.split('\n')
+
+        for _iteration in range(200):
+            changed = False
+
+            func_ranges = self._find_func_ranges(lines)
+
+            def _scope_of(idx):
+                best = None
+                for fs, fe in func_ranges:
+                    if fs <= idx <= fe:
+                        if best is None or (fe - fs) < (best[1] - best[0]):
+                            best = (fs, fe)
+                return best
+
+            all_labels = []
+            for i, l in enumerate(lines):
+                m = re.match(r'^\s*::(\w+)::\s*$', l)
+                if m:
+                    all_labels.append((i, m.group(1)))
+
+            def _find_label(goto_line, label_name):
+                scope = _scope_of(goto_line)
+                for li, ln in all_labels:
+                    if ln != label_name:
+                        continue
+                    ls = _scope_of(li)
+                    if scope == ls:
+                        return li
+                return None
+
+            gotos = []
+            for i, l in enumerate(lines):
+                s = l.strip()
+                m = re.match(r'^goto\s+(\w+)$', s)
+                if m:
+                    lbl = _find_label(i, m.group(1))
+                    if lbl is not None:
+                        gotos.append((i, 'uncond', m.group(1), None, lbl))
+                    continue
+                m = re.match(r'^if\s+(.+)\s+then\s+goto\s+(\w+)\s+end$', s)
+                if m:
+                    lbl = _find_label(i, m.group(2))
+                    if lbl is not None:
+                        gotos.append((i, 'cond', m.group(2), m.group(1), lbl))
+
+            best_loop = None
+            best_span = float('inf')
+            for goto_idx, gtype, target, cond, lbl in gotos:
+                if gtype != 'uncond':
+                    continue
+                if lbl < goto_idx:
+                    span = goto_idx - lbl
+                    if span < best_span:
+                        best_span = span
+                        best_loop = (lbl, goto_idx, target)
+
+            if best_loop:
+                lbl_line, goto_line, target = best_loop
+                indent = lines[lbl_line][:len(lines[lbl_line]) - len(lines[lbl_line].lstrip())]
+                other_refs = sum(1 for gi, gt, tgt, cd, lb in gotos if tgt == target and gi != goto_line and lb == lbl_line)
+
+                new_lines = lines[:lbl_line]
+                if other_refs > 0:
+                    new_lines.append(lines[lbl_line])
+                new_lines.append(f'{indent}while true do')
+                for j in range(lbl_line + 1, goto_line):
+                    if lines[j].strip():
+                        new_lines.append(f'  {lines[j]}')
+                    else:
+                        new_lines.append(lines[j])
+                new_lines.append(f'{indent}end')
+                new_lines.extend(lines[goto_line + 1:])
+                lines = new_lines
+                changed = True
+
+            if not changed:
+                block_stack = []
+                while_ranges = []
+                for i, l in enumerate(lines):
+                    s = l.strip()
+                    if s == 'while true do':
+                        block_stack.append(('while', i))
+                    elif s.startswith('if ') and s.endswith(' then') and 'goto' not in s:
+                        block_stack.append(('if', i))
+                    elif re.match(r'^for\s+.+\s+do$', s):
+                        block_stack.append(('for', i))
+                    elif s.startswith('local function ') or (s.startswith('function ') and s.endswith(')')):
+                        block_stack.append(('func', i))
+                    elif s == 'end' and block_stack:
+                        tag, start = block_stack.pop()
+                        if tag == 'while':
+                            while_ranges.append((start, i))
+
+                for wr_start, wr_end in while_ranges:
+                    loop_label = None
+                    for k in range(wr_start - 1, max(wr_start - 3, -1), -1):
+                        m = re.match(r'^\s*::(\w+)::\s*$', lines[k])
+                        if m:
+                            loop_label = m.group(1)
+                            break
+                        if lines[k].strip():
+                            break
+
+                    end_label = None
+                    for k in range(wr_end + 1, min(wr_end + 3, len(lines))):
+                        m = re.match(r'^\s*::(\w+)::\s*$', lines[k])
+                        if m:
+                            end_label = m.group(1)
+                            break
+                        if lines[k].strip():
+                            break
+
+                    inner_loops = set()
+                    stk = []
+                    for k in range(wr_start + 1, wr_end):
+                        s = lines[k].strip()
+                        if s == 'while true do' or re.match(r'^for\s+.+\s+do$', s):
+                            stk.append(k)
+                        elif s == 'end' and stk:
+                            inner_start = stk.pop()
+                            for q in range(inner_start, k + 1):
+                                inner_loops.add(q)
+
+                    for k in range(wr_start + 1, wr_end):
+                        if k in inner_loops:
+                            continue
+                        s = lines[k].strip()
+                        if end_label:
+                            m = re.match(r'^goto\s+(\w+)$', s)
+                            if m and m.group(1) == end_label:
+                                indent_k = lines[k][:len(lines[k]) - len(lines[k].lstrip())]
+                                lines[k] = f'{indent_k}break'
+                                changed = True
+                                continue
+                            m = re.match(r'^if\s+(.+)\s+then\s+goto\s+(\w+)\s+end$', s)
+                            if m and m.group(2) == end_label:
+                                indent_k = lines[k][:len(lines[k]) - len(lines[k].lstrip())]
+                                lines[k] = f'{indent_k}if {m.group(1)} then break end'
+                                changed = True
+                                continue
+                        if loop_label:
+                            m = re.match(r'^if\s+(.+)\s+then\s+goto\s+(\w+)\s+end$', s)
+                            if m and m.group(2) == loop_label:
+                                indent_k = lines[k][:len(lines[k]) - len(lines[k].lstrip())]
+                                lines[k] = f'{indent_k}if {m.group(1)} then continue end'
+                                changed = True
+                                continue
+                            m2 = re.match(r'^goto\s+(\w+)$', s)
+                            if m2 and m2.group(1) == loop_label:
+                                indent_k = lines[k][:len(lines[k]) - len(lines[k].lstrip())]
+                                lines[k] = f'{indent_k}continue'
+                                changed = True
+                                continue
+
+            if not changed:
+                fwd_conds = [(goto_idx, gtype, target, cond, lbl)
+                             for goto_idx, gtype, target, cond, lbl in gotos
+                             if gtype == 'cond' and lbl > goto_idx]
+                fwd_conds.sort(key=lambda x: x[4] - x[0])
+
+                for goto_idx, gtype, target, cond, lbl in fwd_conds:
+                    same_scope_refs = sum(1 for gi, gt, tgt, cd, lb in gotos if lb == lbl and gi != goto_idx)
+                    range_has_same_target = any(gi != goto_idx and lb == lbl and goto_idx < gi < lbl
+                                                for gi, gt, tgt, cd, lb in gotos)
+                    if range_has_same_target:
+                        continue
+
+                    has_external = False
+                    for j in range(goto_idx + 1, lbl):
+                        m2 = re.match(r'^\s*::(\w+)::\s*$', lines[j])
+                        if m2:
+                            inner_lbl = m2.group(1)
+                            for gi, gt, tgt, cd, lb in gotos:
+                                if tgt == inner_lbl and (gi < goto_idx or gi > lbl):
+                                    has_external = True
+                                    break
+                        if has_external:
+                            break
+                    if has_external:
+                        continue
+
+                    indent = lines[goto_idx][:len(lines[goto_idx]) - len(lines[goto_idx].lstrip())]
+                    neg = self._negate_condition(cond)
+                    new_lines = lines[:goto_idx]
+                    new_lines.append(f'{indent}if {neg} then')
+                    for j in range(goto_idx + 1, lbl):
+                        if lines[j].strip():
+                            new_lines.append(f'  {lines[j]}')
+                        else:
+                            new_lines.append(lines[j])
+                    new_lines.append(f'{indent}end')
+                    if same_scope_refs > 0:
+                        new_lines.append(lines[lbl])
+                    new_lines.extend(lines[lbl + 1:])
+                    lines = new_lines
+                    changed = True
+                    break
+
+            if not changed:
+                for goto_idx, gtype, target, cond, lbl in gotos:
+                    if gtype != 'uncond' or lbl <= goto_idx:
+                        continue
+                    if lbl - goto_idx <= 5:
+                        same_refs = sum(1 for gi, gt, tgt, cd, lb in gotos if lb == lbl and gi != goto_idx)
+                        if same_refs == 0:
+                            indent = lines[goto_idx][:len(lines[goto_idx]) - len(lines[goto_idx].lstrip())]
+                            new_lines = lines[:goto_idx]
+                            for j in range(goto_idx + 1, lbl):
+                                new_lines.append(lines[j])
+                            new_lines.extend(lines[lbl + 1:])
+                            lines = new_lines
+                            changed = True
+                            break
+
+            if not changed:
+                break
+
+        used_labels = set()
+        for l in lines:
+            for m in re.finditer(r'\bgoto\s+(\w+)', l):
+                used_labels.add(m.group(1))
+        result = []
+        for l in lines:
+            m = re.match(r'^\s*::(\w+)::\s*$', l)
+            if m and m.group(1) not in used_labels:
+                continue
+            result.append(l)
         return '\n'.join(result)
 
     def _rename_functions(self, source: str) -> str:
