@@ -2358,6 +2358,102 @@ class IB3Decompiler:
             if not changed:
                 break
 
+        label_pos = {}
+        for i, l in enumerate(lines):
+            m = re.match(r'^\s*::(\w+)::\s*$', l)
+            if m:
+                label_pos[m.group(1)] = i
+
+        for i in range(len(lines)):
+            s = lines[i].strip()
+            target = None
+            cond = None
+            m = re.match(r'^goto\s+(\w+)$', s)
+            if m:
+                target = m.group(1)
+            m = re.match(r'^if\s+(.+)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                target = m.group(2)
+                cond = m.group(1)
+            if target is None or target not in label_pos:
+                continue
+            lbl = label_pos[target]
+            if lbl <= i:
+                continue
+            only_ends = True
+            for k in range(lbl + 1, min(lbl + 10, len(lines))):
+                sk = lines[k].strip()
+                if not sk:
+                    continue
+                if sk == 'end':
+                    continue
+                if sk.startswith('local function ') or sk.startswith('function '):
+                    break
+                only_ends = False
+                break
+            if only_ends:
+                indent = lines[i][:len(lines[i]) - len(lines[i].lstrip())]
+                if cond:
+                    lines[i] = f'{indent}if {cond} then return end'
+                else:
+                    lines[i] = f'{indent}return'
+
+        for i in range(len(lines)):
+            s = lines[i].strip()
+            target = None
+            cond = None
+            m = re.match(r'^if\s+(.+)\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m:
+                target = m.group(2)
+                cond = m.group(1)
+            if target is None or target not in label_pos:
+                continue
+            lbl = label_pos[target]
+            if lbl <= i:
+                continue
+            same_target = [j for j in range(len(lines)) if j != i and
+                           re.search(r'\bgoto\s+' + re.escape(target) + r'\b', lines[j])]
+            if same_target:
+                continue
+            ends_between = 0
+            for k in range(i + 1, lbl):
+                if lines[k].strip() == 'end':
+                    ends_between += 1
+            if ends_between == 0:
+                continue
+            indent = lines[i][:len(lines[i]) - len(lines[i].lstrip())]
+            lines[i] = f'{indent}if {cond} then'
+            skip_lines = []
+            for k in range(i + 1, lbl):
+                sk = lines[k].strip()
+                if sk == 'end':
+                    ends_between -= 1
+                    if ends_between == 0:
+                        skip_lines.append(k)
+                        break
+                skip_lines.append(k)
+            for k in skip_lines:
+                if lines[k].strip():
+                    lines[k] = '  ' + lines[k]
+
+        existing_labels = set()
+        for l in lines:
+            m = re.match(r'^\s*::(\w+)::\s*$', l)
+            if m:
+                existing_labels.add(m.group(1))
+
+        cleaned = []
+        for l in lines:
+            s = l.strip()
+            m = re.match(r'^goto\s+(\w+)$', s)
+            if m and m.group(1) not in existing_labels:
+                continue
+            m = re.match(r'^if\s+.+\s+then\s+goto\s+(\w+)\s+end$', s)
+            if m and m.group(1) not in existing_labels:
+                continue
+            cleaned.append(l)
+        lines = cleaned
+
         used_labels = set()
         for l in lines:
             for m in re.finditer(r'\bgoto\s+(\w+)', l):
