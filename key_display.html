@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Key</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a0f;color:#fff;font-family:'Segoe UI',sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh}
+.card{background:#14141e;border:2px solid #6432e6;border-radius:16px;padding:40px;text-align:center;max-width:400px;width:90%}
+h1{font-size:18px;color:#aaa;margin-bottom:8px}
+.key{font-size:42px;font-weight:bold;color:#6432e6;letter-spacing:6px;margin:20px 0;font-family:'Courier New',monospace;user-select:all}
+.copy-btn{background:#6432e6;color:#fff;border:none;padding:12px 32px;border-radius:8px;font-size:16px;cursor:pointer;font-weight:bold;transition:background 0.2s}
+.copy-btn:hover{background:#7a4af0}
+.copy-btn:active{background:#5228c0}
+.info{color:#666;font-size:12px;margin-top:16px}
+.timer{color:#888;font-size:14px;margin-top:12px}
+.discord{display:inline-block;background:#5865f2;color:#fff;text-decoration:none;padding:10px 24px;border-radius:8px;font-size:14px;font-weight:bold;margin-top:16px;transition:background 0.2s}
+.discord:hover{background:#6875f5}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Today's Key</h1>
+<div class="key" id="key">--------</div>
+<button class="copy-btn" onclick="copyKey()">Copy Key</button>
+<div class="timer" id="timer"></div>
+<div class="info">Key resets every 24 hours (UTC)</div>
+<a class="discord" href="https://discord.gg/W5fnGDPn4p" target="_blank">Join Discord</a>
+</div>
+<script>
+const SECRET = 597139;
+function getDailyKey(offsetDays) {
+    const dayNum = Math.floor(Date.now() / 86400000) + (offsetDays || 0);
+    let hash = dayNum * SECRET;
+    hash = ((hash % 99999999) + 99999999) % 99999999;
+    return String(hash).padStart(8, '0');
+}
+function updateTimer() {
+    const now = new Date();
+    const tomorrow = new Date(now);
+    tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
+    tomorrow.setUTCHours(0, 0, 0, 0);
+    const diff = tomorrow - now;
+    const h = Math.floor(diff / 3600000);
+    const m = Math.floor((diff % 3600000) / 60000);
+    const s = Math.floor((diff % 60000) / 1000);
+    document.getElementById('timer').textContent =
+        'Resets in ' + h + 'h ' + m + 'm ' + s + 's';
+}
+function copyKey() {
+    const key = document.getElementById('key').textContent;
+    navigator.clipboard.writeText(key).then(() => {
+        const btn = document.querySelector('.copy-btn');
+        btn.textContent = 'Copied!';
+        setTimeout(() => btn.textContent = 'Copy Key', 1500);
+    });
+}
+document.getElementById('key').textContent = getDailyKey(0);
+updateTimer();
+setInterval(updateTimer, 1000);
+setInterval(() => {
+    document.getElementById('key').textContent = getDailyKey(0);
+}, 60000);
+</script>
+</body>
+</html>

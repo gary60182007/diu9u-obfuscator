@@ -362,6 +362,9 @@ class IB3OpcodeClassifier:
         expr = expr.strip()
         if re.match(r'^\d+$', expr):
             return int(expr)
+        result = self._try_eval_opaque(expr)
+        if result is not None:
+            return result
         m = re.search(r'and\s*\(?(\d+)', expr)
         if m:
             return int(m.group(1))
@@ -375,6 +378,35 @@ class IB3OpcodeClassifier:
         m = re.search(r'(\d+)\*[A-Za-z]\(', expr)
         if m:
             return int(m.group(1))
+        return None
+
+    def _try_eval_opaque(self, expr: str) -> Optional[int]:
+        s = expr
+        s = re.sub(r"V\([^)]*\)==['\"][^'\"]*['\"]", 'true', s)
+        s = re.sub(r"V\(function\(\)end\)==['\"][^'\"]*['\"]", 'true', s)
+        s = re.sub(r'\bnot\s+not\s+true\b', 'true', s)
+        s = re.sub(r"a\('[^']*',\d+,\d+\)==['\"][^'\"]*['\"]", 'true', s)
+        s = re.sub(r'\(-?\d+\)\^2==\d+', 'true', s)
+        s = re.sub(r'-?\d+\^2==\d+', 'true', s)
+        for _ in range(5):
+            s = re.sub(r'true\s+and\s+(\d+)\s+or\s+\d+', r'\1', s)
+            s = re.sub(r'\(true\)\s*and\s*(\d+)\s+or\s+\d+', r'\1', s)
+            s = re.sub(r'\(true\)\s*and\s*\((\d+)\)\s*or\s*\d+', r'\1', s)
+        s = re.sub(r'#\{\}', '0', s)
+        s = re.sub(r"#'([^']*)'", lambda m: str(len(m.group(1))), s)
+        s = re.sub(r'[A-Za-z_]\w*\([^)]*\)', '0', s)
+        s = re.sub(r'\b[A-Za-z_]\w*\b', '0', s)
+        s = s.replace('^', '**')
+        s = re.sub(r'[^0-9+\-*/(). ]', '', s)
+        s = s.strip()
+        if not s or not re.match(r'^[\d+\-*/(). ]+$', s):
+            return None
+        try:
+            result = eval(s)
+            if isinstance(result, (int, float)) and result >= 0 and result == int(result) and result < 10000:
+                return int(result)
+        except:
+            pass
         return None
 
     def _classify_from_dispatch_text(self, source: str):
@@ -425,12 +457,15 @@ class IB3OpcodeClassifier:
         for pattern, op_name in handler_patterns:
             for pm in re.finditer(re.escape(pattern), vm_code):
                 wh_val = self._find_near_wh_eq(vm_code, pm.start())
+                if wh_val is None:
+                    wh_val = self._find_implicit_wh(vm_code, pm.start())
                 if wh_val is not None and wh_val not in self.opcode_map:
                     self.opcode_map[wh_val] = op_name
                     self.confidence[wh_val] = 0.8
 
         self._find_call_handlers(vm_code)
         self._find_closure_handler(vm_code)
+        self._find_getupval_mh_handler(vm_code)
         self._find_test_handlers(vm_code)
         self._find_move_handler(vm_code)
         self._find_concat_handler(vm_code)
@@ -507,23 +542,113 @@ class IB3OpcodeClassifier:
                         best = val
         return best
 
+    @staticmethod
+    def _extract_balanced(text: str, start: int) -> Optional[str]:
+        if start >= len(text) or text[start] != '(':
+            return None
+        depth = 0
+        for i in range(start, min(start + 200, len(text))):
+            if text[i] == '(':
+                depth += 1
+            elif text[i] == ')':
+                depth -= 1
+                if depth == 0:
+                    return text[start + 1:i]
+        return None
+
+    def _find_wh_comparisons_in(self, text: str):
+        results = []
+        for m in re.finditer(r'Wh\s*([><=!~]+)\s*', text):
+            op = m.group(1)
+            after = text[m.end():]
+            num_m = re.match(r'(\d+)', after)
+            if num_m:
+                expr = num_m.group(1)
+                end_pos = m.end() + num_m.end()
+            elif after and after[0] == '(':
+                expr = self._extract_balanced(text, m.end())
+                if expr is None:
+                    continue
+                end_pos = m.end() + len(expr) + 2
+            else:
+                continue
+            v = self._resolve_opaque(expr)
+            if v is not None:
+                results.append((m.start(), end_pos, op, v))
+        return results
+
+    def _find_implicit_wh(self, vm_code: str, pattern_pos: int) -> Optional[int]:
+        best = None
+        best_dist = 300
+        search_start = max(0, pattern_pos - 250)
+        search_back = vm_code[search_start:pattern_pos]
+
+        for pat in [r'Wh==\s*\(([^)]*?)\)', r'Wh==\s*(\d+)', r'Wh==\s*\(\(([^)]*?)\)\)']:
+            for m in re.finditer(pat, vm_code[:pattern_pos + 5]):
+                v = self._resolve_opaque(m.group(1))
+                if v is not None:
+                    dist = pattern_pos - m.end()
+                    if 0 < dist < best_dist:
+                        best_dist = dist
+                        best = v
+
+        for start_pos, end_pos, op, v in self._find_wh_comparisons_in(search_back):
+            between = search_back[end_pos:]
+            dist = len(search_back) - end_pos
+            if op == '==' and dist < best_dist:
+                best_dist = dist
+                best = v
+            elif op in ('>', '>='):
+                if 'else' in between:
+                    if dist < best_dist:
+                        best_dist = dist
+                        best = v
+                elif 'then' in between:
+                    after_then = between[between.find('then') + 4:]
+                    if 'Wh' not in after_then and 'else' not in after_then:
+                        if dist < best_dist:
+                            best_dist = dist
+                            best = v + 1
+            elif op == '<':
+                if 'else' in between:
+                    if dist < best_dist:
+                        best_dist = dist
+                        best = v
+                elif 'then' in between:
+                    after_then = between[between.find('then') + 4:]
+                    if 'Wh' not in after_then and 'else' not in after_then:
+                        if dist < best_dist:
+                            best_dist = dist
+                            best = v - 1
+            elif op == '<=' and dist < best_dist:
+                best_dist = dist
+                best = v
+        return best
+
     def _find_all_wh_comparisons(self, vm_code: str):
         results = []
-        wh_patterns = [
-            (r'Wh([<>=!~]+)\s*\(([^)]*?)\)\s*then', 2),
-            (r'Wh([<>=!~]+)\s*(\d+)\s*then', 2),
-            (r'Wh==\s*\(\(([^)]*?)\)\)\s*then', 1),
-        ]
-        for pat, grp in wh_patterns:
-            for m in re.finditer(pat, vm_code):
-                if grp == 1:
-                    op = '=='
-                    val = self._resolve_opaque(m.group(1))
-                else:
-                    op = m.group(1)
-                    val = self._resolve_opaque(m.group(2))
-                if val is not None:
-                    results.append((m.start(), m.end(), op, val))
+        for m in re.finditer(r'Wh\s*([><=!~]+)\s*', vm_code):
+            op = m.group(1)
+            after = vm_code[m.end():]
+            num_m = re.match(r'(\d+)', after)
+            if num_m:
+                expr = num_m.group(1)
+                end_pos = m.end() + num_m.end()
+            elif after and after[0] == '(':
+                expr = self._extract_balanced(vm_code, m.end())
+                if expr is None:
+                    continue
+                end_pos = m.end() + len(expr) + 2
+            else:
+                continue
+            rest = vm_code[end_pos:end_pos + 10]
+            if not re.match(r'\s*then', rest):
+                continue
+            then_m = re.match(r'\s*then', rest)
+            end_pos += then_m.end()
+            v = self._resolve_opaque(expr)
+            if v is not None:
+                results.append((m.start(), end_pos, op, v))
         results.sort(key=lambda x: x[0])
         seen = set()
         deduped = []
@@ -573,38 +698,48 @@ class IB3OpcodeClassifier:
 
     def _find_concat_handler(self, vm_code: str):
         for m in re.finditer(r'Ih\[Ah\]=Ih\[Qh\]\.\.Ih\[', vm_code):
-            wh_val = self._find_near_wh_eq(vm_code, m.start())
-            if wh_val and wh_val not in self.opcode_map:
-                self.opcode_map[wh_val] = 'CONCAT'
-                self.confidence[wh_val] = 0.9
+            wh_val = self._find_implicit_wh(vm_code, m.start())
+            if wh_val is not None:
+                existing_conf = self.confidence.get(wh_val, 0)
+                if wh_val not in self.opcode_map or existing_conf < 0.9:
+                    self.opcode_map[wh_val] = 'CONCAT'
+                    self.confidence[wh_val] = 0.9
 
     def _find_gettable_handlers(self, vm_code: str):
         for m in re.finditer(r'Ih\[Ah\]=Ih\[Qh\]\[Ih\[Vh\]\]', vm_code):
-            wh_val = self._find_near_wh_eq(vm_code, m.start())
-            if wh_val and wh_val not in self.opcode_map:
-                self.opcode_map[wh_val] = 'GETTABLE'
-                self.confidence[wh_val] = 0.9
+            wh_val = self._find_implicit_wh(vm_code, m.start())
+            if wh_val is not None:
+                existing_conf = self.confidence.get(wh_val, 0)
+                if wh_val not in self.opcode_map or existing_conf < 0.9:
+                    self.opcode_map[wh_val] = 'GETTABLE'
+                    self.confidence[wh_val] = 0.9
 
         for m in re.finditer(r'Ih\[Ah\]=Ih\[Qh\]\[Hh\[fh\[', vm_code):
-            wh_val = self._find_near_wh_eq(vm_code, m.start())
-            if wh_val and wh_val not in self.opcode_map:
-                self.opcode_map[wh_val] = 'GETTABLE'
-                self.confidence[wh_val] = 0.85
+            wh_val = self._find_implicit_wh(vm_code, m.start())
+            if wh_val is not None:
+                existing_conf = self.confidence.get(wh_val, 0)
+                if wh_val not in self.opcode_map or existing_conf < 0.85:
+                    self.opcode_map[wh_val] = 'GETTABLE'
+                    self.confidence[wh_val] = 0.85
 
     def _find_settable_handlers(self, vm_code: str):
         for m in re.finditer(r'Ih\[Qh\]\[Ih\[Vh\]\]=Ih\[Ah\]', vm_code):
-            wh_val = self._find_near_wh_eq(vm_code, m.start())
-            if wh_val and wh_val not in self.opcode_map:
-                self.opcode_map[wh_val] = 'SETTABLE'
-                self.confidence[wh_val] = 0.9
+            wh_val = self._find_implicit_wh(vm_code, m.start())
+            if wh_val is not None:
+                existing_conf = self.confidence.get(wh_val, 0)
+                if wh_val not in self.opcode_map or existing_conf < 0.92:
+                    self.opcode_map[wh_val] = 'SETTABLE'
+                    self.confidence[wh_val] = 0.92
 
         for m in re.finditer(r'Ih\[Qh\]\[Hh\[fh\[', vm_code):
             ctx = vm_code[m.start():m.start()+100]
             if ']=Ih[Ah]' in ctx:
-                wh_val = self._find_near_wh_eq(vm_code, m.start())
-                if wh_val and wh_val not in self.opcode_map:
-                    self.opcode_map[wh_val] = 'SETTABLE'
-                    self.confidence[wh_val] = 0.85
+                wh_val = self._find_implicit_wh(vm_code, m.start())
+                if wh_val is not None:
+                    existing_conf = self.confidence.get(wh_val, 0)
+                    if wh_val not in self.opcode_map or existing_conf < 0.92:
+                        self.opcode_map[wh_val] = 'SETTABLE'
+                        self.confidence[wh_val] = 0.92
 
     def _find_self_handler(self, vm_code: str):
         for m in re.finditer(r'Ih\[Ah\+1\]=Ih\[Qh\]', vm_code):
@@ -619,10 +754,23 @@ class IB3OpcodeClassifier:
         for m in re.finditer(r'c\[5\]\[zh\]', vm_code):
             ctx = vm_code[m.start():m.start()+300]
             if 'Ph(' in ctx:
-                wh_val = self._find_near_wh_eq(vm_code, m.start())
-                if wh_val is not None and wh_val not in self.opcode_map:
-                    self.opcode_map[wh_val] = 'CLOSURE'
-                    self.confidence[wh_val] = 0.95
+                wh_val = self._find_implicit_wh(vm_code, m.start())
+                if wh_val is not None:
+                    existing_conf = self.confidence.get(wh_val, 0)
+                    if wh_val not in self.opcode_map or existing_conf < 0.95:
+                        self.opcode_map[wh_val] = 'CLOSURE'
+                        self.confidence[wh_val] = 0.95
+
+    def _find_getupval_mh_handler(self, vm_code: str):
+        for m in re.finditer(r'mh\[Qh\]', vm_code):
+            ctx = vm_code[m.start():m.start()+80]
+            if '[39]' in ctx and '[37]' in ctx and 'Ih[Ah]=' in vm_code[max(0,m.start()-20):m.start()+80]:
+                wh_val = self._find_implicit_wh(vm_code, m.start())
+                if wh_val is not None:
+                    existing_conf = self.confidence.get(wh_val, 0)
+                    if wh_val not in self.opcode_map or existing_conf < 0.90:
+                        self.opcode_map[wh_val] = 'GETUPVAL'
+                        self.confidence[wh_val] = 0.90
 
     def _find_forloop_handler(self, vm_code: str):
         for m in re.finditer(r'Ih\[Ah\+2\]=Ih\[Ah\+3\]', vm_code):
@@ -878,17 +1026,22 @@ class IB3OpcodeClassifier:
 
 class _DecompCtx:
     __slots__ = ('instructions', 'jump_targets', 'skip_labels', 'if_block_ends',
-                 'forloop_ranges', 'declared_regs', 'proto', 'n_inst')
+                 'forloop_ranges', 'tforloop_ranges', 'closure_skip',
+                 'declared_regs', 'proto', 'n_inst', 'proto_index')
     def __init__(self, instructions, jump_targets, skip_labels, if_block_ends,
-                 forloop_ranges, declared_regs, proto, n_inst):
+                 forloop_ranges, tforloop_ranges, closure_skip,
+                 declared_regs, proto, n_inst, proto_index=0):
         self.instructions = instructions
         self.jump_targets = jump_targets
         self.skip_labels = skip_labels
         self.if_block_ends = if_block_ends
         self.forloop_ranges = forloop_ranges
+        self.tforloop_ranges = tforloop_ranges
+        self.closure_skip = closure_skip
         self.declared_regs = declared_regs
         self.proto = proto
         self.n_inst = n_inst
+        self.proto_index = proto_index
 
 
 class IB3Decompiler:
@@ -969,6 +1122,7 @@ class IB3Decompiler:
         return entry
 
     def _decompile_proto(self, proto_index: int, depth: int = 0) -> str:
+        self._current_proto_index = proto_index
         proto = self.protos[proto_index]
         lines: List[str] = []
         indent = '  ' * depth
@@ -986,6 +1140,21 @@ class IB3Decompiler:
                 if 0 <= forloop_pc < n_inst:
                     forloop_ranges[pc_i] = forloop_pc
 
+        tforloop_ranges = {}
+        for pc_i, inst in enumerate(instructions):
+            if self.opcode_map.get(inst.opcode) == 'TFORLOOP':
+                exit_pc = inst.C
+                if exit_pc > pc_i and exit_pc <= n_inst:
+                    tforloop_ranges[pc_i] = exit_pc
+
+        closure_skip = set()
+        for pc_i, inst in enumerate(instructions):
+            if self.opcode_map.get(inst.opcode) == 'CLOSURE':
+                num_uv = inst.sub[0] if inst.sub else 0
+                for skip_i in range(1, num_uv + 1):
+                    if pc_i + skip_i < n_inst:
+                        closure_skip.add(pc_i + skip_i)
+
         if_block_ends = {}
         for pc_i, inst in enumerate(instructions):
             op = self.opcode_map.get(inst.opcode, '')
@@ -997,17 +1166,24 @@ class IB3Decompiler:
         skip_labels = set()
         for prep_pc, loop_pc in forloop_ranges.items():
             skip_labels.add(loop_pc)
+        for tfor_pc, exit_pc in tforloop_ranges.items():
+            if exit_pc - 1 > tfor_pc and exit_pc - 1 < n_inst:
+                back_jmp = instructions[exit_pc - 1]
+                if self.opcode_map.get(back_jmp.opcode) == 'JMP':
+                    skip_labels.add(exit_pc - 1)
 
         ctx = _DecompCtx(instructions, jump_targets, skip_labels, if_block_ends,
-                         forloop_ranges, declared_regs, proto, n_inst)
+                         forloop_ranges, tforloop_ranges, closure_skip,
+                         declared_regs, proto, n_inst, proto_index)
 
+        lp = f'p{proto_index}_'
         if 0 in jump_targets and 0 not in skip_labels:
-            lines.append(f'{indent}::label_0::')
+            lines.append(f'{indent}::{lp}label_0::')
 
         self._emit_block(lines, ctx, 0, n_inst, indent, depth)
 
         if n_inst in jump_targets and n_inst not in skip_labels:
-            lines.append(f'{indent}::label_{n_inst}::')
+            lines.append(f'{indent}::{lp}label_{n_inst}::')
 
         return '\n'.join(lines)
 
@@ -1016,8 +1192,9 @@ class IB3Decompiler:
         while pc < end_pc:
             inst = ctx.instructions[pc]
 
+            lp = f'p{ctx.proto_index}_'
             if pc in ctx.jump_targets and pc > 0 and pc not in ctx.skip_labels:
-                lines.append(f'{indent}::label_{pc}::')
+                lines.append(f'{indent}::{lp}label_{pc}::')
 
             op_name = self.opcode_map.get(inst.opcode)
             if op_name is None:
@@ -1037,6 +1214,70 @@ class IB3Decompiler:
             if op_name == 'FORLOOP':
                 pc += 1
                 continue
+
+            if op_name == 'TFORLOOP' and pc in ctx.tforloop_ranges:
+                exit_pc = ctx.tforloop_ranges[pc]
+                A = inst.A
+                body_end = exit_pc
+                if exit_pc - 1 > pc and exit_pc - 1 < ctx.n_inst:
+                    back_jmp = ctx.instructions[exit_pc - 1]
+                    if self.opcode_map.get(back_jmp.opcode) == 'JMP':
+                        body_end = exit_pc - 1
+                lines.append(f'{indent}for r{A+3}, r{A+4} in r{A}, r{A+1}, r{A+2} do')
+                ctx.declared_regs.add(A + 3)
+                ctx.declared_regs.add(A + 4)
+                self._emit_block(lines, ctx, pc + 1, body_end, indent + '  ', depth + 1)
+                lines.append(f'{indent}end')
+                pc = exit_pc
+                continue
+
+            if pc in ctx.closure_skip:
+                pc += 1
+                continue
+
+            if op_name == 'LOADBOOL' and inst.D != 0:
+                val = 'true' if inst.C != 0 else 'false'
+                result = [f'{indent}r{inst.A} = {val}']
+                if inst.A not in ctx.declared_regs:
+                    result = [f'{indent}local r{inst.A} = {val}']
+                    ctx.declared_regs.add(inst.A)
+                lines.extend(result)
+                pc += 2
+                continue
+
+            if op_name == 'SELF':
+                next_pc = pc + 1
+                if next_pc < end_pc and next_pc < ctx.n_inst:
+                    next_inst = ctx.instructions[next_pc]
+                    next_op = self.opcode_map.get(next_inst.opcode, '')
+                    if next_op == 'CALL' and next_inst.A == inst.A:
+                        if inst.sub:
+                            method = self._get_const_val_str(inst.sub[0])
+                        else:
+                            method = self._rk_str(inst.C)
+                        nargs = next_inst.B
+                        nrets = next_inst.D
+                        if nargs > 0:
+                            extra_args = ', '.join(f'r{inst.A + 2 + i}' for i in range(nargs - 1))
+                            args_str = extra_args if extra_args else ''
+                        else:
+                            args_str = '...'
+                        if re.match(r'^[A-Za-z_][A-Za-z0-9_]*$', method):
+                            call = f'r{inst.B}:{method}({args_str})'
+                        else:
+                            call = f'r{inst.B}[{method}]({args_str})'
+                        if nrets == 0:
+                            result = [f'{indent}{call}']
+                        elif nrets == 1:
+                            result = [f'{indent}r{inst.A} = {call}']
+                        else:
+                            rets = ', '.join(f'r{inst.A + i}' for i in range(nrets))
+                            result = [f'{indent}{rets} = {call}']
+                        if next_pc in ctx.jump_targets and next_pc not in ctx.skip_labels:
+                            lines.append(f'{indent}::{lp}label_{next_pc}::')
+                        lines.extend(result)
+                        pc = next_pc + 1
+                        continue
 
             if op_name in ('TEST', 'TEST_NOT', 'EQ', 'LT', 'LE') and pc in ctx.if_block_ends:
                 block_end = ctx.if_block_ends[pc]
@@ -1121,10 +1362,6 @@ class IB3Decompiler:
             return [f'{indent}r{A} = r{B}']
 
         elif op_name == 'LOADK':
-            if self._env_map and C < len(self.constants):
-                val = self.constants[C].value
-                if isinstance(val, str) and val in self._env_map:
-                    return [f'{indent}r{A} = {self._env_map[val]}']
             return [f'{indent}r{A} = {self._const_str(C)}']
 
         elif op_name == 'LOADBOOL':
@@ -1222,46 +1459,52 @@ class IB3Decompiler:
             return []
 
         elif op_name == 'JMP':
-            return [f'{indent}goto label_{C}']
+            lp = f'p{self._current_proto_index}_'
+            return [f'{indent}goto {lp}label_{C}']
 
         elif op_name == 'EQ':
+            lp = f'p{self._current_proto_index}_'
             n_inst = len(proto.instructions)
             if sub:
                 target = C if C <= n_inst else D
-                return [f'{indent}if r{A} == r{sub[0]} then goto label_{target} end']
+                return [f'{indent}if r{A} == r{sub[0]} then goto {lp}label_{target} end']
             elif B > 0 and D > 0:
                 target = C if C <= n_inst else D
-                return [f'{indent}if r{B} == r{D} then goto label_{target} end']
+                return [f'{indent}if r{B} == r{D} then goto {lp}label_{target} end']
             elif C <= n_inst:
-                return [f'{indent}if r{A} == nil then goto label_{C} end']
+                return [f'{indent}if r{A} == nil then goto {lp}label_{C} end']
             else:
-                return [f'{indent}if r{A} == nil then goto label_{D} end']
+                return [f'{indent}if r{A} == nil then goto {lp}label_{D} end']
 
         elif op_name == 'LT':
+            lp = f'p{self._current_proto_index}_'
             if sub:
                 cmp_reg = sub[0]
-                return [f'{indent}if r{A} < r{cmp_reg} then goto label_{C} end']
+                return [f'{indent}if r{A} < r{cmp_reg} then goto {lp}label_{C} end']
             neg = '>=' if A != 0 else '<'
-            return [f'{indent}if r{B} {neg} r{D} then goto label_{C} end']
+            return [f'{indent}if r{B} {neg} r{D} then goto {lp}label_{C} end']
 
         elif op_name == 'LE':
+            lp = f'p{self._current_proto_index}_'
             neg = '>' if A != 0 else '<='
-            return [f'{indent}if r{B} {neg} r{D} then goto label_{C} end']
+            return [f'{indent}if r{B} {neg} r{D} then goto {lp}label_{C} end']
 
         elif op_name == 'TEST':
+            lp = f'p{self._current_proto_index}_'
             n_inst = len(proto.instructions)
             if C >= 0 and C <= n_inst:
-                return [f'{indent}if r{A} then goto label_{C} end']
+                return [f'{indent}if r{A} then goto {lp}label_{C} end']
             elif D >= 0 and D <= n_inst:
-                return [f'{indent}if r{A} then goto label_{D} end']
+                return [f'{indent}if r{A} then goto {lp}label_{D} end']
             return [f'{indent}-- TEST r{A} (jump target out of range: C={C})']
 
         elif op_name == 'TEST_NOT':
+            lp = f'p{self._current_proto_index}_'
             n_inst = len(proto.instructions)
             if C >= 0 and C <= n_inst:
-                return [f'{indent}if not r{A} then goto label_{C} end']
+                return [f'{indent}if not r{A} then goto {lp}label_{C} end']
             elif D >= 0 and D <= n_inst:
-                return [f'{indent}if not r{A} then goto label_{D} end']
+                return [f'{indent}if not r{A} then goto {lp}label_{D} end']
             return [f'{indent}-- TEST_NOT r{A} (jump target out of range: C={C})']
 
         elif op_name == 'CALL':
@@ -1270,7 +1513,7 @@ class IB3Decompiler:
             if nargs > 0:
                 args = ', '.join(f'r{A + 1 + i}' for i in range(nargs))
             else:
-                args = '...'
+                args = ''
             call = f'r{A}({args})'
             if nrets == 0:
                 return [f'{indent}{call}']
@@ -1285,7 +1528,7 @@ class IB3Decompiler:
             if nargs > 0:
                 args = ', '.join(f'r{A + 1 + i}' for i in range(nargs))
             else:
-                args = '...'
+                args = ''
             return [f'{indent}return r{A}({args})']
 
         elif op_name == 'RETURN':
@@ -1306,7 +1549,7 @@ class IB3Decompiler:
                 if nargs > 0:
                     args = ', '.join(f'r{A + 1 + i}' for i in range(nargs))
                 else:
-                    args = '...'
+                    args = ''
                 call = f'r{A}({args})'
                 if nrets == 0:
                     return [f'{indent}{call}']
@@ -1326,28 +1569,39 @@ class IB3Decompiler:
             return []
 
         elif op_name == 'FORLOOP':
-            return [f'{indent}-- FORLOOP r{A} step=r{A+2}, goto label_{C}']
+            lp = f'p{self._current_proto_index}_'
+            return [f'{indent}-- FORLOOP r{A} step=r{A+2}, goto {lp}label_{C}']
 
         elif op_name == 'FORPREP':
-            return [f'{indent}-- FORPREP r{A}, goto label_{C}']
+            lp = f'p{self._current_proto_index}_'
+            return [f'{indent}-- FORPREP r{A}, goto {lp}label_{C}']
 
         elif op_name == 'TFORLOOP':
             return [f'{indent}-- TFORLOOP r{A}']
 
         elif op_name == 'SETLIST':
-            return [f'{indent}-- SETLIST r{A}']
+            count = B
+            if count > 0:
+                vals = ', '.join(f'r{A + i}' for i in range(1, count + 1))
+                return [f'{indent}r{A} = {{{vals}}}']
+            return [f'{indent}-- SETLIST r{A} (variable length)']
 
         elif op_name == 'CLOSURE':
-            if C < len(self.protos):
-                child = self.protos[C]
-                nparams = child.num_params
-                params = ', '.join(f'p{i}' for i in range(nparams))
-                lines = [f'{indent}r{A} = function({params})']
-                body = self._decompile_proto(C, depth + 1)
-                if body.strip():
-                    lines.append(body)
-                lines.append(f'{indent}end')
-                return lines
+            if C < len(self.protos) and depth < 50:
+                if not hasattr(self, '_decompiling'):
+                    self._decompiling = set()
+                if C not in self._decompiling:
+                    self._decompiling.add(C)
+                    child = self.protos[C]
+                    nparams = child.num_params
+                    params = ', '.join(f'p{i}' for i in range(nparams))
+                    lines = [f'{indent}r{A} = function({params})']
+                    body = self._decompile_proto(C, depth + 1)
+                    if body.strip():
+                        lines.append(body)
+                    lines.append(f'{indent}end')
+                    self._decompiling.discard(C)
+                    return lines
             return [f'{indent}r{A} = function() end -- proto_{C}']
 
         elif op_name == 'VARARG':
@@ -1373,7 +1627,7 @@ class IB3Decompiler:
                     key = self._env_map.get(key, key)
                 return [f'{indent}r{A} = {key}']
             if B == 0 and C == 0 and D == 0:
-                return [f'{indent}r{A} = nil']
+                return []
             if B == 0 and not sub and C > 0 and C < len(self.constants) and D == 0:
                 if self._env_map and C < len(self.constants):
                     val = self.constants[C].value
@@ -1389,7 +1643,8 @@ class IB3Decompiler:
                 else:
                     return [f'{indent}r{A} = r{B}']
             if C > 0 and C < len(proto.instructions) and D == 0:
-                return [f'{indent}goto label_{C}']
+                lp = f'p{self._current_proto_index}_'
+                return [f'{indent}goto {lp}label_{C}']
             return [f'{indent}-- SUPEROP_{inst.opcode} A={A} B={B} C={C} D={D}']
 
         elif op_name == 'FIELD_OP':
@@ -1422,7 +1677,9 @@ class IB3Decompiler:
             if c.type == 'string':
                 if re.match(r'^[A-Za-z_][A-Za-z0-9_]*$', c.value):
                     return c.value
-                return f'_G["{c.value}"]'
+                escaped = c.value.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
+                return f'_G["{escaped}"]'
+            return self._const_str(idx)
         return f'_G[{idx}]'
 
     def _get_const_val_str(self, idx: int) -> str:
