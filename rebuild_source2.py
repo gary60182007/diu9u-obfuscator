@@ -1121,25 +1121,17 @@ def emit(protos, all_stmts):
     resolved_count = len(re.findall(r'(?:v\d+|upval\[\d+\])\.\w+', all_text))
     unresolved_count = len(re.findall(r'(?:v\d+|upval\[\d+\])\[\d+\]', all_text))
 
-    runtime_data = None
+    roblox_apis = None
     try:
-        raw = json.load(open('unobfuscator/cracked script/bloxburg_api_map.json', encoding='utf-8'))
-        guis = sorted(set(c['key'] for c in raw if c.get('path') in ('PlayerGui', 'ScriptCreated') and c.get('value_type') not in ('Folder',)))
-        remotes = sorted(set(c['key'] for c in raw if c.get('path') == 'ReplicatedStorage'))
-        services = sorted(set(c['key'].replace('GetService(','').rstrip(')') for c in raw if 'GetService' in c.get('key','')))
-        runtime_data = {'guis': guis, 'remotes': remotes, 'services': services, 'total': len(raw)}
+        roblox_apis = json.load(open('bloxburg_roblox_apis.json', encoding='utf-8'))
     except:
         pass
 
     out = ['-- Luraph v14.7 Reconstructed Source (bloxburg_script.lua)']
     out.append(f'-- {len(nonempty)} protos, {total_stmts} statements')
-    if runtime_data:
-        out.append(f'-- Runtime capture: {runtime_data["total"]} entries from live execution')
-        out.append(f'-- Services: {", ".join(runtime_data["services"][:12])}')
-        gui_sample = runtime_data['guis'][:8]
-        out.append(f'-- Script GUIs: {", ".join(gui_sample)}{"..." if len(runtime_data["guis"])>8 else ""} ({len(runtime_data["guis"])} total)')
-        rem_sample = [r for r in runtime_data['remotes'] if len(r) < 20][:8]
-        out.append(f'-- Remotes: {", ".join(rem_sample)}{"..." if len(runtime_data["remotes"])>8 else ""} ({len(runtime_data["remotes"])} total)')
+    if roblox_apis:
+        top = list(roblox_apis.get('top_methods', {}).keys())[:15]
+        out.append(f'-- Roblox APIs (from runtime capture): {", ".join(top)}')
     if globals_found:
         out.append(f'-- Globals: {", ".join(sorted(globals_found))}')
     if tag_counts:

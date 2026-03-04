@@ -120,9 +120,9 @@ class IB3VMRepackager:
         self.stdlib_map = stdlib_map
         self.entry_proto_index = entry_proto_index
 
-    def repackage(self, debug: bool = False) -> str:
+    def repackage(self) -> str:
         bytecode = self._serialize()
-        return self._generate_vm(bytecode, debug)
+        return self._generate_vm(bytecode)
 
     def _get_vm_opcode(self, ib3_opcode: int) -> int:
         op_name = self.opcode_map.get(ib3_opcode, 'NOP')
@@ -178,21 +178,14 @@ class IB3VMRepackager:
             lines.append(lua_expr)
         return ', '.join(lines)
 
-    def _generate_vm(self, bytecode: bytes, debug: bool = False) -> str:
+    def _generate_vm(self, bytecode: bytes) -> str:
         hex_data = bytecode.hex()
         stdlib_args = self._build_stdlib_args()
         nk = len(self.constants)
 
-        result = _LUA_VM_TEMPLATE.replace('__BYTECODE_HEX__', hex_data) \
-                                 .replace('__STDLIB_ARGS__', stdlib_args) \
-                                 .replace('__NCONST__', str(nk))
-        if debug:
-            result = result.replace('__DEBUG_PRE__', _DEBUG_PRE)
-            result = result.replace('__DEBUG_POST__', _DEBUG_POST)
-        else:
-            result = result.replace('__DEBUG_PRE__', '')
-            result = result.replace('__DEBUG_POST__', '')
-        return result
+        return _LUA_VM_TEMPLATE.replace('__BYTECODE_HEX__', hex_data) \
+                               .replace('__STDLIB_ARGS__', stdlib_args) \
+                               .replace('__NCONST__', str(nk))
 
 
 _LUA_VM_TEMPLATE = r'''local _hex = "__BYTECODE_HEX__"
@@ -308,13 +301,12 @@ end
 local _entry = rb() + 1
 local _F = {}
 
-local function wrap(proto, env, parentUpvals)
+local function wrap(proto, env, parentR)
   local code = proto.code
   local np = proto.np
 
   local function execute(...)
     local R = {}
-    local upvals = parentUpvals or {}
     local args = {...}
     local nargs = select("#", ...)
     for i = 1, np do R[i-1] = args[i] end
@@ -328,7 +320,7 @@ local function wrap(proto, env, parentUpvals)
       local op = inst[1]
       local A = inst[2]
       pc = pc + 1
-__DEBUG_PRE__
+
       if op == 0 then -- MOVE
         R[A] = R[inst[3]]
 
@@ -451,27 +443,35 @@ __DEBUG_PRE__
         local D = inst[5]
         local fn = R[A]
         if B > 0 then
-          local a = {}
-          for i = 1, B do a[i] = R[A+i] end
-          if D == 0 then
-            local rets = {fn(_unpack(a, 1, B))}
-            for i = 0, #rets-1 do R[A+i] = rets[i+1] end
-            top = A + #rets - 1
-          elseif D == 1 then R[A] = fn(_unpack(a, 1, B))
+          if B == 1 then
+            if D == 0 then fn(R[A+1])
+            elseif D == 1 then R[A] = fn(R[A+1])
+            else
+              local rets = {fn(R[A+1])}
+              for i = 1, D do R[A+i-1] = rets[i] end
+            end
+          elseif B == 2 then
+            if D == 0 then fn(R[A+1], R[A+2])
+            elseif D == 1 then R[A] = fn(R[A+1], R[A+2])
+            else
+              local rets = {fn(R[A+1], R[A+2])}
+              for i = 1, D do R[A+i-1] = rets[i] end
+            end
           else
-            local rets = {fn(_unpack(a, 1, B))}
-            for i = 1, D do R[A+i-1] = rets[i] end
+            local a = {}
+            for i = 1, B do a[i] = R[A+i] end
+            if D == 0 then fn(_unpack(a, 1, B))
+            elseif D == 1 then R[A] = fn(_unpack(a, 1, B))
+            else
+              local rets = {fn(_unpack(a, 1, B))}
+              for i = 1, D do R[A+i-1] = rets[i] end
+            end
           end
         else
-          local a = {}
-          for i = A+1, top do a[#a+1] = R[i] end
-          if D == 0 then
-            local rets = {fn(_unpack(a))}
-            for i = 0, #rets-1 do R[A+i] = rets[i+1] end
-            top = A + #rets - 1
-          elseif D == 1 then R[A] = fn(_unpack(a))
+          if D == 0 then fn(...)
+          elseif D == 1 then R[A] = fn(...)
           else
-            local rets = {fn(_unpack(a))}
+            local rets = {fn(...)}
             for i = 1, D do R[A+i-1] = rets[i] end
           end
         end
@@ -484,21 +484,12 @@ __DEBUG_PRE__
           for i = 1, B do a[i] = R[A+i] end
           return fn(_unpack(a, 1, B))
         else
-          local a = {}
-          for i = A+1, top do a[#a+1] = R[i] end
-          return fn(_unpack(a))
+          return fn(...)
         end
 
       elseif op == 28 then -- RETURN
         local B = inst[3]
-        if B == 0 then
-          if top >= A then
-            local rets = {}
-            for i = A, top do rets[#rets+1] = R[i] end
-            return _unpack(rets)
-          end
-          return
-        end
+        if B == 0 then return end
         if B == 1 then return R[A] end
         if B == 2 then return R[A], R[A+1] end
         local rets = {}
@@ -526,10 +517,12 @@ __DEBUG_PRE__
 
       elseif op == 31 then -- TFORLOOP
         local base = A
-        local rets = {R[base](R[base+1], R[base+2])}
-        for i = 1, #rets do R[base+2+i] = rets[i] end
-        if rets[1] ~= nil then
-          R[base+2] = rets[1]
+        local r1, r2, r3 = R[base](R[base+1], R[base+2])
+        R[base+3] = r1
+        R[base+4] = r2
+        R[base+5] = r3
+        if r1 ~= nil then
+          R[base+2] = r1
         else
           pc = inst[4] + 1
         end
@@ -540,11 +533,11 @@ __DEBUG_PRE__
         local tbl = R[A]
         if B == 0 then
           for i = 1, top - A do
-            tbl[C*50 + i] = R[A+i]
+            tbl[(C-1)*50 + i] = R[A+i]
           end
         else
           for i = 1, B do
-            tbl[C*50 + i] = R[A+i]
+            tbl[(C-1)*50 + i] = R[A+i]
           end
         end
 
@@ -552,28 +545,12 @@ __DEBUG_PRE__
 
       elseif op == 34 then -- CLOSURE
         local child_idx = inst[4] + 1
-        local child = P[child_idx]
-        local ns = inst[6]
-        local num_uv = (#ns > 0) and ns[1] or 0
-        local child_upvals = {}
-        for ui = 1, num_uv do
-          local desc = code[pc]
-          pc = pc + 1
-          local uv_type = desc[2]
-          local uv_src = desc[3]
-          if uv_type == 0 then
-            local cell = {[0] = R[uv_src]}
-            child_upvals[ui] = {cell, 0}
-          elseif uv_type == 1 then
-            child_upvals[ui] = {R, uv_src}
-          elseif uv_type == 2 then
-            child_upvals[ui] = upvals[uv_src + 1]
-          else
-            local cell = {[0] = R[uv_src]}
-            child_upvals[ui] = {cell, 0}
-          end
+        if _F[child_idx] then
+          R[A] = _F[child_idx]
+        else
+          local child = P[child_idx]
+          R[A] = wrap(child, env, R)
         end
-        R[A] = wrap(child, env, child_upvals)
 
       elseif op == 35 then -- VARARG
         local B = inst[3]
@@ -588,12 +565,10 @@ __DEBUG_PRE__
         end
 
       elseif op == 36 then -- GETUPVAL
-        local box = upvals[inst[3] + 1]
-        if box then R[A] = box[1][box[2]] end
+        if parentR then R[A] = parentR[inst[3]] end
 
       elseif op == 37 then -- SETUPVAL
-        local box = upvals[inst[3] + 1]
-        if box then box[1][box[2]] = R[A] end
+        if parentR then parentR[inst[3]] = R[A] end
 
       elseif op == 38 then -- GETFIELD_ENV
         local sub = inst[6]
@@ -654,15 +629,10 @@ __DEBUG_PRE__
               for i = 1, D do R[A+i-1] = rets[i] end
             end
           else
-            local a = {}
-            for i = A+1, top do a[#a+1] = R[i] end
-            if D == 0 then
-              local rets = {fn(_unpack(a))}
-              for i = 0, #rets-1 do R[A+i] = rets[i+1] end
-              top = A + #rets - 1
-            elseif D == 1 then R[A] = fn(_unpack(a))
+            if D == 0 then fn(...)
+            elseif D == 1 then R[A] = fn(...)
             else
-              local rets = {fn(_unpack(a))}
+              local rets = {fn(...)}
               for i = 1, D do R[A+i-1] = rets[i] end
             end
           end
@@ -676,7 +646,6 @@ __DEBUG_PRE__
 
       -- op == 39: NOP
       end
-__DEBUG_POST__
     end
   end
 
@@ -688,31 +657,4 @@ for pi = 1, nprot do
 end
 local main = _F[_entry]
 main(__STDLIB_ARGS__)
-'''
-
-_DEBUG_PRE = r'''
-      local _ok, _err = pcall(function()
-'''
-
-_DEBUG_POST = r'''
-      end)
-      if not _ok then
-        local _OP = {"MOVE","LOADK","LOADBOOL","LOADNIL","LOADI","GETGLOBAL","SETGLOBAL",
-          "GETTABLE","SETTABLE","NEWTABLE","SELF","ADD","SUB","MUL","DIV","MOD","POW",
-          "UNM","NOT","LEN","CONCAT","JMP","EQ","LT","LE","TEST","TEST_NOT","CALL",
-          "TAILCALL","RETURN","FORLOOP","FORPREP","TFORLOOP","SETLIST","CLOSE","CLOSURE",
-          "VARARG","GETUPVAL","SETUPVAL","GETFIELD_ENV","NOP","SUPEROP","PATCH","ARITH"}
-        local opn = _OP[op+1] or ("OP_"..tostring(op))
-        local msg = string.format("[VM DEBUG] Error at pc=%d op=%s(%d) A=%d B=%s C=%s D=%s sub=%s\n  err: %s",
-          pc-1, opn, op, A,
-          tostring(inst[3]), tostring(inst[4]), tostring(inst[5]),
-          tostring(inst[6] and #inst[6] or 0), tostring(_err))
-        local rd = {}
-        for ri = 0, 20 do
-          if R[ri] ~= nil then rd[#rd+1] = string.format("R[%d]=%s", ri, tostring(R[ri])) end
-        end
-        if #rd > 0 then msg = msg .. "\n  regs: " .. table.concat(rd, ", ") end
-        warn(msg)
-        error(_err)
-      end
 '''
