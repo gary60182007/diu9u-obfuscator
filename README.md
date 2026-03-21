@@ -1,8 +1,8 @@
-# 8====D~~~ diu9u Obfuscator v5.1 ~~~D====8
+# 8====D~~~ diu9u Obfuscator v6.0 ~~~D====8
 
 **English** | [中文](#中文版)
 
-A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, **Control Flow Flattening**, **Instruction Fusion**, **Operand Encoding**, **Dual-Path Dispatch**, **VM Polymorphism**, **Register Remapping**, **Constant Pool Splitting**, **GC Anti-Tamper**, NSFW signature style, and zero dependencies.
+A Luau-compatible Lua obfuscator with **Bytecode VM**, **VM Nesting**, **Anti-Debug**, **Control Flow Flattening**, **25+ Fused Instructions**, **Operand Encoding**, **5-Mode Polymorphic Dispatch**, **Register Remapping**, **Constant Pool Splitting**, **GC Anti-Tamper**, **Dynamic Instruction Fusion**, **Steganographic Watermarking**, **LZSS Compression**, NSFW signature style, and zero dependencies.
 
 Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `continue`, `type`, if-then-else expressions, string interpolation, type annotations, etc.) and requires zero compilation — just Python 3.
 
@@ -14,37 +14,33 @@ Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `con
 
 | Pass | Description |
 |------|-------------|
-| **Bytecode VM** ⭐ | Full AST parser → custom bytecode compiler → VM interpreter generator. Handler table splitting, control flow flattening, multi-round encryption, opaque predicates, decoy handlers |
-| **Prototype Field Randomization** ⭐ NEW | All prototype field names (`c`, `k`, `p`, `np`, `va`, `mr`, `ck`, `uv`) replaced with random names each build — defeats pattern matching |
-| **Instruction Operand Encoding** ⭐ NEW | Per-prototype random keys encode all instruction operands — no plaintext operands in instruction tables |
-| **Instruction Fusion** ⭐ NEW | 10 superoperators — common 2-instruction sequences merged into compound opcodes (LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN, MOVE+MOVE, LOADNIL+LOADNIL, NOT+JMPIF, GETTABLE+GETTABLE, LOADK+SETTABLE, LOADK+ADD) |
-| **Register Remapping** ⭐ NEW | Per-prototype random offset + local register permutation — register indices no longer correlate to source variable order |
-| **Constant Pool Splitting** ⭐ NEW | Constants scattered across 2-4 randomly-named sub-tables with redirect map — no single constant table to dump |
-| **GC Anti-Tamper** ⭐ NEW | `newproxy` sentinel with `__gc` metamethod monitors handler table integrity — silently corrupts execution if handlers are removed |
-| **Helper Function Inlining** ⭐ NEW | 40% of handlers randomly inline `gr`/`sr`/`rk` helper calls — breaks uniform call pattern matching |
-| **Dual-Path Dispatch** ⭐ NEW | Handlers split between table lookup and inline if-elseif branches in the main loop — reversers can't extract all handlers from the table alone |
-| **VM Main Loop Polymorphism** ⭐ NEW | 3 structurally different dispatch loop patterns (while, recursive, repeat-until) randomly selected per build |
+| **Bytecode VM** ⭐ | Full AST parser → custom bytecode compiler → VM interpreter generator. 67 opcodes, handler table splitting, control flow flattening, multi-round encryption, opaque predicates, decoy handlers |
+| **Dynamic Instruction Fusion** ⭐ NEW | Runtime-generated compound opcodes beyond the static 25+ superoperators — unique fused sequences per build that don't exist in any opcode table |
+| **25+ Fused Instructions** ⭐ | Static superoperators — common multi-instruction sequences merged into compound opcodes (LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN, GETTABLE+GETTABLE, SETTABLE+LOADK, ADD+LOADK, EQ+JMP+LOADBOOL, and 18+ more) |
+| **5-Mode Polymorphic Dispatch** ⭐ NEW | Five structurally different VM dispatch loop patterns randomly selected per build — while, recursive, repeat-until, and 2 additional hybrid modes |
+| **Prototype Field Randomization** ⭐ | All prototype field names replaced with random names each build — defeats pattern matching |
+| **Instruction Operand Encoding** ⭐ | Per-prototype random keys encode all instruction operands — no plaintext operands in instruction tables |
+| **Register Remapping** ⭐ | Per-prototype random offset + local register permutation — register indices no longer correlate to source variable order |
+| **Constant Pool Splitting** ⭐ | Constants scattered across 2-4 randomly-named sub-tables with redirect map — no single constant table to dump |
+| **GC Anti-Tamper** ⭐ | `newproxy` sentinel with `__gc` metamethod monitors handler table integrity — silently corrupts execution if handlers are removed |
+| **Helper Function Inlining** ⭐ | 40% of handlers randomly inline `gr`/`sr`/`rk` helper calls — breaks uniform call pattern matching |
+| **Dual-Path Dispatch** ⭐ | Handlers split between table lookup and inline if-elseif branches in the main loop — reversers can't extract all handlers from the table alone |
 | **VM Nesting** ⭐ | Multi-layer VM virtualization — VM output is re-compiled into another VM with independent opcode maps and encryption keys |
-| **Anti-Debug** ⭐ NEW | GC timing detection, debug library neutralization, callstack depth verification, environment integrity checks — silent corruption instead of crash |
-| **Control Flow Flattening** ⭐ NEW | State-machine dispatcher inside handler bodies — linearizes control flow, defeats pattern matching |
-| **Multi-Round Encryption** ⭐ NEW | 3-round XOR with per-round key derivation replaces simple XOR — each round uses a different derived key |
-| **Opaque Predicates** ⭐ NEW | Dead branches with mathematically false conditions injected inside handlers |
-| **Handler Mutation** ⭐ NEW | Equivalent instruction patterns randomized each build (`+1` → `+(2-1)`, `==0` → `<1`) |
-| **String Encoding** ⭐ NEW | VM internal string literals encoded with per-string XOR keys — no plaintext in output |
-| **Decoy Handlers** | Fake opcode handlers that look real but are never called, confusing static analysis |
-| **Comment Stripping** | Removes all single-line and multi-line comments |
-| **String Encryption** | XOR encryption with random 32-byte key + runtime decoder |
-| **Variable Renaming** | Local variable renaming with multiple styles (ilI, nsfw, hex, underscore) |
-| **Number Obfuscation** | Replaces numeric literals with arithmetic expressions |
-| **Junk Code Injection** | Dead branches with opaque predicates + 80+ meme/ASCII art strings |
-| **Dispatch Tables** | Fake lookup tables to confuse static analysis |
+| **Anti-Debug** ⭐ | GC timing detection, debug library neutralization, callstack depth verification, environment integrity checks — silent corruption instead of crash |
+| **Control Flow Flattening** ⭐ | State-machine dispatcher inside handler bodies — linearizes control flow, defeats pattern matching |
+| **Multi-Round Encryption** ⭐ | 3-round XOR with per-round key derivation + byte rotation replaces simple XOR — each round uses a different derived key |
+| **LZSS Compression** ⭐ NEW | Binary serialized bytecode is LZSS compressed before encryption — smaller output, additional layer of obfuscation |
+| **Base91 Encoding** ⭐ NEW | Compressed+encrypted payload encoded in Base91 for safe Lua string embedding |
+| **Opaque Predicates** ⭐ | Dead branches with mathematically false conditions injected inside handlers |
+| **Handler Mutation** ⭐ | Equivalent instruction patterns randomized each build (`+1` → `+(2-1)`, `==0` → `<1`) |
+| **String Encoding** ⭐ | VM internal string literals encoded with per-string XOR keys — no plaintext in output |
+| **Steganographic Watermark** ⭐ NEW | Invisible fingerprinting baked into every build — invisible to decompilers, survives code reformatting |
+| **Decoy Handlers** | Fake opcode handlers + 5-15 extra junk opcodes per build that look real but are never called |
 | **Honeypot Code** | Fake anti-cheat remotes, fake ban functions, fake HTTP calls that never execute |
 | **Anti-Deobfuscation Traps** | Environment integrity checks that crash non-Roblox runners |
 | **Fingerprinting** | Unique per-build ID + SHA-256 hash for leak tracking |
-| **Multi-Layer Wrapper** | XOR-encrypted loadstring shell — stack multiple layers |
-| **Chunk-VM** | Splits code into individually encrypted chunks with a dispatch loop + dead chunks |
-| **Metamethod Proxy** | Hides table access behind metatables with junk operations |
-| **String VM** | Mini stack-based string decoder with randomized opcodes per build |
+| **Multi-Layer Wrapper** | Compressed+encrypted loadstring shell — stack multiple layers |
+| **Decompiler Traps** ⭐ NEW | Specially crafted code patterns that crash or confuse Lua decompilers |
 | **Whitespace Minification** | Compresses output to single-line |
 | **Watermark** | Embeds a unique hash per build |
 
@@ -52,7 +48,7 @@ Unlike Ironbrew 2, this obfuscator **natively supports Luau syntax** (`+=`, `con
 
 | Style | Example | Description |
 |-------|---------|-------------|
-| `ilI` | `lIl1Il`, `IlI1i1` | Classic obfuscator look (default) |
+| `ilI` | `lIl1Il`, `IlI1i1` | Classic obfuscator look |
 | `nsfw` | `cock_senpai`, `balls_420`, `hentai_zone` | **The signature style.** 3000+ unique vulgar variable names + ASCII art + memes |
 | `underscore` | `___1`, `____2` | Underscore spam |
 | `hex` | `_1a`, `_2f` | Hex-based names |
@@ -68,105 +64,100 @@ For access to the core engine, join: **[discord.gg/BzDz9bmKDP](https://discord.g
 ## Usage (with core engine)
 
 ```bash
-python obfuscate_scripts.py input.lua output.lua
-python obfuscate_scripts.py input.lua output.lua --debug
-python obfuscate_scripts.py input.lua output.lua --junk 20
+python obfuscator.py input.lua -o output.lua
+python obfuscator.py input.lua --vm-layers 2 --junk-ops 20
+python obfuscator.py input.lua --name-style ilI --no-traps
+python obfuscator.py input.lua --target lua51
 ```
+
+### CLI Options
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--junk-ops` | `15` | Junk NOP instructions per prototype |
+| `--vm-layers` | `1` | Nested VM layers (more = stronger, larger output) |
+| `--name-style` | `nsfw` | Variable naming: `nsfw`, `ilI`, `underscore`, `hex` |
+| `--seed` | — | Random seed for reproducible output |
+| `--watermark` | `diu9u` | Embedded watermark text |
+| `--no-traps` | — | Disable anti-deobfuscation traps |
+| `--no-header` | — | Omit header comment |
+| `--no-compress` | — | Skip compression wrapper |
+| `--target` | `luau` | Target: `luau`, `lua51`, `lua52`, `lua53`, `lua54`, `luajit` |
 
 ## What Makes This Different
 
-### 🧠 Bytecode VM (`--bytecode-vm`)
+### 🧠 Bytecode VM
 The strongest protection mode. Your Lua/Luau source is:
 1. **Parsed** into an AST by a full recursive descent parser with Pratt expression parsing
-2. **Compiled** to a custom 52-opcode register-based instruction set (with upvalue/closure support, including 10 fused superoperators)
-3. **Wrapped** in a generated Lua VM interpreter that executes the bytecode at runtime
+2. **Compiled** to a custom **67-opcode** register-based instruction set (with upvalue/closure support, including 25+ fused superoperators + dynamic fusion)
+3. **Serialized** to binary (varint/zigzag encoding), LZSS compressed, multi-round encrypted
+4. **Wrapped** in a generated polymorphic Lua VM interpreter that executes the bytecode at runtime
 
 The VM interpreter features:
-- **Handler table splitting** — each opcode is a separate closure in a randomized table (no if-elseif chain)
-- **Dual-path dispatch** — handlers split between table and inline if-elseif branches in the main loop
-- **VM loop polymorphism** — 3 structurally different dispatch patterns (while/recursive/repeat-until) per build
+- **67 opcodes** — 42 base + 25+ fused superoperators + dynamic fusion opcodes unique per build
+- **Handler table splitting** — each opcode is a separate closure in a randomized table
+- **Dual-path dispatch** — handlers split between table and inline if-elseif branches
+- **5-mode polymorphic dispatch** — 5 structurally different loop patterns per build
+- **Dynamic instruction fusion** — runtime-generated compound opcodes beyond static superoperators
+- **25+ static fused instructions** — LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN, EQ+JMP+LOADBOOL, GETTABLE+GETTABLE, SETTABLE+LOADK, ADD+LOADK, MOVE+CALL, and many more
 - **Prototype field randomization** — all field names randomized, no fixed `proto.c`/`proto.k` in output
 - **Instruction operand encoding** — per-prototype random offset keys, decoded at dispatch time
-- **Instruction fusion** — 10 superoperators: LOADK+LOADK, GETGLOBAL+CALL, MOVE+RETURN, MOVE+MOVE, LOADNIL+LOADNIL, NOT+JMPIF/JMPIFNOT, GETTABLE+GETTABLE, LOADK+SETTABLE, LOADK+ADD
-- **Register remapping** — per-prototype random offset + local permutation of singleton registers
+- **Register remapping** — per-prototype random offset + local permutation
 - **Constant pool splitting** — constants scattered across 2-4 sub-tables with redirect indirection
-- **GC anti-tamper** — `newproxy` sentinel with `__gc` checks handler table count, silently corrupts on tampering
-- **Helper function inlining** — 40% of handlers randomly inline helper calls to break patterns
-- **Control flow flattening** — multi-line handlers wrapped in state-machine dispatchers with shuffled states
-- **Opaque predicates** — dead branches with always-false conditions injected between real statements
-- **Handler code mutation** — equivalent expressions randomized each build (`~=0` → `>0`, `+1` → `+(2-1)`)
-- **Multi-round encryption** — 3-round XOR with per-round derived keys (not simple single-pass XOR)
-- **String encoding** — VM internal strings encoded with per-string XOR keys at build time
-- **Arithmetic/comparison sub-functions** — operations routed through randomized indirect call graph
+- **GC anti-tamper** — `newproxy` sentinel with `__gc` checks handler table count
+- **Helper function inlining** — 40% of handlers randomly inline helper calls
+- **Control flow flattening** — multi-line handlers wrapped in state-machine dispatchers
+- **Opaque predicates** — dead branches with always-false conditions
+- **Handler code mutation** — equivalent expressions randomized each build
+- **Multi-round encryption** — 3-round XOR with per-round derived keys + key derivation via salt/rotation/multiplication
+- **LZSS compression** — binary bytecode compressed before encryption
+- **Base91 encoding** — compact payload encoding for Lua string safety
+- **String encoding** — VM internal strings encoded with per-string XOR keys
 - **Per-prototype constant encryption** — XOR key per prototype, runtime decode on first load
-- **Randomized opcodes** — opcode IDs shuffled every build, extra junk opcodes added
-- **4-10 decoy handlers** — fake handlers that look real but are never called
-- **Runtime integrity counter** — periodic type checks on handler table during execution
+- **Randomized opcodes** — opcode IDs shuffled every build + 5-15 extra junk opcodes
+- **Decoy handlers** — fake handlers that look real but are never called
+- **Decompiler traps** — code patterns that crash Lua decompilers
+- **Anti-debug bootstrap** — 5 silent checks before VM execution (GC timing, debug library, environment, callstack, sentinel)
 
 ```
-Source → [AST] → [Bytecode: 52 opcodes, registers, upvalues]
-  → [Inject junk NOPs] → [Fuse instructions] → [Remap registers]
-  → [Shuffle opcodes] → [Encode operands] → [Randomize field names]
-  → [Split constant pool] → [3-round XOR encrypt]
+Source → [Tokenize] → [AST] → [Bytecode: 67 opcodes, registers, upvalues]
+  → [Inject junk NOPs] → [Static fusion: 25+ superops] → [Dynamic fusion]
+  → [Remap registers] → [Shuffle opcodes + add junk opcodes]
+  → [Binary serialize (varint/zigzag)] → [LZSS compress] → [3-round XOR encrypt]
+  → [Base91 encode] → [Control flow flatten decode pipeline]
   → [Generate handlers] → [Inline helpers] → [Flatten control flow]
   → [Inject opaque predicates] → [Mutate code patterns] → [Encode strings]
-  → [Split dual-path dispatch] → [Select loop pattern] → [Add decoys]
-  → [Inject anti-debug] → Output: self-contained polymorphic Lua VM
+  → [Split dual-path dispatch] → [Select from 5 loop patterns] → [Add decoys]
+  → [Inject anti-debug + decompiler traps] → Output: self-contained polymorphic Lua VM
 ```
 
-51KB source → 2.7MB output with `--bytecode-vm --name-style nsfw --layers 1`
-
-### 🔒 VM Nesting (`--bytecode-vm-layers N`) — NEW
+### 🔒 VM Nesting (`--vm-layers N`)
 The VM output is fed back through the compiler recursively. With 2 layers, the inner VM's Lua code runs inside an outer VM — the reverser must defeat **two independent VMs** with different opcode maps, handler layouts, and encryption keys.
 
-51KB → 3.9MB with `--bytecode-vm-layers 2 --name-style nsfw`
-
-### 🛡️ Anti-Debug — NEW
+### 🛡️ Anti-Debug
 Five silent checks injected before VM bootstrap:
 1. **GC timing** — `os.clock()` before/after `collectgarbage`, detects debugger pauses >0.5s
-2. **Debug library neutralization** — clears `debug.sethook()`, inspects `debug.getinfo` for C-level callers
+2. **Debug library neutralization** — inspects `debug.getinfo` for C-level callers
 3. **Environment integrity** — verifies `string.byte`, `string.char`, `table.concat`, `type`, `tostring`, `loadstring` are real functions
 4. **Callstack depth anomaly** — detects abnormal stack depth (>150 frames)
 5. **Silent corruption** — instead of crashing, corrupts the XOR decryption key, causing cryptic failures later
 
 This is much harder to bypass than a simple `error()` check — the reverser sees a random Lua error that doesn't point to the anti-debug code.
 
-### 🖥️ Chunk-VM (`--vm`)
-Splits the entire script into individually encrypted chunks, each with its own XOR key and random ID. A dispatch loop decrypts and executes them in order via `loadstring()`. Dead chunks (fake encrypted junk code) are mixed in to waste reverser time. This is **statement-level virtualization** — the reverser must decrypt every chunk individually to reconstruct the original flow.
-
-```
-Source → [chunk_38291] [chunk_71045] [chunk_55823] [DEAD_99281] [chunk_12440] [DEAD_67102] ...
-           ↓ XOR key A   ↓ XOR key B   ↓ XOR key C   (never runs)   ↓ XOR key D   (never runs)
-```
-
-### 🧮 String VM
-A mini stack-based virtual machine with **randomized opcodes per build** (PUSH, XOR, CONCAT, REVERSE). Strings are decoded through VM instruction sequences instead of simple XOR. Each build gets different opcode values, so generic deobfuscators can't pattern-match the decoder.
-
-### 🔮 Metamethod Proxy
-Injects tables wrapped in metatables (`__index`, `__newindex`) with junk operations. Confuses static analysis tools that try to track table accesses.
-
 ### 🍆 NSFW Mode
 Every variable becomes a dick joke. `cock_senpai`, `balls_420`, `fap_vibes`, `rule34_bruh`. 3000+ unique names. Even the VM interpreter uses names like `wank_based`.
-
-### 🎭 Meme Junk Strings
-Dead code contains strings like:
-- `"8====D~~~"`
-- `"stop skidding lmaooo"`
-- `"deobfuscate this and ur gf leaves u"`
-- `"L + ratio + you fell off"`
-- `"never gonna give you up never gonna let you down"`
 
 ### 🍯 Honeypot Code
 Fake anti-cheat calls that look real but never execute. Wastes reverser time investigating non-existent remotes.
 
 ### 🧅 Multi-Layer Wrapper
-Each `--layers` wraps the entire output in XOR-encrypted `loadstring()`. Stack with `--bytecode-vm` or `--vm` for maximum pain.
+Each `--vm-layers` wraps the entire output in LZSS-compressed, multi-round encrypted bytecode. Each layer has independent opcode maps, register mappings, and encryption keys.
 
 ### 🪤 Anti-Deobfuscation Traps
 Environment integrity checks that infinite-loop or crash outside Roblox.
 
-### 🔍 Fingerprinting
-Every build gets a unique UUID + SHA-256 hash for leak tracking.
+### 🔍 Fingerprinting + Steganographic Watermark
+Every build gets a unique UUID + SHA-256 hash for leak tracking. Watermarks are steganographically embedded and survive code reformatting.
 
 ### 📝 Luau Syntax Coverage
 Full support for Luau-specific syntax:
@@ -178,47 +169,36 @@ Full support for Luau-specific syntax:
 - Backtick string interpolation (decomposed to concatenation)
 - Numeric literal underscores (`1_000_000`)
 
-## Example Output
+## REST API
 
-```
-==================================================
+The obfuscator includes a Flask-based REST API for programmatic access:
 
-  8====D~~~ diu9u Obfuscator v4.2 ~~~D====8
-
-==================================================
-  Original Size...................... 51385
-  Naming Style....................... nsfw
-  Strings Encrypted.................. 302
-  Variables Renamed.................. 227
-  Numbers Obfuscated................. 672
-  Junk Blocks Injected............... 42
-  Honeypots Injected................. 2
-  String Vm.......................... enabled
-  Metamethod Proxy................... enabled
-  Anti Deobf Traps................... enabled
-  Build Id........................... bac3c5860a3b
-  Bytecode Vm........................ enabled
-  Bytecode Junk Ops.................. 15
-  Loadstring Layers.................. 1
-  Output Size........................ 2735214
-  Size Ratio......................... 5323.0%
-==================================================
+```bash
+curl -X POST http://localhost:8080/api/v1/obfuscate \
+  -H "X-API-Key: YOUR_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"source": "print(42)", "options": {"name_style": "nsfw", "junk_ops": 15}}'
 ```
 
-51KB → 2.7MB with Bytecode VM + Anti-Debug + NSFW + 1 loadstring layer.
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/v1/obfuscate` | POST | Obfuscate Lua source code |
+| `/api/v1/info` | GET | Server info and supported options |
+| `/api/v1/health` | GET | Health check |
 
 ## Comparison
 
-| | **diu9u v5.1** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v6.0** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau Support | ✅ Full | ❌ | ✅ |
 | Price | Free | Free | $8-30/mo |
 | Dependencies | Python 3 | .NET SDK | Web |
-| Bytecode VM | ✅ 52 opcodes | ✅ | ✅ |
+| Bytecode VM | ✅ 67 opcodes | ✅ | ✅ |
+| Fused Instructions | ✅ 25+ static + dynamic | ❌ | ✅ |
 | Handler Table Splitting | ✅ | ❌ | ✅ |
 | Dual-Path Dispatch | ✅ Table + inline | ❌ | ❌ |
-| VM Loop Polymorphism | ✅ 3 patterns | ❌ | ❌ |
-| Instruction Fusion | ✅ 10 superops | ❌ | ✅ |
+| VM Loop Polymorphism | ✅ 5 modes | ❌ | ❌ |
+| Dynamic Fusion | ✅ Per-build unique | ❌ | ❌ |
 | Register Remapping | ✅ Offset + swap | ❌ | ✅ |
 | Constant Pool Splitting | ✅ 2-4 sub-tables | ❌ | ✅ |
 | GC Anti-Tamper | ✅ __gc sentinel | ❌ | ✅ |
@@ -227,22 +207,21 @@ Full support for Luau-specific syntax:
 | Helper Inlining | ✅ 40% random | ❌ | ❌ |
 | Control Flow Flattening | ✅ State-machine | ❌ | ✅ |
 | VM Nesting | ✅ | ❌ | ✅ |
-| Multi-Round Encryption | ✅ 3-round derived | ❌ | ✅ |
+| Multi-Round Encryption | ✅ 3-round + key derivation | ❌ | ✅ |
+| LZSS Compression | ✅ | ❌ | ❌ |
 | Constant Encryption | ✅ Per-prototype | ❌ | ✅ |
 | Anti-Debug | ✅ 5 checks | ❌ | ✅ |
 | Opaque Predicates | ✅ In-handler | ❌ | ✅ |
 | Handler Mutation | ✅ | ❌ | ❌ |
 | String Encoding | ✅ Per-string key | ❌ | ✅ |
+| Steganographic Watermark | ✅ | ❌ | ❌ |
+| Decompiler Traps | ✅ | ❌ | ❌ |
 | Decoy Handlers | ✅ | ❌ | ❌ |
 | NSFW Mode | ✅ 8====D | ❌ | ❌ |
 | Meme Strings | ✅ 80+ | ❌ | ❌ |
 | Honeypot Code | ✅ | ❌ | ❌ |
 | Anti-Deobf Traps | ✅ | ❌ | ✅ |
-| Multi-Layer Wrapper | ✅ | ❌ | ✅ |
-| Fingerprinting | ✅ | ❌ | ✅ |
-| Chunk-VM | ✅ | ❌ | ❌ |
-| String VM | ✅ | ❌ | ❌ |
-| Metamethod Proxy | ✅ | ❌ | ❌ |
+| REST API | ✅ | ❌ | ✅ |
 | Strength | ★★★★★ | ★★★☆☆ | ★★★★★ |
 | Fun Factor | ★★★★★ | ★☆☆☆☆ | ★☆☆☆☆ |
 
@@ -260,11 +239,11 @@ Discord: **[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
 
 <a id="中文版"></a>
 
-# 8====D~~~ diu9u 混淆器 v5.1 ~~~D====8
+# 8====D~~~ diu9u 混淆器 v6.0 ~~~D====8
 
-[English](#8d-diu9u-obfuscator-v42-d8) | **中文**
+[English](#8d-diu9u-obfuscator-v60-d8) | **中文**
 
-兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、**指令融合**、**操作数编码**、**双路径调度**、**VM 多态**、**寄存器重映射**、**常量池分裂**、**GC 防篡改**、NSFW 签名风格，零依赖。
+兼容 Luau 的 Lua 混淆器，拥有 **字节码虚拟机**、**VM 嵌套**、**反调试**、**控制流平坦化**、**25+ 融合指令**、**操作数编码**、**5 模式多态调度**、**寄存器重映射**、**常量池分裂**、**GC 防篡改**、**动态指令融合**、**隐写术水印**、**LZSS 压缩**、NSFW 签名风格，零依赖。
 
 与 Ironbrew 2 不同，本混淆器**原生支持 Luau 语法**（`+=`、`continue`、`type`、if-then-else 表达式、字符串插值、类型注解等），无需编译 — 只需 Python 3。
 
@@ -276,46 +255,39 @@ Discord: **[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
 
 | 功能 | 说明 |
 |------|------|
-| **字节码虚拟机** ⭐ | 完整 AST 解析器 → 自定义字节码编译器 → VM 解释器生成器。Handler 表分裂、控制流平坦化、多轮加密、不透明谓词、诱饵处理器 |
-| **原型字段名随机化** ⭐ 新功能 | 所有原型字段名（`c`、`k`、`p`、`np`、`va`、`mr`、`ck`、`uv`）每次构建替换为随机名 — 击败模式匹配 |
-| **指令操作数编码** ⭐ 新功能 | 每个原型随机密钥编码所有指令操作数 — 指令表中无明文操作数 |
-| **指令融合** ⭐ 新功能 | 10 个超级操作码 — 常见 2 指令序列融合为复合操作码（LOADK+LOADK、GETGLOBAL+CALL、MOVE+RETURN、MOVE+MOVE、LOADNIL+LOADNIL、NOT+JMPIF、GETTABLE+GETTABLE、LOADK+SETTABLE、LOADK+ADD） |
-| **寄存器重映射** ⭐ 新功能 | 每个原型随机偏移 + 单例寄存器局部置换 — 寄存器索引不再对应源码变量顺序 |
-| **常量池分裂** ⭐ 新功能 | 常量分散到 2-4 个随机命名的子表 + 重定向映射 — 无法一次性转储单个常量表 |
-| **GC 防篡改** ⭐ 新功能 | `newproxy` 哨兵 + `__gc` 元方法监控 handler 表完整性 — 删除 handler 时静默破坏执行 |
-| **辅助函数内联** ⭐ 新功能 | 40% 的 handler 随机内联 `gr`/`sr`/`rk` 辅助函数调用 — 打破统一调用模式 |
-| **双路径调度** ⭐ 新功能 | Handler 分布在表查找和主循环内联 if-elseif 分支之间 — 逆向者无法仅从表中提取所有 handler |
-| **VM 主循环多态** ⭐ 新功能 | 3 种结构不同的调度循环模式（while、递归、repeat-until）每次构建随机选择 |
+| **字节码虚拟机** ⭐ | 完整 AST 解析器 → 自定义字节码编译器 → VM 解释器生成器。67 个操作码、Handler 表分裂、控制流平坦化、多轮加密、不透明谓词、诱饵处理器 |
+| **动态指令融合** ⭐ 新功能 | 运行时生成的复合操作码，超越静态 25+ 超级操作码 — 每次构建产生任何操作码表中都不存在的独特融合序列 |
+| **25+ 融合指令** ⭐ | 静态超级操作码 — 常见多指令序列融合为复合操作码（LOADK+LOADK、GETGLOBAL+CALL、MOVE+RETURN、EQ+JMP+LOADBOOL、GETTABLE+GETTABLE、SETTABLE+LOADK、ADD+LOADK 等 18+ 种） |
+| **5 模式多态调度** ⭐ 新功能 | 五种结构不同的 VM 调度循环模式每次构建随机选择 — while、递归、repeat-until 及 2 种混合模式 |
+| **原型字段名随机化** ⭐ | 所有原型字段名每次构建替换为随机名 — 击败模式匹配 |
+| **指令操作数编码** ⭐ | 每个原型随机密钥编码所有指令操作数 — 指令表中无明文操作数 |
+| **寄存器重映射** ⭐ | 每个原型随机偏移 + 局部置换 — 寄存器索引不再对应源码变量顺序 |
+| **常量池分裂** ⭐ | 常量分散到 2-4 个随机命名的子表 + 重定向映射 |
+| **GC 防篡改** ⭐ | `newproxy` 哨兵 + `__gc` 元方法监控 handler 表完整性 |
+| **辅助函数内联** ⭐ | 40% 的 handler 随机内联辅助函数调用 — 打破统一调用模式 |
+| **双路径调度** ⭐ | Handler 分布在表查找和主循环内联 if-elseif 分支之间 |
 | **VM 嵌套** ⭐ | 多层 VM 虚拟化 — VM 输出重新编译为另一个 VM，独立操作码映射和加密密钥 |
-| **反调试** ⭐ 新功能 | GC 计时检测、debug 库中和、调用栈深度验证、环境完整性检查 — 静默破坏而非崩溃 |
-| **控制流平坦化** ⭐ 新功能 | Handler 内部状态机调度器 — 线性化控制流，击败模式匹配 |
-| **多轮加密** ⭐ 新功能 | 3 轮 XOR + 每轮密钥派生，替代简单 XOR — 每轮使用不同的派生密钥 |
-| **不透明谓词** ⭐ 新功能 | 在 handler 内部注入数学上永远为假的死分支 |
-| **Handler 变异** ⭐ 新功能 | 每次构建随机化等价指令模式（`+1` → `+(2-1)`、`==0` → `<1`） |
-| **字符串编码** ⭐ 新功能 | VM 内部字符串用独立 XOR 密钥编码 — 输出中无明文 |
-| **诱饵处理器** | 看起来像真的但永远不会被调用的假操作码处理器，干扰静态分析 |
-| **注释剥离** | 移除所有单行和多行注释 |
-| **字符串加密** | XOR 加密 + 随机 32 字节密钥 + 运行时解码器 |
-| **变量重命名** | 局部变量重命名，支持多种风格（ilI、nsfw、hex、underscore） |
-| **数字混淆** | 将数字字面量替换为算术表达式 |
-| **垃圾代码注入** | 带不透明谓词的死代码分支 + 80+ 条 meme/ASCII art 字符串 |
-| **调度表** | 伪造查找表以干扰静态分析 |
-| **蜜罐代码** | 伪造反作弊远程调用、伪造封禁函数、伪造 HTTP 请求（永远不会执行） |
+| **反调试** ⭐ | GC 计时检测、debug 库中和、调用栈深度验证、环境完整性检查 — 静默破坏而非崩溃 |
+| **控制流平坦化** ⭐ | Handler 内部状态机调度器 — 线性化控制流 |
+| **多轮加密** ⭐ | 3 轮 XOR + 每轮密钥派生 + 字节旋转 |
+| **LZSS 压缩** ⭐ 新功能 | 二进制序列化的字节码在加密前进行 LZSS 压缩 — 更小输出，额外混淆层 |
+| **Base91 编码** ⭐ 新功能 | 压缩+加密后的载荷用 Base91 编码以安全嵌入 Lua 字符串 |
+| **不透明谓词** ⭐ | 在 handler 内部注入数学上永远为假的死分支 |
+| **Handler 变异** ⭐ | 每次构建随机化等价指令模式 |
+| **字符串编码** ⭐ | VM 内部字符串用独立 XOR 密钥编码 |
+| **隐写术水印** ⭐ 新功能 | 每次构建嵌入不可见指纹 — 反编译器不可见，代码重新格式化后仍然存在 |
+| **诱饵处理器** | 伪操作码处理器 + 每次构建 5-15 个额外垃圾操作码 |
+| **蜜罐代码** | 伪造反作弊远程调用、伪造封禁函数（永远不会执行） |
 | **反反混淆陷阱** | 环境完整性检查，在非 Roblox 环境下崩溃 |
-| **指纹追踪** | 每次构建唯一 ID + SHA-256 哈希，用于泄漏追踪 |
-| **多层包装** | XOR 加密的 loadstring 外壳 — 可叠加多层 |
-| **Chunk-VM** | 将代码拆分为独立加密的块 + 调度循环 + 死块 |
-| **元方法代理** | 通过元表隐藏表访问，附带垃圾操作 |
-| **字符串虚拟机** | 迷你栈式字符串解码器，每次构建使用随机操作码 |
-| **空白压缩** | 将输出压缩为单行 |
-| **水印** | 嵌入每次构建的唯一哈希 |
+| **反编译器陷阱** ⭐ 新功能 | 特制代码模式使 Lua 反编译器崩溃或混乱 |
+| **指纹追踪** | 每次构建唯一 ID + SHA-256 哈希 |
 
 ## 命名风格
 
 | 风格 | 示例 | 说明 |
 |------|------|------|
-| `ilI` | `lIl1Il`, `IlI1i1` | 经典混淆器风格（默认） |
-| `nsfw` | `cock_senpai`, `balls_420`, `hentai_zone` | **招牌风格。** 3000+ 个独特的粗俗变量名 + ASCII art + meme |
+| `ilI` | `lIl1Il`, `IlI1i1` | 经典混淆器风格 |
+| `nsfw` | `cock_senpai`, `balls_420`, `hentai_zone` | **招牌风格。** 3000+ 个独特名称 + ASCII art + meme |
 | `underscore` | `___1`, `____2` | 下划线刷屏 |
 | `hex` | `_1a`, `_2f` | 十六进制命名 |
 
@@ -330,160 +302,82 @@ Discord: **[discord.gg/BzDz9bmKDP](https://discord.gg/BzDz9bmKDP)**
 ## 用法（需核心引擎）
 
 ```bash
-python obfuscate_scripts.py input.lua output.lua
-python obfuscate_scripts.py input.lua output.lua --debug
-python obfuscate_scripts.py input.lua output.lua --junk 20
+python obfuscator.py input.lua -o output.lua
+python obfuscator.py input.lua --vm-layers 2 --junk-ops 20
+python obfuscator.py input.lua --name-style ilI --no-traps
+python obfuscator.py input.lua --target lua51
 ```
 
 ## 核心特色
 
-### 🧠 字节码虚拟机 (`--bytecode-vm`)
+### 🧠 字节码虚拟机
 最强保护模式。你的 Lua/Luau 源码会经历：
 1. **解析** — 完整的递归下降解析器 + Pratt 表达式解析，生成 AST
-2. **编译** — 编译为自定义 52 操作码寄存器式指令集（含 10 个融合超级操作码，支持 upvalue/闭包）
-3. **包装** — 生成一个 Lua VM 解释器，在运行时执行字节码
-
-VM 解释器特点：
-- **Handler 表分裂** — 每个操作码是随机化表中的独立闭包（无 if-elseif 链）
-- **双路径调度** — handler 分布在表和主循环内联 if-elseif 分支之间
-- **VM 循环多态** — 3 种结构不同的调度模式（while/递归/repeat-until）每次构建随机选择
-- **原型字段随机化** — 所有字段名随机化，输出中无固定 `proto.c`/`proto.k`
-- **指令操作数编码** — 每个原型随机偏移密钥，调度时解码
-- **指令融合** — 10 个超级操作码：LOADK+LOADK、GETGLOBAL+CALL、MOVE+RETURN、MOVE+MOVE、LOADNIL+LOADNIL、NOT+JMPIF/JMPIFNOT、GETTABLE+GETTABLE、LOADK+SETTABLE、LOADK+ADD
-- **寄存器重映射** — 每个原型随机偏移 + 单例寄存器局部置换
-- **常量池分裂** — 常量分散到 2-4 个子表 + 重定向间接访问
-- **GC 防篡改** — `newproxy` 哨兵 + `__gc` 检查 handler 表数量，篡改时静默破坏
-- **辅助函数内联** — 40% 的 handler 随机内联辅助调用以打破模式
-- **控制流平坦化** — 多行 handler 用状态机调度器包装，状态随机打乱
-- **不透明谓词** — 在真实语句之间注入永远为假的死分支
-- **Handler 变异** — 每次构建随机化等价表达式（`~=0` → `>0`、`+1` → `+(2-1)`）
-- **多轮加密** — 3 轮 XOR + 每轮派生密钥（非简单单次 XOR）
-- **字符串编码** — VM 内部字符串用独立 XOR 密钥编码
-- **算术/比较子函数** — 操作通过随机化间接调用图路由
-- **原型级常量加密** — 每个原型独立 XOR 密钥，首次加载时解码
-- **随机化操作码** — 每次构建操作码 ID 随机打乱 + 垃圾操作码
-- **4-10 个诱饵处理器** — 看起来像真的但永远不会被调用
-- **运行时完整性计数器** — 定期检查 handler 表类型
+2. **编译** — 编译为自定义 **67 操作码**寄存器式指令集（含 25+ 融合超级操作码 + 动态融合，支持 upvalue/闭包）
+3. **序列化** — 二进制序列化（varint/zigzag 编码），LZSS 压缩，多轮加密
+4. **包装** — 生成多态 Lua VM 解释器，在运行时执行字节码
 
 ```
-源码 → [AST] → [字节码: 52 操作码, 寄存器, upvalue]
-  → [注入垃圾 NOP] → [融合指令] → [重映射寄存器]
-  → [打乱操作码] → [编码操作数] → [随机化字段名]
-  → [分裂常量池] → [3 轮 XOR 加密]
+源码 → [分词] → [AST] → [字节码: 67 操作码, 寄存器, upvalue]
+  → [注入垃圾 NOP] → [静态融合: 25+ 超级操作码] → [动态融合]
+  → [重映射寄存器] → [打乱操作码 + 添加垃圾操作码]
+  → [二进制序列化 (varint/zigzag)] → [LZSS 压缩] → [3 轮 XOR 加密]
+  → [Base91 编码] → [控制流平坦化解码管线]
   → [生成 handler] → [内联辅助函数] → [平坦化控制流]
   → [注入不透明谓词] → [变异代码模式] → [编码字符串]
-  → [分裂双路径调度] → [选择循环模式] → [添加诱饵]
-  → [注入反调试] → 输出: 自包含多态 Lua VM
+  → [分裂双路径调度] → [5 种循环模式中随机选择] → [添加诱饵]
+  → [注入反调试 + 反编译器陷阱] → 输出: 自包含多态 Lua VM
 ```
 
-51KB 源码 → 2.7MB 输出（`--bytecode-vm --name-style nsfw --layers 1`）
-
-### 🔒 VM 嵌套 (`--bytecode-vm-layers N`) — 新功能
+### 🔒 VM 嵌套 (`--vm-layers N`)
 VM 输出递归重新编译。2 层时，内层 VM 的 Lua 代码在外层 VM 内执行 — 逆向者必须击败**两个独立的 VM**，各有不同的操作码映射、handler 布局和加密密钥。
 
-51KB → 3.9MB（`--bytecode-vm-layers 2 --name-style nsfw`）
-
-### 🛡️ 反调试 — 新功能
+### 🛡️ 反调试
 VM 启动前注入 5 项静默检查：
 1. **GC 计时** — `collectgarbage` 前后计时，检测调试器暂停 >0.5s
-2. **debug 库中和** — 清除 `debug.sethook()`，检查 `debug.getinfo` C 层调用者
+2. **debug 库中和** — 检查 `debug.getinfo` C 层调用者
 3. **环境完整性** — 验证 `string.byte`、`table.concat`、`loadstring` 等是真实函数
 4. **调用栈异常** — 检测异常栈深度（>150 帧）
 5. **静默破坏** — 不崩溃，而是破坏 XOR 解密密钥，产生难以追踪的错误
 
-### 🖥️ Chunk-VM (`--vm`)
-将整个脚本拆分为独立加密的块，每个块有自己的 XOR 密钥和随机 ID。调度循环通过 `loadstring()` 按顺序解密执行。死块（伪造的加密垃圾代码）混入其中浪费逆向者时间。这是**语句级虚拟化** — 逆向者必须逐个解密每个块才能还原原始逻辑。
-
-### 🧮 字符串虚拟机
-迷你栈式虚拟机，**每次构建使用随机操作码**（PUSH、XOR、CONCAT、REVERSE）。字符串通过 VM 指令序列解码，而非简单的 XOR。每次构建的操作码值不同，通用反混淆器无法模式匹配解码器。
-
 ### 🍆 NSFW 模式
 每个变量都变成荤段子。`cock_senpai`、`balls_420`、`fap_vibes`、`rule34_bruh`。3000+ 个独特名称。连 VM 解释器都用 `wank_based` 这样的名字。
-
-### 🍯 蜜罐代码
-伪造的反作弊调用，看起来像真的但永远不会执行。浪费逆向者时间去调查不存在的远程事件。
-
-### 🪤 反反混淆陷阱
-环境完整性检查，在 Roblox 之外运行时会无限循环或崩溃。
-
-### 🔍 指纹追踪
-每次构建获得唯一 UUID + SHA-256 哈希，用于泄漏追踪。
 
 ### 📝 Luau 语法覆盖
 完整支持 Luau 特有语法：
 - `continue` 语句
 - 复合赋值运算符（`+=`、`-=`、`*=`、`/=`、`%=`、`^=`、`..=`）
-- `type` / `export type` 声明（优雅跳过）
-- 局部变量、for 循环、函数参数/返回值的类型注解
-- if-then-else 表达式（Luau 三元：`if cond then val1 else val2`）
-- 反引号字符串插值（分解为拼接）
+- `type` / `export type` 声明
+- 类型注解
+- if-then-else 表达式（Luau 三元）
+- 反引号字符串插值
 - 数字下划线（`1_000_000`）
-
-## 输出示例
-
-```
-==================================================
-
-  8====D~~~ diu9u Obfuscator v4.2 ~~~D====8
-
-==================================================
-  Original Size...................... 51385
-  Naming Style....................... nsfw
-  Strings Encrypted.................. 302
-  Variables Renamed.................. 227
-  Numbers Obfuscated................. 672
-  Junk Blocks Injected............... 42
-  Honeypots Injected................. 2
-  String Vm.......................... enabled
-  Metamethod Proxy................... enabled
-  Anti Deobf Traps................... enabled
-  Build Id........................... bac3c5860a3b
-  Bytecode Vm........................ enabled
-  Bytecode Junk Ops.................. 15
-  Loadstring Layers.................. 1
-  Output Size........................ 2735214
-  Size Ratio......................... 5323.0%
-==================================================
-```
-
-51KB → 2.7MB，使用字节码 VM + 反调试 + NSFW + 1 层 loadstring。
 
 ## 对比
 
-| | **diu9u v5.1** | **Ironbrew 2** | **Luraph** |
+| | **diu9u v6.0** | **Ironbrew 2** | **Luraph** |
 |---|---|---|---|
 | Luau 支持 | ✅ 完整 | ❌ | ✅ |
 | 价格 | 免费 | 免费 | $8-30/月 |
-| 依赖 | Python 3 | .NET SDK | Web |
-| 字节码 VM | ✅ 52 操作码 | ✅ | ✅ |
+| 字节码 VM | ✅ 67 操作码 | ✅ | ✅ |
+| 融合指令 | ✅ 25+ 静态 + 动态 | ❌ | ✅ |
 | Handler 表分裂 | ✅ | ❌ | ✅ |
 | 双路径调度 | ✅ 表 + 内联 | ❌ | ❌ |
-| VM 循环多态 | ✅ 3 种模式 | ❌ | ❌ |
-| 指令融合 | ✅ 10 超级操作码 | ❌ | ✅ |
+| VM 循环多态 | ✅ 5 种模式 | ❌ | ❌ |
+| 动态融合 | ✅ 每次构建独特 | ❌ | ❌ |
 | 寄存器重映射 | ✅ 偏移 + 置换 | ❌ | ✅ |
 | 常量池分裂 | ✅ 2-4 子表 | ❌ | ✅ |
 | GC 防篡改 | ✅ __gc 哨兵 | ❌ | ✅ |
+| LZSS 压缩 | ✅ | ❌ | ❌ |
 | 操作数编码 | ✅ 原型级 | ❌ | ✅ |
-| 字段随机化 | ✅ | ❌ | ✅ |
-| 辅助函数内联 | ✅ 40% 随机 | ❌ | ❌ |
 | 控制流平坦化 | ✅ 状态机 | ❌ | ✅ |
 | VM 嵌套 | ✅ | ❌ | ✅ |
-| 多轮加密 | ✅ 3轮派生 | ❌ | ✅ |
-| 常量加密 | ✅ 原型级 | ❌ | ✅ |
-| 反调试 | ✅ 5项检查 | ❌ | ✅ |
-| 不透明谓词 | ✅ Handler 内 | ❌ | ✅ |
-| Handler 变异 | ✅ | ❌ | ❌ |
-| 字符串编码 | ✅ 独立密钥 | ❌ | ✅ |
-| 诱饵处理器 | ✅ | ❌ | ❌ |
+| 多轮加密 | ✅ 3 轮 + 密钥派生 | ❌ | ✅ |
+| 反调试 | ✅ 5 项检查 | ❌ | ✅ |
+| 隐写术水印 | ✅ | ❌ | ❌ |
+| 反编译器陷阱 | ✅ | ❌ | ❌ |
 | NSFW 模式 | ✅ 8====D | ❌ | ❌ |
-| Meme 字符串 | ✅ 80+ | ❌ | ❌ |
-| 蜜罐代码 | ✅ | ❌ | ❌ |
-| 反反混淆陷阱 | ✅ | ❌ | ✅ |
-| 多层包装 | ✅ | ❌ | ✅ |
-| 指纹追踪 | ✅ | ❌ | ✅ |
-| Chunk-VM | ✅ | ❌ | ❌ |
-| 字符串 VM | ✅ | ❌ | ❌ |
-| 元方法代理 | ✅ | ❌ | ❌ |
+| REST API | ✅ | ❌ | ✅ |
 | 强度 | ★★★★★ | ★★★☆☆ | ★★★★★ |
 | 趣味性 | ★★★★★ | ★☆☆☆☆ | ★☆☆☆☆ |
 
